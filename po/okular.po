@@ -309,7 +309,7 @@ msgstr  "Utilisa la direcció de lectura de dreta a esquerra"
 
 msgctxt "@action:button"
 msgid   "View"
-msgstr  "Visualisa"
+msgstr  "Visualitza"
 
 msgctxt "@action:inmenu"
 msgid   "&Extract Font"
@@ -321,7 +321,7 @@ msgstr  "&Anomena i guarda..."
 
 msgctxt "@action:inmenu"
 msgid   "&View..."
-msgstr  "&Visualisa..."
+msgstr  "&Visualitza..."
 
 msgctxt "@action:inmenu menu that contains actions to control text to speach"
 msgid   "Speak"
@@ -1526,10 +1526,10 @@ msgid   "Configure Viewer"
 msgstr  "Configura el visor"
 
 msgid   "Configure Viewer Backends"
-msgstr  "Configura els dorsals de visualisació"
+msgstr  "Configura els dorsals de visualització"
 
 msgid   "Configure Viewer Backends..."
-msgstr  "Configura els dorsals de visualisació..."
+msgstr  "Configura els dorsals de visualització..."
 
 msgid   "Configure Viewer..."
 msgstr  "Configura el visor..."
@@ -1626,7 +1626,7 @@ msgid   "Could not save file %1."
 msgstr  "No s'ha pogut guardar el fitxer %1."
 
 msgid   "Could not view revision."
-msgstr  "No s'ha pogut visualisar la revisió."
+msgstr  "No s'ha pogut visualitzar la revisió."
 
 msgid   "Create annotation tool"
 msgstr  "Eina de creació d'anotacions"
@@ -2573,7 +2573,7 @@ msgid   "%1 (substituting with %2)"
 msgstr  "%1 (se substitueix per %2)"
 
 msgid   "Request to Change Viewing Mode"
-msgstr  "Petició de canvi del modo de visualisació"
+msgstr  "Petició de canvi del modo de visualització"
 
 msgid   "Resume movie"
 msgstr  "Continua la película"
@@ -2969,17 +2969,16 @@ msgid   "This document has XFA forms, which are currently <b>unsupported</b>."
 msgstr  "Este document té formularis XFA, els quals actualment no estan "
         "<b>admesos</b>."
 
-msgid   "This document has embedded files. <a href=\"okular:/"
-        "embeddedfiles\">Click here to see them</a> or go to File -> Embedded "
-        "Files."
-msgstr  "Este document té fitxers incrustats. <a href=\"okular:/"
-        "embeddedfiles\">Cliqueu ací per a vore'ls</a> o aneu a «Fitxer -> "
-        "Fitxers incrustats»."
+msgid   "This document has embedded files. <a href=\"okular:/embeddedfiles"
+        "\">Click here to see them</a> or go to File -> Embedded Files."
+msgstr  "Este document té fitxers incrustats. <a href=\"okular:/embeddedfiles"
+        "\">Cliqueu ací per a vore'ls</a> o aneu a «Fitxer -> Fitxers "
+        "incrustats»."
 
 msgid   "This document has forms. Click on the button to interact with them, "
         "or use View -> Show Forms."
 msgstr  "Este document té formularis. Cliqueu al botó per a interactuar-hi, o "
-        "utiliseu «Visualisa -> Mostra els formularis»."
+        "utiliseu «Visualitza -> Mostra els formularis»."
 
 msgid   "This document wants to be shown full screen.\n"
         "Leave normal mode and enter presentation mode?"
@@ -3100,10 +3099,10 @@ msgid   "Validity Status"
 msgstr  "Estat de la validesa"
 
 msgid   "View Certificate..."
-msgstr  "Visualisa el certificat..."
+msgstr  "Visualitza el certificat..."
 
 msgid   "View Signed Version..."
-msgstr  "Visualisa la versió signada..."
+msgstr  "Visualitza la versió signada..."
 
 msgid   "Viewer Toolbar"
 msgstr  "Barra d'eines del visor"

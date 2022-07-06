@@ -1,0 +1,1075 @@
+msgid   ""
+msgstr  "Project-Id-Version: khtml\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-03-21 22:56+0100\n"
+        "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Lokalize 21.12.3\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+
+msgid   "   <a href=\"%1\">[Properties]</a>"
+msgstr  "   <a href=\"%1\">[Propietats]</a>"
+
+msgid   " (In new window)"
+msgstr  " (En una finestra nova)"
+
+msgid   " (In other frame)"
+msgstr  " (A un atre marc)"
+
+msgid   " - BCC: "
+msgstr  " - BCC: "
+
+msgid   " - CC: "
+msgstr  " - CC: "
+
+msgid   " - Subject: "
+msgstr  " - Assumpte: "
+
+msgid   "%1 (%2 - %3x%4 Pixels)"
+msgstr  "%1 (%2 - %3x%4 píxels)"
+
+msgid   "%1 (%2x%3 Pixels)"
+msgstr  "%1 (%2x%3 píxels)"
+
+msgid   "%1 (Link)"
+msgstr  "%1 (Enllaç)"
+
+msgid   "%1 - %2x%3 Pixels"
+msgstr  "%1 - %2x%3 píxels"
+
+msgid   "%1 Image of %2 loaded."
+msgid_plural    "%1 Images of %2 loaded."
+msgstr[0]       "S'ha carregat %1 image de %2."
+msgstr[1]       "S'han carregat %1 imàgens de %2."
+
+msgid   "%1 is already assigned to %2"
+msgstr  "%1 ya es troba assignada a %2"
+
+msgid   "%1%"
+msgstr  "%1%"
+
+msgid   "%2 (%1 K)"
+msgstr  "%2 (%1 K)"
+
+msgid   "%2 (%1 byte)"
+msgid_plural    "%2 (%1 bytes)"
+msgstr[0]       "%2 (%1 byte)"
+msgstr[1]       "%2 (%1 bytes)"
+
+msgid   "&Allow storing passwords for this site"
+msgstr  "&Permet l'almagasenada de contrasenyes per a este lloc"
+
+msgid   "&Break at Next Statement"
+msgstr  "&Interromp a la següent sentència"
+
+msgid   "&Choose password:"
+msgstr  "Trieu una &contrasenya:"
+
+msgid   "&Close Wallet"
+msgstr  "&Tanca la cartera"
+
+msgid   "&Configure JavaScript New Window Policies..."
+msgstr  "&Configura les polítiques de JavaScript de les finestres noves..."
+
+msgid   "&Copy Email Address"
+msgstr  "&Copia l'adreça de correu"
+
+msgid   "&Copy Link Address"
+msgstr  "&Copia l'adreça de l'enllaç"
+
+msgid   "&Copy Text"
+msgstr  "&Copia el text"
+
+msgid   "&Debug"
+msgstr  "&Depura"
+
+msgid   "&Disable Error Reporting"
+msgstr  "&Desactiva l'informe d'errors"
+
+msgid   "&Do not show this message again"
+msgstr  "&No tornar a mostrar este missatge"
+
+msgid   "&Edit"
+msgstr  "E&dita"
+
+msgid   "&File"
+msgstr  "&Fitxer"
+
+msgid   "&Find in Frame..."
+msgstr  "Bu&sca al marc..."
+
+msgid   "&Find..."
+msgstr  "Bu&sca..."
+
+msgid   "&Hide Errors"
+msgstr  "&Oculta els errors"
+
+msgid   "&Next"
+msgstr  "&Següent"
+
+msgid   "&Previous"
+msgstr  "&Anterior"
+
+msgid   "&Repeat password:"
+msgstr  "Repetiu la co&ntrasenya:"
+
+msgid   "&Save Link As..."
+msgstr  "Guar&da l'enllaç com a..."
+
+msgid   "&Selected text"
+msgstr  "Text &seleccionat"
+
+msgid   "&Send Email"
+msgstr  "&Envia el correu"
+
+msgid   "&Send File"
+msgid_plural    "&Send Files"
+msgstr[0]       "&Envia el fitxer"
+msgstr[1]       "&Envia els fitxers"
+
+msgid   "&Send Unencrypted"
+msgstr  "&Envia sense encriptar"
+
+msgid   "&Settings"
+msgstr  "Con&figuració"
+
+msgid   "&Show Blocked Popup Window"
+msgid_plural    "&Show %1 Blocked Popup Windows"
+msgstr[0]       "Mo&stra la finestra emergent blocada"
+msgstr[1]       "Mo&stra les %1 finestres emergents blocades"
+
+msgid   "&Stop Script"
+msgstr  "&Para l'script"
+
+msgid   "&Store"
+msgstr  "&Almagasena"
+
+msgid   "&Submit Anyway"
+msgstr  "&Envia de totes maneres"
+
+msgid   "&View"
+msgstr  "&Visualitza"
+
+msgid   "&Whole words only"
+msgstr  "Només paraules &senceres"
+
+msgid   "(%1/s)"
+msgstr  "(%1/seg)"
+
+msgid   "1024 (Medium Grade)"
+msgstr  "1024 (Qualitat intermèdia)"
+
+msgid   "2048 (High Grade)"
+msgstr  "2048 (Qualitat alta)"
+
+msgid   "512  (Low Grade)"
+msgstr  "512 (Qualitat baixa)"
+
+msgid   "768  (Low Grade)"
+msgstr  "768 (Qualitat baixa)"
+
+msgid   "<qt><b>Error</b>: %1: %2</qt>"
+msgstr  "<qt><b>Error</b>: %1: %2</qt>"
+
+msgid   "<qt><b>Error</b>: node %1: %2</qt>"
+msgstr  "<qt><b>Error</b>: nodo %1: %2</qt>"
+
+msgid   "<qt><p><strong>'Print header'</strong></p><p>If this checkbox is "
+        "enabled, the printout of the HTML document will contain a header "
+        "line at the top of each page. This header contains the current date, "
+        "the location URL of the printed page and the page number.</p><p>If "
+        "this checkbox is disabled, the printout of the HTML document will "
+        "not contain such a header line.</p> </qt>"
+msgstr  "<qt><p><strong>«Imprimix la capçalera»</strong></p><p>Si s'activa "
+        "esta casella de selecció, la impressió del document HTML contindrà "
+        "una llínea de capçalera dalt de cada pàgina. Esta capçalera conté la "
+        "data actual, l'URL d'ubicació de la pàgina impresa i el número de "
+        "pàgina.</p> <p>Si es desactiva esta casella de selecció, la "
+        "impressió del document HTML no contindrà esta llínea de capçalera.</"
+        "p> </qt>"
+
+msgid   "<qt><p><strong>'Print images'</strong></p><p>If this checkbox is "
+        "enabled, images contained in the HTML page will be printed. Printing "
+        "may take longer and use more ink or toner.</p><p>If this checkbox is "
+        "disabled, only the text of the HTML page will be printed, without "
+        "the included images. Printing will be faster and use less ink or "
+        "toner.</p> </qt>"
+msgstr  "<qt><p><strong>«Imprimix les imàgens»</strong></p><p>Si s'activa "
+        "esta casella de selecció, s'imprimiran les imàgens contingudes a la "
+        "pàgina HTML. La impressió pot tardar més i utilisar més tinta o "
+        "tòner.</p> <p>Si es desactiva esta casella de selecció, només "
+        "s'imprimirà el text de la pàgina HTML, sense les imàgens incloses. "
+        "La impressió serà més ràpida i utilisarà menys tinta o tòner.</p> </"
+        "qt>"
+
+msgid   "<qt><p><strong>'Printerfriendly mode'</strong></p><p>If this "
+        "checkbox is enabled, the printout of the HTML document will be black "
+        "and white only, and all colored background will be converted into "
+        "white. Printout will be faster and use less ink or toner.</p><p>If "
+        "this checkbox is disabled, the printout of the HTML document will "
+        "happen in the original color settings as you see in your "
+        "application. This may result in areas of full-page color (or "
+        "grayscale, if you use a black+white printer). Printout will possibly "
+        "happen more slowly and will probably use more toner or ink.</p> </qt>"
+msgstr  "<qt><p><strong>«Modo d'impressió fàcil d'emprar»</strong></p><p>Si "
+        "s'activa esta casella de selecció, la impressió del document HTML "
+        "serà només en blanc i negre i tot el fons de color es passarà a "
+        "blanc. La impressió serà més ràpida i utilisarà menys tinta o tòner."
+        "</p><p>Si es desactiva esta casella de selecció, la impressió del "
+        "document HTML es farà amb la configuració de colors originals, tal "
+        "com els veeu a l'aplicació. Açò pot donar àrees de color a tota la "
+        "pàgina (o d'escala de grisos, si utiliseu una impressora de blanc i "
+        "negre). La impressió possiblement serà més lenta i probablement "
+        "utilisarà molt més tòner o tinta.</p> </qt>"
+
+msgid   "<qt>Access by untrusted page to<br /><b>%1</b><br /> denied.</qt>"
+msgstr  "<qt>S'ha denegat l'accés a la pàgina no fiable <br /><b>%1</b>.</qt>"
+
+msgid   "<qt>Enlarge Font<br /><br />Make the font in this window bigger. "
+        "Click and hold down the mouse button for a menu with all available "
+        "font sizes.</qt>"
+msgstr  "<qt>Aumenta el tipus de lletra<br /><br />Fa més gran el tipus de "
+        "lletra d'esta finestra. Cliqueu i manteniu clicat el botó del ratolí "
+        "per a obtindre un menú amb totes les mides disponibles dels tipus de "
+        "lletra.</qt>"
+
+msgid   "<qt>Find next<br /><br />Find the next occurrence of the text that "
+        "you have found using the <b>Find Text</b> function.</qt>"
+msgstr  "<qt>Busca la següent<br /><br />Troba l'ocurrència següent del text "
+        "que heu trobat utilisant la funció <b>Busca el text</b>.</qt>"
+
+msgid   "<qt>Find previous<br /><br />Find the previous occurrence of the "
+        "text that you have found using the <b>Find Text</b> function.</qt>"
+msgstr  "<qt>Busca l'anterior<br /><br />Troba l'ocurrència anterior del text "
+        "que heu trobat utilisant la funció <b>Busca el text</b>.</qt>"
+
+msgid   "<qt>Find text<br /><br />Shows a dialog that allows you to find text "
+        "on the displayed page.</qt>"
+msgstr  "<qt>Busca el text<br /><br />Mostra un diàlec que permet trobar el "
+        "text a la pàgina mostrada.</qt>"
+
+msgid   "<qt>Print Frame<br /><br />Some pages have several frames. To print "
+        "only a single frame, click on it and then use this function.</qt>"
+msgstr  "<qt>Imprimix el marc<br /><br /> Algunes pàgines tenen diversos "
+        "marcs. Per a imprimir només un únic marc, cliqueu-hi i llavors "
+        "utiliseu esta funció.</qt>"
+
+msgid   "<qt>Shrink Font<br /><br />Make the font in this window smaller. "
+        "Click and hold down the mouse button for a menu with all available "
+        "font sizes.</qt>"
+msgstr  "<qt>Reduïx el tipus de lletra<br /><br />Fa més xicotet el tipus de "
+        "lletra d'esta finestra. Cliqueu i manteniu clicat el botó del ratolí "
+        "per a obtindre un menú amb totes les mides disponibles dels tipus de "
+        "lletra.</qt>"
+
+msgid   "<qt>The form will be submitted to <br /><b>%1</b><br />on your local "
+        "filesystem.<br />Do you want to submit the form?</qt>"
+msgstr  "<qt>El formulari s'enviarà a <br /><b>%1</b><br />en el vostre "
+        "sistema de fitxers local.<br />Voleu enviar el formulari?</qt>"
+
+msgid   "<qt>This site is requesting to open<p>%1</p>in a new browser window "
+        "via JavaScript.<br />Do you want to allow this?</qt>"
+msgstr  "<qt>Este lloc està demanant d'obrir <p>%1</p> a una finestra nova "
+        "del navegador via JavaScript.<br />Voleu permetre-ho?</qt>"
+
+msgid   "<qt>This site is submitting a form which will open <p>%1</p> in a "
+        "new browser window via JavaScript.<br />Do you want to allow the "
+        "form to be submitted?</qt>"
+msgstr  "<qt>Este lloc està enviant un formulari que obrirà <p>%1</p> a una "
+        "finestra nova del navegador via JavaScript.<br />Voleu permetre que "
+        "s'envie el formulari?</qt>"
+
+msgid   "<qt>This untrusted page links to<br /><b>%1</b>.<br />Do you want to "
+        "follow the link?</qt>"
+msgstr  "<qt>Esta pàgina no fiable enllaça a<br /><b>%1</b>.<br />Voleu "
+        "seguir l'enllaç?</qt>"
+
+msgctxt "@item Text character set"
+msgid   "Arabic"
+msgstr  "Àrab"
+
+msgctxt "@item Text character set"
+msgid   "Baltic"
+msgstr  "Bàltic"
+
+msgctxt "@item Text character set"
+msgid   "Central European"
+msgstr  "Europeu central"
+
+msgctxt "@item Text character set"
+msgid   "Chinese Simplified"
+msgstr  "Xinés simplificat"
+
+msgctxt "@item Text character set"
+msgid   "Chinese Traditional"
+msgstr  "Xinés tradicional"
+
+msgctxt "@item Text character set"
+msgid   "Cyrillic"
+msgstr  "Cirílic"
+
+msgctxt "@item Text character set"
+msgid   "Greek"
+msgstr  "Grec"
+
+msgctxt "@item Text character set"
+msgid   "Hebrew"
+msgstr  "Hebreu"
+
+msgctxt "@item Text character set"
+msgid   "Japanese"
+msgstr  "Japonés"
+
+msgctxt "@item Text character set"
+msgid   "Korean"
+msgstr  "Coreà"
+
+msgctxt "@item Text character set"
+msgid   "Thai"
+msgstr  "Tai"
+
+msgctxt "@item Text character set"
+msgid   "Turkish"
+msgstr  "Turc"
+
+msgctxt "@item Text character set"
+msgid   "Unicode"
+msgstr  "Unicode"
+
+msgctxt "@item Text character set"
+msgid   "Western European"
+msgstr  "Europeu occidental"
+
+msgctxt "@title:group Document information"
+msgid   "General"
+msgstr  "General"
+
+msgctxt "@title:menu HTML frame/iframe"
+msgid   "Frame"
+msgstr  "Marc"
+
+msgid   "A file named \"%1\" already exists. Are you sure you want to "
+        "overwrite it?"
+msgstr  "Ya existix un fitxer anomenat «%1». Segur que voleu sobreescriure'l?"
+
+msgid   "A script on this page is causing KHTML to freeze. If it continues to "
+        "run, other applications may become less responsive.\n"
+        "Do you want to stop the script?"
+msgstr  "Un script d'esta pàgina està fent que es bloquege el KHTML. Si "
+        "continua executant-se, pot empitjorar la resposta d'atres "
+        "aplicacions.\n"
+        "Voleu parar l'script?"
+
+msgid   "Access Keys activated"
+msgstr  "S'han activat les tecles d'accés"
+
+msgid   "Add URL to Filter"
+msgstr  "Afig l'URL al filtre"
+
+msgid   "Additional Information: %1"
+msgstr  "Informació adicional: %1"
+
+msgid   "Allow"
+msgstr  "Permet"
+
+msgid   "An error occurred while attempting to run a script on this page.\n"
+        "\n"
+        "%1 line %2:\n"
+        "%3"
+msgstr  "S'ha produït un error mentre s'intentava executar un script en esta "
+        "pàgina.\n"
+        "\n"
+        "%1 llínea %2:\n"
+        "%3"
+
+msgid   "Automatic Detection"
+msgstr  "Detecció automàtica"
+
+msgid   "Basic Page Style"
+msgstr  "Estil de pàgina bàsic"
+
+msgid   "Block IFrame..."
+msgstr  "Bloca «IFrame»..."
+
+msgid   "Block Image..."
+msgstr  "Bloca la image..."
+
+msgid   "Block Images From %1"
+msgstr  "Bloca les imàgens des de %1"
+
+msgid   "Break at Next"
+msgstr  "Interromp a la següent"
+
+msgid   "Breakpoint"
+msgstr  "Punt d'interrupció"
+
+msgid   "C&ase sensitive"
+msgstr  "Distinguix m&ajúscules i minúscules"
+
+msgid   "C&lear"
+msgstr  "&Neteja"
+
+msgid   "Call"
+msgstr  "Crida"
+
+msgid   "Call Stack"
+msgstr  "Pila de crides"
+
+msgid   "Clear &History"
+msgstr  "Neteja l'&historial"
+
+msgid   "Close source"
+msgstr  "Tanca el codi font"
+
+msgid   "Close window?"
+msgstr  "Tanco la finestra?"
+
+msgid   "Confirmation Required"
+msgstr  "Cal confirmació"
+
+msgid   "Confirmation: JavaScript Popup"
+msgstr  "Confirmació: Finestra emergent de JavaScript"
+
+msgid   "Console"
+msgstr  "Consola"
+
+msgid   "Continue"
+msgstr  "Continua"
+
+msgid   "Copy Image"
+msgstr  "Copia la image"
+
+msgid   "Copy Image Location"
+msgstr  "Copia la ubicació de la image"
+
+msgid   "Copyright 2001-2011, David Faure <faure@kde.org>"
+msgstr  "Copyright 2001-2011, David Faure <faure@kde.org>"
+
+msgid   "Create Web Shortcut"
+msgstr  "Crea una drecera web"
+
+msgid   "Date and Time: %1"
+msgstr  "Data i hora: %1"
+
+msgid   "Default Font Size (100%)"
+msgstr  "Mida del tipus de lletra per defecte (100%)"
+
+msgid   "Description:"
+msgstr  "Descripció:"
+
+msgid   "Details of the Request:"
+msgstr  "Detalls de la solicitut:"
+
+msgid   "Disallow"
+msgstr  "No permetre"
+
+msgid   "Display Images on Page"
+msgstr  "Mostra les imàgens a la pàgina"
+
+msgid   "Do &not store this time"
+msgstr  "&No l'almagasenes esta vegada"
+
+msgid   "Do Not Allow"
+msgstr  "No permetre"
+
+msgid   "Do Not Download"
+msgstr  "No baixar"
+
+msgid   "Do Not Store"
+msgstr  "No almagasenar"
+
+msgid   "Do not know where to evaluate the expression. Please pause a script "
+        "or open a source file."
+msgstr  "No se sap a on evaluar l'expressió. Feu una pausa a l'script o obriu "
+        "el fitxer amb el codi font."
+
+msgid   "Do you want a bookmark pointing to the location \"%1\" titled \"%2\" "
+        "to be added to your collection?"
+msgstr  "Voleu que s'afegisca una adreça d'interés a la vostra colecció "
+        "apuntant a la ubicació «%1» i titulada «%2»?"
+
+msgid   "Do you want a bookmark pointing to the location \"%1\" to be added "
+        "to your collection?"
+msgstr  "Voleu que s'afegisca una adreça d'interés a la vostra colecció "
+        "apuntant a la ubicació «%1»?"
+
+msgid   "Do you want to store this password for %1?"
+msgstr  "Voleu almagasenar esta contrasenya per a %1?"
+
+msgid   "Do you want to store this password?"
+msgstr  "Voleu almagasenar esta contrasenya?"
+
+msgid   "Do you wish to store the passphrase in your wallet file?"
+msgstr  "Voleu almagasenar la frase de pas al fitxer de cartera?"
+
+msgid   "Document Information"
+msgstr  "Informació del document"
+
+msgid   "Document encoding:"
+msgstr  "Codificació del document:"
+
+msgid   "Done."
+msgstr  "Fet."
+
+msgid   "Download"
+msgstr  "Baixa"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "sps@sastia.com,antonibella5@yahoo.com,aacid@kde.org,txemaq@gmail.com"
+
+msgid   "Email to: "
+msgstr  "Correu a: "
+
+msgid   "Embeddable HTML component"
+msgstr  "Component HTML incrustable"
+
+msgid   "Embeddable component for multipart/mixed"
+msgstr  "Component incrustable per a multipart/mescla"
+
+msgid   "Enlarge Font"
+msgstr  "Aumenta el tipus de lletra"
+
+msgid   "Enter"
+msgstr  "Entrada"
+
+msgid   "Enter the URL:"
+msgstr  "Introduïu l'URL:"
+
+msgid   "Error"
+msgstr  "Error"
+
+msgid   "Error: %1 - %2"
+msgstr  "S'ha produït un error: %1: %2"
+
+msgid   "Evaluation threw an exception %1"
+msgstr  "L'evaluació ha detectat una excepció %1"
+
+msgid   "F&ind:"
+msgstr  "Bu&sca:"
+
+msgid   "Filter error"
+msgstr  "S'ha produït un error de filtratge"
+
+msgid   "Find &links only"
+msgstr  "Busca només els en&llaços"
+
+msgid   "Find Links as You Type"
+msgstr  "Busca els enllaços en teclejar"
+
+msgid   "Find Text as You Type"
+msgstr  "Busca el text en teclejar"
+
+msgid   "Follow"
+msgstr  "Segueix"
+
+msgid   "Frame Information"
+msgstr  "Informació del marc"
+
+msgid   "From c&ursor"
+msgstr  "Des del c&ursor"
+
+msgid   "HTML Settings"
+msgstr  "Configuració HTML"
+
+msgid   "HTML Toolbar"
+msgstr  "Barra d'eines HTML"
+
+msgctxt "HTML rendering mode (see https://en.wikipedia.org/wiki/Quirks_mode)"
+msgid   "Almost standards"
+msgstr  "Quasi estàndards"
+
+msgctxt "HTML rendering mode (see https://en.wikipedia.org/wiki/Quirks_mode)"
+msgid   "Quirks"
+msgstr  "Quirks"
+
+msgctxt "HTML rendering mode (see https://en.wikipedia.org/wiki/Quirks_mode)"
+msgid   "Strict"
+msgstr  "Estricte"
+
+msgid   "HTTP Headers"
+msgstr  "Capçaleres HTTP"
+
+msgid   "Image - %1x%2 Pixels"
+msgstr  "Image - %1x%2 píxels"
+
+msgid   "Inactive"
+msgstr  "Inactiu"
+
+msgid   "Insert"
+msgstr  "Inserix"
+
+msgid   "JavaScript"
+msgstr  "JavaScript"
+
+msgid   "JavaScript &Debugger"
+msgstr  "&Depurador de JavaScript"
+
+msgid   "JavaScript Attempted Bookmark Insert"
+msgstr  "JavaScript ha provat la inserció d'una adreça d'interés"
+
+msgid   "JavaScript Debugger"
+msgstr  "Depurador de JavaScript"
+
+msgid   "JavaScript Error"
+msgstr  "S'ha produït un error de JavaScript"
+
+msgid   "JavaScript Errors"
+msgstr  "Errors de JavaScript"
+
+msgid   "KDE"
+msgstr  "KDE"
+
+msgid   "KDE Certificate Request"
+msgstr  "Petició de certificat de KDE"
+
+msgid   "KDE Certificate Request - Password"
+msgstr  "Petició de certificat de KDE - Contrasenya"
+
+msgid   "KDE SSL Information"
+msgstr  "Informació SSL de KDE"
+
+msgid   "KHTML"
+msgstr  "KHTML"
+
+msgid   "KHTML Image"
+msgstr  "Image KHTML"
+
+msgid   "KMultiPart"
+msgstr  "KMultiPart"
+
+msgid   "Key Generator"
+msgstr  "Generador de claus"
+
+msgid   "Last modified:"
+msgstr  "Modificat per últim cop:"
+
+msgid   "Line"
+msgstr  "Llínea"
+
+msgid   "Loaded Scripts"
+msgstr  "Scripts carregats"
+
+msgid   "Local Variables"
+msgstr  "Variables locals"
+
+msgid   "Missing Plugin"
+msgstr  "Falta el conector"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Sebastià Pla,Antoni Bella,Albert Astals,Josep M. Ferrer"
+
+msgid   "Ne&ver store for this site"
+msgstr  "&Mai l'almagasenes per a este lloc"
+
+msgid   "Network Transmission"
+msgstr  "Transmissió de ret"
+
+msgid   "New Web Shortcut"
+msgstr  "Drecera web nova"
+
+msgid   "New search provider"
+msgstr  "Proveïdor de busca nou"
+
+msgid   "No SSL support."
+msgstr  "No s'accepta l'ús d'SSL."
+
+msgid   "No handler found for %1."
+msgstr  "No s'ha trobat cap manipulador per a %1."
+
+msgid   "No more matches for this search direction."
+msgstr  "No hi ha cap més coincidència en esta direcció de busca."
+
+msgid   "No plugin found for '%1'.\n"
+        "Do you want to download one from %2?"
+msgstr  "No s'ha trobat cap conector per a «%1».\n"
+        "Voleu descarregar-ne un des de %2?"
+
+msgid   "Not found"
+msgstr  "No s'ha trobat"
+
+msgid   "Open '%1'"
+msgstr  "Obri «%1»"
+
+msgid   "Open in &New Tab"
+msgstr  "Obri en una pestanya &nova"
+
+msgid   "Open in &This Window"
+msgstr  "Obri en es&ta finestra"
+
+msgid   "Open in New &Window"
+msgstr  "Obri en una &finestra nova"
+
+msgid   "Opt&ions"
+msgstr  "Opc&ions"
+
+msgid   "Overwrite File?"
+msgstr  "Voleu sobreescriure el fitxer?"
+
+msgid   "Page loaded."
+msgstr  "S'ha carregat la pàgina."
+
+msgid   "Parse error at %1 line %2"
+msgstr  "S'ha produït un error d'anàlisi a %1 llínea %2"
+
+msgid   "Pause"
+msgstr  "Pausa"
+
+msgid   "Play"
+msgstr  "Reproduïx"
+
+msgid   "Please wait while the encryption keys are generated..."
+msgstr  "Espereu mentre es generen les claus d'encriptació..."
+
+msgid   "Popup Window Blocked"
+msgstr  "S'ha blocat la finestra emergent"
+
+msgid   "Possible Causes:"
+msgstr  "Causes possibles:"
+
+msgid   "Possible Solutions:"
+msgstr  "Solucions possibles:"
+
+msgid   "Print DOM Tree to STDOUT"
+msgstr  "Imprimix l'arbre DOM a STDOUT"
+
+msgid   "Print Frame..."
+msgstr  "Imprimix el marc..."
+
+msgid   "Print Rendering Tree to STDOUT"
+msgstr  "Imprimix l'arbre de representació a STDOUT"
+
+msgid   "Print frame tree to STDOUT"
+msgstr  "Imprimix l'arbre del marc a STDOUT"
+
+msgid   "Print header"
+msgstr  "Imprimix la capçalera"
+
+msgid   "Print images"
+msgstr  "Imprimix les imàgens"
+
+msgid   "Printer friendly mode (black text, no background)"
+msgstr  "Modo d'impressió fàcil d'emprar (text negre, sense fons)"
+
+msgid   "Property"
+msgstr  "Propietat"
+
+msgid   "Protocol: %1"
+msgstr  "Protocol: %1"
+
+msgid   "Ready"
+msgstr  "Llest"
+
+msgid   "Receiving corrupt data."
+msgstr  "S'estan rebent dades corruptes."
+
+msgid   "Reference"
+msgstr  "Referència"
+
+msgid   "Regular e&xpression"
+msgstr  "E&xpressió regular"
+
+msgid   "Reindent Sources"
+msgstr  "Torna a sagnar el codi font"
+
+msgid   "Reload Frame"
+msgstr  "Torna a carregar el marc"
+
+msgid   "Remove password for form %1"
+msgstr  "Elimina la contrasenya per al formulari %1"
+
+msgid   "Rendering mode:"
+msgstr  "Modo de representació:"
+
+msgid   "Report Exceptions"
+msgstr  "Informa de les excepcions"
+
+msgid   "Reset"
+msgstr  "Restableix"
+
+msgid   "SSL"
+msgstr  "SSL"
+
+msgid   "Save &Background Image As..."
+msgstr  "Guarda la image de &fons com a..."
+
+msgid   "Save &Frame As..."
+msgstr  "Guarda el &marc com a..."
+
+msgid   "Save As"
+msgstr  "Anomena i guarda"
+
+msgid   "Save Background Image As"
+msgstr  "Guarda la image de fons com a"
+
+msgid   "Save Frame As"
+msgstr  "Guarda el marc com a"
+
+msgid   "Save Image As"
+msgstr  "Guarda la image com a"
+
+msgid   "Save Image As..."
+msgstr  "Guarda la image com a..."
+
+msgid   "Save Link As"
+msgstr  "Guarda l'enllaç com a"
+
+msgid   "Search &provider name:"
+msgstr  "Nom del &proveïdor de busca:"
+
+msgid   "Search for '%1' with"
+msgstr  "Busca «%1» amb"
+
+msgid   "Search for '%1' with %2"
+msgstr  "Busca «%1» amb %2"
+
+msgid   "Security Alert"
+msgstr  "Alerta de seguretat"
+
+msgid   "Security Warning"
+msgstr  "Avís de seguretat"
+
+msgid   "Send Confirmation"
+msgstr  "Envia la confirmació"
+
+msgid   "Send Image..."
+msgstr  "Envia la image..."
+
+msgid   "Set &Encoding"
+msgstr  "Establix la &codificació"
+
+msgid   "Show Blocked Window Passive Popup &Notification"
+msgstr  "Mostra la &notificació de la finestra emergent passiva blocada"
+
+msgid   "Shrink Font"
+msgstr  "Reduïx el tipus de lletra"
+
+msgid   "Step Into"
+msgstr  "Avança dins"
+
+msgid   "Step Out"
+msgstr  "Avança fora"
+
+msgid   "Step Over"
+msgstr  "Avança sobre"
+
+msgid   "Stop Animated Images"
+msgstr  "Para les imàgens animades"
+
+msgid   "Stop Animations"
+msgstr  "Para les imàgens animades"
+
+msgid   "Store"
+msgstr  "Almagasena"
+
+msgid   "Submit"
+msgstr  "Envia"
+
+msgid   "Submit Confirmation"
+msgstr  "Envia la confirmació"
+
+msgid   "Symbolic Link"
+msgstr  "Enllaç simbòlic"
+
+msgid   "Technical Reason: "
+msgstr  "Motiu tècnic: "
+
+msgid   "The Download Manager (%1) could not be found in your $PATH "
+msgstr  "No s'ha trobat el gestor de baixades (%1) a la $PATH "
+
+msgid   "The fake user-agent '%1' is in use."
+msgstr  "L'agent d'usuari fals «%1» està en ús."
+
+msgid   "The following files will not be uploaded because they could not be "
+        "found.\n"
+        "Do you want to continue?"
+msgstr  "Els fitxers següents no pujaran perquè no s'han pogut trobar.\n"
+        "Voleu continuar?"
+
+msgid   "The peer SSL certificate chain appears to be corrupt."
+msgstr  "La cadena de certificats SSL del parell sembla estar malmesa."
+
+msgid   "The requested operation could not be completed"
+msgstr  "L'operació solicitada no s'ha pogut completar"
+
+msgid   "The wallet '%1' is open and being used for form data and passwords."
+msgstr  "La cartera «%1» està oberta i s'està utilisant per a dades de "
+        "formularis i contrasenyes."
+
+msgid   "This dialog provides you with notification and details of scripting "
+        "errors that occur on web pages.  In many cases it is due to an error "
+        "in the web site as designed by its author.  In other cases it is the "
+        "result of a programming error in Konqueror.  If you suspect the "
+        "former, please contact the webmaster of the site in question.  "
+        "Conversely if you suspect an error in Konqueror, please file a bug "
+        "report at https://bugs.kde.org/.  A test case which illustrates the "
+        "problem will be appreciated."
+msgstr  "Este diàlec us proporciona la notificació i els detalls dels errors "
+        "de scripts que es produeixen en les pàgines web. En molts casos són "
+        "deguts a errors en el lloc web, tal com el va dissenyar el seu "
+        "autor. En atres casos és el resultat d'un error de programació de "
+        "Konqueror. Si penseu que es tracta del primer cas, contacteu amb "
+        "l'administració del lloc en qüestió. Contràriament, si sospiteu d'un "
+        "error a Konqueror, empleneu un informe d'error a https://bugs.kde."
+        "org/. S'agrairà un cas de prova que ilustre el problema."
+
+msgid   "This is a searchable index. Enter search keywords: "
+msgstr  "Este és un índex que permet buscar. Introduïu les paraules clau: "
+
+msgid   "This page has attempted to open a popup window but was blocked.\n"
+        "You can click on this icon in the status bar to control this "
+        "behavior\n"
+        "or to open the popup."
+msgstr  "Esta pàgina ha provat d'obrir una finestra emergent, pero ha estat "
+        "blocada.\n"
+        "Podeu clicar en esta icona a la barra d'estat per a controlar este "
+        "comportament\n"
+        "o per a obrir l'emergent."
+
+msgid   "This page was prevented from opening a new window via JavaScript."
+msgstr  "Se li ha impedit a esta pàgina d'obrir una finestra nova via "
+        "JavaScript."
+
+msgid   "This shortcut shows the find bar, and sets the option \"Find links "
+        "only\"."
+msgstr  "Esta drecera mostra la barra de busca, i establix l'opció «Busca "
+        "només els enllaços»."
+
+msgid   "This shortcut shows the find bar, for finding text in the displayed "
+        "page. It cancels the effect of \"Find Links as You Type\", which "
+        "sets the \"Find links only\" option."
+msgstr  "Esta drecera mostra la barra de busca, per a trobar el text en la "
+        "image mostrada. Cancela l'efecte de «Busca els enllaços en "
+        "teclejar», el qual establix l'opció «Busca només els enllaços»."
+
+msgid   "This site attempted to attach a file from your computer in the form "
+        "submission. The attachment was removed for your protection."
+msgstr  "Este lloc ha provat d'adjuntar un fitxer des del vostre ordinador al "
+        "formulari d'enviament. S'ha eliminat l'adjunt per a la vostra "
+        "protecció."
+
+msgid   "This site is attempting to submit form data via email.\n"
+        "Do you want to continue?"
+msgstr  "Este lloc està provant d'enviar dades de formulari via correu.\n"
+        "Voleu continuar?"
+
+msgid   "This site is requesting to open up a new browser window via "
+        "JavaScript.\n"
+        "Do you want to allow this?"
+msgstr  "Este lloc està demanant d'obrir una finestra nova del navegador via "
+        "JavaScript.\n"
+        "Voleu permetre-ho?"
+
+msgid   "This site is submitting a form which will open up a new browser "
+        "window via JavaScript.\n"
+        "Do you want to allow the form to be submitted?"
+msgstr  "Este lloc està enviant un formulari que obrirà una finestra nova del "
+        "navegador via JavaScript.\n"
+        "Voleu permetre que s'envie el formulari?"
+
+msgid   "This web page contains coding errors."
+msgstr  "Esta pàgina web conté errors de codificació."
+
+msgid   "Title:"
+msgstr  "Títol:"
+
+msgid   "Toggle Caret Mode"
+msgstr  "Canvia el modo de cursor"
+
+msgid   "Try to reinstall it  \n"
+        "\n"
+        "The integration with Konqueror will be disabled."
+msgstr  "Proveu de reinstalar-ho \n"
+        "\n"
+        "Es desactivarà la integració amb Konqueror."
+
+msgid   "UR&I shortcuts:"
+msgstr  "Dreceres dels UR&I:"
+
+msgid   "URL:"
+msgstr  "URL:"
+
+msgid   "URL: %1"
+msgstr  "URL: %1"
+
+msgid   "Unable to find the Kate editor component;\n"
+        "please check your KDE installation."
+msgstr  "No s'ha trobat el component d'edició de Kate;\n"
+        "comproveu la instalació de KDE."
+
+msgid   "Unsupported key size."
+msgstr  "Mida de la clau no acceptada."
+
+msgid   "Use S&tylesheet"
+msgstr  "Utilisa un full d'es&til"
+
+msgid   "Value"
+msgstr  "Valor"
+
+msgid   "View Do&cument Source"
+msgstr  "Visualitza el codi font del do&cument"
+
+msgid   "View Document Information"
+msgstr  "Visualitza la informació del document"
+
+msgid   "View Frame Information"
+msgstr  "Visualitza la informació del marc"
+
+msgid   "View Frame Source"
+msgstr  "Visualitza el codi font del marc"
+
+msgid   "View Image (%1)"
+msgstr  "Vore la image (%1)"
+
+msgid   "Warning:  This is a secure form but it is attempting to send your "
+        "data back unencrypted.\n"
+        "A third party may be able to intercept and view this information.\n"
+        "Are you sure you wish to continue?"
+msgstr  "Avís: Açò és un formulari segur, pero està intentant enviar les "
+        "vostres dades sense encriptar.\n"
+        "Un tercer podria interceptar i vore esta informació.\n"
+        "Segur que voleu continuar?"
+
+msgid   "Warning: Your data is about to be transmitted across the network "
+        "unencrypted.\n"
+        "Are you sure you wish to continue?"
+msgstr  "Avís: Les vostres dades estan a punt d'enviar-se per la ret sense "
+        "encriptar.\n"
+        "Segur que voleu continuar?"
+
+msgid   "XML parsing error"
+msgstr  "S'ha produït un error d'anàlisi XML"
+
+msgid   "You are about to transfer the following files from your local "
+        "computer to the Internet.\n"
+        "Do you really want to continue?"
+msgstr  "Esteu a punt de transferir els fitxers següents des del vostre "
+        "ordinador local a la Internet.\n"
+        "Segur que voleu continuar?"
+
+msgid   "You have indicated that you wish to obtain or purchase a secure "
+        "certificate. This wizard is intended to guide you through the "
+        "procedure. You may cancel at any time, and this will abort the "
+        "transaction."
+msgstr  "Heu indicat que voleu obtindre o comprar un certificat segur. Est "
+        "assistent està pensat per a guiar-vos pel procediment. Podeu "
+        "cancelar en qualsevol moment, i açò interromprà la transacció."
+
+msgid   "You must now provide a password for the certificate request. Please "
+        "choose a very secure password as this will be used to encrypt your "
+        "private key."
+msgstr  "Ara heu de proporcionar una contrasenya per a la petició de "
+        "certificat. Trieu una contrasenya molt segura, ya que s'utilisarà "
+        "per a encriptar la vostra clau privada."
+
+msgid   "fatal parsing error: %1 in line %2, column %3"
+msgstr  "error d'anàlisi fatal: %1 a la llínea %2, columna %3"
+
+msgid   "the document is not in the correct file format"
+msgstr  "este document no està en el format de fitxer correcte"

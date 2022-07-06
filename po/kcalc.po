@@ -1,0 +1,1197 @@
+msgid   ""
+msgstr  "Project-Id-Version: kcalc\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-05-22 22:49+0200\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Lokalize 20.12.0\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+
+msgid   "\n"
+        "\tKCalc can compute with many more digits than the number that\n"
+        "\tfits on the display. This setting gives the maximum number of\n"
+        "\tdigits displayed, before KCalc starts using scientific notation,\n"
+        "\ti.e. notation of the type 2.34e12.\n"
+        "      "
+msgstr  "\n"
+        "\tEl KCalc pot calcular amb molts més dígits que la xifra que\n"
+        "\ts'ajusta a la pantalla. Esta opció indica el nombre màxim de\n"
+        "\tdígits que es mostraran abans que KCalc comence a utilisar la "
+        "notació\n"
+        "\tcientífica del tipus 2.34e12, per exemple.\n"
+        "      "
+
+msgid   "\n"
+        "            For easier readability it's possible to visible group "
+        "the individual digits into pairs\n"
+        "            for example instead of 10111001 you can display 1011 "
+        "1001, by setting the setting to\n"
+        "            4, thus inserting a whitespace after every 4th digit.\n"
+        "        "
+msgstr  "\n"
+        "            Per a facilitar la lectura és possible agrupar els "
+        "dígits individuals en parelles\n"
+        "            Per exemple, en lloc de 10111001 podeu visualitzar 1011 "
+        "1001, assignant l'opció a\n"
+        "            4, per tant, s'inserirà un espai en blanc cada 4 "
+        "dígits.\n"
+        "        "
+
+msgid   "\n"
+        "            For easier readability it's possible to visible group "
+        "the individual digits into pairs\n"
+        "            for example instead of 42140213 you can display 4214 "
+        "0213, by setting the setting to\n"
+        "            4, thus inserting a whitespace after every 4th digit.\n"
+        "        "
+msgstr  "\n"
+        "            Per a facilitar la lectura és possible agrupar els "
+        "dígits individuals en parelles\n"
+        "            Per exemple, en lloc de 42140213 podeu visualitzar 4214 "
+        "0213, assignant l'opció a\n"
+        "            4, per tant, s'inserirà un espai en blanc cada 4 "
+        "dígits.\n"
+        "        "
+
+msgid   "\n"
+        "            For easier readability it's possible to visible group "
+        "the individual digits into pairs\n"
+        "            for example instead of AF1C42 you can display AF 1C 42, "
+        "by setting the setting to\n"
+        "            2, thus inserting a whitespace after every 2nd digit.\n"
+        "        "
+msgstr  "\n"
+        "            Per a facilitar la lectura és possible agrupar els "
+        "dígits individuals en parelles\n"
+        "            Per exemple, en lloc d'AF1C42 podeu visualitzar AF 1C 42, "
+        "assignant l'opció a\n"
+        "            2, per tant, s'inserirà un espai en blanc cada 2 "
+        "dígits.\n"
+        "        "
+
+msgid   "\n"
+        "        Select to use Two's Complement notation for Binary, Octal\n"
+        "        and Hexidecimal numbers. This is a common notation to "
+        "represent\n"
+        "        negative numbers in computers.\n"
+        "      "
+msgstr  "\n"
+        "        Seleccioneu per a utilisar la notació del complement a dos "
+        "per als\n"
+        "        nombres binaris, octals i hexadecimals. Esta és una notació "
+        "habitual\n"
+        "        per a representar nombres negatius en ordinadors.\n"
+        "      "
+
+msgid   "%"
+msgstr  "%"
+
+msgid   "&Background:"
+msgstr  "&Fons:"
+
+msgid   "&Beep on error"
+msgstr  "&Fa un so d'avís en els errors"
+
+msgid   "&Bin"
+msgstr  "&Bin"
+
+msgid   "&Button font:"
+msgstr  "Tipus de lletra dels &botons:"
+
+msgid   "&Constants"
+msgstr  "&Constants"
+
+msgid   "&Constants:"
+msgstr  "&Constants:"
+
+msgid   "&Dec"
+msgstr  "&Dec"
+
+msgid   "&Deg"
+msgstr  "G&raus"
+
+msgid   "&Display font:"
+msgstr  "Tipus de lletra del &visor:"
+
+msgid   "&Foreground:"
+msgstr  "&Primer pla:"
+
+msgid   "&Functions:"
+msgstr  "&Funcions:"
+
+msgid   "&Grad"
+msgstr  "&Grau centesimal"
+
+msgid   "&History font:"
+msgstr  "Tipus de lletra de l'&historial:"
+
+msgid   "&Maximum number of digits:"
+msgstr  "Nombre &màxim de dígits:"
+
+msgid   "&Memory:"
+msgstr  "&Memòria:"
+
+msgid   "&Numbers:"
+msgstr  "&Números:"
+
+msgid   "&Rad"
+msgstr  "&Rad"
+
+msgid   "&Settings"
+msgstr  "Con&figuració"
+
+msgctxt "( calculator button"
+msgid   "("
+msgstr  "("
+
+msgctxt ") calculator button"
+msgid   ")"
+msgstr  ")"
+
+msgctxt "+ calculator button"
+msgid   "+"
+msgstr  "+"
+
+msgid   "+/−"
+msgstr  "+/−"
+
+msgctxt "- calculator button"
+msgid   "−"
+msgstr  "−"
+
+msgctxt ". calculator button"
+msgid   "."
+msgstr  "."
+
+msgid   "0"
+msgstr  "0"
+
+msgid   "1"
+msgstr  "1"
+
+msgid   "1/X"
+msgstr  "1/X"
+
+msgid   "10 to the power of x"
+msgstr  "10 a la potència de x"
+
+msgctxt "10 to the power of x"
+msgid   "10<sup>x</sup>"
+msgstr  "10<sup>x</sup>"
+
+msgid   "2"
+msgstr  "2"
+
+msgid   "3"
+msgstr  "3"
+
+msgid   "4"
+msgstr  "4"
+
+msgid   "5"
+msgstr  "5"
+
+msgid   "6"
+msgstr  "6"
+
+msgid   "7"
+msgstr  "7"
+
+msgid   "8"
+msgstr  "8"
+
+msgid   "9"
+msgstr  "9"
+
+msgctxt "= calculator button"
+msgid   "="
+msgstr  "="
+
+msgid   "A"
+msgstr  "A"
+
+msgid   "A very simple mode where only the basic calculator buttons are shown"
+msgstr  "Un modo molt senzill en què només es mostren els botons bàsics de "
+        "càlcul"
+
+msgid   "AC"
+msgstr  "AC"
+
+msgid   "AND"
+msgstr  "AND"
+
+msgid   "Aaron J. Seigo"
+msgstr  "Aaron J. Seigo"
+
+msgid   "Add display to memory"
+msgstr  "Afig el visor a la memòria"
+
+msgctxt "Add display to memory"
+msgid   "M+"
+msgstr  "M+"
+
+msgid   "Add to memory"
+msgstr  "Afig a la memòria"
+
+msgid   "Arc cosine"
+msgstr  "Arc cosinus"
+
+msgctxt "Arc cosine"
+msgid   "acos"
+msgstr  "acos"
+
+msgid   "Arc sine"
+msgstr  "Arc sinus"
+
+msgctxt "Arc sine"
+msgid   "asin"
+msgstr  "asin"
+
+msgid   "Arc tangent"
+msgstr  "Arc tangent"
+
+msgctxt "Arc tangent"
+msgid   "atan"
+msgstr  "atan"
+
+msgid   "Atomic && Nuclear"
+msgstr  "Atòmic i nuclear"
+
+msgid   "Atomic Mass Unit"
+msgstr  "Unitat de massa atòmica"
+
+msgid   "Avogadro's Number"
+msgstr  "Nombre d'Avogadro"
+
+msgid   "B"
+msgstr  "B"
+
+msgid   "Background"
+msgstr  "Fons"
+
+msgid   "Backspace"
+msgstr  "Retrocés"
+
+msgid   "Bernd Johannes Wuebben"
+msgstr  "Bernd Johannes Wuebben"
+
+msgid   "Binary"
+msgstr  "Binari"
+
+msgid   "Binary figures will be separated by a whitespace after every Xth "
+        "digit."
+msgstr  "Els nombres binaris se separaran amb un espai en blanc després de "
+        "cada Xè dígit."
+
+msgid   "Bit %1 = %2"
+msgstr  "Bit %1 = %2"
+
+msgid   "Bitwise AND"
+msgstr  "AND bit a bit"
+
+msgid   "Bitwise OR"
+msgstr  "OR bit a bit"
+
+msgid   "Bitwise XOR"
+msgstr  "XOR bit a bit"
+
+msgid   "Boltzmann Constant"
+msgstr  "Constant de Boltzmann"
+
+msgid   "Button & Display Colors"
+msgstr  "Colors del visor i els botons"
+
+msgid   "Button Colors"
+msgstr  "Colors dels botons"
+
+msgid   "C"
+msgstr  "C"
+
+msgid   "C1"
+msgstr  "C1"
+
+msgid   "C2"
+msgstr  "C2"
+
+msgid   "C3"
+msgstr  "C3"
+
+msgid   "C4"
+msgstr  "C4"
+
+msgid   "C5"
+msgstr  "C5"
+
+msgid   "C6"
+msgstr  "C6"
+
+msgid   "CSt"
+msgstr  "CSt"
+
+msgid   "Change sign"
+msgstr  "Canvia el signe"
+
+msgid   "Charles Samuels"
+msgstr  "Charles Samuels"
+
+msgid   "Choose From List"
+msgstr  "Trieu de la llista"
+
+msgid   "Chris Howells"
+msgstr  "Chris Howells"
+
+msgid   "Clear"
+msgstr  "Neteja"
+
+msgid   "Clear all"
+msgstr  "Neteja-ho tot"
+
+msgid   "Clear data store"
+msgstr  "Neteja la memòria de dades"
+
+msgid   "Click on a Bit to toggle it."
+msgstr  "Cliqueu un bit per a canviar-lo."
+
+msgid   "Close parenthesis"
+msgstr  "Tanca parèntesi"
+
+msgid   "Cmp"
+msgstr  "Cmp"
+
+msgid   "Colors"
+msgstr  "Colors"
+
+msgid   "Constants"
+msgstr  "Constants"
+
+msgid   "Constants &Buttons"
+msgstr  "Botons de &constants"
+
+msgid   "Copyright © 2008-2013, Evan Teran\n"
+        "Copyright © 2000-2008, The KDE Team\n"
+        "Copyright © 2003-2005, Klaus Niederkrüger\n"
+        "Copyright © 1996-2000, Bernd Johannes Wuebben"
+msgstr  "Copyright © 2008-2013, Evan Teran\n"
+        "Copyright © 2000-2008, The KDE Team\n"
+        "Copyright © 2003-2005, Klaus Niederkrüger\n"
+        "Copyright © 1996-2000, Bernd Johannes Wuebben"
+
+msgid   "Cos"
+msgstr  "Cos"
+
+msgid   "Cosine"
+msgstr  "Cosinus"
+
+msgctxt "Cosine"
+msgid   "cos"
+msgstr  "cos"
+
+msgid   "Ctrl+2"
+msgstr  "Ctrl+2"
+
+msgid   "Cube"
+msgstr  "Cub"
+
+msgid   "Cube root"
+msgstr  "Arrel cúbica"
+
+msgid   "D"
+msgstr  "D"
+
+msgid   "DAT ["
+msgstr  "DAT ["
+
+msgid   "Dat"
+msgstr  "Dat"
+
+msgid   "David Johnson"
+msgstr  "David Johnson"
+
+msgid   "Decimal point"
+msgstr  "Punt decimal"
+
+msgid   "Define Constants"
+msgstr  "Definix les constants"
+
+msgid   "Degrees, radians or grads"
+msgstr  "Graus sexagesimals, radians o graus centesimals"
+
+msgid   "Delete last data item"
+msgstr  "Suprimix l'últim element de dades"
+
+msgctxt "Delete last data item"
+msgid   "CDat"
+msgstr  "CDad"
+
+msgid   "Display Colors"
+msgstr  "Colors del visor"
+
+msgid   "Division"
+msgstr  "Divisió"
+
+msgid   "E"
+msgstr  "E"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "sps@sastia.com,aacid@kde.org,joanmaspons@gmail.com"
+
+msgid   "EXP"
+msgstr  "EXP"
+
+msgid   "Earth Acceleration"
+msgstr  "Acceleració de la Terra"
+
+msgid   "Easy Calculator Mode"
+msgstr  "Modo fàcil de calculadora"
+
+msgid   "Electromagnetism"
+msgstr  "Electromagnetisme"
+
+msgid   "Elementary Charge"
+msgstr  "Càrrega elemental"
+
+msgid   "Enables that the last operation is repeated when \"=\" is pressed"
+msgstr  "Permet que es repetisca l'última operació quan es prem «=»"
+
+msgid   "Enter data"
+msgstr  "Introduïx la dada"
+
+msgctxt "Enter data"
+msgid   "Dat"
+msgstr  "Dad"
+
+msgid   "Espen Sand"
+msgstr  "Espen Sand"
+
+msgid   "Euler Number"
+msgstr  "Nombre d'Euler"
+
+msgid   "Evan Teran"
+msgstr  "Evan Teran"
+
+msgid   "Exponent"
+msgstr  "Exponent"
+
+msgid   "Exponential function"
+msgstr  "Funció exponencial"
+
+msgctxt "Exponential function"
+msgid   "e<sup>x</sup>"
+msgstr  "e<sup>x</sup>"
+
+msgid   "F"
+msgstr  "F"
+
+msgid   "Factorial"
+msgstr  "Factorial"
+
+msgctxt "Factorial"
+msgid   "x!"
+msgstr  "x!"
+
+msgid   "Fine-Structure Constant"
+msgstr  "Constant d'estructura fina"
+
+msgid   "Font"
+msgstr  "Tipus de lletra"
+
+msgid   "Foreground"
+msgstr  "Primer pla"
+
+msgid   "Gamma"
+msgstr  "Gamma"
+
+msgid   "General"
+msgstr  "General"
+
+msgid   "General Settings"
+msgstr  "Configuració general"
+
+msgid   "Golden Ratio"
+msgstr  "Raó àuria"
+
+msgid   "Gravitation"
+msgstr  "Gravitació"
+
+msgid   "Gravitational Constant"
+msgstr  "Constant de la gravitació"
+
+msgid   "Group digits"
+msgstr  "Dígits de grup"
+
+msgid   "Grouping"
+msgstr  "Agrupament"
+
+msgid   "H"
+msgstr  "H"
+
+msgid   "He&x"
+msgstr  "He&x"
+
+msgid   "He&xadecimals:"
+msgstr  "He&xadecimals:"
+
+msgid   "Hexadecimal"
+msgstr  "Hexadecimal"
+
+msgid   "Hexadecimal figures will be separated by a whitespace after every "
+        "Xth digit."
+msgstr  "Els nombres hexadecimals se separaran amb un espai en blanc després "
+        "de cada Xè dígit."
+
+msgid   "Hyp"
+msgstr  "Hip"
+
+msgid   "Hyperbolic cosine"
+msgstr  "Cosinus hiperbòlic"
+
+msgctxt "Hyperbolic cosine"
+msgid   "cosh"
+msgstr  "cosh"
+
+msgid   "Hyperbolic mode"
+msgstr  "Modo hiperbòlic"
+
+msgid   "Hyperbolic sine"
+msgstr  "Sinus hiperbòlic"
+
+msgctxt "Hyperbolic sine"
+msgid   "sinh"
+msgstr  "sinh"
+
+msgid   "Hyperbolic tangent"
+msgstr  "Tangent hiperbòlica"
+
+msgctxt "Hyperbolic tangent"
+msgid   "tanh"
+msgstr  "tanh"
+
+msgid   "Impedance of Vacuum"
+msgstr  "Impedància en el buit"
+
+msgid   "Integer division"
+msgstr  "Divisió entera"
+
+msgctxt "Integer division"
+msgid   "IntDiv"
+msgstr  "IntDiv"
+
+msgid   "Inverse hyperbolic cosine"
+msgstr  "Cosinus hiperbòlic invers"
+
+msgctxt "Inverse hyperbolic cosine"
+msgid   "acosh"
+msgstr  "acosh"
+
+msgid   "Inverse hyperbolic sine"
+msgstr  "Sinus hiperbòlic invers"
+
+msgctxt "Inverse hyperbolic sine"
+msgid   "asinh"
+msgstr  "asinh"
+
+msgid   "Inverse hyperbolic tangent"
+msgstr  "Tangent hiperbòlica inversa"
+
+msgctxt "Inverse hyperbolic tangent"
+msgid   "atanh"
+msgstr  "atanh"
+
+msgid   "KCalc"
+msgstr  "KCalc"
+
+msgid   "KCalc can compute with many more digits than the number that fits on "
+        "the display. This setting gives the maximum number of digits "
+        "displayed, before KCalc starts using scientific notation, i.e. "
+        "notation of the type 2.34e12."
+msgstr  "KCalc pot calcular amb molts més dígits que la xifra que s'ajusta a "
+        "la pantalla. Esta opció indica el nombre màxim de dígits que es "
+        "mostraran abans que KCalc comence a utilisar la notació científica "
+        "del tipus 2.34e12, per exemple."
+
+msgid   "KDE Calculator"
+msgstr  "Calculadora KDE"
+
+msgid   "KSq…bel"
+msgstr  "KSq…bel"
+
+msgid   "Klaus Niederkrüger"
+msgstr  "Klaus Niederkrüger"
+
+msgid   "L"
+msgstr  "L"
+
+msgid   "Last stat item erased"
+msgstr  "S'ha esborrat l'últim element d'estadístiques"
+
+msgid   "Left bit shift"
+msgstr  "Desplaçament esquerre d'un bit"
+
+msgid   "Light Speed"
+msgstr  "Velocitat de la llum"
+
+msgid   "List of user programmable constants"
+msgstr  "Llista de les constants programables per l'usuari"
+
+msgid   "Ln"
+msgstr  "Ln"
+
+msgid   "Log"
+msgstr  "Log"
+
+msgid   "Logarithm to base 10"
+msgstr  "Logaritme en base 10"
+
+msgctxt "Logarithm to base 10"
+msgid   "log"
+msgstr  "log"
+
+msgid   "Lsh"
+msgstr  "Lsh"
+
+msgid   "M"
+msgstr  "M"
+
+msgid   "M+"
+msgstr  "M+"
+
+msgid   "MC"
+msgstr  "MC"
+
+msgid   "MR"
+msgstr  "MR"
+
+msgid   "MS"
+msgstr  "MS"
+
+msgid   "Maintainer"
+msgstr  "Mantenidor"
+
+msgid   "Mathematics"
+msgstr  "Matemàtiques"
+
+msgid   "Maximum number of digits displayed"
+msgstr  "Nombre màxim de dígits que es mostraran"
+
+msgid   "Maximum number of digits displayed."
+msgstr  "Nombre màxim de dígits que es mostraran."
+
+msgid   "Mea"
+msgstr  "Mitj"
+
+msgid   "Mean"
+msgstr  "Mitjana"
+
+msgctxt "Mean"
+msgid   "Mea"
+msgstr  "Mitj"
+
+msgid   "Med"
+msgstr  "Med"
+
+msgid   "Median"
+msgstr  "Mediana"
+
+msgid   "Memory clear"
+msgstr  "Neteja la memòria"
+
+msgctxt "Memory indicator in status bar"
+msgid   "M"
+msgstr  "M"
+
+msgid   "Memory recall"
+msgstr  "Obtin la memòria"
+
+msgid   "Memory store"
+msgstr  "Memòria de dades"
+
+msgid   "Michel Marti"
+msgstr  "Michel Marti"
+
+msgid   "Minus"
+msgstr  "Menys"
+
+msgid   "Misc"
+msgstr  "Miscelània"
+
+msgid   "Mod"
+msgstr  "Mod"
+
+msgid   "Mode with additional statistics buttons and optional constants "
+        "buttons"
+msgstr  "Modo amb botons addicionals estadístics i botons opcionals de "
+        "constants"
+
+msgid   "Mode with logic buttons and selectable base. Optional bit edit "
+        "available."
+msgstr  "Modo amb botons lògics i base que es pot seleccionar. Es disposa "
+        "d'edició opcional de bits."
+
+msgid   "Mode with science buttons and optional constants buttons"
+msgstr  "Modo amb botons científics i botons opcionals de constants"
+
+msgid   "Modulo"
+msgstr  "Mòdul"
+
+msgctxt "Modulo"
+msgid   "mod"
+msgstr  "mod"
+
+msgid   "Molar Gas Constant"
+msgstr  "Constant universal dels gasos"
+
+msgid   "Multiplication"
+msgstr  "Multiplicació"
+
+msgid   "N"
+msgstr  "N"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Sebastià Pla i Sanz,Albert Astals Cid, Joan Maspons Ventura"
+
+msgctxt "Name of the user programmable constant"
+msgid   "C1"
+msgstr  "C1"
+
+msgctxt "Name of the user programmable constant"
+msgid   "C2"
+msgstr  "C2"
+
+msgctxt "Name of the user programmable constant"
+msgid   "C3"
+msgstr  "C3"
+
+msgctxt "Name of the user programmable constant"
+msgid   "C4"
+msgstr  "C4"
+
+msgctxt "Name of the user programmable constant"
+msgid   "C5"
+msgstr  "C5"
+
+msgctxt "Name of the user programmable constant"
+msgid   "C6"
+msgstr  "C6"
+
+msgid   "Name of the user programmable constants."
+msgstr  "Nom de les constants programables per l'usuari."
+
+msgid   "Natural log"
+msgstr  "Logaritme neperià"
+
+msgctxt "Natural log"
+msgid   "ln"
+msgstr  "Ln"
+
+msgid   "New Name for Constant"
+msgstr  "Nom nou per a la constant"
+
+msgid   "New name:"
+msgstr  "Nom nou:"
+
+msgid   "Niklas Freund"
+msgstr  "Niklas Freund"
+
+msgctxt "Normal button functions are active"
+msgid   "NORM"
+msgstr  "NORM"
+
+msgid   "Number of data entered"
+msgstr  "Nombre de dades introduïdes"
+
+msgctxt "Number of data entered"
+msgid   "N"
+msgstr  "N"
+
+msgid   "Number of fixed decimal digits"
+msgstr  "Nombre fix de dígits decimals"
+
+msgid   "Number of fixed decimal digits."
+msgstr  "Nombre fix de dígits decimals."
+
+msgid   "Numeral System Mode"
+msgstr  "Modo de sistema numeral"
+
+msgid   "Numeric base"
+msgstr  "Base numèrica"
+
+msgid   "O&perations:"
+msgstr  "O&peracions:"
+
+msgid   "OR"
+msgstr  "OR"
+
+msgid   "Oc&t"
+msgstr  "Oc&t"
+
+msgid   "Octal"
+msgstr  "Octal"
+
+msgid   "Octal figures will be separated by a whitespace after every Xth "
+        "digit."
+msgstr  "Els nombres octals se separaran amb un espai en blanc després de "
+        "cada Xè dígit."
+
+msgid   "One's complement"
+msgstr  "Complement a u"
+
+msgid   "Open parenthesis"
+msgstr  "Obri parèntesi"
+
+msgid   "Percent"
+msgstr  "Tant per cent"
+
+msgid   "Permeability of Vacuum"
+msgstr  "Permeabilitat del buit"
+
+msgid   "Permittivity of Vacuum"
+msgstr  "Permitivitat del buit"
+
+msgid   "Pi"
+msgstr  "Pi"
+
+msgid   "Planck's Constant"
+msgstr  "Constant de Planck"
+
+msgid   "Plus"
+msgstr  "Més"
+
+msgid   "Precision"
+msgstr  "Precisió"
+
+msgid   "Predefined"
+msgstr  "Predefinides"
+
+msgid   "R"
+msgstr  "R"
+
+msgid   "Reciprocal"
+msgstr  "Recíproc"
+
+msgctxt "Reciprocal"
+msgid   "1/x"
+msgstr  "1/x"
+
+msgid   "René Mérou"
+msgstr  "René Mérou"
+
+msgid   "Repeat operation for each result"
+msgstr  "Repeteix l'operació per a cada resultat"
+
+msgid   "Result"
+msgstr  "Resultat"
+
+msgid   "Right bit shift"
+msgstr  "Desplaçament dret d'un bit"
+
+msgid   "Rsh"
+msgstr  "Rsh"
+
+msgid   "S"
+msgstr  "S"
+
+msgid   "SD"
+msgstr  "SD"
+
+msgid   "Sample standard deviation"
+msgstr  "Desviació estàndard de la mostra"
+
+msgid   "Science Calculator Mode"
+msgstr  "Modo de calculadora científica"
+
+msgid   "Science Mode"
+msgstr  "Modo científic"
+
+msgid   "Second button function"
+msgstr  "Funció del segon botó"
+
+msgctxt "Second button functions are active"
+msgid   "SHIFT"
+msgstr  "MAJ"
+
+msgid   "Select Display Font"
+msgstr  "Seleccioneu el tipus de lletra del visor"
+
+msgid   "Select to use Two's Complement notation for Binary, Octal and "
+        "Hexidecimal numbers. This is a common notation to represent negative "
+        "numbers for non-decimal numbers in computers."
+msgstr  "Seleccioneu per a utilisar la notació del complement a dos per als "
+        "nombres binaris, octals i hexadecimals. Esta és una notació habitual "
+        "per a representar nombres negatius no decimals en ordinadors."
+
+msgid   "Set &decimal precision"
+msgstr  "Establix la &precisió decimal"
+
+msgid   "Set Name"
+msgstr  "Establix un nom"
+
+msgid   "Shift"
+msgstr  "Maj"
+
+msgid   "Show &History"
+msgstr  "Mostra l'&historial"
+
+msgid   "Show &result in window title"
+msgstr  "Mostra el &resultat en el títol de la finestra"
+
+msgid   "Show B&it Edit"
+msgstr  "Mostra l'edició de b&its"
+
+msgid   "Simple Mode"
+msgstr  "Modo senzill"
+
+msgid   "Sin"
+msgstr  "Sin"
+
+msgid   "Sine"
+msgstr  "Sinus"
+
+msgctxt "Sine"
+msgid   "sin"
+msgstr  "sin"
+
+msgid   "Square"
+msgstr  "Quadrat"
+
+msgctxt "Square"
+msgid   "x<sup>2</sup>"
+msgstr  "x<sup>2</sup>"
+
+msgid   "Square root"
+msgstr  "Arrel quadrada"
+
+msgid   "St&atistic functions:"
+msgstr  "Funcions &estadístiques:"
+
+msgid   "Standard deviation"
+msgstr  "Desviació estàndard"
+
+msgid   "Stat mem cleared"
+msgstr  "S'ha netejat la memòria estadística"
+
+msgid   "Statistic Calculator Mode"
+msgstr  "Modo de calculadora estadística"
+
+msgid   "Statistic Mode"
+msgstr  "Modo estadístic"
+
+msgid   "Stefan-Boltzmann Constant"
+msgstr  "Constant de Stefan-Boltzmann"
+
+msgid   "Subtract from memory"
+msgstr  "Resta de la memòria"
+
+msgctxt "Subtract from memory"
+msgid   "M−"
+msgstr  "M−"
+
+msgid   "Sum of all data items"
+msgstr  "Suma de tots els elements de dades"
+
+msgid   "Sum of all data items squared"
+msgstr  "Suma de totes les dades al quadrat"
+
+msgid   "Switch base to binary."
+msgstr  "Canvia a base binària."
+
+msgid   "Switch base to decimal."
+msgstr  "Canvia a base decimal."
+
+msgid   "Switch base to hexadecimal."
+msgstr  "Canvia a base hexadecimal."
+
+msgid   "Switch base to octal."
+msgstr  "Canvia a base octal."
+
+msgid   "T"
+msgstr  "T"
+
+msgid   "Tan"
+msgstr  "Tan"
+
+msgid   "Tangent"
+msgstr  "Tangent"
+
+msgctxt "Tangent"
+msgid   "tan"
+msgstr  "tan"
+
+msgid   "The background color of the display."
+msgstr  "El color de fons del visor."
+
+msgid   "The color of constants buttons."
+msgstr  "El color dels botons de les constants."
+
+msgid   "The color of constants fonts."
+msgstr  "El color del tipus de lletra de les constants."
+
+msgid   "The color of function buttons."
+msgstr  "El color dels botons de les operacions."
+
+msgid   "The color of function fonts."
+msgstr  "El color del tipus de lletra de les funcions."
+
+msgid   "The color of hex buttons."
+msgstr  "El color dels botons hexadecimals."
+
+msgid   "The color of hex fonts."
+msgstr  "El color del tipus de lletra dels hexadecimals."
+
+msgid   "The color of memory buttons."
+msgstr  "El color dels botons de memòria."
+
+msgid   "The color of memory fonts."
+msgstr  "El color del tipus de lletra de la memòria."
+
+msgid   "The color of number buttons."
+msgstr  "El color dels botons dels números."
+
+msgid   "The color of number fonts."
+msgstr  "El color del tipus de lletra dels números."
+
+msgid   "The color of operation buttons."
+msgstr  "El color dels botons de les operacions."
+
+msgid   "The color of operation font."
+msgstr  "El color del tipus de lletra de les operacions."
+
+msgid   "The color of statistical buttons."
+msgstr  "El color dels botons d'estadística."
+
+msgid   "The color of statistical fonts."
+msgstr  "El color del tipus de lletra de les funcions estadístiques."
+
+msgid   "The font to use for the buttons"
+msgstr  "El tipus de lletra que s'utilisarà en els botons."
+
+msgid   "The font to use for the buttons."
+msgstr  "El tipus de lletra que s'utilisarà en els botons."
+
+msgid   "The font to use in the display"
+msgstr  "El tipus de lletra que s'utilisarà en el visor"
+
+msgid   "The font to use in the display."
+msgstr  "El tipus de lletra que s'utilisarà en el visor."
+
+msgid   "The font to use in the history"
+msgstr  "El tipus de lletra que s'utilisarà en l'historial"
+
+msgid   "The font to use in the history."
+msgstr  "El tipus de lletra que s'utilisarà en l'historial."
+
+msgid   "The foreground color of the display."
+msgstr  "El color de primer pla del visor."
+
+msgid   "Thermodynamics"
+msgstr  "Termodinàmica"
+
+msgid   "Third power"
+msgstr  "Potència tercera"
+
+msgctxt "Third power"
+msgid   "x<sup>3</sup>"
+msgstr  "x<sup>3</sup>"
+
+msgid   "Two's complement"
+msgstr  "Complement a dos"
+
+msgid   "Whether to beep on error"
+msgstr  "Si indicar amb un so d'avís o no els errors"
+
+msgid   "Whether to beep on error."
+msgstr  "Si indicar amb un so d'avís o no els errors."
+
+msgid   "Whether to group digits"
+msgstr  "Si agrupar o no els dígits"
+
+msgid   "Whether to group digits."
+msgstr  "Si agrupar o no els dígits."
+
+msgid   "Whether to show constant buttons."
+msgstr  "Si mostrar o no els botons de constants."
+
+msgid   "Whether to show the bit edit widget."
+msgstr  "Si mostrar o no el giny d'edició de bits."
+
+msgid   "Whether to show the history window."
+msgstr  "Quan mostrar la finestra de l'historial."
+
+msgid   "Whether to show the result in the window title"
+msgstr  "Si mostrar o no el resultat en el títol de la finestra"
+
+msgid   "Whether to show the result in the window title."
+msgstr  "Si mostrar o no el resultat en el títol de la finestra."
+
+msgid   "Whether to use Two's Complement for non-decimal numbers"
+msgstr  "Si utilisar el complement a dos per als nombres no decimals"
+
+msgid   "Whether to use Two's Complement for non-decimal numbers."
+msgstr  "Si utilisar o no el complement a dos per als nombres no decimals."
+
+msgid   "Whether to use fixed decimal places"
+msgstr  "Si utilisar o no un nombre fix de decimals"
+
+msgid   "Whether to use fixed decimal places."
+msgstr  "Si utilisar o no un nombre fix de decimals."
+
+msgid   "Write display data into memory"
+msgstr  "Escriu a la memòria la dada mostrada"
+
+msgctxt "Write display data into memory"
+msgid   "Store"
+msgstr  "Memòria"
+
+msgid   "XOR"
+msgstr  "XOR"
+
+msgid   "] = "
+msgstr  "] = "
+
+msgid   "n Choose m"
+msgstr  "n combinacions de m"
+
+msgctxt "n Choose m"
+msgid   "nCm"
+msgstr  "nCm"
+
+msgid   "pow"
+msgstr  "Pot"
+
+msgid   "x to the power of 1/y"
+msgstr  "x a la potència d'1/y"
+
+msgctxt "x to the power of 1/y"
+msgid   "x<sup>1/y</sup>"
+msgstr  "x<sup>1/y</sup>"
+
+msgid   "x to the power of y"
+msgstr  "x a la potència de y"
+
+msgctxt "x to the power of y"
+msgid   "x<sup>y</sup>"
+msgstr  "x<sup>y</sup>"
+
+msgid   "x!"
+msgstr  "x!"
+
+msgid   "x2"
+msgstr  "x2"
+
+msgid   "x3"
+msgstr  "x3"
+
+msgid   "×"
+msgstr  "×"
+
+msgid   "÷"
+msgstr  "÷"
+
+msgid   "←"
+msgstr  "←"
