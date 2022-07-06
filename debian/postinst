@@ -20,7 +20,7 @@ set -e
 
 case "$1" in
     configure)
-	    cp -r /usr/share/lliurex-fix-translations/* /usr/share/locale/ca@valencia/LC_MESSAGES/
+	    cp -r /usr/share/lliurex-fix-translations/mo/* /usr/share/locale/ca@valencia/LC_MESSAGES/
     ;;
 
     abort-upgrade|abort-remove|abort-deconfigure)
