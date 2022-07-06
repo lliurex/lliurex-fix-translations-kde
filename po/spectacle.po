@@ -1,0 +1,701 @@
+msgid   ""
+msgstr  "Project-Id-Version: spectacle\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-02-11 09:40+0100\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+        "X-Generator: Lokalize 20.12.0\n"
+
+msgid   "%"
+msgstr  "%"
+
+msgid   "%1×%2"
+msgstr  "%1×%2"
+
+msgid   "(C) 2015 Boudhayan Gupta"
+msgstr  "(C) 2015 Boudhayan Gupta"
+
+msgid   "<b>Capture Mode</b>"
+msgstr  "<b>Modo de captura</b>"
+
+msgid   "<b>Options</b>"
+msgstr  "<b>Opcions</b>"
+
+msgctxt "@info"
+msgid   "<filename>%1.%2</filename>"
+msgstr  "<filename>%1.%2</filename>"
+
+msgctxt "@info"
+msgid   "Cannot save screenshot because creating the directory failed:<nl/"
+        "><filename>%1</filename>"
+msgstr  "No s'ha pogut guardar la captura de pantalla perquè ha fallat la "
+        "creació del directori:<nl/><filename>%1</filename>"
+
+msgctxt "@info"
+msgid   "Cannot save screenshot because creating the remote directory failed:"
+        "<nl/><filename>%1</filename>"
+msgstr  "No s'ha pogut guardar la captura de pantalla perquè ha fallat la "
+        "creació del directori remot:<nl/><filename>%1</filename>"
+
+msgctxt "@title:window"
+msgid   "%1 second"
+msgid_plural    "%1 seconds"
+msgstr[0]       "%1 segon"
+msgstr[1]       "%1 segons"
+
+msgctxt "@title:window Unsaved Screenshot"
+msgid   "Unsaved[*]"
+msgstr  "Sense guardar[*]"
+
+msgctxt "A placeholder in the user configurable filename will replaced by the "
+        "specified value"
+msgid   "Day"
+msgstr  "Dia"
+
+msgctxt "A placeholder in the user configurable filename will replaced by the "
+        "specified value"
+msgid   "Hour"
+msgstr  "Hora"
+
+msgctxt "A placeholder in the user configurable filename will replaced by the "
+        "specified value"
+msgid   "Minute"
+msgstr  "Minut"
+
+msgctxt "A placeholder in the user configurable filename will replaced by the "
+        "specified value"
+msgid   "Month"
+msgstr  "Mes"
+
+msgctxt "A placeholder in the user configurable filename will replaced by the "
+        "specified value"
+msgid   "Second"
+msgstr  "Segon"
+
+msgctxt "A placeholder in the user configurable filename will replaced by the "
+        "specified value"
+msgid   "Sequential numbering"
+msgstr  "Numeració seqüencial"
+
+msgctxt "A placeholder in the user configurable filename will replaced by the "
+        "specified value"
+msgid   "Sequential numbering, padded out to N digits"
+msgstr  "Numeració seqüencial, farcit a N dígits"
+
+msgctxt "A placeholder in the user configurable filename will replaced by the "
+        "specified value"
+msgid   "Timezone"
+msgstr  "Zona horària"
+
+msgctxt "A placeholder in the user configurable filename will replaced by the "
+        "specified value"
+msgid   "Window Title"
+msgstr  "Títol de la finestra"
+
+msgctxt "A placeholder in the user configurable filename will replaced by the "
+        "specified value"
+msgid   "Year (2 digit)"
+msgstr  "Any (2 dígits)"
+
+msgctxt "A placeholder in the user configurable filename will replaced by the "
+        "specified value"
+msgid   "Year (4 digit)"
+msgstr  "Any (4 dígits)"
+
+msgctxt "A rectangular region was captured, heading"
+msgid   "Rectangular Region Captured"
+msgstr  "S'ha capturat la regió rectangular"
+
+msgid   "A screenshot was saved as '%1' to '%2' and the file path of the "
+        "screenshot has been saved to your clipboard."
+msgstr  "La captura de pantalla s'ha guardat com a «%1» a «%2» i el camí al "
+        "seu fitxer s'ha copiat al porta-retalls."
+
+msgid   "A screenshot was saved as '%1' to '%2'."
+msgstr  "S'ha guardat una captura de pantalla com a «%1» a «%2»."
+
+msgid   "A screenshot was saved to your clipboard."
+msgstr  "S'ha guardat una captura de pantalla en el porta-retalls."
+
+msgid   "Accept on click-and-release"
+msgstr  "Accepta en fer un clic i deixar anar"
+
+msgid   "Active Window"
+msgstr  "Finestra activa"
+
+msgid   "Add annotation to the screenshot"
+msgstr  "Afig una anotació a la captura de pantalla"
+
+msgid   "After taking a screenshot:"
+msgstr  "Després de prendre una captura de pantalla:"
+
+msgid   "Always"
+msgstr  "Sempre"
+
+msgid   "Annotate"
+msgstr  "Anotació"
+
+msgid   "Annotation Done"
+msgstr  "S'ha fet l'anotació"
+
+msgid   "Area:"
+msgstr  "Àrea:"
+
+msgid   "Cancel"
+msgstr  "Cancela"
+
+msgid   "Cancel:"
+msgstr  "Cancela:"
+
+msgid   "Cannot save an empty screenshot image."
+msgstr  "No s'ha pogut guardar una image de captura de pantalla buida."
+
+msgid   "Cannot save screenshot. Error while writing file."
+msgstr  "No s'ha pogut guardar la captura de pantalla. S'ha produït un error "
+        "en escriure al fitxer."
+
+msgid   "Cannot save screenshot. Error while writing temporary local file."
+msgstr  "No s'ha pogut guardar la captura de pantalla. S'ha produït un error "
+        "en escriure al fitxer local temporal."
+
+msgid   "Cannot save screenshot. The save filename is invalid."
+msgstr  "No s'ha pogut guardar la captura de pantalla. El nom de fitxer a "
+        "guardar no és vàlit."
+
+msgid   "Capture Active Window"
+msgstr  "Captura la finestra activa"
+
+msgid   "Capture Current Monitor"
+msgstr  "Captura el monitor actual"
+
+msgid   "Capture Entire Desktop"
+msgstr  "Captura l'escriptori sencer"
+
+msgid   "Capture Rectangular Region"
+msgstr  "Captura una regió rectangular"
+
+msgid   "Capture Window Under Cursor"
+msgstr  "Captura la finestra baix el cursor"
+
+msgid   "Capture a rectangular region of the screen"
+msgstr  "Captura una regió rectangular de la pantalla"
+
+msgid   "Capture only the current pop-up window (like a menu, tooltip etc).\n"
+        "If disabled, the pop-up is captured along with the parent window"
+msgstr  "Només captura la finestra emergent actual (com un menú, consell "
+        "d'eina, etc.).\n"
+        "Si està inactivada, es capturarà l'emergent amb la finestra pare"
+
+msgid   "Capture the active window"
+msgstr  "Captura finestra activa"
+
+msgid   "Capture the current monitor"
+msgstr  "Captura el monitor actual"
+
+msgid   "Capture the current pop-up only"
+msgstr  "Captura només l'emergent actual"
+
+msgid   "Capture the entire desktop (default)"
+msgstr  "Captura l'escriptori sencer (predeterminat)"
+
+msgid   "Capture the window currently under the cursor, excluding parents of "
+        "pop-up menus"
+msgstr  "Captura la finestra actual baix el cursor, excloent els menús "
+        "emergents dels pares"
+
+msgid   "Capture the window currently under the cursor, including parents of "
+        "pop-up menus"
+msgstr  "Captura la finestra actual baix el cursor, inclosos els menús "
+        "emergents dels pares"
+
+msgid   "Change Spectacle's settings."
+msgstr  "Canvia la configuració d'Spectacle."
+
+msgid   "Click and drag to draw a selection rectangle,\n"
+        "or press Esc to quit"
+msgstr  "Feu clic i arrossegueu per a dibuixar un rectangle de selecció,\n"
+        "o premeu «Esc» per a eixir"
+
+msgid   "Clipboard action which should be executed after the screenshot is "
+        "taken"
+msgstr  "Acció del porta-retalls que s'hauria d'executar després de prendre "
+        "la captura de pantalla"
+
+msgid   "Compression Quality:"
+msgstr  "Qualitat de compressió:"
+
+msgid   "Compression quality for lossy file formats"
+msgstr  "Qualitat de compressió per als formats de fitxer amb pèrdua"
+
+msgid   "Configure..."
+msgstr  "Configura..."
+
+msgid   "Copy Image to Clipboard"
+msgstr  "Copia la image al porta-retalls"
+
+msgid   "Copy Location to Clipboard"
+msgstr  "Copia la ubicació al porta-retalls"
+
+msgid   "Copy file location to clipboard"
+msgstr  "Copia la ubicació del fitxer al porta-retalls"
+
+msgid   "Copy image to clipboard"
+msgstr  "Copia la image al porta-retalls"
+
+msgid   "Could not take a screenshot. Please report this bug here: <a "
+        "href=\"https://bugs.kde.org/enter_bug.cgi?product=Spectacle\">create "
+        "a spectacle bug</a>"
+msgstr  "No s'ha pogut prendre la captura de pantalla. Informeu d'est error "
+        "ací: <a href=\"https://bugs.kde.org/enter_bug.cgi?"
+        "product=Spectacle\">crea un error d'Spectacle</a>"
+
+msgid   "Create new selection rectangle:"
+msgstr  "Crea un rectangle de la selecció nou:"
+
+msgid   "Current Screen"
+msgstr  "Pantalla actual"
+
+msgctxt "Decimal number of seconds"
+msgid   " seconds"
+msgstr  " segons"
+
+msgid   "Default filename"
+msgstr  "Nom predeterminat del fitxer"
+
+msgid   "Default save image format"
+msgstr  "Format de guardada predeterminat de la image"
+
+msgid   "Delay"
+msgstr  "Retard"
+
+msgid   "Delay:"
+msgstr  "Retard:"
+
+msgid   "Do not copy anything"
+msgstr  "No copies res"
+
+msgid   "Do not take a screenshot automatically"
+msgstr  "No prengues cap captura de pantalla automàticament"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "txemaq@gmail.com"
+
+msgid   "Export"
+msgstr  "Exporta"
+
+msgid   "Filename:"
+msgstr  "Nom de fitxer:"
+
+msgid   "For lossy image formats like JPEG"
+msgstr  "Per a formats d'image amb pèrdua com el JPEG"
+
+msgid   "Full Screen"
+msgstr  "Pantalla completa"
+
+msgid   "Full Screen (All Monitors)"
+msgstr  "Pantalla completa (tots els monitors)"
+
+msgid   "Full Screen (All Monitors, scaled)"
+msgstr  "Pantalla completa (tots els monitors, escalat)"
+
+msgid   "General"
+msgstr  "General"
+
+msgid   "General:"
+msgstr  "General:"
+
+msgid   "Image Size: %1x%2 pixels"
+msgstr  "Mida de la image: %1x%2 píxels"
+
+msgid   "Image shared"
+msgstr  "S'ha compartit la image"
+
+msgid   "In background mode, copy screenshot file path to clipboard"
+msgstr  "En modo segon pla, copia el fitxer de la captura de pantalla en el "
+        "porta-retalls"
+
+msgid   "In background mode, copy screenshot image to clipboard, unless -o is "
+        "also used."
+msgstr  "En modo segon pla, copia la image de la captura de pantalla en el "
+        "porta-retalls, a menys que també s'empri «-o»."
+
+msgid   "In background mode, delay before taking the shot (in milliseconds)"
+msgstr  "En modo segon pla, retard abans d'informar de prendre la captura (en "
+        "milisegons)"
+
+msgid   "In background mode, do not pop up a notification when the screenshot "
+        "is taken"
+msgstr  "En modo segon pla, no mostra cap notificació emergent quan es pren "
+        "la captura de pantalla"
+
+msgid   "In background mode, exclude decorations in the screenshot"
+msgstr  "En modo segon pla, exclou les decoracions a la captura de pantalla"
+
+msgid   "In background mode, include pointer in the screenshot"
+msgstr  "En modo segon pla, inclou el punter a la captura de pantalla"
+
+msgid   "In background mode, save image to specified file"
+msgstr  "En modo segon pla, guarda una image a un fitxer especificat"
+
+msgid   "Include mouse pointer"
+msgstr  "Incloure el punter del ratolí"
+
+msgid   "Include window titlebar and borders"
+msgstr  "Incloure la barra de títol i les vores de la finestra"
+
+msgctxt "Integer number of seconds"
+msgid   " second"
+msgid_plural    " seconds"
+msgstr[0]       " segon"
+msgstr[1]       " segons"
+
+msgid   "KDE Screenshot Utility"
+msgstr  "Utilitat de captura de pantalla de KDE"
+
+msgctxt "Keyboard action"
+msgid   "+ Shift: Magnifier"
+msgstr  "+ Majúscules: Mostra la lupa"
+
+msgctxt "Keyboard action"
+msgid   "+ Shift: Move in 1 pixel steps"
+msgstr  "+ Majúscules: Mou en passos d'1 píxel"
+
+msgctxt "Keyboard action"
+msgid   "+ Shift: Resize in 1 pixel steps"
+msgstr  "+ Majúscules: Redimensiona en passos d'1 píxel"
+
+msgctxt "Keyboard action"
+msgid   "Arrow keys"
+msgstr  "Tecles de cursor"
+
+msgctxt "Keyboard action"
+msgid   "Arrow keys + Alt"
+msgstr  "Tecles de cursor + Alt"
+
+msgctxt "Keyboard action"
+msgid   "Enter"
+msgstr  "Retorn"
+
+msgctxt "Keyboard action"
+msgid   "Escape"
+msgstr  "Escapada"
+
+msgid   "Last path used for \"save as\" action"
+msgstr  "Últim camí utilisat per l'acció «Anomena i guarda»"
+
+msgid   "Launch Spectacle"
+msgstr  "Inicia Spectacle"
+
+msgid   "Launch Spectacle without capturing"
+msgstr  "Inicia Spectacle sense capturar"
+
+msgid   "Launch Spectacle without taking a screenshot"
+msgstr  "Inicia Spectacle sense prendre cap captura de pantalla"
+
+msgctxt "Mouse action"
+msgid   "Double-click"
+msgstr  "Doble clic"
+
+msgctxt "Mouse action"
+msgid   "Drag handles"
+msgstr  "Arrossega les manetes"
+
+msgctxt "Mouse action"
+msgid   "Drag inside selection rectangle"
+msgstr  "Arrossega dins el rectangle de la selecció"
+
+msgctxt "Mouse action"
+msgid   "Drag outside selection rectangle"
+msgstr  "Arrossega fora del rectangle de la selecció"
+
+msgctxt "Mouse action"
+msgid   "Release left-click"
+msgstr  "Deixar anar el clic esquerre"
+
+msgctxt "Mouse action"
+msgid   "Right-click"
+msgstr  "Clic dret"
+
+msgid   "Move selection rectangle:"
+msgstr  "Mou el rectangle de la selecció:"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Josep M. Ferrer"
+
+msgid   "Never"
+msgstr  "Mai"
+
+msgid   "No Delay"
+msgstr  "Sense retard"
+
+msgid   "On Click"
+msgstr  "Al clic"
+
+msgid   "Only capture the current pop up menu"
+msgstr  "Captura només el menú emergent actual"
+
+msgid   "Open Containing Folder"
+msgstr  "Obri la carpeta contenidora"
+
+msgid   "Open Default Screenshots Folder"
+msgstr  "Obri la carpeta predeterminada de captures de pantalla"
+
+msgid   "Open a new Spectacle window"
+msgstr  "Obri una finestra nova d'Spectacle"
+
+msgid   "Open and edit existing screenshot file"
+msgstr  "Obri i edita un fitxer existent de captura de pantalla"
+
+msgctxt "Open the screenshot we just saved"
+msgid   "Open"
+msgstr  "Obri"
+
+msgid   "Other Application..."
+msgstr  "Una atra aplicació..."
+
+msgctxt "Placeholder is filename"
+msgid   "A screenshot was saved as '%1' to your Pictures folder."
+msgstr  "S'ha guardat una captura de pantalla com a «%1» a la carpeta Imàgens."
+
+msgid   "Press screenshot key to:"
+msgstr  "Prémer una tecla de captura de pantalla per a:"
+
+msgctxt "Preview of the user configured filename"
+msgid   "Preview:"
+msgstr  "Vista prèvia:"
+
+msgid   "Printing failed. The printer failed to initialize."
+msgstr  "No s'ha pogut imprimir. No s'ha pogut restablir la impressora."
+
+msgid   "QImageWriter cannot write image: %1"
+msgstr  "QImageWriter no ha pogut escriure la image: %1"
+
+msgid   "Quit Spectacle after manually saving or copying the image"
+msgstr  "Ix d'Spectacle després de guardar o copiar manualment la image"
+
+msgid   "Quit after manual Save or Copy"
+msgstr  "Ix després de guardar o copiar manualment"
+
+msgid   "Quit after saving or copying an image"
+msgstr  "Ix després de guardar o copiar una image"
+
+msgid   "Ready to take a screenshot"
+msgstr  "Preparat per prendre una captura de pantalla"
+
+msgid   "Record Screen"
+msgstr  "Grava la pantalla"
+
+msgid   "Rectangular Region"
+msgstr  "Regió rectangular"
+
+msgid   "Remember selected area:"
+msgstr  "Recorda l'àrea seleccionada:"
+
+msgid   "Remember the last rectangular region"
+msgstr  "Recorda l'última regió rectangular"
+
+msgid   "Reset selection:"
+msgstr  "Reinicia la selecció:"
+
+msgid   "Resize selection rectangle:"
+msgstr  "Redimensiona el rectangle de la selecció:"
+
+msgid   "Return focus to Spectacle"
+msgstr  "Retorna el focus a Spectacle"
+
+msgid   "Save"
+msgstr  "Guarda"
+
+msgid   "Save As..."
+msgstr  "Anomena i guarda..."
+
+msgid   "Save Location:"
+msgstr  "Ubicació de guardada:"
+
+msgid   "Save file to default folder"
+msgstr  "Fitxer de guardada en la carpeta predeterminada"
+
+msgid   "Save screenshot automatically after it is taken"
+msgstr  "Guarda automàticament la captura de pantalla després que es prenga"
+
+msgid   "Screenshot capture canceled or failed"
+msgstr  "La captura de pantalla s'ha cancelat o ha fallat"
+
+msgid   "Share"
+msgstr  "Compartix"
+
+msgid   "Shortcuts"
+msgstr  "Dreceres"
+
+msgid   "Show magnifier"
+msgstr  "Mostra la lupa"
+
+msgid   "Show the mouse cursor in the screenshot image"
+msgstr  "Mostra el cursor del ratolí en la image de la captura de pantalla"
+
+msgid   "Show the window title bar, the minimize/maximize/close buttons, and "
+        "the window border"
+msgstr  "Mostra la barra de títol de la finestra, els botons de minimisar/"
+        "maximisar/tancar, i la vora de la finestra"
+
+msgid   "Spectacle"
+msgstr  "Spectacle"
+
+msgid   "Start in DBus-Activation mode"
+msgstr  "Inicia en modo «activació de D-Bus»"
+
+msgid   "Start in GUI mode (default)"
+msgstr  "Inicia en modo IGU (predeterminat)"
+
+msgid   "Starts a new GUI instance of spectacle without registering to DBus"
+msgstr  "Inicia una instància nova de la IGU d'Spectacle sense registrar a D-"
+        "Bus"
+
+msgid   "Take Screenshot:"
+msgstr  "Pren una captura de pantalla:"
+
+msgid   "Take a New Screenshot"
+msgstr  "Pren una captura de pantalla nova"
+
+msgid   "Take a new Screenshot"
+msgstr  "Pren una captura de pantalla nova"
+
+msgid   "Take a screenshot and exit without showing the GUI"
+msgstr  "Pren una captura de pantalla i ix sense mostrar la IGU"
+
+msgid   "Take full screen screenshot"
+msgstr  "Pren una captura de pantalla completa"
+
+msgid   "Take screenshot on click"
+msgstr  "Pren una captura de pantalla en fer clic"
+
+msgctxt "The active window was captured, heading"
+msgid   "Active Window Captured"
+msgstr  "S'ha capturat la finestra activa"
+
+msgctxt "The current screen was captured, heading"
+msgid   "Current Screen Captured"
+msgstr  "S'ha capturat la pantalla actual"
+
+msgid   "The default filename used when saving"
+msgstr  "El nom de fitxer predeterminat utilisat en guardar"
+
+msgctxt "The entire screen area was captured, heading"
+msgid   "Full Screen Captured"
+msgstr  "S'ha capturat la pantalla completa"
+
+msgid   "The last used copy mode"
+msgstr  "L'últim modo de còpia utilisat"
+
+msgid   "The last used region the user selected"
+msgstr  "L'última regió utilisada que l'usuari va seleccionar"
+
+msgid   "The last used save mode"
+msgstr  "L'últim modo de guardada utilisat"
+
+msgid   "The path of the file saved last"
+msgstr  "El camí del últim fitxer guardat"
+
+msgid   "The screenshot has been copied to the clipboard."
+msgstr  "La captura de pantalla s'ha copiat al porta-retalls."
+
+msgid   "The screenshot has been saved as <a href=\"%1\">%2</a> and its "
+        "location has been copied to clipboard"
+msgstr  "La captura de pantalla s'ha guardat com a <a href=\"%1\">%2</a> i la "
+        "seua ubicació s'ha copiat al porta-retalls"
+
+msgid   "The screenshot was copied to the clipboard and saved as <a "
+        "href=\"%1\">%2</a>"
+msgstr  "La captura de pantalla s'ha copiat al porta-retalls i guardat com a "
+        "<a href=\"%1\">%2</a>"
+
+msgid   "The screenshot was saved as <a href=\"%1\">%2</a>"
+msgstr  "La captura de pantalla s'ha guardat com a <a href=\"%1\">%2</a>"
+
+msgid   "The shared image link (<a href=\"%1\">%1</a>) has been copied to the "
+        "clipboard."
+msgstr  "L'enllaç a la image compartida (<a href=\"%1\">%1</a>) s'ha copiat "
+        "al porta-retalls."
+
+msgctxt "The window under the mouse was captured, heading"
+msgid   "Window Under Cursor Captured"
+msgstr  "S'ha capturat la finestra baix el cursor"
+
+msgid   "There was a problem sharing the image: %1"
+msgstr  "S'ha produït un problema en compartir la image: %1"
+
+msgid   "To save to a sub-folder"
+msgstr  "Per a guardar a una subcarpeta"
+
+msgid   "Tools"
+msgstr  "Eines"
+
+msgid   "Unable to save image. Could not upload file to remote location."
+msgstr  "No s'ha pogut guardar la image. No s'ha pogut pujar a la ubicació "
+        "remota."
+
+msgid   "Until Spectacle is closed"
+msgstr  "Fins que es tanque Spectacle"
+
+msgid   "Use last-used capture mode"
+msgstr  "Utilisa l'últim modo de captura emprat"
+
+msgid   "Use light background"
+msgstr  "Utilisa un fons clar"
+
+msgid   "Wait for a click before taking screenshot. Invalidates delay"
+msgstr  "Espera un clic abans de prendre la captura de pantalla. Invalida el "
+        "retard"
+
+msgid   "Wait for a mouse click before capturing the screenshot image"
+msgstr  "Espera un clic del ratolí abans de captar la image de la captura de "
+        "pantalla"
+
+msgid   "What should happen if print key is pressed when Spectacle is already "
+        "running"
+msgstr  "Què hauria de passar si es prem la tecla d'impressió quan Spectacle "
+        "ya s'està executant"
+
+msgid   "What to do when Spectacle is launched"
+msgstr  "Què fa en iniciar Spectacle"
+
+msgid   "When launching Spectacle:"
+msgstr  "En iniciar Spectacle:"
+
+msgid   "Whether the mouse cursor is included in the screenshot"
+msgstr  "Si el cursor del ratolí s'inclou a la captura de pantalla"
+
+msgid   "Whether the screenshot should be captured after selecting the region "
+        "and releasing the mouse"
+msgstr  "Si la captura de pantalla s'ha de capturar després de seleccionar la "
+        "regió i lliberar el ratolí"
+
+msgid   "Whether the window decorations are included in the screenshot"
+msgstr  "Si les decoracions de la finestra s'inclouen a la captura de pantalla"
+
+msgid   "Whether to show a magnifier in the region selection"
+msgstr  "Si s'ha d'utilisar una lupa a la selecció de la regió"
+
+msgid   "Whether to use a light color mask in the region selection dialog"
+msgstr  "Si cal utilisar una màscara de color clar en el diàlec de selecció "
+        "de la regió"
+
+msgid   "While Spectacle is running"
+msgstr  "Mentre Spectacle està executant-se"
+
+msgid   "Window Under Cursor"
+msgstr  "Finestra baix el cursor"
+
+msgid   "You can use the following placeholders in the filename, which will "
+        "be replaced with actual text when the file is saved:<blockquote>"
+msgstr  "Podeu utilisar els següents marcadors de posició en el nom de "
+        "fitxer, els quals seran substituïts amb el text real quan es guarde "
+        "el fitxer:<blockquote>"

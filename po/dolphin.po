@@ -1,0 +1,3185 @@
+msgid   ""
+msgstr  "Project-Id-Version: dolphin\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-05-08 10:59+0200\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+        "X-Generator: Lokalize 20.12.0\n"
+
+msgid   " level deep"
+msgid_plural    " levels deep"
+msgstr[0]       " nivell de profunditat"
+msgstr[1]       " nivells de profunditat"
+
+msgid   "&Edit"
+msgstr  "&Edita"
+
+msgid   "&Go"
+msgstr  "&Ves"
+
+msgid   "&View"
+msgstr  "&Visualisa"
+
+msgctxt "<filename> copy"
+msgid   "%1 copy"
+msgstr  "Còpia de %1"
+
+msgctxt "@action"
+msgid   "Create Folder..."
+msgstr  "Crea una carpeta..."
+
+msgctxt "@action \"Move to Trash\" for non-local files, etc."
+msgid   "Delete (using shortcut for Trash)"
+msgstr  "Elimina (utilisant una drecera per a la paperera)"
+
+msgctxt "@action:button"
+msgid   "Add Network Folder"
+msgstr  "Afig una carpeta de ret"
+
+msgctxt "@action:button"
+msgid   "Add Tags"
+msgstr  "Afig etiquetes"
+
+msgctxt "@action:button"
+msgid   "Download New Services..."
+msgstr  "Baixa serveis nous..."
+
+msgctxt "@action:button"
+msgid   "Empty Trash"
+msgstr  "Buida la paperera"
+
+msgctxt "@action:button"
+msgid   "Rename and Hide"
+msgstr  "Canvia el nom i oculta"
+
+msgctxt "@action:button"
+msgid   "Select Home Location"
+msgstr  "Seleccioneu la ubicació d'inici"
+
+msgctxt "@action:button"
+msgid   "Use Current Location"
+msgstr  "Utilisa la ubicació actual"
+
+msgctxt "@action:button"
+msgid   "Use Default Location"
+msgstr  "Utilisa la ubicació predeterminada"
+
+msgctxt "@action:button %2 is a list of tags"
+msgid   "Tag: %2"
+msgid_plural    "Tags: %2"
+msgstr[0]       "Etiqueta: %2"
+msgstr[1]       "Etiquetes: %2"
+
+msgctxt "@action:button 'Quit Dolphin' button"
+msgid   "&Quit %1"
+msgstr  "I&x de %1"
+
+msgctxt "@action:button Choose font"
+msgid   "Choose..."
+msgstr  "Trie..."
+
+msgctxt "@action:incontextmenu"
+msgid   "Copy Location"
+msgstr  "Copia la ubicació"
+
+msgctxt "@action:inmenu"
+msgid   "Activate Last Tab"
+msgstr  "Activa l'última pestanya"
+
+msgctxt "@action:inmenu"
+msgid   "Activate Next Tab"
+msgstr  "Activa la pestanya següent"
+
+msgctxt "@action:inmenu"
+msgid   "Activate Previous Tab"
+msgstr  "Activa la pestanya anterior"
+
+msgctxt "@action:inmenu"
+msgid   "Activate Tab %1"
+msgstr  "Activa la pestanya %1"
+
+msgctxt "@action:inmenu"
+msgid   "Auto-Play media files"
+msgstr  "Reproduïx automàticament els fitxers multimèdia"
+
+msgctxt "@action:inmenu"
+msgid   "Automatic Column Widths"
+msgstr  "Amplària automàtica de les columnes"
+
+msgctxt "@action:inmenu"
+msgid   "Automatic Scrolling"
+msgstr  "Desplaçament automàtic"
+
+msgctxt "@action:inmenu"
+msgid   "Clear Selection"
+msgstr  "Neteja la selecció"
+
+msgctxt "@action:inmenu"
+msgid   "Close Other Tabs"
+msgstr  "Tanca les atres pestanyes"
+
+msgctxt "@action:inmenu"
+msgid   "Close Tab"
+msgstr  "Tanca la pestanya"
+
+msgctxt "@action:inmenu"
+msgid   "Condensed Date"
+msgstr  "Data condensada"
+
+msgctxt "@action:inmenu"
+msgid   "Configure Trash…"
+msgstr  "Configura la paperera…"
+
+msgctxt "@action:inmenu"
+msgid   "Configure..."
+msgstr  "Configura..."
+
+msgctxt "@action:inmenu"
+msgid   "Copy"
+msgstr  "Copia"
+
+msgctxt "@action:inmenu"
+msgid   "Copy to Inactive Split View"
+msgstr  "Copia a la vista dividida inactiva"
+
+msgctxt "@action:inmenu"
+msgid   "Custom Column Widths"
+msgstr  "Amplària personalisada de les columnes"
+
+msgctxt "@action:inmenu"
+msgid   "Cut"
+msgstr  "Retalla"
+
+msgctxt "@action:inmenu"
+msgid   "Delete"
+msgstr  "Suprimix"
+
+msgctxt "@action:inmenu"
+msgid   "Detach Tab"
+msgstr  "Separa la pestanya"
+
+msgctxt "@action:inmenu"
+msgid   "Empty Trash"
+msgstr  "Buida la paperera"
+
+msgctxt "@action:inmenu"
+msgid   "Leading Column Padding"
+msgstr  "Farciment de la columna inicial"
+
+msgctxt "@action:inmenu"
+msgid   "Limit to Home Directory"
+msgstr  "Llimita al directori d'inici"
+
+msgctxt "@action:inmenu"
+msgid   "Location Bar"
+msgid_plural    "Location Bars"
+msgstr[0]       "Barra d'ubicació"
+msgstr[1]       "Barres d'ubicació"
+
+msgctxt "@action:inmenu"
+msgid   "Move to Inactive Split View"
+msgstr  "Mou a la vista dividida inactiva"
+
+msgctxt "@action:inmenu"
+msgid   "Move to Trash"
+msgstr  "Mou a la paperera"
+
+msgctxt "@action:inmenu"
+msgid   "New Tab"
+msgstr  "Pestanya nova"
+
+msgctxt "@action:inmenu"
+msgid   "Next Tab"
+msgstr  "Pestanya següent"
+
+msgctxt "@action:inmenu"
+msgid   "Open Path"
+msgstr  "Obri el camí"
+
+msgctxt "@action:inmenu"
+msgid   "Open Path in New Tab"
+msgstr  "Obri el camí en una pestanya nova"
+
+msgctxt "@action:inmenu"
+msgid   "Open Path in New Window"
+msgstr  "Obri el camí en una finestra nova"
+
+msgctxt "@action:inmenu"
+msgid   "Open in New Tab"
+msgstr  "Obri en una pestanya nova"
+
+msgctxt "@action:inmenu"
+msgid   "Open in New Tabs"
+msgstr  "Obri en pestanyes noves"
+
+msgctxt "@action:inmenu"
+msgid   "Open in New Window"
+msgstr  "Obri en una finestra nova"
+
+msgctxt "@action:inmenu"
+msgid   "Preview"
+msgstr  "Vista prèvia"
+
+msgctxt "@action:inmenu"
+msgid   "Previous Tab"
+msgstr  "Pestanya anterior"
+
+msgctxt "@action:inmenu"
+msgid   "Properties"
+msgstr  "Propietats"
+
+msgctxt "@action:inmenu"
+msgid   "Rename..."
+msgstr  "Canvia el nom..."
+
+msgctxt "@action:inmenu"
+msgid   "Restore"
+msgstr  "Restaura"
+
+msgctxt "@action:inmenu"
+msgid   "Show Hidden Files"
+msgstr  "Mostra els fitxers ocults"
+
+msgctxt "@action:inmenu"
+msgid   "Show Space Information"
+msgstr  "Mostra la informació sobre l'espai"
+
+msgctxt "@action:inmenu"
+msgid   "Show Target"
+msgstr  "Mostra la destinació"
+
+msgctxt "@action:inmenu"
+msgid   "Show Zoom Slider"
+msgstr  "Mostra el control lliscant del zoom"
+
+msgctxt "@action:inmenu"
+msgid   "Toggle Filter Bar"
+msgstr  "Canvia la barra de filtres"
+
+msgctxt "@action:inmenu"
+msgid   "Toggle Search Bar"
+msgstr  "Canvia la barra de busques"
+
+msgctxt "@action:inmenu Add current folder to places"
+msgid   "Add to Places"
+msgstr  "Afig a Llocs"
+
+msgctxt "@action:inmenu Edit"
+msgid   "&Edit File Type..."
+msgstr  "&Edita el tipus de fitxer..."
+
+msgctxt "@action:inmenu Edit"
+msgid   "Copy to Inactive Split View"
+msgstr  "Copia a la vista dividida inactiva"
+
+msgctxt "@action:inmenu Edit"
+msgid   "Invert Selection"
+msgstr  "Inverteix la selecció"
+
+msgctxt "@action:inmenu Edit"
+msgid   "Move to Inactive Split View"
+msgstr  "Mou a la vista dividida inactiva"
+
+msgctxt "@action:inmenu Edit"
+msgid   "Paste"
+msgstr  "Apega"
+
+msgctxt "@action:inmenu Edit"
+msgid   "Select Items Matching..."
+msgstr  "Selecciona els elements que coincidisquen..."
+
+msgctxt "@action:inmenu Edit"
+msgid   "Unselect All"
+msgstr  "Desselecciona-ho tot"
+
+msgctxt "@action:inmenu Edit"
+msgid   "Unselect Items Matching..."
+msgstr  "Desselecciona els elements que coincidisquen..."
+
+msgctxt "@action:inmenu File"
+msgid   "Close Tab"
+msgstr  "Tanca la pestanya"
+
+msgctxt "@action:inmenu File"
+msgid   "Duplicate Here"
+msgstr  "Duplica ací"
+
+msgctxt "@action:inmenu File"
+msgid   "New &Window"
+msgstr  "&Finestra nova"
+
+msgctxt "@action:inmenu File"
+msgid   "New Tab"
+msgstr  "Pestanya nova"
+
+msgctxt "@action:inmenu File"
+msgid   "Properties"
+msgstr  "Propietats"
+
+msgctxt "@action:inmenu File"
+msgid   "Undo close tab"
+msgstr  "Desfés el tancament de la pestanya"
+
+msgctxt "@action:inmenu Go"
+msgid   "&Network Folders"
+msgstr  "Carpetes de &ret"
+
+msgctxt "@action:inmenu Go"
+msgid   "App&lications"
+msgstr  "A&plicacions"
+
+msgctxt "@action:inmenu Go"
+msgid   "Autostart"
+msgstr  "Inici automàtic"
+
+msgctxt "@action:inmenu Go"
+msgid   "Trash"
+msgstr  "Paperera"
+
+msgctxt "@action:inmenu Navigation Bar"
+msgid   "Editable Location"
+msgstr  "Ubicació editable"
+
+msgctxt "@action:inmenu Navigation Bar"
+msgid   "Replace Location"
+msgstr  "Substitueix la ubicació"
+
+msgctxt "@action:inmenu Panels"
+msgid   "Lock Panels"
+msgstr  "Bloqueja els quadros"
+
+msgctxt "@action:inmenu Panels"
+msgid   "Unlock Panels"
+msgstr  "Desbloqueja els quadros"
+
+msgctxt "@action:inmenu Sort"
+msgid   "Folders First"
+msgstr  "Primer les carpetes"
+
+msgctxt "@action:inmenu Sort"
+msgid   "Hidden Files Last"
+msgstr  "Últims els fitxers ocults"
+
+msgctxt "@action:inmenu Tools"
+msgid   "Compare Files"
+msgstr  "Compara fitxers"
+
+msgctxt "@action:inmenu Tools"
+msgid   "Defocus Terminal Panel"
+msgstr  "Trau el focus del quadro del terminal"
+
+msgctxt "@action:inmenu Tools"
+msgid   "Filter..."
+msgstr  "Filtre..."
+
+msgctxt "@action:inmenu Tools"
+msgid   "Find File..."
+msgstr  "Busca fitxers..."
+
+msgctxt "@action:inmenu Tools"
+msgid   "Focus Terminal Panel"
+msgstr  "Dona el focus al quadro del terminal"
+
+msgctxt "@action:inmenu Tools"
+msgid   "Open %1"
+msgstr  "Obri %1"
+
+msgctxt "@action:inmenu Tools"
+msgid   "Open &Terminal"
+msgstr  "Obri un &terminal"
+
+msgctxt "@action:inmenu Tools"
+msgid   "Open Preferred Search Tool"
+msgstr  "Obri l'eina de busca preferida"
+
+msgctxt "@action:inmenu Tools"
+msgid   "Open Terminal"
+msgstr  "Obri un terminal"
+
+msgctxt "@action:inmenu View"
+msgid   "Adjust View Display Style..."
+msgstr  "Ajusta l'estil de presentació de la vista..."
+
+msgctxt "@action:inmenu View"
+msgid   "Reset Zoom Level"
+msgstr  "Reinici del nivell de zoom"
+
+msgctxt "@action:inmenu View"
+msgid   "Show Additional Information"
+msgstr  "Mostra la informació addicional"
+
+msgctxt "@action:inmenu View"
+msgid   "Show Hidden Files"
+msgstr  "Mostra els fitxers ocults"
+
+msgctxt "@action:inmenu View"
+msgid   "Show Panels"
+msgstr  "Mostra els quadros"
+
+msgctxt "@action:inmenu View"
+msgid   "Show in Groups"
+msgstr  "Mostra en grups"
+
+msgctxt "@action:inmenu View"
+msgid   "Sort By"
+msgstr  "Ordena per"
+
+msgctxt "@action:inmenu View"
+msgid   "Stop"
+msgstr  "Para"
+
+msgctxt "@action:inmenu View Mode"
+msgid   "Compact"
+msgstr  "Compacte"
+
+msgctxt "@action:inmenu View Mode"
+msgid   "Details"
+msgstr  "Detalls"
+
+msgctxt "@action:inmenu View Mode"
+msgid   "Icons"
+msgstr  "Icones"
+
+msgctxt "@action:inmenu menu for configure actions"
+msgid   "Configure"
+msgstr  "Configura"
+
+msgctxt "@action:inmenu menu of zoom actions"
+msgid   "Zoom"
+msgstr  "Zoom"
+
+msgctxt "@action:inmenu menu with actions like copy, paste, rename. %1 and %2 "
+        "are names of files/folders."
+msgid   "Actions for \"%1\" and \"%2\""
+msgstr  "Accions per a «%1» i «%2»"
+
+msgctxt "@action:inmenu menu with actions like copy, paste, rename. %1 is the "
+        "amount of selected files/folders."
+msgid   "Actions for One Selected File"
+msgid_plural    "Actions for %1 Selected Files"
+msgstr[0]       "Accions per a un fitxer seleccionat"
+msgstr[1]       "Accions per a %1 fitxers seleccionats"
+
+msgctxt "@action:inmenu menu with actions like copy, paste, rename. %1 is the "
+        "amount of selected files/folders."
+msgid   "Actions for One Selected Folder"
+msgid_plural    "Actions for %1 Selected Folders"
+msgstr[0]       "Accions per a una carpeta seleccionada"
+msgstr[1]       "Accions per a %1 carpetes seleccionades"
+
+msgctxt "@action:inmenu menu with actions like copy, paste, rename. %1 is the "
+        "amount of selected files/folders."
+msgid   "Actions for One Selected Item"
+msgid_plural    "Actions for %1 Selected Items"
+msgstr[0]       "Accions per a un element seleccionat"
+msgstr[1]       "Accions per a %1 elements seleccionats"
+
+msgctxt "@action:inmenu menu with actions like copy, paste, rename. %1 is the "
+        "name of the singular selected file/folder."
+msgid   "Actions for \"%1\""
+msgstr  "Accions per a «%1»"
+
+msgctxt "@action:inmenu menu with actions like copy, paste, rename. %1, %2 "
+        "and %3 are names of files/folders."
+msgid   "Actions for \"%1\", \"%2\" and \"%3\""
+msgstr  "Accions per a «%1», «%2» i «%3»"
+
+msgctxt "@action:inmenu menu with actions like copy, paste, rename. The "
+        "user's selection is empty when this text is shown."
+msgid   "Actions for Current View"
+msgstr  "Accions per a la vista actual"
+
+msgctxt "@action:intoolbar"
+msgid   "Filter"
+msgstr  "Filtre"
+
+msgctxt "@action:intoolbar"
+msgid   "Search"
+msgstr  "Busca"
+
+msgctxt "@action:intoolbar"
+msgid   "Show Previews"
+msgstr  "Mostra les vistes prèvies"
+
+msgctxt "@action:intoolbar"
+msgid   "View Mode"
+msgstr  "Modo de vista"
+
+msgctxt "@action:intoolbar Close left view"
+msgid   "Close"
+msgstr  "Tanca"
+
+msgctxt "@action:intoolbar Close right view"
+msgid   "Close"
+msgstr  "Tanca"
+
+msgctxt "@action:intoolbar Split view"
+msgid   "Split"
+msgstr  "Dividix"
+
+msgctxt "@action:intoolbar Stash"
+msgid   "Stash"
+msgstr  "Modificació temporal"
+
+msgctxt "@info"
+msgid   "Close left view"
+msgstr  "Tanca la vista de l'esquerra"
+
+msgctxt "@info"
+msgid   "Close right view"
+msgstr  "Tanca la vista de la dreta"
+
+msgctxt "@info"
+msgid   "Compact view mode"
+msgstr  "Modo de vista compacte"
+
+msgctxt "@info"
+msgid   "Could not access <filename>%1</filename>."
+msgstr  "No s'ha pogut accedir a <filename>%1</filename>."
+
+msgctxt "@info"
+msgid   "Details view mode"
+msgstr  "Modo de vista de detalls"
+
+msgctxt "@info"
+msgid   "Dolphin must be restarted to apply the updated version control "
+        "system settings."
+msgstr  "S'ha de tornar a iniciar Dolphin per a aplicar la configuració "
+        "actualisada dels sistemes de control de versió."
+
+msgctxt "@info"
+msgid   "Dolphin will create a hidden .directory file in each folder you "
+        "change view properties for."
+msgstr  "Dolphin crearà un fitxer «.directory» ocult a cada carpeta en què "
+        "canvieu les propietats de la vista."
+
+msgctxt "@info"
+msgid   "Go back"
+msgstr  "Retrocedeix"
+
+msgctxt "@info"
+msgid   "Go forward"
+msgstr  "Avança"
+
+msgctxt "@info"
+msgid   "Icons view mode"
+msgstr  "Modo de vista d'icones"
+
+msgctxt "@info"
+msgid   "Open a new Dolphin window"
+msgstr  "Obri una finestra nova de Dolphin"
+
+msgctxt "@info"
+msgid   "Opens the stash virtual directory in a split window"
+msgstr  "Obri el directori virtual de modificació temporal en una finestra "
+        "dividida"
+
+msgctxt "@info"
+msgid   "Restart now?"
+msgstr  "Voleu reiniciar ara?"
+
+msgctxt "@info"
+msgid   "Searching..."
+msgstr  "S'està buscant..."
+
+msgctxt "@info"
+msgid   "Show preview of files and folders"
+msgstr  "Mostra la vista prèvia de fitxers i carpetes"
+
+msgctxt "@info"
+msgid   "Split view"
+msgstr  "Vista dividida"
+
+msgctxt "@info"
+msgid   "Stop loading"
+msgstr  "Para la càrrega"
+
+msgctxt "@info"
+msgid   "The location for the home folder is invalid or does not exist, it "
+        "will not be applied."
+msgstr  "La ubicació per a la carpeta personal no és vàlida o no existix, i "
+        "no s'aplicarà."
+
+msgctxt "@info"
+msgid   "The view properties of all folders will be changed. Do you want to "
+        "continue?"
+msgstr  "Es canviaran les propietats de la vista de totes les carpetes. Voleu "
+        "continuar?"
+
+msgctxt "@info"
+msgid   "The view properties of all sub-folders will be changed. Do you want "
+        "to continue?"
+msgstr  "Es canviaran les propietats de la vista de totes les subcarpetes. "
+        "Voleu continuar?"
+
+msgctxt "@info"
+msgid   "This stops the loading of the contents of the current folder."
+msgstr  "Para la càrrega del contingut de la carpeta actual."
+
+msgctxt "@info:credit"
+msgid   "(C) 2006-2018 Peter Penz, Frank Reininghaus, Emmanuel Pescosta and "
+        "Elvis Angelaccio"
+msgstr  "(C) 2006-2018 Peter Penz, Frank Reininghaus, Emmanuel Pescosta i "
+        "Elvis Angelaccio"
+
+msgctxt "@info:credit"
+msgid   "Aaron J. Seigo"
+msgstr  "Aaron J. Seigo"
+
+msgctxt "@info:credit"
+msgid   "David Faure"
+msgstr  "David Faure"
+
+msgctxt "@info:credit"
+msgid   "Developer"
+msgstr  "Desenvolupador"
+
+msgctxt "@info:credit"
+msgid   "Documentation"
+msgstr  "Documentació"
+
+msgctxt "@info:credit"
+msgid   "Elvis Angelaccio"
+msgstr  "Elvis Angelaccio"
+
+msgctxt "@info:credit"
+msgid   "Emmanuel Pescosta"
+msgstr  "Emmanuel Pescosta"
+
+msgctxt "@info:credit"
+msgid   "Frank Reininghaus"
+msgstr  "Frank Reininghaus"
+
+msgctxt "@info:credit"
+msgid   "Holger Freyther"
+msgstr  "Holger Freyther"
+
+msgctxt "@info:credit"
+msgid   "Kevin Ottens"
+msgstr  "Kevin Ottens"
+
+msgctxt "@info:credit"
+msgid   "Maintainer (2012-2014) and developer"
+msgstr  "Mantenidor (2012-2014) i desenvolupador"
+
+msgctxt "@info:credit"
+msgid   "Maintainer (2014-2018) and developer"
+msgstr  "Mantenidor (2014-2018) i desenvolupador"
+
+msgctxt "@info:credit"
+msgid   "Maintainer (since 2018) and developer"
+msgstr  "Mantenidor (des de 2018) i desenvolupador"
+
+msgctxt "@info:credit"
+msgid   "Maintainer and developer (2006-2012)"
+msgstr  "Mantenidor i desenvolupador (2006-2012)"
+
+msgctxt "@info:credit"
+msgid   "Max Blazejak"
+msgstr  "Max Blazejak"
+
+msgctxt "@info:credit"
+msgid   "Michael Austin"
+msgstr  "Michael Austin"
+
+msgctxt "@info:credit"
+msgid   "Peter Penz"
+msgstr  "Peter Penz"
+
+msgctxt "@info:credit"
+msgid   "Rafael Fernández López"
+msgstr  "Rafael Fernández López"
+
+msgctxt "@info:credit"
+msgid   "Sebastian Trüg"
+msgstr  "Sebastian Trüg"
+
+msgctxt "@info:progress"
+msgid   "Counting folders: %1"
+msgstr  "S'estan comptant les carpetes: %1"
+
+msgctxt "@info:progress"
+msgid   "Folders: %1"
+msgstr  "Carpetes: %1"
+
+msgctxt "@info:progress"
+msgid   "Loading folder..."
+msgstr  "S'està carregant la carpeta..."
+
+msgctxt "@info:progress"
+msgid   "Sorting..."
+msgstr  "S'està ordenant..."
+
+msgctxt "@info:shell"
+msgid   "Document to open"
+msgstr  "Document que s'obrirà"
+
+msgctxt "@info:shell"
+msgid   "Dolphin will explicitly open in a new window."
+msgstr  "Dolphin s'obrirà explícitament a una finestra nova."
+
+msgctxt "@info:shell"
+msgid   "Dolphin will get started with a split view."
+msgstr  "Dolphin s'iniciarà amb una vista dividida."
+
+msgctxt "@info:shell"
+msgid   "Start Dolphin Daemon (only required for DBus Interface)"
+msgstr  "Inici del dimoni Dolphin (només és requerit per la interfície de D-"
+        "Bus)"
+
+msgctxt "@info:shell"
+msgid   "The files and folders passed as arguments will be selected."
+msgstr  "Se seleccionaran els fitxers i carpetes passats com arguments."
+
+msgctxt "@info:status"
+msgid   "0 Folders, 0 Files"
+msgstr  "0 carpetes, 0 fitxers"
+
+msgctxt "@info:status"
+msgid   "1 File"
+msgid_plural    "%1 Files"
+msgstr[0]       "1 fitxer"
+msgstr[1]       "%1 fitxers"
+
+msgctxt "@info:status"
+msgid   "1 File selected"
+msgid_plural    "%1 Files selected"
+msgstr[0]       "S'ha seleccionat 1 fitxer"
+msgstr[1]       "S'han seleccionat %1 fitxers"
+
+msgctxt "@info:status"
+msgid   "1 Folder"
+msgid_plural    "%1 Folders"
+msgstr[0]       "1 carpeta"
+msgstr[1]       "%1 carpetes"
+
+msgctxt "@info:status"
+msgid   "1 Folder selected"
+msgid_plural    "%1 Folders selected"
+msgstr[0]       "S'ha seleccionat 1 carpeta"
+msgstr[1]       "S'han seleccionat %1 carpetes"
+
+msgctxt "@info:status"
+msgid   "Created folder."
+msgstr  "S'ha creat la carpeta."
+
+msgctxt "@info:status"
+msgid   "Delete operation completed."
+msgstr  "S'ha completat l'operació de supressió."
+
+msgctxt "@info:status"
+msgid   "Dolphin does not support web pages, the web browser has been launched"
+msgstr  "Dolphin no accepta pàgines web, s'acaba d'iniciar el navegador web"
+
+msgctxt "@info:status"
+msgid   "Invalid protocol"
+msgstr  "Protocol no vàlit"
+
+msgctxt "@info:status"
+msgid   "No items found."
+msgstr  "No s'ha trobat cap element."
+
+msgctxt "@info:status"
+msgid   "Protocol not supported by Dolphin, default application has been "
+        "launched"
+msgstr  "Dolphin no admet este protocol, s'acaba d'iniciar l'aplicació "
+        "predeterminada"
+
+msgctxt "@info:status"
+msgid   "Successfully copied."
+msgstr  "S'ha copiat correctament."
+
+msgctxt "@info:status"
+msgid   "Successfully linked."
+msgstr  "S'ha enllaçat correctament."
+
+msgctxt "@info:status"
+msgid   "Successfully moved to trash."
+msgstr  "S'ha mogut a la paperera correctament."
+
+msgctxt "@info:status"
+msgid   "Successfully moved."
+msgstr  "S'ha mogut correctament."
+
+msgctxt "@info:status"
+msgid   "Successfully renamed."
+msgstr  "S'ha canviat el nom correctament."
+
+msgctxt "@info:status"
+msgid   "The location '%1' is invalid."
+msgstr  "La ubicació «%1» no és vàlida."
+
+msgctxt "@info:status"
+msgid   "The location is empty."
+msgstr  "La ubicació està buida."
+
+msgctxt "@info:status"
+msgid   "Trash operation completed."
+msgstr  "S'ha completat l'operació de paperera."
+
+msgctxt "@info:status"
+msgid   "Unknown error."
+msgstr  "S'ha produït un error desconegut."
+
+msgctxt "@info:status"
+msgid   "Updating version information..."
+msgstr  "S'està actualisant la informació de la versió..."
+
+msgctxt "@info:status Free disk space"
+msgid   "%1 free"
+msgstr  "%1 lliure"
+
+msgctxt "@info:status files (size)"
+msgid   "%1 (%2)"
+msgstr  "%1 (%2)"
+
+msgctxt "@info:status folders, files (size)"
+msgid   "%1, %2 (%3)"
+msgstr  "%1, %2 (%3)"
+
+msgctxt "@info:tooltip"
+msgid   "Hide Filter Bar"
+msgstr  "Oculta la barra de filtres"
+
+msgctxt "@info:tooltip"
+msgid   "Keep Filter When Changing Folders"
+msgstr  "Mantin el filtre en canviar de carpeta"
+
+msgctxt "@info:tooltip"
+msgid   "Quit searching"
+msgstr  "Para la busca"
+
+msgctxt "@info:tooltip"
+msgid   "Search for files and folders"
+msgstr  "Busca de fitxers i carpetes"
+
+msgctxt "@info:tooltip"
+msgid   "Show Filter Bar"
+msgstr  "Mostra la barra de filtres"
+
+msgctxt "@info:tooltip"
+msgid   "Size: 1 pixel"
+msgid_plural    "Size: %1 pixels"
+msgstr[0]       "Mida: 1 píxel"
+msgstr[1]       "Mida: %1 píxels"
+
+msgctxt "@info:whatsthis"
+msgid   "<para> This toggles the <emphasis>information</emphasis> panel at "
+        "the right side of the window.</para><para>The panel provides in-"
+        "depth information about the items your mouse is hovering over or "
+        "about the selected items. Otherwise it informs you about the "
+        "currently viewed folder.<nl/>For single items a preview of their "
+        "contents is provided.</para>"
+msgstr  "<para> Canvia el quadro d'<emphasis>informació</emphasis> de la "
+        "banda dreta de la finestra.</para><para>El quadro proporciona "
+        "informació detallada quant als elements sobre els quals està el "
+        "ratolí o quant als elements seleccionats. D'atra manera, informa "
+        "quant a la carpeta visualisada actualment. <nl/>Es proporciona una "
+        "vista prèvia del contingut dels elements individuals.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para><emphasis>Cut, Copy</emphasis> and <emphasis>Paste</emphasis> "
+        "work between many applications and are among the most used commands. "
+        "That's why their <emphasis>keyboard shortcuts</emphasis> are "
+        "prominently placed right next to each other on the keyboard: "
+        "<shortcut>Ctrl+X</shortcut>, <shortcut>Ctrl+C</shortcut> and "
+        "<shortcut>Ctrl+V</shortcut>.</para>"
+msgstr  "<para>Les ordres <emphasis>Retalla, Copia</emphasis> i "
+        "<emphasis>Apega</emphasis> funcionen entre moltes aplicacions i "
+        "estan entre les més utilisades. Açò és perquè les seues "
+        "<emphasis>dreceres de teclat</emphasis> estan situades a prop en el "
+        "teclat: <shortcut>Ctrl+X</shortcut>, <shortcut>Ctrl+C</shortcut> i "
+        "<shortcut>Ctrl+V</shortcut>.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>Go to the folder that contains the currently viewed one.</"
+        "para><para>All files and folders are organized in a hierarchical "
+        "<emphasis>file system</emphasis>. At the top of this hierarchy is a "
+        "directory that contains all data connected to this computer—the "
+        "<emphasis>root directory</emphasis>.</para>"
+msgstr  "<para>Va a la carpeta que conté la visualisada actualment.</"
+        "para><para>Tots els fitxers i carpetes estan organisats en un "
+        "<emphasis>sistema de fitxers</emphasis> jeràrquic. A la part "
+        "superior d'esta jerarquia hi ha un directori que conté totes les "
+        "dades connectades a est ordinador - el <emphasis>directori arrel</"
+        "emphasis>.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>This is the <emphasis>Menubar</emphasis>. It provides access "
+        "to commands and configuration options. Left-click on any of the "
+        "menus on this bar to see its contents.</para><para>The Menubar can "
+        "be hidden by unchecking <interface>Settings|Show Menubar</"
+        "interface>. Then most of its contents become available through a "
+        "<interface>Control</interface> button on the <emphasis>Toolbar</"
+        "emphasis>.</para>"
+msgstr  "<para>Esta és la <emphasis>Barra de menús</emphasis>. Proporciona "
+        "accés a les ordres i a les opcions de configuració. Feu un clic "
+        "esquerre a qualsevol dels menús d'esta barra per a vore el seu "
+        "contingut.</para><para>La barra de menús es pot ocultar desmarcant "
+        "<interface>Configuració|Mostra la barra de menús</interface>. La "
+        "majoria del seu contingut devé disponible a través del botó "
+        "<interface>Control</interface> de la <emphasis>Barra d'eines</"
+        "emphasis>.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>This is the <emphasis>Places</emphasis> panel. It allows you "
+        "to go to locations you have bookmarked and to access disk or media "
+        "attached to the computer or to the network. It also contains "
+        "sections to find recently saved files or files of a certain type.</"
+        "para><para>Click on an entry to go there. Click with the right mouse "
+        "button instead to open any entry in a new tab or new window.</"
+        "para><para>New entries can be added by dragging folders onto this "
+        "panel. Right-click any section or entry to hide it. Right-click an "
+        "empty space on this panel and select <interface>Show Hidden Places</"
+        "interface> to display it again.</para>"
+msgstr  "<para>Este és el quadro <emphasis>Llocs</emphasis>. Permet anar a "
+        "les ubicacions que heu indicat a les adreces d'interés i accedir al "
+        "disc o soport connectat a l'ordinador o a la ret. També conté "
+        "seccions per a buscar els fitxers guardats recentment o els fitxers "
+        "d'un tipus determinat.</para><para>Feu clic a una entrada per a anar-"
+        "hi. De manera alternativa, feu clic amb el botó dret del ratolí per "
+        "a obrir l'entrada en una pestanya nova o a una finestra nova.</"
+        "para><para>Es poden afegir entrades noves arrossegant carpetes a "
+        "este quadro. Feu clic dret a qualsevol secció o entrada per a "
+        "ocultar-la. Feu clic dret a un espai buit d'este quadro i "
+        "seleccioneu <interface>Mostra els llocs ocults</interface> per a "
+        "tornar-los a vore.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>This is the <emphasis>Toolbar</emphasis>. It allows quick "
+        "access to frequently used actions.</para><para>It is highly "
+        "customizable. All items you see in the <interface>Control</"
+        "interface> menu or in the <interface>Menubar</interface> can be "
+        "placed on the Toolbar. Just right-click on it and select "
+        "<interface>Configure Toolbars…</interface> or find this action in "
+        "the <interface>Control</interface> or <interface>Settings</"
+        "interface> menu.</para><para>The location of the bar and the style "
+        "of its buttons can also be changed in the right-click menu. Right-"
+        "click a button if you want to show or hide its text.</para>"
+msgstr  "<para>Esta és la <emphasis>Barra d'eines</emphasis>. Permet un accés "
+        "ràpid a les accions utilisades amb freqüència.</para><para>És molt "
+        "personalisable. Tots els elements que veeu al menú "
+        "<interface>Control</interface> o a la <interface>Barra de menús</"
+        "interface> es poden situar a la barra d'eines. Només cal fer-hi clic "
+        "dret i seleccionar <interface>Configura les barres d'eines…</"
+        "interface> o busqueu esta acció al menú <interface>Control</"
+        "interface> o <interface>Configuració</interface>.</para><para>La "
+        "ubicació de la barra i l'estil dels seus botons també es pot canviar "
+        "amb el menú en fer clic dret. Feu clic dret a un botó si voleu "
+        "mostrar o amagar el seu text.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>This is the <emphasis>terminal</emphasis> panel. It behaves "
+        "like a normal terminal but will match the location of the folder "
+        "view so you can navigate using either.</para><para>The terminal "
+        "panel is not needed for basic computer usage but can be useful for "
+        "advanced tasks. To learn more about terminals use the help in a "
+        "standalone terminal application like Konsole.</para>"
+msgstr  "<para>Açò és el quadro del <emphasis>terminal</emphasis>. Es "
+        "comporta com un terminal normal, pero coincidirà amb la vista de la "
+        "carpeta de manera que podeu navegar-hi utilisant qualsevol dels dos."
+        "</para><para>El quadro del terminal no és necessari per a un ús "
+        "bàsic de l'ordinador, pero pot ser útil per a tasques avançades. Per "
+        "a aprendre més quant als terminals utiliseu l'ajuda a una aplicació "
+        "independent de terminal, com Konsole.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>This opens a <emphasis>terminal</emphasis> application for the "
+        "viewed location.</para><para>To learn more about terminals use the "
+        "help in the terminal application.</para>"
+msgstr  "<para>Obri una aplicació de <emphasis>terminal</emphasis> per a la "
+        "ubicació visualisada.</para><para>Per a aprendre més quant als "
+        "terminals utiliseu l'ajuda a l'aplicació de terminal.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>This opens a <emphasis>web page</emphasis> where you can "
+        "donate to support the continued work on this application and many "
+        "other projects by the <emphasis>KDE</emphasis> community.</"
+        "para><para>Donating is the easiest and fastest way to efficiently "
+        "support KDE and its projects. KDE projects are available for free "
+        "therefore your donation is needed to cover things that require money "
+        "like servers, contributor meetings, etc.</para><para><emphasis>KDE e."
+        "V.</emphasis> is the non-profit organization behind the KDE "
+        "community.</para>"
+msgstr  "<para>Obri una <emphasis>pàgina web</emphasis> a on podeu fer una "
+        "donació per a ajudar el treball continuat en esta aplicació i en "
+        "molts atres projectes de la comunitat <emphasis>KDE</emphasis>.</"
+        "para><para>Una donació és la manera més fàcil i ràpida de patrocinar "
+        "eficientment a KDE i els seus projectes. Els projectes de KDE estan "
+        "disponibles debades i, per tant, la donació és necessària per a "
+        "pagar coses que requereixen diners com servidors, trobades de "
+        "colaboradors, etc.</para><para><emphasis>KDE e.V.</emphasis> és "
+        "l'organisació sense ànim de lucre darrere la comunitat KDE.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>This opens a preferred search tool for the viewed location.</"
+        "para><para>Use <emphasis>More Search Tools</emphasis> menu to "
+        "configure it.</para>"
+msgstr  "<para>Obri una eina de busca preferida per a la ubicació visualisada."
+        "</para><para>Utiliseu el menú <emphasis>Més eines de busca</"
+        "emphasis> per a configurar-la.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>This opens a window in which you can change which buttons "
+        "appear on the <emphasis>Toolbar</emphasis>.</para><para>All items "
+        "you see in the <interface>Control</interface> menu or in the "
+        "<interface>Menubar</interface> can also be placed on the Toolbar.</"
+        "para>"
+msgstr  "<para>Obri una finestra en què es poden canviar els botons que "
+        "apareixen a la <emphasis>Barra d'eines</emphasis>.</para><para>Tots "
+        "els elements que veeu al menú <interface>Control</interface> o a la "
+        "<interface>Barra de menús</interface> també es poden situar a la "
+        "barra d'eines.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>This opens a window that lists the <emphasis>keyboard "
+        "shortcuts</emphasis>.<nl/>There you can set up key combinations to "
+        "trigger an action when they are pressed simultaneously. All commands "
+        "in this application can be triggered this way.</para>"
+msgstr  "<para>Obri una finestra que llista les <emphasis>dreceres de teclat</"
+        "emphasis>. <nl/>Ací podeu definir combinacions de tecles per a "
+        "activar una acció quan es premen simultàniament. Totes les ordres "
+        "d'esta aplicació es poden activar d'esta manera.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>This opens a window that will guide you through reporting "
+        "errors or flaws in this application or in other KDE software.</para>"
+msgstr  "<para>Obri una finestra que vos guiarà per a informar d'errors o "
+        "defectes en esta aplicació o en atre programari de KDE.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>This panel provides in-depth information about the items your "
+        "mouse is hovering over or about the selected items. Otherwise it "
+        "informs you about the currently viewed folder.<nl/>For single items "
+        "a preview of their contents is provided.</para><para>You can "
+        "configure which and how details are given here by right-clicking.</"
+        "para>"
+msgstr  "<para>Este quadro proporciona informació detallada quant als "
+        "elements sobre els quals està el ratolí o quant als elements "
+        "seleccionats. D'atra manera, informa quant a la carpeta visualisada "
+        "actualment. <nl/>Es proporciona una vista prèvia del contingut dels "
+        "elements individuals.</para><para>Podeu configurar com i quins "
+        "detalls es donen ací amb un clic dret.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>This panel shows the folders of the <emphasis>file system</"
+        "emphasis> in a <emphasis>tree view</emphasis>.</para><para>Click a "
+        "folder to go there. Click the arrow to the left of a folder to see "
+        "its subfolders. This allows quick switching between any folders.</"
+        "para>"
+msgstr  "<para>Este quadro mostra les carpetes del <emphasis>sistema de "
+        "fitxers</emphasis> a una <emphasis>vista en arbre</emphasis>.</"
+        "para><para>Feu clic a una carpeta per a anar-hi. Feu clic a la "
+        "fletxa de l'esquerra d'una carpeta per a vore les seues subcarpetes. "
+        "Açò permet canviar ràpidament entre qualsevol carpeta.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>This toggles the <emphasis>places</emphasis> panel at the left "
+        "side of the window.</para><para>It allows you to go to locations you "
+        "have bookmarked and to access disk or media attached to the computer "
+        "or to the network. It also contains sections to find recently saved "
+        "files or files of a certain type.</para>"
+msgstr  "<para>Canvia el quadro de <emphasis>llocs</emphasis> de la banda "
+        "esquerra de la finestra.</para><para>Permet anar a les ubicacions "
+        "que heu indicat a les adreces d'interés i accedir al disc o soport "
+        "connectat a l'ordinador o a la ret. També conté seccions per a "
+        "buscar els fitxers guardats recentment o els fitxers d'un tipus "
+        "determinat.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>This toggles the <emphasis>terminal</emphasis> panel at the "
+        "bottom of the window.<nl/>The location in the terminal will always "
+        "match the folder view so you can navigate using either.</"
+        "para><para>The terminal panel is not needed for basic computer usage "
+        "but can be useful for advanced tasks. To learn more about terminals "
+        "use the help in a standalone terminal application like Konsole.</"
+        "para>"
+msgstr  "<para>Canvia el quadro del <emphasis>terminal</emphasis> a la part "
+        "inferior de la finestra.<nl/>La ubicació al terminal sempre "
+        "coincidirà amb la vista de la carpeta, de manera que podeu navegar-"
+        "hi utilisant qualsevol dels dos.</para><para>El quadro del terminal "
+        "no és necessari per a un ús bàsic de l'ordinador, pero pot ser útil "
+        "per a tasques avançades. Per a aprendre més quant als terminals "
+        "utiliseu l'ajuda a una aplicació independent de terminal, com "
+        "Konsole.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>To show or hide panels like this go to <interface>Control|"
+        "Panels</interface> or <interface>View|Panels</interface>.</para>"
+msgstr  "<para>Per a mostrar o ocultar els quadros com est aneu a "
+        "<interface>Control|Quadros</interface> o <interface>Visualisa|"
+        "Quadros</interface>.</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "<para>When this is enabled <emphasis>hidden</emphasis> files and "
+        "folders are visible. They will be displayed semi-transparent.</"
+        "para><para>Hidden items only differ from other ones in that their "
+        "name starts with a \".\". In general there is no need for users to "
+        "access them which is why they are hidden.</para>"
+msgstr  "<para>Quan està activada, els fitxers i carpetes <emphasis>ocultes</"
+        "emphasis> són visibles. Es mostraran de manera semitransparent.</"
+        "para><para>Els elements ocults només difereixen dels atres en el fet "
+        "què el seu nom comença per un «.». En general no hi ha necessitat "
+        "que els usuaris hi accedisquen, que és el motiu per què estan ocults."
+        "</para>"
+
+msgctxt "@info:whatsthis"
+msgid   "Go to your <filename>Home</filename> folder.<nl/>Every user account "
+        "has their own <filename>Home</filename> that contains their data "
+        "including folders that contain personal application data."
+msgstr  "Va a la vostra carpeta d'<filename>Inici</filename>.<nl/>Cada compte "
+        "d'usuari té la seua pròpia carpeta d'<filename>Inici</filename> que "
+        "conté les seues dades, incloent-hi les carpetes que contenen les "
+        "dades personals de les aplicacions."
+
+msgctxt "@info:whatsthis"
+msgid   "The last time these properties were changed by the user."
+msgstr  "L'última vegada que estes propietats foren canviades per l'usuari."
+
+msgctxt "@info:whatsthis"
+msgid   "This adds the selected folder to the Places panel."
+msgstr  "Afig la carpeta seleccionada al quadro Llocs."
+
+msgctxt "@info:whatsthis"
+msgid   "This closes the currently viewed tab. If no more tabs are left this "
+        "window will close instead."
+msgstr  "Tanca la pestanya vista actualment. Si no queden més pestanyes, es "
+        "tancarà esta finestra."
+
+msgctxt "@info:whatsthis"
+msgid   "This deletes the items in your current selection completely. They "
+        "can not be recovered by normal means."
+msgstr  "Suprimix completament els elements de la selecció actual. No es "
+        "poden recuperar amb mitjans normals."
+
+msgctxt "@info:whatsthis"
+msgid   "This displays all places in the places panel that have been hidden. "
+        "They will appear semi-transparent unless you uncheck their hide "
+        "property."
+msgstr  "Mostra tots els llocs del quadro de llocs que s'han ocultat. "
+        "Apareixeran com a semitransparents a menys que desmarqueu la seua "
+        "propietat d'ocults."
+
+msgctxt "@info:whatsthis"
+msgid   "This groups files and folders by their first letter."
+msgstr  "Agrupa els fitxers i carpetes per la seua primera lletra."
+
+msgctxt "@info:whatsthis"
+msgid   "This moves the items in your current selection to the "
+        "<filename>Trash</filename>.<nl/>The trash is a temporary storage "
+        "where items can be deleted from if disk space is needed."
+msgstr  "Mou els elements de la selecció actual a la <filename>Paperera</"
+        "filename>. <nl/>La paperera és un almagasenada temporal a on els "
+        "elements es poden eliminar si es necessita espai al disc."
+
+msgctxt "@info:whatsthis"
+msgid   "This opens a new <emphasis>Tab</emphasis> with the current location "
+        "and view.<nl/>A tab is an additional view within this window. You "
+        "can drag and drop items between tabs."
+msgstr  "Obri una <emphasis>Pestanya</emphasis> nova amb la ubicació i la "
+        "vista actual.<nl/>Una pestanya és una vista addicional dins d'esta "
+        "finestra. Podeu arrossegar i deixar anar elements entre les "
+        "pestanyes."
+
+msgctxt "@info:whatsthis"
+msgid   "This opens a new window just like this one with the current location "
+        "and view.<nl/>You can drag and drop items between windows."
+msgstr  "Obri una finestra nova com esta, amb la ubicació i la vista actuals."
+        "<nl/>Podeu arrossegar i deixar anar elements entre les finestres."
+
+msgctxt "@info:whatsthis"
+msgid   "This opens a window in which all folder view properties can be "
+        "adjusted."
+msgstr  "Obri una finestra en la qual es poden ajustar totes les propietats "
+        "de la vista de les carpetes."
+
+msgctxt "@info:whatsthis"
+msgid   "This opens a window that informs you about the version, license, "
+        "used libraries and maintainers of this application."
+msgstr  "Obri una finestra que informa quant a la versió, llicència, "
+        "biblioteques utilisades i mantenidors d'esta aplicació."
+
+msgctxt "@info:whatsthis"
+msgid   "This opens a window where you can change a multitude of settings for "
+        "this application. For an explanation of the various settings go to "
+        "the chapter <emphasis>Configuring Dolphin</emphasis> in "
+        "<interface>Help|Dolphin Handbook</interface>."
+msgstr  "Obri una finestra a on es pot canviar moltes opcions d'esta "
+        "aplicació. Per a una explicació de les diverses opcions aneu al "
+        "capítol <emphasis>Configuració de Dolphin</emphasis> a "
+        "<interface>Ajuda|Manual de Dolphin</interface>."
+
+msgctxt "@info:whatsthis"
+msgid   "This opens a window with information about <emphasis>KDE</emphasis>. "
+        "The KDE community are the people behind this free software.<nl/>If "
+        "you like using this application but don't know about KDE or want to "
+        "see a cute dragon have a look!"
+msgstr  "Obri una finestra amb informació quant a <emphasis>KDE</emphasis>. "
+        "La comunitat KDE són les persones al darrere d'este programari "
+        "lliure. <nl/>Si vos agrada utilisar esta aplicació, pero no coneixeu "
+        "la comunitat KDE o voleu vore un drac bufó, doneu-hi una ullada!"
+
+msgctxt "@info:whatsthis"
+msgid   "This opens the <emphasis>Filter Bar</emphasis> at the bottom of the "
+        "window.<nl/> There you can enter a text to filter the files and "
+        "folders currently displayed. Only those that contain the text in "
+        "their name will be kept in view."
+msgstr  "Obri la <emphasis>Barra de filtres</emphasis> a la part inferior de "
+        "la finestra. <nl/>Allí podeu introduir un text per a filtrar els "
+        "fitxers i carpetes mostrats actualment. Només es mantindran a la "
+        "vista els que contenen el text en el seu nom."
+
+msgctxt "@info:whatsthis"
+msgid   "This option controls the style of the view. Currently supported "
+        "values include icons (0), details (1) and column (2) views."
+msgstr  "Esta opció controla l'estil de la vista. Els valors permesos "
+        "actualment són: inclou vistes d'icones (0), detalls (1) i columnes "
+        "(2)."
+
+msgctxt "@info:whatsthis"
+msgid   "This option defines the used version of the view properties."
+msgstr  "Esta opció definix la versió emprada de les propietats de la vista."
+
+msgctxt "@info:whatsthis"
+msgid   "This option defines which attribute (text, size, date, etc.) sorting "
+        "is performed on."
+msgstr  "Esta opció definix quin atribut (text, mida, data, etc.) d'ordenació "
+        "s'emprarà."
+
+msgctxt "@info:whatsthis"
+msgid   "This renames the items in your current selection.<nl/>Renaming "
+        "multiple items at once amounts to their new names differing only in "
+        "a number."
+msgstr  "Canvia el nom dels elements en la selecció actual. <nl/>Canviar el "
+        "nom de múltiples elements a la vegada afig un número als seus noms "
+        "nous."
+
+msgctxt "@info:whatsthis"
+msgid   "This selects all files and folders in the current location."
+msgstr  "Selecciona tots els fitxers i carpetes a la ubicació actual."
+
+msgctxt "@info:whatsthis"
+msgid   "This switches between having a <emphasis>Menubar</emphasis> and "
+        "having a <interface>Control</interface> button. Both contain mostly "
+        "the same commands and configuration options."
+msgstr  "Canvia entre tindre una <emphasis>Barra de menús</emphasis> i tindre "
+        "un botó <interface>Control</interface>. Ambdós contenen "
+        "majoritàriament les mateixes ordres i opcions de configuració."
+
+msgctxt "@info:whatsthis"
+msgid   "This switches between having panels <emphasis>locked</emphasis> or "
+        "<emphasis>unlocked</emphasis>.<nl/>Unlocked panels can be dragged to "
+        "the other side of the window and have a close button.<nl/>Locked "
+        "panels are embedded more cleanly."
+msgstr  "Canvia entre tindre quadros <emphasis>blocats</emphasis> o "
+        "<emphasis>desblocats</emphasis>. <nl/>Els quadros desblocats es "
+        "poden arrossegar a l'atra banda de la finestra i tenen un botó de "
+        "tancament. <nl/>Els quadros blocats estan incrustats de manera més "
+        "neta."
+
+msgctxt "@info:whatsthis"
+msgid   "This switches to editing the location and selects it so you can "
+        "quickly enter a different location."
+msgstr  "Canvia per a editar la ubicació i la selecciona de manera que es "
+        "puga introduir ràpidament una ubicació diferent."
+
+msgctxt "@info:whatsthis"
+msgid   "This toggles the <emphasis>Location Bar</emphasis> to be editable so "
+        "you can directly enter a location you want to go to.<nl/>You can "
+        "also switch to editing by clicking to the right of the location and "
+        "switch back by confirming the edited location."
+msgstr  "Canvia a editable la <emphasis>Barra d'ubicació</emphasis> de manera "
+        "que es puga introduir directament una ubicació a la qual es vulga "
+        "anar.<nl/>També podeu canviar a edició fent clic a la dreta de la "
+        "ubicació i tornar enrere confirmant la ubicació editada."
+
+msgctxt "@info:whatsthis"
+msgid   "This toggles the <emphasis>folders</emphasis> panel at the left side "
+        "of the window.<nl/><nl/>It shows the folders of the <emphasis>file "
+        "system</emphasis> in a <emphasis>tree view</emphasis>."
+msgstr  "Canvia el quadro de <emphasis>carpetes</emphasis> de la banda "
+        "esquerra de la finestra.<nl/><nl/>Mostra les carpetes del "
+        "<emphasis>sistema de fitxers</emphasis> en una <emphasis>vista en "
+        "arbre</emphasis>."
+
+msgctxt "@info:whatsthis"
+msgid   "This undoes the last change you made to files or folders.<nl/>Such "
+        "changes include <interface>creating, renaming</interface> and "
+        "<interface>moving</interface> them to a different location or to the "
+        "<filename>Trash</filename>. <nl/>Changes that can't be undone will "
+        "ask for your confirmation."
+msgstr  "Desfà l'últim canvi que heu fet als fitxers o a les carpetes. <nl/"
+        ">Estos canvis inclouen la seua <interface>creació, canviat el nom</"
+        "interface> i <interface>moviment</interface> a una ubicació diferent "
+        "o a la <filename>Paperera</filename>. <nl/>Els canvis que no es "
+        "poden desfer i se us demanarà la vostra confirmació."
+
+msgctxt "@info:whatsthis"
+msgid   "When this is enabled, the icons are based on the actual file or "
+        "folder contents.<nl/>For example the icons of images become scaled "
+        "down versions of the images."
+msgstr  "Quan està activada, les icones es basaran en el contingut real del "
+        "fitxer o de la carpeta. <nl/>Per exemple, les icones de les imàgens "
+        "devindran una versió a escala reduïda de les imàgens."
+
+msgctxt "@info:whatsthis"
+msgid   "When this option is enabled hidden files, such as those starting "
+        "with a '.', will be shown in the file view."
+msgstr  "Quan esta opció està habilitada, els fitxers ocults (com els que "
+        "comencen amb un «.»), es mostraran en la vista de fitxers."
+
+msgctxt "@info:whatsthis"
+msgid   "When this option is enabled, a preview of the file content is shown "
+        "as an icon."
+msgstr  "Quan esta opció està habilitada, es mostra una vista prèvia del "
+        "contingut del fitxer com a una icona."
+
+msgctxt "@info:whatsthis"
+msgid   "When this option is enabled, the sorted items are categorized into "
+        "groups."
+msgstr  "Quan esta opció està habilitada, els elements ordenats es "
+        "categorisen en grups."
+
+msgctxt "@info:whatsthis"
+msgid   "With this you can change the language this application uses.<nl/>You "
+        "can even set secondary languages which will be used if texts are not "
+        "available in your preferred language."
+msgstr  "Amb açò podeu canviar l'idioma que utilisa esta aplicació. <nl/"
+        ">Inclús podeu definir idiomes secundaris que s'empraran si els "
+        "textos no estan disponibles en l'idioma preferit."
+
+msgctxt "@info:whatsthis Compact view mode"
+msgid   "<para>This switches to a compact view mode that lists the folders "
+        "and files in columns with the names beside the icons.</"
+        "para><para>This helps to keep the overview in folders with many "
+        "items.</para>"
+msgstr  "<para>Canvia a un modo de vista compacta que llista les carpetes i "
+        "els fitxers en columnes amb els noms al costat de les icones.</"
+        "para><para>Ajuda a mantindre la vista global en les carpetes amb "
+        "molts elements.</para>"
+
+msgctxt "@info:whatsthis Copy"
+msgid   "This copies the selected items from the <emphasis>active</emphasis> "
+        "view to the inactive split view."
+msgstr  "Copia els elements seleccionats des de la vista <emphasis>activa</"
+        "emphasis> a la vista dividida inactiva."
+
+msgctxt "@info:whatsthis Details view mode"
+msgid   "<para>This switches to a list view mode that focuses on folder and "
+        "file details.</para><para>Click on a detail in the column header to "
+        "sort the items by it. Click again to sort the other way around. To "
+        "select which details should be displayed click the header with the "
+        "right mouse button.</para><para>You can view the contents of a "
+        "folder without leaving the current location by clicking to the left "
+        "of it. This way you can view the contents of multiple folders in the "
+        "same list.</para>"
+msgstr  "<para>Canvia a un modo de vista que se centra en els detalls de les "
+        "carpetes i els fitxers.</para><para>Feu clic a un detall de la "
+        "capçalera de columna per a ordenar els elements per a esta. Feu clic "
+        "una atra vegada per a ordenar en l'atre sentit. Per a seleccionar "
+        "els detalls que s'haurien de mostrar feu clic a la capçalera amb el "
+        "botó dret del ratolí.</para><para>Podeu vore el contingut d'una "
+        "carpeta sense deixar la ubicació actual fent-hi clic a la seua "
+        "esquerra. D'esta manera podeu vore el contingut de múltiples "
+        "carpetes a la mateixa llista.</para>"
+
+msgctxt "@info:whatsthis Icons view mode"
+msgid   "<para>This switches to a view mode that focuses on the folder and "
+        "file icons. This mode makes it easy to distinguish folders from "
+        "files and to detect items with distinctive <emphasis>file types</"
+        "emphasis>.</para><para> This mode is handy to browse through "
+        "pictures when the <interface>Preview</interface> option is enabled.</"
+        "para>"
+msgstr  "<para>Canvia a un modo de vista que se centra en les icones de les "
+        "carpetes i els fitxers. Este modo facilita la distinció entre "
+        "carpetes i fitxers i per a detectar elements amb <emphasis>tipus de "
+        "fitxer</emphasis> diferents.</para><para> Este modo és pràctic per a "
+        "navegar per les imàgens quan s'ha activat l'opció de "
+        "<interface>Vista prèvia</interface>.</para>"
+
+msgctxt "@info:whatsthis Move"
+msgid   "This moves the selected items from the <emphasis>active</emphasis> "
+        "view to the inactive split view."
+msgstr  "Mou els elements seleccionats des de la vista <emphasis>activa</"
+        "emphasis> a la vista dividida inactiva."
+
+msgctxt "@info:whatsthis Statusbar"
+msgid   "<para>This is the <emphasis>Statusbar</emphasis>. It contains three "
+        "elements by default (left to right):<list><item>A <emphasis>text "
+        "field</emphasis> that displays the size of selected items. If only "
+        "one item is selected the name and type is shown as well.</"
+        "item><item>A <emphasis>zoom slider</emphasis> that allows you to "
+        "adjust the size of the icons in the view.</"
+        "item><item><emphasis>Space information</emphasis> about the current "
+        "storage device.</item></list></para>"
+msgstr  "<para>Esta és la <emphasis>Barra d'estat</emphasis>. Conté tres "
+        "elements predeterminats (d'esquerra a dreta):<list><item>Un "
+        "<emphasis>camp de text</emphasis> que mostra la mida dels elements "
+        "seleccionats. Si només hi ha un element seleccionat, també es mostra "
+        "el nom i el tipus.</item><item>Un <emphasis>control lliscant del "
+        "zoom</emphasis> que permet ajustar la mida de les icones a la vista."
+        "</item><item><emphasis>Informació de l'espai</emphasis> quant al "
+        "dispositiu actual d'almagasenada.</item></list></para>"
+
+msgctxt "@info:whatsthis copy"
+msgid   "This copies the items in your current selection to the "
+        "<emphasis>clipboard</emphasis>.<nl/>Use the <emphasis>Paste</"
+        "emphasis> action afterwards to copy them from the clipboard to a new "
+        "location."
+msgstr  "Copia els elements de la selecció actual al <emphasis>porta-retalls</"
+        "emphasis>.<nl/>Després utiliseu l'acció <emphasis>Apega</emphasis> "
+        "per a copiar-los des del porta-retalls a una ubicació nova."
+
+msgctxt "@info:whatsthis copy_location"
+msgid   "This will copy the path of the first selected item into the "
+        "clipboard."
+msgstr  "Copiarà el camí del primer element seleccionat al porta-retalls."
+
+msgctxt "@info:whatsthis cut"
+msgid   "This copies the items in your current selection to the "
+        "<emphasis>clipboard</emphasis>.<nl/>Use the <emphasis>Paste</"
+        "emphasis> action afterwards to copy them from the clipboard to a new "
+        "location. The items will be removed from their initial location."
+msgstr  "Copia els elements de la selecció actual al <emphasis>porta-retalls</"
+        "emphasis>.<nl/>Després utiliseu l'acció <emphasis>Apega</emphasis> "
+        "per a copiar-los des del porta-retalls a una ubicació nova. Els "
+        "elements s'eliminaran de la seua ubicació inicial."
+
+msgctxt "@info:whatsthis find"
+msgid   "<para>This helps you find files and folders by opening a "
+        "<emphasis>find bar</emphasis>. There you can enter search terms and "
+        "specify settings to find the objects you are looking for.</"
+        "para><para>Use this help again on the find bar so we can have a look "
+        "at it while the settings are explained.</para>"
+msgstr  "<para>Ajuda a buscar fitxer i carpetes obrint una <emphasis>barra de "
+        "busca</emphasis>. Allí podreu introduir els termes a buscar i "
+        "especificar les opcions per a trobar els objectes que esteu buscant."
+        "</para><para>Torneu a utilisar esta ajuda a la barra de busca de "
+        "manera que es puga donar una ullada mentre s'expliquen les opcions.</"
+        "para>"
+
+msgctxt "@info:whatsthis find"
+msgid   "<para>This splits the folder view below into two autonomous views.</"
+        "para><para>This way you can see two locations at once and move items "
+        "between them quickly.</para>Click this again afterwards to recombine "
+        "the views."
+msgstr  "<para>Dividix la vista de la carpeta de davall en dues vistes "
+        "autònomes.</para><para>D'esta manera podreu vore dues ubicacions a "
+        "la vegada i moure's ràpidament entre elles.</para>Després feu clic a "
+        "açò una atra vegada per a recombinar les vistes."
+
+msgctxt "@info:whatsthis findbar"
+msgid   "<para>This helps you find files and folders. Enter a "
+        "<emphasis>search term</emphasis> and specify search settings with "
+        "the buttons at the bottom:<list><item>Filename/Content: Does the "
+        "item you are looking for contain the search terms within its "
+        "filename or its contents?<nl/>The contents of images, audio files "
+        "and videos will not be searched.</item><item>From Here/Everywhere: "
+        "Do you want to search in this folder and its sub-folders or "
+        "everywhere?</item><item>More Options: Click this to search by media "
+        "type, access time or rating.</item><item>More Search Tools: Install "
+        "other means to find an item.</item></list></para>"
+msgstr  "<para>Ajuda a buscar fitxers i carpetes. Introduïu un "
+        "<emphasis>terme de busca</emphasis> i especifiqueu les opcions de "
+        "busca amb els botons de la part inferior:<list><item>Nom de fitxer/"
+        "Contingut: L'element que esteu buscant conté els termes de busca al "
+        "seu nom de fitxer o al seu contingut? <nl/>No es buscarà en el "
+        "contingut de les imàgens, ni dels fitxers d'àudio i vídeo.</"
+        "item><item>Des d'ací/Per tot arreu: Voleu buscar en esta carpeta i "
+        "les seues subcarpetes o per tot arreu?</item><item>Més opcions: Feu "
+        "clic ací per a buscar per tipus de soport, data i hora d'accés o "
+        "valoració.</item><item>Més eines de busca: Instala atres recursos "
+        "per a buscar un element.</item></list></para>"
+
+msgctxt "@info:whatsthis go back"
+msgid   "Return to the previously viewed folder."
+msgstr  "Retorna a la carpeta visualisada prèviament."
+
+msgctxt "@info:whatsthis go forward"
+msgid   "This undoes a <interface>Go|Back</interface> action."
+msgstr  "Desfà una acció <interface>Ves|Enrere</interface>."
+
+msgctxt "@info:whatsthis handbook"
+msgid   "<para>This opens the Handbook for this application. It provides "
+        "explanations for every part of <emphasis>Dolphin</emphasis>.</para>"
+msgstr  "<para>Obri el Manual d'esta aplicació. Proporciona explicacions de "
+        "cada part de <emphasis>Dolphin</emphasis>.</para>"
+
+msgctxt "@info:whatsthis invert"
+msgid   "This selects all objects that you have currently <emphasis>not</"
+        "emphasis> selected instead."
+msgstr  "Selecciona tots els objectes que <emphasis>no</emphasis> estan "
+        "seleccionats actualment."
+
+msgctxt "@info:whatsthis location bar"
+msgid   "<para>This describes the location of the files and folders displayed "
+        "below.</para><para>The name of the currently viewed folder can be "
+        "read at the very right. To the left of it is the name of the folder "
+        "that contains it. The whole line is called the <emphasis>path</"
+        "emphasis> to the current location because following these folders "
+        "from left to right leads here.</para><para>This interactive path is "
+        "more powerful than one would expect. To learn more about the basic "
+        "and advanced features of the location bar <link url='help:/dolphin/"
+        "location-bar.html'>click here</link>. This will open the dedicated "
+        "page in the Handbook.</para>"
+msgstr  "<para>Descriu la ubicació dels fitxers i carpetes mostrats davall.</"
+        "para><para>El nom de la carpeta visualisada actualment es pot llegir "
+        "a l'extrem dret. A la seua esquerra hi ha el nom de la carpeta que "
+        "la conté. La llínea sencera s'anomena <emphasis>camí</emphasis> a la "
+        "ubicació actual perquè seguint estes carpetes des de l'esquerra a la "
+        "dreta s'arriba ací.</para><para>Este camí interactiu és més potent "
+        "del que es podria esperar. Per a aprendre més quant a les "
+        "característiques bàsiques i avançades de la barra d'ubicació <link "
+        "url='help:/dolphin/location-bar.html'>feu clic ací</link>. Açò "
+        "obrirà la pàgina dedicada del Manual.</para>"
+
+msgctxt "@info:whatsthis main view"
+msgid   "<para>Here you can see the <emphasis>folders</emphasis> and "
+        "<emphasis>files</emphasis> that are at the location described in the "
+        "<interface>Location Bar</interface> above. This area is the central "
+        "part of this application where you navigate to the files you want to "
+        "use.</para><para>For an elaborate and general introduction to this "
+        "application <link url='https://userbase.kde.org/Dolphin/"
+        "File_Management#Introduction_to_Dolphin'>click here</link>. This "
+        "will open an introductory article from the <emphasis>KDE UserBase "
+        "Wiki</emphasis>.</para><para>For brief explanations of all the "
+        "features of this <emphasis>view</emphasis> <link url='help:/dolphin/"
+        "dolphin-view.html'>click here</link> instead. This will open a page "
+        "from the <emphasis>Handbook</emphasis> that covers the basics.</para>"
+msgstr  "<para>Ací podeu vore les <emphasis>carpetes</emphasis> i els "
+        "<emphasis>fitxers</emphasis> que són a la ubicació descrita a la "
+        "<interface>Barra d'ubicació</interface> de més amunt. Esta àrea és "
+        "la part central d'esta aplicació a on podeu navegar pels fitxers que "
+        "voleu utilisar.</para><para>Per a una introducció general i més "
+        "elaborada a esta aplicació <link url='https://userbase.kde.org/"
+        "Dolphin/File_Management/ca#Introducció_al_Dolphin'>feu clic ací</"
+        "link>. Açò obrirà un article introductori del <emphasis>Wiki "
+        "UserBase de KDE</emphasis>.</para><para>D'atra manera, per a "
+        "explicacions breus de totes les característiques d'esta "
+        "<emphasis>vista</emphasis> <link url='help:/dolphin/dolphin-view."
+        "html'>feu clic ací</link>. Açò obrirà una pàgina del "
+        "<emphasis>Manual</emphasis> que cobreix els aspectes bàsics.</para>"
+
+msgctxt "@info:whatsthis paste"
+msgid   "This copies the items from your <emphasis>clipboard</emphasis> to "
+        "the currently viewed folder.<nl/>If the items were added to the "
+        "clipboard by the <emphasis>Cut</emphasis> action they are removed "
+        "from their old location."
+msgstr  "Copia els elements des del <emphasis>porta-retalls</emphasis> a la "
+        "carpeta visualisada actualment.<nl/>Si els elements s'han afegit al "
+        "porta-retalls amb l'acció <emphasis>Retalla</emphasis>, s'eliminaran "
+        "de la seua ubicació antiga."
+
+msgctxt "@info:whatsthis properties"
+msgid   "This shows a complete list of properties of the currently selected "
+        "items in a new window.<nl/>If nothing is selected the window will be "
+        "about the currently viewed folder instead.<nl/>You can configure "
+        "advanced options there like managing read- and write-permissions."
+msgstr  "Mostra una llista completa de propietats dels elements actualment "
+        "seleccionats a una finestra nova. <nl/>Si no s'ha seleccionat res, "
+        "la finestra mostrarà la carpeta visualisada actualment. <nl/>Podeu "
+        "configurar opcions avançades com gestionar els permisos de lectura i "
+        "escritura."
+
+msgctxt "@info:whatsthis quit"
+msgid   "This closes this window."
+msgstr  "Tanca esta finestra."
+
+msgctxt "@info:whatsthis second half of handbook hb text without link"
+msgid   "<para>If you want more elaborate introductions to the different "
+        "features of <emphasis>Dolphin</emphasis> go to the KDE UserBase Wiki."
+        "</para>"
+msgstr  "<para>Si voleu introduccions més elaborades de les diferents "
+        "característiques de <emphasis>Dolphin</emphasis> aneu al Wiki "
+        "UserBase de KDE.</para>"
+
+msgctxt "@info:whatsthis second half of handbook text with link"
+msgid   "<para>If you want more elaborate introductions to the different "
+        "features of <emphasis>Dolphin</emphasis> <link url='https://userbase."
+        "kde.org/Dolphin/File_Management'>click here</link>. It will open the "
+        "dedicated page in the KDE UserBase Wiki.</para>"
+msgstr  "<para>Si voleu introduccions més elaborades de les diferents "
+        "característiques de <emphasis>Dolphin</emphasis> <link url='https://"
+        "userbase.kde.org/Dolphin/File_Management/ca'>feu clic ací</link>. "
+        "S'obrirà la pàgina dedicada al Wiki UserBase de KDE.</para>"
+
+msgctxt "@info:whatsthis second half of reportbug text with link"
+msgid   "<para>High-quality bug reports are much appreciated. To learn how to "
+        "make your bug report as effective as possible <link url='https://"
+        "community.kde.org/Get_Involved/Bug_Reporting'>click here</link>.</"
+        "para>"
+msgstr  "<para>Els informes d'error d'alta qualitat són molt apreciats. Per a "
+        "aprendre com fer l'informe d'error tan efectiu com siga possible "
+        "<link url='https://community.kde.org/Get_Involved/Bug_Reporting'>feu "
+        "clic ací</link>.</para>"
+
+msgctxt "@info:whatsthis second half of whatsthis button text with link"
+msgid   "<para>There are two other ways to get help: The <link url='help:/"
+        "dolphin/index.html'>Dolphin Handbook</link> and the <link "
+        "url='https://userbase.kde.org/Dolphin/File_Management'>KDE UserBase "
+        "Wiki</link>.</para><para>The \"What's this?\" help is missing in "
+        "most other windows so don't get too used to this.</para>"
+msgstr  "<para>Hi ha dues atres maneres per a aconseguir ajuda: el <link "
+        "url='help:/dolphin/index.html'>Manual de Dolphin</link> i el <link "
+        "url='https://userbase.kde.org/Dolphin/File_Management/ca'>Wiki "
+        "UserBase de KDE</link>.</para><para>L'ajuda «Què és açò?» falta a la "
+        "majoria de les atres finestres, per tant, no vos hi acostumeu massa."
+        "</para>"
+
+msgctxt "@info:whatsthis second half of whatsthis button text without link"
+msgid   "<para>There are two other ways to get help for this application: The "
+        "<interface>Dolphin Handbook</interface> in the <interface>Help</"
+        "interface> menu and the <emphasis>KDE UserBase Wiki</emphasis> "
+        "article about <emphasis>File Management</emphasis> online.</"
+        "para><para>The \"What's this?\" help is missing in most other "
+        "windows so don't get too used to this.</para>"
+msgstr  "<para>Hi ha dues atres maneres per a aconseguir ajuda per a esta "
+        "aplicació: el <interface>Manual de Dolphin</interface> al menú "
+        "<interface>Ajuda</interface> i l'article del <emphasis>Wiki UserBase "
+        "de KDE</emphasis> quant a la <emphasis>Gestió de fitxers</emphasis> "
+        "en llínea.</para><para>L'ajuda «Què és açò?» falta a la majoria de "
+        "les atres finestres, per tant, no vos hi acostumeu massa.</para>"
+
+msgctxt "@info:whatsthis undo close tab"
+msgid   "This returns you to the previously closed tab."
+msgstr  "Retorna a la pestanya prèviament tancada."
+
+msgctxt "@info:whatsthis whatsthis button"
+msgid   "<para>This is the button that invokes the help feature you are using "
+        "right now! Click it, then click any component of this application to "
+        "ask \"What's this?\" about it. The mouse cursor will change "
+        "appearance if no help is available for a spot.</para>"
+msgstr  "<para>Este és el botó que invoca l'ajuda per a la característica que "
+        "esteu utilisant ara mateix! Feu-hi clic, després feu clic a "
+        "qualsevol component d'esta aplicació per a preguntar-ne «Què és "
+        "açò?». El cursor del ratolí canviarà l'aparença si no hi ha ajuda "
+        "disponible per a este punt.</para>"
+
+msgctxt "@info:whatsthis zoom in"
+msgid   "This increases the icon size."
+msgstr  "Augmenta la mida de les icones."
+
+msgctxt "@info:whatsthis zoom out"
+msgid   "This reduces the icon size."
+msgstr  "Reduïx la mida de les icones."
+
+msgctxt "@info:whatsthis zoom reset"
+msgid   "This resets the icon size to default."
+msgstr  "Reinicia la mida de les icones al valor predeterminat."
+
+msgctxt "@item:inlistbox"
+msgid   "1 or more"
+msgstr  "1 o més"
+
+msgctxt "@item:inlistbox"
+msgid   "2 or more"
+msgstr  "2 o més"
+
+msgctxt "@item:inlistbox"
+msgid   "3 or more"
+msgstr  "3 o més"
+
+msgctxt "@item:inlistbox"
+msgid   "4 or more"
+msgstr  "4 o més"
+
+msgctxt "@item:inlistbox"
+msgid   "Any Date"
+msgstr  "Qualsevol data"
+
+msgctxt "@item:inlistbox"
+msgid   "Any Rating"
+msgstr  "Qualsevol puntuació"
+
+msgctxt "@item:inlistbox"
+msgid   "Any Type"
+msgstr  "Qualsevol tipus"
+
+msgctxt "@item:inlistbox"
+msgid   "Audio Files"
+msgstr  "Fitxers d'àudio"
+
+msgctxt "@item:inlistbox"
+msgid   "Compact"
+msgstr  "Compacte"
+
+msgctxt "@item:inlistbox"
+msgid   "Details"
+msgstr  "Detalls"
+
+msgctxt "@item:inlistbox"
+msgid   "Documents"
+msgstr  "Documents"
+
+msgctxt "@item:inlistbox"
+msgid   "Folders"
+msgstr  "Carpetes"
+
+msgctxt "@item:inlistbox"
+msgid   "Highest Rating"
+msgstr  "La puntuació més elevada"
+
+msgctxt "@item:inlistbox"
+msgid   "Icons"
+msgstr  "Icones"
+
+msgctxt "@item:inlistbox"
+msgid   "Images"
+msgstr  "Imàgens"
+
+msgctxt "@item:inlistbox"
+msgid   "This Month"
+msgstr  "Este mes"
+
+msgctxt "@item:inlistbox"
+msgid   "This Week"
+msgstr  "Esta setmana"
+
+msgctxt "@item:inlistbox"
+msgid   "This Year"
+msgstr  "Est any"
+
+msgctxt "@item:inlistbox"
+msgid   "Today"
+msgstr  "Hui"
+
+msgctxt "@item:inlistbox"
+msgid   "Videos"
+msgstr  "Vídeos"
+
+msgctxt "@item:inlistbox"
+msgid   "Yesterday"
+msgstr  "Ahir"
+
+msgctxt "@item:inlistbox Font"
+msgid   "Custom Font"
+msgstr  "Tipus de lletra personalisat"
+
+msgctxt "@item:inlistbox Font"
+msgid   "System Font"
+msgstr  "Tipus de lletra del sistema"
+
+msgctxt "@item:inlistbox Label width"
+msgid   "Huge"
+msgstr  "Enorme"
+
+msgctxt "@item:inlistbox Label width"
+msgid   "Large"
+msgstr  "Gran"
+
+msgctxt "@item:inlistbox Label width"
+msgid   "Medium"
+msgstr  "Mitjana"
+
+msgctxt "@item:inlistbox Label width"
+msgid   "Small"
+msgstr  "Xicoteta"
+
+msgctxt "@item:inlistbox Maximum lines"
+msgid   "1"
+msgstr  "1"
+
+msgctxt "@item:inlistbox Maximum lines"
+msgid   "2"
+msgstr  "2"
+
+msgctxt "@item:inlistbox Maximum lines"
+msgid   "3"
+msgstr  "3"
+
+msgctxt "@item:inlistbox Maximum lines"
+msgid   "4"
+msgstr  "4"
+
+msgctxt "@item:inlistbox Maximum lines"
+msgid   "5"
+msgstr  "5"
+
+msgctxt "@item:inlistbox Maximum lines"
+msgid   "Unlimited"
+msgstr  "Sense límit"
+
+msgctxt "@item:inlistbox Maximum width"
+msgid   "Large"
+msgstr  "Gran"
+
+msgctxt "@item:inlistbox Maximum width"
+msgid   "Medium"
+msgstr  "Mitjana"
+
+msgctxt "@item:inlistbox Maximum width"
+msgid   "Small"
+msgstr  "Xicoteta"
+
+msgctxt "@item:inlistbox Maximum width"
+msgid   "Unlimited"
+msgstr  "Sense límit"
+
+msgctxt "@item:inlistbox Sort"
+msgid   "Ascending"
+msgstr  "Ascendent"
+
+msgctxt "@item:inlistbox Sort"
+msgid   "Descending"
+msgstr  "Descendent"
+
+msgctxt "@item:inmenu"
+msgid   "%1: %2"
+msgstr  "%1: %2"
+
+msgctxt "@item:inmenu"
+msgid   "Show Hidden Places"
+msgstr  "Mostra els llocs ocults"
+
+msgctxt "@item:intable"
+msgid   "%1 item"
+msgid_plural    "%1 items"
+msgstr[0]       "%1 element"
+msgstr[1]       "%1 elements"
+
+msgctxt "@item:intext Access permission, concatenated"
+msgid   "Execute, "
+msgstr  "execució, "
+
+msgctxt "@item:intext Access permission, concatenated"
+msgid   "Forbidden"
+msgstr  "prohibit"
+
+msgctxt "@item:intext Access permission, concatenated"
+msgid   "Read, "
+msgstr  "lectura, "
+
+msgctxt "@item:intext Access permission, concatenated"
+msgid   "Write, "
+msgstr  "escritura, "
+
+msgctxt "@label"
+msgid   "%1 item selected"
+msgid_plural    "%1 items selected"
+msgstr[0]       "%1 element seleccionat"
+msgstr[1]       "%1 elements seleccionats"
+
+msgctxt "@label"
+msgid   "Accessed"
+msgstr  "Accedit"
+
+msgctxt "@label"
+msgid   "Additional Information"
+msgstr  "Informació addicional"
+
+msgctxt "@label"
+msgid   "Album"
+msgstr  "Àlbum"
+
+msgctxt "@label"
+msgid   "Artist"
+msgstr  "Artista"
+
+msgctxt "@label"
+msgid   "Aspect Ratio"
+msgstr  "Relació d'aspecte"
+
+msgctxt "@label"
+msgid   "Audio"
+msgstr  "Àudio"
+
+msgctxt "@label"
+msgid   "Bitrate"
+msgstr  "Taxa de bits"
+
+msgctxt "@label"
+msgid   "Comment"
+msgstr  "Comentari"
+
+msgctxt "@label"
+msgid   "Created"
+msgstr  "Creat"
+
+msgctxt "@label"
+msgid   "Date Photographed"
+msgstr  "Data de la fotografia"
+
+msgctxt "@label"
+msgid   "Deletion Time"
+msgstr  "Hora de la supressió"
+
+msgctxt "@label"
+msgid   "Document"
+msgstr  "Document"
+
+msgctxt "@label"
+msgid   "Downloaded From"
+msgstr  "Baixat des de"
+
+msgctxt "@label"
+msgid   "Duration"
+msgstr  "Duració"
+
+msgctxt "@label"
+msgid   "Frame Rate"
+msgstr  "Velocitat dels fotogrames"
+
+msgctxt "@label"
+msgid   "Genre"
+msgstr  "Gènere"
+
+msgctxt "@label"
+msgid   "Grouped Sorting"
+msgstr  "Ordenació per grups"
+
+msgctxt "@label"
+msgid   "Header column widths"
+msgstr  "Amplàries de les columnes de capçalera"
+
+msgctxt "@label"
+msgid   "Height"
+msgstr  "Alçària"
+
+msgctxt "@label"
+msgid   "Hidden files shown"
+msgstr  "Fitxers ocults visibles"
+
+msgctxt "@label"
+msgid   "Image"
+msgstr  "Image"
+
+msgctxt "@label"
+msgid   "Line Count"
+msgstr  "Comptador de llínees"
+
+msgctxt "@label"
+msgid   "Link Destination"
+msgstr  "Destinació de l'enllaç"
+
+msgctxt "@label"
+msgid   "Modified"
+msgstr  "Modificat"
+
+msgctxt "@label"
+msgid   "Name"
+msgstr  "Nom"
+
+msgctxt "@label"
+msgid   "Order in which to sort files"
+msgstr  "Ordre en què s'ordenaran els fitxers"
+
+msgctxt "@label"
+msgid   "Orientation"
+msgstr  "Orientació"
+
+msgctxt "@label"
+msgid   "Other"
+msgstr  "Atres"
+
+msgctxt "@label"
+msgid   "Owner"
+msgstr  "Propietari"
+
+msgctxt "@label"
+msgid   "Path"
+msgstr  "Camí"
+
+msgctxt "@label"
+msgid   "Permissions"
+msgstr  "Permisos"
+
+msgctxt "@label"
+msgid   "Previews shown"
+msgstr  "Vistes prèvies visibles"
+
+msgctxt "@label"
+msgid   "Properties last changed"
+msgstr  "Propietats canviades per última vegada"
+
+msgctxt "@label"
+msgid   "Rating"
+msgstr  "Puntuació"
+
+msgctxt "@label"
+msgid   "Release Year"
+msgstr  "Any d'edició"
+
+msgctxt "@label"
+msgid   "Show folders first when sorting files and folders"
+msgstr  "Mostra primer les carpetes en ordenar fitxers i carpetes"
+
+msgctxt "@label"
+msgid   "Show hidden files and folders last"
+msgstr  "Mostra últims els fitxers i carpetes ocultes"
+
+msgctxt "@label"
+msgid   "Size"
+msgstr  "Mida"
+
+msgctxt "@label"
+msgid   "Skip previews for remote files above:"
+msgstr  "Omet les vistes prèvies per a fitxers remots superiors a:"
+
+msgctxt "@label"
+msgid   "Sort files by"
+msgstr  "Ordena els fitxers per"
+
+msgctxt "@label"
+msgid   "Tags"
+msgstr  "Etiquetes"
+
+msgctxt "@label"
+msgid   "Title"
+msgstr  "Títol"
+
+msgctxt "@label"
+msgid   "Track"
+msgstr  "Peça"
+
+msgctxt "@label"
+msgid   "Type"
+msgstr  "Tipus"
+
+msgctxt "@label"
+msgid   "User Group"
+msgstr  "Grup d'usuari"
+
+msgctxt "@label"
+msgid   "Version"
+msgstr  "Versió"
+
+msgctxt "@label"
+msgid   "Video"
+msgstr  "Vídeo"
+
+msgctxt "@label"
+msgid   "View Mode"
+msgstr  "Modo de vista"
+
+msgctxt "@label"
+msgid   "Visible roles"
+msgstr  "Rols visibles"
+
+msgctxt "@label"
+msgid   "Width"
+msgstr  "Amplària"
+
+msgctxt "@label"
+msgid   "Word Count"
+msgstr  "Comptador de paraules"
+
+msgctxt "@label width x height"
+msgid   "Dimensions"
+msgstr  "Dimensions"
+
+msgctxt "@label::textbox"
+msgid   "Select which data should be shown:"
+msgstr  "Seleccioneu les dades que s'han de mostrar:"
+
+msgctxt "@label:checkbox"
+msgid   "Folders:"
+msgstr  "Carpetes:"
+
+msgctxt "@label:checkbox"
+msgid   "General:"
+msgstr  "General:"
+
+msgctxt "@label:listbox"
+msgid   "Default icon size:"
+msgstr  "Mida predeterminada de les icones:"
+
+msgctxt "@label:listbox"
+msgid   "Label font:"
+msgstr  "Tipus de lletra de les etiquetes:"
+
+msgctxt "@label:listbox"
+msgid   "Label width:"
+msgstr  "Amplària de les etiquetes:"
+
+msgctxt "@label:listbox"
+msgid   "Maximum lines:"
+msgstr  "Màxim de llínees:"
+
+msgctxt "@label:listbox"
+msgid   "Maximum width:"
+msgstr  "Amplària màxima:"
+
+msgctxt "@label:listbox"
+msgid   "Preview icon size:"
+msgstr  "Mida de la vista prèvia de les icones:"
+
+msgctxt "@label:listbox"
+msgid   "Sorting:"
+msgstr  "Ordenació:"
+
+msgctxt "@label:listbox"
+msgid   "View mode:"
+msgstr  "Modo de visualisació:"
+
+msgctxt "@label:textbox"
+msgid   "Search..."
+msgstr  "Busca..."
+
+msgctxt "@label:textbox"
+msgid   "Select which services should be shown in the context menu:"
+msgstr  "Seleccioneu els serveis que s'han de mostrar en el menú contextual:"
+
+msgctxt "@label:textbox"
+msgid   "Show on startup:"
+msgstr  "Mostra en iniciar:"
+
+msgctxt "@option:check"
+msgid   "'Copy To' and 'Move To' commands"
+msgstr  "Ordres «Copia a» i «Mou a»"
+
+msgctxt "@option:check"
+msgid   "Delete"
+msgstr  "Suprimix"
+
+msgctxt "@option:check"
+msgid   "Expandable"
+msgstr  "Ampliable"
+
+msgctxt "@option:check"
+msgid   "Open archives as folder"
+msgstr  "Obri els archius com a carpetes"
+
+msgctxt "@option:check"
+msgid   "Show folders first"
+msgstr  "Mostra primer les carpetes"
+
+msgctxt "@option:check"
+msgid   "Show hidden files"
+msgstr  "Mostra els fitxers ocults"
+
+msgctxt "@option:check"
+msgid   "Show hidden files last"
+msgstr  "Mostra últims els fitxers ocults"
+
+msgctxt "@option:check"
+msgid   "Show in groups"
+msgstr  "Mostra per grups"
+
+msgctxt "@option:check"
+msgid   "Show preview"
+msgstr  "Mostra la vista prèvia"
+
+msgctxt "@option:check"
+msgid   "Show selection marker"
+msgstr  "Mostra un marcador de selecció"
+
+msgctxt "@option:check"
+msgid   "Show space information"
+msgstr  "Mostra la informació sobre l'espai"
+
+msgctxt "@option:check"
+msgid   "Show status bar"
+msgstr  "Mostra la barra d'estat"
+
+msgctxt "@option:check"
+msgid   "Show tooltips"
+msgstr  "Mostra els consells"
+
+msgctxt "@option:check"
+msgid   "Show zoom slider"
+msgstr  "Mostra el control lliscant del zoom"
+
+msgctxt "@option:check"
+msgid   "Use as default view settings"
+msgstr  "Utilisa com a configuració predeterminada de visualisació"
+
+msgctxt "@option:check Ask for confirmation in Dolphin when"
+msgid   "Closing windows with multiple tabs"
+msgstr  "Es tanquen finestres amb múltiples pestanyes"
+
+msgctxt "@option:check Ask for confirmation when"
+msgid   "Closing windows with a program running in the Terminal panel"
+msgstr  "En tancar finestres amb un programa executant-se al quadro del "
+        "terminal"
+
+msgctxt "@option:check Ask for confirmation when"
+msgid   "Deleting files or folders"
+msgstr  "Se suprimisquen fitxers o carpetes"
+
+msgctxt "@option:check Ask for confirmation when"
+msgid   "Emptying trash"
+msgstr  "Es buide la paperera"
+
+msgctxt "@option:check Ask for confirmation when"
+msgid   "Moving files or folders to trash"
+msgstr  "Es moguen fitxers o carpetes a la paperera"
+
+msgctxt "@option:check Startup Settings"
+msgid   "Begin in split view mode"
+msgstr  "Comença en el modo de vista dividida"
+
+msgctxt "@option:check Startup Settings"
+msgid   "Make location bar editable"
+msgstr  "Fes editable la barra d'ubicació"
+
+msgctxt "@option:check Startup Settings"
+msgid   "Open new folders in tabs"
+msgstr  "Obri les carpetes noves en pestanyes"
+
+msgctxt "@option:check Startup Settings"
+msgid   "Show filter bar"
+msgstr  "Mostra la barra de filtres"
+
+msgctxt "@option:check Startup Settings"
+msgid   "Show full path in title bar"
+msgstr  "Mostra el camí sencer a la barra de títol"
+
+msgctxt "@option:check Startup Settings"
+msgid   "Show full path inside location bar"
+msgstr  "Mostra el camí sencer a la barra d'ubicació"
+
+msgctxt "@option:radio"
+msgid   "Remember display style for each folder"
+msgstr  "Recorda l'estil de presentació per a cada carpeta"
+
+msgctxt "@option:radio"
+msgid   "Use common display style for all folders"
+msgstr  "Utilisa l'estil de presentació comú per a totes les carpetes"
+
+msgctxt "@option:radio Apply View Properties To"
+msgid   "All folders"
+msgstr  "Totes les carpetes"
+
+msgctxt "@option:radio Apply View Properties To"
+msgid   "Current folder"
+msgstr  "Carpeta actual"
+
+msgctxt "@option:radio Apply View Properties To"
+msgid   "Current folder and sub-folders"
+msgstr  "La carpeta actual i les subcarpetes"
+
+msgctxt "@option:radio Startup Settings"
+msgid   "Folders, tabs, and window state from last time"
+msgstr  "Carpetes, pestanyes i estat de la finestra de l'última vegada"
+
+msgctxt "@title"
+msgid   "File Manager"
+msgstr  "Gestor de fitxers"
+
+msgctxt "@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query "
+        "the user entered."
+msgid   "Query Results from '%1'"
+msgstr  "Resultats de la consulta de «%1»"
+
+msgctxt "@title:group"
+msgid   "Additional Information"
+msgstr  "Informació addicional"
+
+msgctxt "@title:group"
+msgid   "Apply to:"
+msgstr  "Aplica a:"
+
+msgctxt "@title:group"
+msgid   "Ask for confirmation in Dolphin when:"
+msgstr  "Demana confirmació a Dolphin quan:"
+
+msgctxt "@title:group"
+msgid   "Ask for confirmation in all KDE applications when:"
+msgstr  "Demana confirmació en totes les aplicacions KDE quan:"
+
+msgctxt "@title:group"
+msgid   "Context Menu"
+msgstr  "Menú contextual"
+
+msgctxt "@title:group"
+msgid   "Date style:"
+msgstr  "Estil de la data:"
+
+msgctxt "@title:group"
+msgid   "Folder size displays:"
+msgstr  "La mida de la carpeta mostra:"
+
+msgctxt "@title:group"
+msgid   "General: "
+msgstr  "General: "
+
+msgctxt "@title:group"
+msgid   "Miscellaneous: "
+msgstr  "Miscelànea: "
+
+msgctxt "@title:group"
+msgid   "Navigation"
+msgstr  "Navegació"
+
+msgctxt "@title:group"
+msgid   "Open new tabs: "
+msgstr  "Obri en pestanyes noves: "
+
+msgctxt "@title:group"
+msgid   "Others"
+msgstr  "Atres"
+
+msgctxt "@title:group"
+msgid   "Show previews in the view for:"
+msgstr  "Mostra les vistes prèvies en la visualisació per a:"
+
+msgctxt "@title:group"
+msgid   "Sorting mode: "
+msgstr  "Modo d'ordenació: "
+
+msgctxt "@title:group"
+msgid   "Startup"
+msgstr  "Inici"
+
+msgctxt "@title:group"
+msgid   "Trash"
+msgstr  "Paperera"
+
+msgctxt "@title:group"
+msgid   "User Feedback"
+msgstr  "Comentaris de l'usuari"
+
+msgctxt "@title:group"
+msgid   "View Modes"
+msgstr  "Modos de vista"
+
+msgctxt "@title:group"
+msgid   "View: "
+msgstr  "Vista: "
+
+msgctxt "@title:group"
+msgid   "When opening an executable file:"
+msgstr  "En obrir un fitxer executable:"
+
+msgctxt "@title:group Date"
+msgid   "Earlier this Month"
+msgstr  "A principis de mes"
+
+msgctxt "@title:group Date"
+msgid   "One Week Ago"
+msgstr  "Fa una setmana"
+
+msgctxt "@title:group Date"
+msgid   "Three Weeks Ago"
+msgstr  "Fa tres setmanes"
+
+msgctxt "@title:group Date"
+msgid   "Today"
+msgstr  "Hui"
+
+msgctxt "@title:group Date"
+msgid   "Two Weeks Ago"
+msgstr  "Fa dues setmanes"
+
+msgctxt "@title:group Date"
+msgid   "Yesterday"
+msgstr  "Ahir"
+
+msgctxt "@title:group Date: MMMM is full month name in current locale, and "
+        "yyyy is full year number. You must keep the ' don't use any fancy \" "
+        "or « or similar. The ' is not shown to the user, it's there to mark "
+        "a part of the text that should not be formatted as a date"
+msgid   "'Earlier on' MMMM, yyyy"
+msgstr  "'Abans de' MMMM, yyyy"
+
+msgctxt "@title:group Date: MMMM is full month name in current locale, and "
+        "yyyy is full year number. You must keep the ' don't use any fancy \" "
+        "or « or similar. The ' is not shown to the user, it's there to mark "
+        "a part of the text that should not be formatted as a date"
+msgid   "'One Week Ago' (MMMM, yyyy)"
+msgstr  "'Fa una setmana' (MMMM, yyyy)"
+
+msgctxt "@title:group Date: MMMM is full month name in current locale, and "
+        "yyyy is full year number. You must keep the ' don't use any fancy \" "
+        "or « or similar. The ' is not shown to the user, it's there to mark "
+        "a part of the text that should not be formatted as a date"
+msgid   "'Three Weeks Ago' (MMMM, yyyy)"
+msgstr  "'Fa tres setmanes' (MMMM, yyyy)"
+
+msgctxt "@title:group Date: MMMM is full month name in current locale, and "
+        "yyyy is full year number. You must keep the ' don't use any fancy \" "
+        "or « or similar. The ' is not shown to the user, it's there to mark "
+        "a part of the text that should not be formatted as a date"
+msgid   "'Two Weeks Ago' (MMMM, yyyy)"
+msgstr  "'Fa dues setmanes' (MMMM, yyyy)"
+
+msgctxt "@title:group Date: MMMM is full month name in current locale, and "
+        "yyyy is full year number. You must keep the ' don't use any fancy \" "
+        "or « or similar. The ' is not shown to the user, it's there to mark "
+        "a part of the text that should not be formatted as a date"
+msgid   "'Yesterday' (MMMM, yyyy)"
+msgstr  "'Ahir' (MMMM, yyyy)"
+
+msgctxt "@title:group Date: The week day name: dddd"
+msgid   "dddd"
+msgstr  "dddd"
+
+msgctxt "@title:group Date: The week day name: dddd, MMMM is full month name "
+        "in current locale, and yyyy is full year number."
+msgid   "dddd (MMMM, yyyy)"
+msgstr  "dddd (MMMM, yyyy)"
+
+msgctxt "@title:group Files and folders by permissions"
+msgid   "User: %1 | Group: %2 | Others: %3"
+msgstr  "Usuari: %1 | Grup: %2 | Atres: %3"
+
+msgctxt "@title:group General settings"
+msgid   "General"
+msgstr  "General"
+
+msgctxt "@title:group Groups that start with a digit"
+msgid   "0 - 9"
+msgstr  "0 - 9"
+
+msgctxt "@title:group Size"
+msgid   "Big"
+msgstr  "Gran"
+
+msgctxt "@title:group Size"
+msgid   "Folders"
+msgstr  "Carpetes"
+
+msgctxt "@title:group Size"
+msgid   "Medium"
+msgstr  "Mitjana"
+
+msgctxt "@title:group Size"
+msgid   "Small"
+msgstr  "Xicoteta"
+
+msgctxt "@title:group The month and year: MMMM is full month name in current "
+        "locale, and yyyy is full year number"
+msgid   "MMMM, yyyy"
+msgstr  "MMMM, yyyy"
+
+msgctxt "@title:menu"
+msgid   "&Bookmarks"
+msgstr  "&Adreces d'interés"
+
+msgctxt "@title:menu"
+msgid   "Dolphin Toolbar"
+msgstr  "Barra d'eines de Dolphin"
+
+msgctxt "@title:menu"
+msgid   "Location Bar"
+msgstr  "Barra d'ubicació"
+
+msgctxt "@title:menu"
+msgid   "Main Toolbar"
+msgstr  "Barra d'eines principal"
+
+msgctxt "@title:menu"
+msgid   "Selection"
+msgstr  "Selecció"
+
+msgctxt "@title:menu"
+msgid   "Tools"
+msgstr  "Eines"
+
+msgctxt "@title:menu Create new folder, file, link, etc."
+msgid   "Create New"
+msgstr  "Crea nou"
+
+msgctxt "@title:tab"
+msgid   "Compact"
+msgstr  "Compacte"
+
+msgctxt "@title:tab"
+msgid   "Details"
+msgstr  "Detalls"
+
+msgctxt "@title:tab"
+msgid   "Icons"
+msgstr  "Icones"
+
+msgctxt "@title:tab Behavior settings"
+msgid   "Behavior"
+msgstr  "Comportament"
+
+msgctxt "@title:tab Confirmations settings"
+msgid   "Confirmations"
+msgstr  "Confirmacions"
+
+msgctxt "@title:tab Previews settings"
+msgid   "Previews"
+msgstr  "Vistes prèvies"
+
+msgctxt "@title:tab Status Bar settings"
+msgid   "Status Bar"
+msgstr  "Barra d'estat"
+
+msgctxt "@title:window"
+msgid   "Applying View Properties"
+msgstr  "S'estan aplicant les propietats de la vista"
+
+msgctxt "@title:window"
+msgid   "Configure"
+msgstr  "Configuració"
+
+msgctxt "@title:window"
+msgid   "Configure Preview for %1"
+msgstr  "Configura la vista prèvia per a %1"
+
+msgctxt "@title:window"
+msgid   "Confirmation"
+msgstr  "Confirmació"
+
+msgctxt "@title:window"
+msgid   "Folders"
+msgstr  "Carpetes"
+
+msgctxt "@title:window"
+msgid   "Information"
+msgstr  "Informació"
+
+msgctxt "@title:window"
+msgid   "Places"
+msgstr  "Llocs"
+
+msgctxt "@title:window"
+msgid   "Select"
+msgstr  "Selecciona"
+
+msgctxt "@title:window"
+msgid   "Unselect"
+msgstr  "Desselecciona"
+
+msgctxt "@title:window"
+msgid   "View Display Style"
+msgstr  "Estil de presentació de la vista"
+
+msgctxt "@title:window Shell terminal"
+msgid   "Terminal"
+msgstr  "Terminal"
+
+msgctxt "@tooltip"
+msgid   "Stop loading"
+msgstr  "Para la càrrega"
+
+msgid   "Adding a dot to the beginning of this file's name will hide it from "
+        "view.\n"
+        "Do you still want to rename it?"
+msgstr  "En afegir un punt al començament d'este nom de fitxer, s'ocultarà a "
+        "la visualisació.\n"
+        "Encara el voleu canviar de nom?"
+
+msgid   "Adding a dot to the beginning of this folder's name will hide it "
+        "from view.\n"
+        "Do you still want to rename it?"
+msgstr  "En afegir un punt al començament d'este nom de carpeta, s'ocultarà a "
+        "la visualisació.\n"
+        "Encara voleu canviar de nom-la?"
+
+msgid   "Always ask"
+msgstr  "Pregunta sempre"
+
+msgid   "Are you sure you want to open 1 item?"
+msgid_plural    "Are you sure you want to open %1 items?"
+msgstr[0]       "Segur que voleu obrir 1 element?"
+msgstr[1]       "Segur que voleu obrir %1 elements?"
+
+msgid   "Ask for confirmation when closing windows with a program that is "
+        "still running in the Terminal panel."
+msgstr  "Demana confirmació en tancar finestres amb un programa que encara "
+        "s'està executant al quadro del terminal."
+
+msgid   "Ask for confirmation when closing windows with multiple tabs."
+msgstr  "Demana confirmació en tancar finestres amb múltiples pestanyes."
+
+msgid   "Auto-Play media files"
+msgstr  "Reproduïx automàticament els fitxers multimèdia"
+
+msgid   "Automatic scrolling"
+msgstr  "Desplaçament automàtic"
+
+msgid   "Browse through archives"
+msgstr  "Navega pels archius"
+
+msgid   "C&lose Current Tab"
+msgstr  "T&anca la pestanya actual"
+
+msgctxt "Can be used to script translation of \"'Earlier on' MMMM, yyyy\" "
+        "with context @title:group Date"
+msgid   "%1"
+msgstr  "%1"
+
+msgctxt "Can be used to script translation of \"'One Week Ago' (MMMM, yyyy)\" "
+        "with context @title:group Date"
+msgid   "%1"
+msgstr  "%1"
+
+msgctxt "Can be used to script translation of \"'Three Weeks Ago' (MMMM, "
+        "yyyy)\" with context @title:group Date"
+msgid   "%1"
+msgstr  "%1"
+
+msgctxt "Can be used to script translation of \"'Two Weeks Ago' (MMMM, "
+        "yyyy)\" with context @title:group Date"
+msgid   "%1"
+msgstr  "%1"
+
+msgctxt "Can be used to script translation of \"'Yesterday' (MMMM, yyyy)\" "
+        "with context @title:group Date"
+msgid   "%1"
+msgstr  "%1"
+
+msgctxt "Can be used to script translation of \"MMMM, yyyy\" with context "
+        "@title:group Date"
+msgid   "%1"
+msgstr  "%1"
+
+msgctxt "Can be used to script translation of \"dddd (MMMM, yyyy)\" with "
+        "context @title:group Date"
+msgid   "%1"
+msgstr  "%1"
+
+msgctxt "Can be used to script translation of \"dddd\"with context @title:"
+        "group Date"
+msgid   "%1"
+msgstr  "%1"
+
+msgid   "Choose Natural, Case Sensitive, or Case Insensitive order of sorting "
+        "the items"
+msgstr  "Seleccioneu el modo d'ordenació dels elements: natural, distinguint "
+        "entre majúscules i minúscules, o sense distinguir entre majúscules i "
+        "minúscules"
+
+msgid   "Choose what to see on each file or folder:"
+msgstr  "Trieu què vore de cada fitxer o carpeta:"
+
+msgid   "Close active pane when toggling off split view"
+msgstr  "Tanca la subfinestra activa en traure la vista dividida"
+
+msgid   "Date display format"
+msgstr  "Format de visualisació de les dates"
+
+msgid   "Default"
+msgstr  "Predeterminat"
+
+msgctxt "Description for zoom-slider (accessibility)"
+msgid   "Sets the size of the file icons."
+msgstr  "Definix la mida de les icones dels fitxers."
+
+msgid   "Do not ask again"
+msgstr  "No ho tornes a preguntar"
+
+msgid   "Dolphin"
+msgstr  "Dolphin"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "txemaq@gmail.com"
+
+msgid   "Empties Trash to create free space"
+msgstr  "Buida la paperera per a crear espai lliure"
+
+msgid   "Empty Recently Closed Tabs"
+msgstr  "Buida les pestanyes tancades recentment"
+
+msgid   "Enabled plugins"
+msgstr  "Conectors habilitats"
+
+msgid   "Enlarge Small Previews"
+msgstr  "Amplia les vistes prèvies xicotetes"
+
+msgid   "Enter server URL (e.g. smb://[ip address])"
+msgstr  "Introduïu l'URL del servidor (p. ex. smb://[adreça IP])"
+
+msgid   "Expandable folders"
+msgstr  "Carpetes expansibles"
+
+msgid   "Filter..."
+msgstr  "Filtre..."
+
+msgid   "Folder is empty"
+msgstr  "La carpeta està buida"
+
+msgid   "Font family"
+msgstr  "Família del tipus de lletra"
+
+msgid   "Font size"
+msgstr  "Mida del tipus de lletra"
+
+msgid   "Font weight"
+msgstr  "Estil del tipus de lletra"
+
+msgid   "Have the startup settings been modified (internal setting not shown "
+        "in the UI)"
+msgstr  "S'ha modificat la configuració d'inici (opció interna que no es "
+        "visualisa a la IU)"
+
+msgid   "Hidden files shown"
+msgstr  "Mostra els fitxers ocults"
+
+msgid   "Hide this File?"
+msgstr  "Voleu amagar este fitxer?"
+
+msgid   "Hide this Folder?"
+msgstr  "Voleu amagar esta carpeta?"
+
+msgid   "Home URL"
+msgstr  "URL d'inici"
+
+msgid   "Icon size"
+msgstr  "Mida de la icona"
+
+msgid   "Install Konsole"
+msgstr  "Instala Konsole"
+
+msgid   "Internal version of Dolphin, containing 3 digits for major, minor, "
+        "bugfix"
+msgstr  "Versió interna de Dolphin, que té 3 dígits per a la versió major, la "
+        "menor i l'esmena d'errors"
+
+msgid   "Italic"
+msgstr  "Cursiva"
+
+msgid   "Leading Column Padding"
+msgstr  "Farciment de la columna inicial"
+
+msgid   "Limit folders panel to home directory if inside home"
+msgstr  "Llimita el quadro de carpetes al directori d'inici si es troba dins "
+        "del personal"
+
+msgid   "Loading..."
+msgstr  "S'està carregant..."
+
+msgid   "Location"
+msgstr  "Ubicació"
+
+msgid   "Lock the layout of the panels"
+msgstr  "Bloqueja la disposició dels quadros"
+
+msgid   "Maximum text width index (0 means unlimited)"
+msgstr  "Índex màxim d'amplària del text (0 significa sense límit)"
+
+msgid   "Maximum textlines (0 means unlimited)"
+msgstr  "Màxim de llínees de text (0 significa sense límit)"
+
+msgctxt "Mebibytes; used as a suffix in a spinbox showing e.g. '3 MiB'"
+msgid   " MiB"
+msgstr  " MiB"
+
+msgid   "More Search Tools"
+msgstr  "Més eines de busca"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Josep M. Ferrer"
+
+msgid   "New tab will be open after last one"
+msgstr  "Obri una pestanya nova després de l'última"
+
+msgid   "New windows:"
+msgstr  "Finestres noves:"
+
+msgid   "No Bluetooth devices found"
+msgstr  "No s'ha trobat cap dispositiu Bluetooth"
+
+msgid   "No MTP-compatible devices found"
+msgstr  "No s'ha trobat cap dispositiu que admeti MTP"
+
+msgid   "No files tagged with \"%1\""
+msgstr  "No hi ha cap fitxer etiquetat amb «%1»"
+
+msgid   "No items matching the filter"
+msgstr  "Cap element que coincidisca amb el filtre"
+
+msgid   "No items matching the search"
+msgstr  "Cap element que coincidisca amb la busca"
+
+msgid   "No limit"
+msgstr  "Sense límit"
+
+msgid   "No previews"
+msgstr  "Sense vista prèvia"
+
+msgid   "No recently used items"
+msgstr  "No hi ha cap element emprat recentment"
+
+msgid   "No relevant network resources found"
+msgstr  "No s'ha trobat cap recurs de ret rellevant"
+
+msgid   "No shared folders found"
+msgstr  "No s'ha trobat cap carpeta compartida"
+
+msgid   "No tags"
+msgstr  "Sense etiquetes"
+
+msgid   "One or more files on this device are open within an application."
+msgstr  "Un o més fitxers d'este dispositiu estan oberts a una aplicació."
+
+msgid   "One or more files on this device are opened in application "
+        "<application>\"%2\"</application>."
+msgid_plural    "One or more files on this device are opened in following "
+        "applications: <application>%2</application>."
+msgstr[0]       "Un o més fitxers d'este dispositiu estan oberts a "
+        "l'aplicació <application>%2</application>."
+msgstr[1]       "Un o més fitxers d'este dispositiu estan oberts a les "
+        "aplicacions següents: <application>%2</application>."
+
+msgid   "Open in application"
+msgstr  "Obri a l'aplicació"
+
+msgid   "Position of columns"
+msgstr  "Posició de les columnes"
+
+msgid   "Preview size"
+msgstr  "Mida de la vista prèvia"
+
+msgid   "Previews shown"
+msgstr  "Vistes prèvies visibles"
+
+msgid   "Recently Closed Tabs"
+msgstr  "Pestanyes tancades recentment"
+
+msgid   "Recursive directory size limit"
+msgstr  "Límit de la mida recursiva dels directoris"
+
+msgid   "Reload"
+msgstr  "Actualisa"
+
+msgid   "Remember open folders and tabs"
+msgstr  "Recorda les carpetes i pestanyes obertes"
+
+msgid   "Rename inline"
+msgstr  "Canvia el nom en llínea"
+
+msgid   "Run script"
+msgstr  "Executa un script"
+
+msgid   "Running Dolphin as root can be dangerous. Please be careful."
+msgstr  "L'execució de Dolphin com a administrador pot ser perillós. Aneu amb "
+        "compte."
+
+msgid   "Search"
+msgstr  "Busca"
+
+msgid   "Search for %1"
+msgstr  "Busca %1"
+
+msgid   "Search for %1 in %2"
+msgstr  "Busca %1 en %2"
+
+msgid   "Search..."
+msgstr  "Busca..."
+
+msgid   "Select Remote Charset"
+msgstr  "Selecciona el joc de caràcters remot"
+
+msgid   "Select all items matching this pattern:"
+msgstr  "Selecciona tots els elements que coincidisquen amb este patró:"
+
+msgid   "Should an externally called folder open in a new tab in an existing "
+        "Dolphin instance"
+msgstr  "Una carpeta invocada externament hauria d'obrir-se en una pestanya "
+        "nova d'una instància existent de Dolphin"
+
+msgid   "Should the URL be editable for the user"
+msgstr  "L'URL hauria de ser editable per l'usuari"
+
+msgid   "Should the filter bar be shown"
+msgstr  "S'hauria de mostrar la barra de filtres"
+
+msgid   "Should the full path be shown in the title bar"
+msgstr  "El camí sencer s'hauria de visualisar en la barra de títol"
+
+msgid   "Should the full path be shown inside the location bar"
+msgstr  "El camí sencer s'hauria de visualisar a la barra d'ubicació"
+
+msgid   "Should the view properties be used for all folders"
+msgstr  "S'haurien d'utilisar les propietats de la vista per a totes les "
+        "carpetes"
+
+msgid   "Show &Terminal Panel"
+msgstr  "Mostra el quadro del &terminal"
+
+msgid   "Show 'Add to Places' in context menu."
+msgstr  "Mostra «Afig a llocs» en el menú contextual."
+
+msgid   "Show 'Copy Location' in context menu."
+msgstr  "Mostra «Copia la ubicació» en el menú contextual."
+
+msgid   "Show 'Copy To' and 'Move To' commands in context menu"
+msgstr  "Mostra les ordres «Copia a» i «Mou a» en el menú contextual"
+
+msgid   "Show 'Duplicate Here' in context menu."
+msgstr  "Mostra «Duplica ací» en el menú contextual."
+
+msgid   "Show 'Open Terminal' in context menu."
+msgstr  "Mostra «Obri un terminal» en el menú contextual."
+
+msgid   "Show 'Open in New Tab' and 'Open in New Tabs' in context menu."
+msgstr  "Mostra «Obri en una pestanya nova» i «Obri en pestanyes noves» en el "
+        "menú contextual."
+
+msgid   "Show 'Open in New Window' in context menu."
+msgstr  "Mostra «Obri en una finestra nova» en el menú contextual."
+
+msgid   "Show 'Sort By' in context menu."
+msgstr  "Mostra «Ordena per» en el menú contextual."
+
+msgid   "Show 'View Mode' in context menu."
+msgstr  "Mostra «Modo de vista» en el menú contextual."
+
+msgid   "Show selection toggle"
+msgstr  "Mostra un commutador de selecció"
+
+msgid   "Show the space information in the statusbar"
+msgstr  "Mostra la informació sobre l'espai a la barra d'estat"
+
+msgid   "Show the statusbar"
+msgstr  "Mostra la barra d'estat"
+
+msgid   "Show tooltips"
+msgstr  "Mostra els consells"
+
+msgid   "Show zoom slider in the statusbar"
+msgstr  "Mostra el control lliscant del zoom a la barra d'estat"
+
+msgid   "Size of icons in the Places Panel (-1 means \"automatic\")"
+msgstr  "Mida de les icones en el quadro Llocs (-1 significa «automàtic»)"
+
+msgid   "Skip previews for local files above:"
+msgstr  "Omet les vistes prèvies per a fitxers locals superiors a:"
+
+msgctxt "Sort ascending"
+msgid   "A-Z"
+msgstr  "A-Z"
+
+msgctxt "Sort ascending"
+msgid   "Ascending"
+msgstr  "Ascendent"
+
+msgctxt "Sort ascending"
+msgid   "Lowest First"
+msgstr  "Primera la més baixa"
+
+msgctxt "Sort ascending"
+msgid   "Oldest First"
+msgstr  "Primer el més antic"
+
+msgctxt "Sort ascending"
+msgid   "Smallest First"
+msgstr  "Primer el més xicotet"
+
+msgctxt "Sort descending"
+msgid   "Descending"
+msgstr  "Descendent"
+
+msgctxt "Sort descending"
+msgid   "Highest First"
+msgstr  "Primera la més elevada"
+
+msgctxt "Sort descending"
+msgid   "Largest First"
+msgstr  "Primer el més gran"
+
+msgctxt "Sort descending"
+msgid   "Newest First"
+msgstr  "Primer el més nou"
+
+msgctxt "Sort descending"
+msgid   "Z-A"
+msgstr  "Z-A"
+
+msgid   "Split the view into two panes"
+msgstr  "Dividix la vista en dues subfinestres"
+
+msgid   "Stop"
+msgstr  "Para"
+
+msgctxt "String list separator"
+msgid   ", "
+msgstr  ", "
+
+msgid   "Terminal cannot be shown because Konsole is not installed. Please "
+        "install it and then reopen the panel."
+msgstr  "No es pot mostrar el terminal perquè Konsole no està instalat. "
+        "Instaleu-lo i després torneu a obrir el quadro."
+
+msgid   "Text completion mode of the URL Navigator"
+msgstr  "Modo de compleció del text del navegador d'URL"
+
+msgid   "Text width index"
+msgstr  "Índex d'amplària del text"
+
+msgid   "The Trash was emptied."
+msgstr  "S'ha buidat la paperera."
+
+msgid   "The program '%1' is still running in the Terminal panel. Are you "
+        "sure you want to quit?"
+msgstr  "El programa «%1» encara s'està executant al quadro del terminal. "
+        "Segur que voleu eixir-ne?"
+
+msgid   "Timestamp since when the view properties are valid"
+msgstr  "Marca horària des de quan són vàlides les propietats de la vista"
+
+msgid   "Trash Emptied"
+msgstr  "S'ha buidat la paperera"
+
+msgid   "Trash is empty"
+msgstr  "La paperera està buida"
+
+msgid   "Unselect all items matching this pattern:"
+msgstr  "Desselecciona tots els elements que coincidisquen amb este patró:"
+
+msgid   "Use auto-expanding folders for all view types"
+msgstr  "Utilisa carpetes expansibles automàticament per a tots els tipus de "
+        "vista"
+
+msgid   "Use system font"
+msgstr  "Utilisa el tipus de lletra del sistema"
+
+msgid   "Use tab for switching between right and left split"
+msgstr  "Utilisa el tabulador per a canviar entre la divisió dreta i "
+        "l'esquerra"
+
+msgctxt "Used as a noun, i.e. 'Here is the zoom level:'"
+msgid   "Zoom:"
+msgstr  "Zoom:"
+
+msgid   "View options:"
+msgstr  "Opcions de visualisació:"
+
+msgid   "Warning"
+msgstr  "Avís"
+
+msgid   "What"
+msgstr  "Què"
+
+msgid   "When deactivated, turning off split view will close the inactive pane"
+msgstr  "Si està desactivada, en traure la vista dividida es tancarà la "
+        "subfinestra inactiva"
+
+msgid   "Whether or not content count is used as directory size"
+msgstr  "Si el comptador de contingut s'utilisa com a mida del directori"
+
+msgid   "You have multiple tabs open in this window, are you sure you want to "
+        "quit?"
+msgstr  "Teniu múltiples pestanyes obertes en esta finestra, segur que voleu "
+        "eixir-ne?"
+
+msgid   "You have unsaved changes. Do you want to apply the changes or "
+        "discard them?"
+msgstr  "Hi ha canvis sense guardar. Voleu aplicar els canvis o descartar-los?"
+
+msgid   "Zoom"
+msgstr  "Zoom"
+
+msgid   "Zoom To Default"
+msgstr  "Zoom al valor predeterminat"
+
+msgctxt "action:button"
+msgid   "Content"
+msgstr  "Contingut"
+
+msgctxt "action:button"
+msgid   "Filename"
+msgstr  "Nom de fitxer"
+
+msgctxt "action:button"
+msgid   "From Here"
+msgstr  "Des d'ací"
+
+msgctxt "action:button"
+msgid   "From Here (%1)"
+msgstr  "Des d'ací (%1)"
+
+msgctxt "action:button"
+msgid   "Limit search to '%1' and its subfolders"
+msgstr  "Llimita la busca a «%1» i als seus subdirectoris"
+
+msgctxt "action:button"
+msgid   "Save this search to quickly access it again in the future"
+msgstr  "Guarda esta busca per a accedir-hi ràpidament de nou en el futur"
+
+msgctxt "action:button"
+msgid   "Search in your home directory"
+msgstr  "Busca al vostre directori d'inici"
+
+msgctxt "action:button"
+msgid   "Your files"
+msgstr  "Els vostres archius"
+
+msgctxt "description of kuserfeedback data source provided by dolphin"
+msgid   "A subset of Dolphin settings."
+msgstr  "Un subconjunt de la configuració de Dolphin."
+
+msgctxt "description of kuserfeedback data source provided by dolphin"
+msgid   "Count of available Network Shares"
+msgstr  "Recompte de les comparticions de ret disponibles"
+
+msgid   "if true we use short relative dates, if not short dates"
+msgstr  "si és cert, usarem dates relatives curtes, si no dates curtes"
+
+msgctxt "name of kuserfeedback data source provided by dolphin"
+msgid   "Places"
+msgstr  "Llocs"
+
+msgctxt "name of kuserfeedback data source provided by dolphin"
+msgid   "Settings"
+msgstr  "Configuració"
+
+msgctxt "option:check"
+msgid   "Open folders during drag operations"
+msgstr  "Obri les carpetes en les operacions d'arrossegament"
+
+msgctxt "option:check"
+msgid   "Rename inline"
+msgstr  "Canvia el nom en llínea"
+
+msgctxt "option:check"
+msgid   "Switch between split views panes with tab key"
+msgstr  "Canvia entre les subfinestres de les vistes dividides amb la tecla "
+        "de tabulació"
+
+msgctxt "option:check"
+msgid   "Turning off split view closes active pane"
+msgstr  "En traure la vista dividida es tancarà la subfinestra activa"
+
+msgctxt "option:radio"
+msgid   "After current tab"
+msgstr  "Després de la pestanya actual"
+
+msgctxt "option:radio"
+msgid   "Alphabetical, case insensitive"
+msgstr  "Alfabètica, sense distinguir entre majúscules i minúscules"
+
+msgctxt "option:radio"
+msgid   "Alphabetical, case sensitive"
+msgstr  "Alfabètica, distinguint entre majúscules i minúscules"
+
+msgctxt "option:radio"
+msgid   "At end of tab bar"
+msgstr  "Al final de la barra de pestanyes"
+
+msgctxt "option:radio"
+msgid   "Natural"
+msgstr  "Natural"
+
+msgctxt "option:radio"
+msgid   "Number of items"
+msgstr  "Nombre d'elements"
+
+msgctxt "option:radio"
+msgid   "Size of contents, up to "
+msgstr  "Mida del contingut, fins a "
+
+msgctxt "option:radio as in absolute date"
+msgid   "Absolute (e.g. '%1')"
+msgstr  "Absoluta (p. ex. «%1»)"
+
+msgctxt "option:radio as in relative date"
+msgid   "Relative (e.g. '%1')"
+msgstr  "Relativa (p. ex. «%1»)"
+
+msgid   "pause"
+msgstr  "pausa"
+
+msgid   "play"
+msgstr  "reproduïx"
+
+msgctxt "separator in list of apps blocking device unmount"
+msgid   ", "
+msgstr  ", "
+
+msgctxt "width × height"
+msgid   "%1 × %2"
+msgstr  "%1 × %2"

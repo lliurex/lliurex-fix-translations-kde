@@ -1,0 +1,2340 @@
+msgid   ""
+msgstr  "Project-Id-Version: kpmcore\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-02-21 10:59+0100\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+        "X-Generator: Lokalize 20.12.0\n"
+
+msgid   "%1: SMART Status Report"
+msgstr  "%1: Informe d'estat SMART"
+
+msgid   "1 byte"
+msgid_plural    "%1 bytes"
+msgstr[0]       "1 byte"
+msgstr[1]       "%1 bytes"
+
+msgctxt "@info/plain"
+msgid   "Adding LVM Physical Volume %2 to %3."
+msgid_plural    "Adding LVM Physical Volumes %2 to %3."
+msgstr[0]       "S'està afegint el volum físic LVM %2 a %3."
+msgstr[1]       "S'estan afegint els volums físics LVM %2 a %3."
+
+msgctxt "@info/plain"
+msgid   "Change the permissions of: <filename>%1</filename> to %2"
+msgstr  "Canvieu els permisos de: <filename>%1</filename> a %2"
+
+msgctxt "@info/plain"
+msgid   "Create a new LVM volume group named '%1'."
+msgstr  "Crea un grup de volums LVM nou anomenat «%1»."
+
+msgctxt "@info/plain"
+msgid   "Create a new Volume Group: <filename>%1</filename> with PV: %2"
+msgstr  "Crea un grup de volums nou: <filename>%1</filename> amb PV: %2"
+
+msgctxt "@info/plain"
+msgid   "Deactivate Logical Volumes: <filename>%1</filename>"
+msgstr  "Desactiva els volums lògics: <filename>%1</filename>"
+
+msgctxt "@info/plain"
+msgid   "Deactivate Volume Group: <filename>%1</filename>"
+msgstr  "Desactiva el grup de volums: <filename>%1</filename>"
+
+msgctxt "@info/plain"
+msgid   "Deactivate volume group."
+msgstr  "Es desactiva el grup de volums."
+
+msgctxt "@info/plain"
+msgid   "Failed to add partition <filename>%1</filename> to device "
+        "<filename>%2</filename>."
+msgstr  "No s'ha pogut afegir la partició <filename>%1</filename> al "
+        "dispositiu <filename>%2</filename>."
+
+msgctxt "@info/plain"
+msgid   "Move used PE in %1 on %2 to other available Physical Volumes"
+msgstr  "Mou el PE utilisat en %1 fins a %2 a atres volums físics disponibles"
+
+msgctxt "@info/plain"
+msgid   "Remove Volume Group: <filename>%1</filename>"
+msgstr  "Elimina el grup de volums: <filename>%1</filename>"
+
+msgctxt "@info/plain"
+msgid   "Remove a LVM volume group."
+msgstr  "Elimina un grup de volums LVM."
+
+msgctxt "@info/plain"
+msgid   "Removing LVM Physical Volume %2 from %3."
+msgid_plural    "Removing LVM Physical Volumes %2 from %3."
+msgstr[0]       "S'està eliminant el volum físic LVM %2 de %3."
+msgstr[1]       "S'estan eliminant els volums físics LVM %2 de %3."
+
+msgctxt "@info/plain"
+msgid   "Resize volume %1 from %2 to %3"
+msgstr  "Redimensiona el volum %1 des de %2 fins al %3"
+
+msgctxt "@info/plain"
+msgid   "Resizing Volume Group %1 to %2."
+msgstr  "Redimensió del grup de volums %1 a %2."
+
+msgctxt "@info:credit"
+msgid   "&copy; 2008-2022 KPMcore developers"
+msgstr  "&copy; 2008-2022 Els desenvolupadors de la KPMcore"
+
+msgctxt "@info:credit"
+msgid   "Adriaan de Groot"
+msgstr  "Adriaan de Groot"
+
+msgctxt "@info:credit"
+msgid   "Andrius Štikonas"
+msgstr  "Andrius Štikonas"
+
+msgctxt "@info:credit"
+msgid   "Caio Jordão Carvalho"
+msgstr  "Caio Jordão Carvalho"
+
+msgctxt "@info:credit"
+msgid   "Calamares maintainer"
+msgstr  "Mantenidor del Calamares"
+
+msgctxt "@info:credit"
+msgid   "Chantara Tith"
+msgstr  "Chantara Tith"
+
+msgctxt "@info:credit"
+msgid   "David Edmundson"
+msgstr  "David Edmundson"
+
+msgctxt "@info:credit"
+msgid   "Former Calamares maintainer"
+msgstr  "Mantenidor anterior del Calamares"
+
+msgctxt "@info:credit"
+msgid   "Former maintainer"
+msgstr  "Mantenidor anterior"
+
+msgctxt "@info:credit"
+msgid   "Improved SMART support"
+msgstr  "Implementació millorada del SMART"
+
+msgctxt "@info:credit"
+msgid   "LVM support"
+msgstr  "Implementació del LVM"
+
+msgctxt "@info:credit"
+msgid   "Maintainer"
+msgstr  "Mantenidor"
+
+msgctxt "@info:credit"
+msgid   "Pali Rohár"
+msgstr  "Pali Rohár"
+
+msgctxt "@info:credit"
+msgid   "Port from KAuth to Polkit"
+msgstr  "Adaptació des de KAuth a Polkit"
+
+msgctxt "@info:credit"
+msgid   "Teo Mrnjavac"
+msgstr  "Teo Mrnjavac"
+
+msgctxt "@info:credit"
+msgid   "UDF support"
+msgstr  "Implementació de l'UDF"
+
+msgctxt "@info:credit"
+msgid   "Volker Lanz"
+msgstr  "Volker Lanz"
+
+msgctxt "@info:progress"
+msgid   "<warning>Resizing Btrfs file system on partition <filename>%1</"
+        "filename>: Unmount failed.</warning>"
+msgstr  "<warning>En redimensionar la partició <filename>%1</filename> al "
+        "sistema de fitxers Btrfs: no s'ha pogut desmuntar.</warning>"
+
+msgctxt "@info:progress"
+msgid   "<warning>Resizing JFS file system on partition <filename>%1</"
+        "filename>: Unmount failed.</warning>"
+msgstr  "<warning>En redimensionar la partició <filename>%1</filename> al "
+        "sistema de fitxers JFS: no s'ha pogut desmuntar.</warning>"
+
+msgctxt "@info:progress"
+msgid   "<warning>Resizing NILFS2 file system on partition <filename>%1</"
+        "filename>: Unmount failed.</warning>"
+msgstr  "<warning>En redimensionar la partició <filename>%1</filename> al "
+        "sistema de fitxers NILFS2: no s'ha pogut desmuntar.</warning>"
+
+msgctxt "@info:progress"
+msgid   "<warning>Resizing XFS file system on partition <filename>%1</"
+        "filename> failed: Unmount failed.</warning>"
+msgstr  "<warning>En redimensionar la partició <filename>%1</filename> al "
+        "sistema de fitxers XFS: no s'ha pogut desmuntar.</warning>"
+
+msgctxt "@info:progress"
+msgid   "Back up file system on partition <filename>%1</filename> to "
+        "<filename>%2</filename>"
+msgstr  "Fes còpia de seguretat de la partició <filename>%1</filename> a "
+        "<filename>%2</filename>"
+
+msgctxt "@info:progress"
+msgid   "Cannot copy file system: File system on target partition "
+        "<filename>%1</filename> is smaller than the file system on source "
+        "partition <filename>%2</filename>."
+msgstr  "No s'ha pogut copiar el sistema de fitxers: el sistema de fitxers a "
+        "la partició de destinació <filename>%1</filename> és més xicotet que "
+        "el sistema de fitxers a la partició d'origen <filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Check file system on partition <filename>%1</filename>"
+msgstr  "Comprova el sistema de fitxers a la partició <filename>%1</filename>"
+
+msgctxt "@info:progress"
+msgid   "Clear flags for partition <filename>%1</filename>"
+msgstr  "Neteja els indicadors de la partició <filename>%1</filename>"
+
+msgctxt "@info:progress"
+msgid   "Closing device. This may take a few seconds."
+msgstr  "S'està tancant el dispositiu. Açò pot tardar alguns segons."
+
+msgctxt "@info:progress"
+msgid   "Closing device. This may take a while, especially on slow devices "
+        "like Memory Sticks."
+msgstr  "S'està tancant el dispositiu. Açò pot tardar una estona, "
+        "especialment en dispositius lents com els «Memory Sticks»."
+
+msgctxt "@info:progress"
+msgid   "Copy file system on partition <filename>%1</filename> to partition "
+        "<filename>%2</filename>"
+msgstr  "Copia el sistema de fitxers de la partició <filename>%1</filename> a "
+        "la partició <filename>%2</filename>"
+
+msgctxt "@info:progress"
+msgid   "Copying %1 MiB/second, estimated time left: %2"
+msgstr  "S'està copiant %1 MiB/segon, temps restant estimat: %2"
+
+msgctxt "@info:progress"
+msgid   "Copying %1 chunks (%2 bytes) from %3 to %4, direction: %5."
+msgstr  "S'estan copiant %1 fragment (%2 bytes) des de %3 fins a %4, "
+        "direcció: %5."
+
+msgctxt "@info:progress"
+msgid   "Copying remainder of chunk size %1 from %2 to %3."
+msgstr  "S'està copiant la resta de la mida del fragment %1 des de %2 fins a "
+        "%3."
+
+msgctxt "@info:progress"
+msgid   "Could not create backup file <filename>%1</filename>."
+msgstr  "No s'ha pogut crear el fitxer <filename>%1</filename> de còpia de "
+        "seguretat."
+
+msgctxt "@info:progress"
+msgid   "Could not create target for moving file system on partition "
+        "<filename>%1</filename>."
+msgstr  "No s'ha pogut crear la destinació per a desplaçar el sistema de "
+        "fitxers a la partició <filename>%1</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not delete file system on <filename>%1</filename>."
+msgstr  "No s'ha pogut suprimir el sistema de fitxers a <filename>%1</"
+        "filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not delete file system signature for partition <filename>%1</"
+        "filename>: Failed to open device <filename>%2</filename>."
+msgstr  "No s'ha pogut suprimir la signatura del sistema de fitxers de la "
+        "partició <filename>%1</filename>: no s'ha pogut obrir el dispositiu "
+        "<filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not delete file system: file system on <filename>%1</filename> "
+        "is mounted."
+msgstr  "No s'ha pogut suprimir el sistema de fitxers: el sistema de fitxer a "
+        "<filename>%1</filename> està muntat."
+
+msgctxt "@info:progress"
+msgid   "Could not delete partition <filename>%1</filename>."
+msgstr  "No s'ha pogut suprimir la partició <filename>%1</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not determine file system of partition at sector %1 on device "
+        "<filename>%2</filename>."
+msgstr  "No s'ha pogut determinar el sistema de fitxers a la partició del "
+        "sector %1 al dispositiu <filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open backup file <filename>%1</filename> to restore from."
+msgstr  "No s'ha pogut obrir el fitxer de còpia de seguretat <filename>%1</"
+        "filename> per a dur a terme la restauració."
+
+msgctxt "@info:progress"
+msgid   "Could not open device <filename>%1</filename> to create new "
+        "partition <filename>%2</filename>."
+msgstr  "No s'ha pogut obrir el dispositiu <filename>%1</filename> per a "
+        "crear la partició nova <filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open device <filename>%1</filename> to rollback copying."
+msgstr  "No s'ha pogut obrir el dispositiu <filename>%1</filename> per a "
+        "restaurar la còpia."
+
+msgctxt "@info:progress"
+msgid   "Could not open device <filename>%1</filename> to set partition flags "
+        "for partition <filename>%2</filename>."
+msgstr  "No s'ha pogut obrir el dispositiu <filename>%1</filename> en "
+        "establir els indicadors de la partició <filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open device <filename>%1</filename> to set the UUID for "
+        "partition <filename>%2</filename>."
+msgstr  "No s'ha pogut obrir el dispositiu <filename>%1</filename> per a "
+        "establir l'UUID de la partició <filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open device <filename>%1</filename> to set the attributes "
+        "for partition <filename>%2</filename>."
+msgstr  "No s'ha pogut obrir el dispositiu <filename>%1</filename> per a "
+        "establir els atributs de la partició <filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open device <filename>%1</filename> to set the name for "
+        "partition <filename>%2</filename>."
+msgstr  "No s'ha pogut obrir el dispositiu <filename>%1</filename> per a "
+        "establir el nom de la partició <filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open device <filename>%1</filename> to set the system type "
+        "for partition <filename>%2</filename>."
+msgstr  "No s'ha pogut obrir el dispositiu <filename>%1</filename> per a "
+        "establir el tipus de sistema de la partició <filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open device <filename>%1</filename> while trying to resize/"
+        "move partition <filename>%2</filename>."
+msgstr  "No s'ha d'obrir el dispositiu <filename>%1</filename> en provar de "
+        "redimensionar/desplaçar la partició <filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open file system on partition <filename>%1</filename> for "
+        "moving."
+msgstr  "No s'ha pogut obrir el sistema de fitxers a la partició "
+        "<filename>%1</filename> per a desplaçar-lo."
+
+msgctxt "@info:progress"
+msgid   "Could not open file system on source partition <filename>%1</"
+        "filename> for backup."
+msgstr  "No s'ha pogut obrir el sistema de fitxers a la partició d'origen "
+        "<filename>%1</filename> per a fer una còpia de seguretat."
+
+msgctxt "@info:progress"
+msgid   "Could not open file system on source partition <filename>%1</"
+        "filename> for copying."
+msgstr  "No s'ha pogut obrir el sistema de fitxers a la partició d'origen "
+        "<filename>%1</filename> per a copiar."
+
+msgctxt "@info:progress"
+msgid   "Could not open file system on target partition <filename>%1</"
+        "filename> for copying."
+msgstr  "No s'ha pogut obrir el sistema de fitxers a la partició de "
+        "destinació <filename>%1</filename> per a copiar."
+
+msgctxt "@info:progress"
+msgid   "Could not open partition <filename>%1</filename> while trying to "
+        "resize the file system."
+msgstr  "No s'ha pogut obrir la partició <filename>%1</filename> en provar de "
+        "redimensionar el sistema de fitxers."
+
+msgctxt "@info:progress"
+msgid   "Could not open partition table on device <filename>%1</filename> to "
+        "create new partition <filename>%2</filename>."
+msgstr  "No s'ha pogut obrir la taula de particions al dispositiu "
+        "<filename>%1</filename> per a crear la partició nova <filename>%2</"
+        "filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open partition table on device <filename>%1</filename> to "
+        "delete file system on <filename>%2</filename>."
+msgstr  "No s'ha pogut obrir la taula de particions al dispositiu "
+        "<filename>%1</filename> per a suprimir el sistema de fitxers a "
+        "<filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open partition table on device <filename>%1</filename> to "
+        "delete partition <filename>%2</filename>."
+msgstr  "No s'ha pogut obrir la taula de particions al dispositiu "
+        "<filename>%1</filename> per a suprimir la partició <filename>%2</"
+        "filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open partition table on device <filename>%1</filename> to "
+        "set partition flags for partition <filename>%2</filename>."
+msgstr  "No s'ha pogut obrir la taula de particions al dispositiu "
+        "<filename>%1</filename> per a establir els indicadors de la partició "
+        "<filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open partition table on device <filename>%1</filename> to "
+        "set the UUID for the partition <filename>%2</filename>."
+msgstr  "No s'ha pogut obrir la taula de particions al dispositiu "
+        "<filename>%1</filename> per a establir l'UUID de la partició "
+        "<filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open partition table on device <filename>%1</filename> to "
+        "set the attributes for the partition <filename>%2</filename>."
+msgstr  "No s'ha pogut obrir la taula de particions al dispositiu "
+        "<filename>%1</filename> per a establir els atributs de la partició "
+        "<filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open partition table on device <filename>%1</filename> to "
+        "set the name for the partition <filename>%2</filename>."
+msgstr  "No s'ha pogut obrir la taula de particions al dispositiu "
+        "<filename>%1</filename> per a establir el nom de la partició "
+        "<filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open partition table on device <filename>%1</filename> to "
+        "set the system type for partition <filename>%2</filename>."
+msgstr  "No s'ha pogut obrir la taula de particions al dispositiu "
+        "<filename>%1</filename> per a establir el tipus de sistema de la "
+        "partició <filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Could not open random data source to overwrite file system."
+msgstr  "No s'ha pogut obrir l'origen de dades a la ventura per a "
+        "sobreescriure el sistema de fitxers."
+
+msgctxt "@info:progress"
+msgid   "Could not open target partition <filename>%1</filename> to restore "
+        "to."
+msgstr  "No s'ha pogut obrir la partició de destinació <filename>%1</"
+        "filename> per a dur a terme la restauració."
+
+msgctxt "@info:progress"
+msgid   "Could not read geometry for partition <filename>%1</filename> while "
+        "trying to resize the file system."
+msgstr  "No s'ha pogut llegir la geometria de la partició <filename>%1</"
+        "filename> en provar de redimensionar la partició."
+
+msgctxt "@info:progress"
+msgid   "Could not set geometry for partition <filename>%1</filename> while "
+        "trying to resize/move it."
+msgstr  "No s'ha pogut establir la geometria de la partició <filename>%1</"
+        "filename> en provar de redimensionar-la/desplaçar-la."
+
+msgctxt "@info:progress"
+msgid   "Could not write new start sector to partition <filename>%1</"
+        "filename> when trying to update the NTFS boot sector."
+msgstr  "No s'ha pogut escriure el nou sector d'inici de la partició "
+        "<filename>%1</filename> en provar d'actualisar el sector d'arrancada "
+        "NTFS."
+
+msgctxt "@info:progress"
+msgid   "Create file system <filename>%1</filename> on partition "
+        "<filename>%2</filename>"
+msgstr  "Crea el sistema de fitxers <filename>%1</filename> a la partició "
+        "<filename>%2</filename>"
+
+msgctxt "@info:progress"
+msgid   "Create new partition <filename>%1</filename>"
+msgstr  "Crea una partició nova <filename>%1</filename>"
+
+msgctxt "@info:progress"
+msgid   "Create new partition on device <filename>%1</filename>"
+msgstr  "Crea una partició nova al dispositiu <filename>%1</filename>"
+
+msgctxt "@info:progress"
+msgid   "Create new partition table on device <filename>%1</filename>"
+msgstr  "Crea una taula de particions nova al dispositiu <filename>%1</"
+        "filename>"
+
+msgctxt "@info:progress"
+msgid   "Creating partition table failed: Could not open device <filename>%1</"
+        "filename>."
+msgstr  "No s'ha pogut crear la taula de particions: no s'ha pogut obrir el "
+        "dispositiu <filename>%1</filename>."
+
+msgctxt "@info:progress"
+msgid   "Delete file system on <filename>%1</filename>"
+msgstr  "Suprimix el sistema de fitxers a <filename>%1</filename>"
+
+msgctxt "@info:progress"
+msgid   "Delete the partition <filename>%1</filename>"
+msgstr  "Suprimix la partició <filename>%1</filename>"
+
+msgctxt "@info:progress"
+msgid   "Deleting partition failed: Could not open device <filename>%1</"
+        "filename>."
+msgstr  "No s'ha pogut suprimir la partició: no s'ha pogut obrir el "
+        "dispositiu <filename>%1</filename>."
+
+msgctxt "@info:progress"
+msgid   "Failed to add partition <filename>%1</filename> to device "
+        "<filename>%2</filename>."
+msgstr  "No s'ha pogut afegir la partició <filename>%1</filename> al "
+        "dispositiu <filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Failed to erase filesystem signature on partition <filename>%1</"
+        "filename>."
+msgstr  "No s'ha pogut fer l'esborrat de la signatura del sistema de fitxers "
+        "a la partició <filename>%1</filename>."
+
+msgctxt "@info:progress"
+msgid   "Failed to set the UUID for the partition <filename>%1</filename>."
+msgstr  "No s'ha pogut establir l'UUID de la partició <filename>%1</filename>."
+
+msgctxt "@info:progress"
+msgid   "Failed to set the attributes for the partition <filename>%1</"
+        "filename>."
+msgstr  "No s'han pogut establir els atributs de la partició <filename>%1</"
+        "filename>."
+
+msgctxt "@info:progress"
+msgid   "Failed to set the name for the partition <filename>%1</filename>."
+msgstr  "No s'ha pogut establir el nom de la partició <filename>%1</filename>."
+
+msgctxt "@info:progress"
+msgid   "Failed to set the system type for the file system on partition "
+        "<filename>%1</filename>."
+msgstr  "No s'ha pogut definir el tipus de sistema per al sistema de fitxers "
+        "en la partició <filename>%1</filename>."
+
+msgctxt "@info:progress"
+msgid   "File system on partition <filename>%1</filename> does not support "
+        "setting labels. Job ignored."
+msgstr  "El sistema de fitxers de la partició <filename>%1</filename> no "
+        "admet l'etiquetatge. S'ha ignorat la tasca."
+
+msgctxt "@info:progress"
+msgid   "Job: %1"
+msgstr  "Tasca: %1"
+
+msgctxt "@info:progress"
+msgid   "Maximize file system on <filename>%1</filename> to fill the partition"
+msgstr  "Maximisa el sistema de fitxers a <filename>%1</filename> per a "
+        "omplir la partició"
+
+msgctxt "@info:progress"
+msgid   "Move the file system on partition <filename>%1</filename> to sector "
+        "%2"
+msgstr  "Desplaça el sistema de fitxers a la partició <filename>%1</filename> "
+        "al sector %2"
+
+msgctxt "@info:progress"
+msgid   "Partition table of partition <filename>%1</filename> does not "
+        "support setting UUIDs. Job ignored."
+msgstr  "La taula de particions de la partició <filename>%1</filename> no "
+        "admet establir UUID. S'ha ignorat la tasca."
+
+msgctxt "@info:progress"
+msgid   "Partition table of partition <filename>%1</filename> does not "
+        "support setting attributes. Job ignored."
+msgstr  "La taula de particions de la partició <filename>%1</filename> no "
+        "admet establir atributs. S'ha ignorat la tasca."
+
+msgctxt "@info:progress"
+msgid   "Partition table of partition <filename>%1</filename> does not "
+        "support setting names. Job ignored."
+msgstr  "La taula de particions de la partició <filename>%1</filename> no "
+        "admet establir noms. S'ha ignorat la tasca."
+
+msgctxt "@info:progress"
+msgid   "Resize file system on partition <filename>%2</filename> to 1 sector"
+msgid_plural    "Resize file system on partition <filename>%2</filename> to "
+        "%1 sectors"
+msgstr[0]       "Redimensiona a 1 sector el sistema de fitxers de la partició "
+        "<filename>%2</filename>"
+msgstr[1]       "Redimensiona a %1 sectors el sistema de fitxers de la "
+        "partició <filename>%2</filename>"
+
+msgctxt "@info:progress"
+msgid   "Resizing Btrfs file system on partition <filename>%1</filename> "
+        "failed: Could not create temp dir."
+msgstr  "Ha fallat la redimensió de la partició <filename>%1</filename> al "
+        "sistema de fitxers Btrfs: no s'ha pogut crear el directori temporal."
+
+msgctxt "@info:progress"
+msgid   "Resizing Btrfs file system on partition <filename>%1</filename> "
+        "failed: Initial mount failed."
+msgstr  "En redimensionar la partició <filename>%1</filename> al sistema de "
+        "fitxers Btrfs: ha fallat el muntatge inicial."
+
+msgctxt "@info:progress"
+msgid   "Resizing Btrfs file system on partition <filename>%1</filename> "
+        "failed: btrfs file system resize failed."
+msgstr  "Ha fallat la redimensió de la partició <filename>%1</filename> al "
+        "sistema de fitxers Btrfs: ha fallat la redimensió del sistema de "
+        "fitxers Btrfs."
+
+msgctxt "@info:progress"
+msgid   "Resizing JFS file system on partition <filename>%1</filename> "
+        "failed: Could not create temp dir."
+msgstr  "Ha fallat la redimensió de la partició <filename>%1</filename> al "
+        "sistema de fitxers JFS: no s'ha pogut crear el directori temporal."
+
+msgctxt "@info:progress"
+msgid   "Resizing JFS file system on partition <filename>%1</filename> "
+        "failed: Initial mount failed."
+msgstr  "En redimensionar la partició <filename>%1</filename> al sistema de "
+        "fitxers JFS: ha fallat el muntatge inicial."
+
+msgctxt "@info:progress"
+msgid   "Resizing JFS file system on partition <filename>%1</filename> "
+        "failed: Remount failed."
+msgstr  "Ha fallat la redimensió de la partició <filename>%1</filename> al "
+        "sistema de fitxers JFS: no s'ha pogut tornar a muntar."
+
+msgctxt "@info:progress"
+msgid   "Resizing LUKS crypt on partition <filename>%1</filename>."
+msgstr  "Es redimensiona la xifra LUKS de la partició <filename>%1</filename>."
+
+msgctxt "@info:progress"
+msgid   "Resizing NILFS2 file system on partition <filename>%1</filename> "
+        "failed: Could not create temp dir."
+msgstr  "Ha fallat la redimensió de la partició <filename>%1</filename> al "
+        "sistema de fitxers NILFS2: no s'ha pogut crear el directori temporal."
+
+msgctxt "@info:progress"
+msgid   "Resizing NILFS2 file system on partition <filename>%1</filename> "
+        "failed: Initial mount failed."
+msgstr  "En redimensionar la partició <filename>%1</filename> al sistema de "
+        "fitxers NILFS2: ha fallat el muntatge inicial."
+
+msgctxt "@info:progress"
+msgid   "Resizing NILFS2 file system on partition <filename>%1</filename> "
+        "failed: NILFS2 file system resize failed."
+msgstr  "Ha fallat la redimensió de la partició <filename>%1</filename> al "
+        "sistema de fitxers NILFS2: ha fallat la redimensió del sistema de "
+        "fitxers NILFS2."
+
+msgctxt "@info:progress"
+msgid   "Resizing XFS file system on partition <filename>%1</filename> "
+        "failed: Could not create temp dir."
+msgstr  "Ha fallat la redimensió de la partició <filename>%1</filename> al "
+        "sistema de fitxers XFS: no s'ha pogut crear el directori temporal."
+
+msgctxt "@info:progress"
+msgid   "Resizing XFS file system on partition <filename>%1</filename> "
+        "failed: Initial mount failed."
+msgstr  "Ha fallat la redimensió de la partició <filename>%1</filename> al "
+        "sistema de fitxers XFS: ha fallat el muntatge inicial."
+
+msgctxt "@info:progress"
+msgid   "Resizing XFS file system on partition <filename>%1</filename> "
+        "failed: xfs_growfs failed."
+msgstr  "Ha fallat la redimensió de la partició <filename>%1</filename> al "
+        "sistema de fitxers XFS: ha fallat xfs_growfs."
+
+msgctxt "@info:progress"
+msgid   "Resizing a %1 file system using internal backend functions."
+msgstr  "S'està redimensionant un sistema de fitxers %1 utilisant les "
+        "funcions internes del dorsal."
+
+msgctxt "@info:progress"
+msgid   "Resizing encrypted file system on partition <filename>%1</filename> "
+        "failed."
+msgstr  "Ha fallat la redimensió del sistema de fitxers encriptat a la "
+        "partició <filename>%1</filename>."
+
+msgctxt "@info:progress"
+msgid   "Resizing file system from %1 to %2 sectors."
+msgstr  "Redimensiona el sistema de fitxers des de %1 fins a %2 sectors."
+
+msgctxt "@info:progress"
+msgid   "Restore the file system from file <filename>%1</filename> to "
+        "partition <filename>%2</filename>"
+msgstr  "Restaura el sistema de fitxers des del fitxer <filename>%1</"
+        "filename> a la partició <filename>%2</filename>"
+
+msgctxt "@info:progress"
+msgid   "Rollback failed: Source or target are not devices."
+msgstr  "Ha fallat la restauració: l'origen o la destinació no són "
+        "dispositius."
+
+msgctxt "@info:progress"
+msgid   "Rollback for file system on partition <filename>%1</filename> failed."
+msgstr  "Ha fallat la restauració del sistema de fitxers a la partició "
+        "<filename>%1</filename>."
+
+msgctxt "@info:progress"
+msgid   "Rollback from: First byte: %1, last byte: %2."
+msgstr  "Restaura des de: primer byte: %1, últim byte: %2."
+
+msgctxt "@info:progress"
+msgid   "Rollback to: First byte: %1, last byte: %2."
+msgstr  "Restaura a: primer byte: %1, últim byte: %2."
+
+msgctxt "@info:progress"
+msgid   "Set geometry of partition <filename>%1</filename>: Start sector: %2, "
+        "length: %3"
+msgstr  "Establix la geometria de la partició <filename>%1</filename>: sector "
+        "d'inici: %2, llargària: %3"
+
+msgctxt "@info:progress"
+msgid   "Set the UUID on partition <filename>%1</filename> to \"%2\""
+msgstr  "Establix l'UUID «%2» a la partició <filename>%1</filename>"
+
+msgctxt "@info:progress"
+msgid   "Set the attributes on partition <filename>%1</filename> to \"%2\""
+msgstr  "Establix els atributs «%2» a la partició <filename>%1</filename>"
+
+msgctxt "@info:progress"
+msgid   "Set the file system label on partition <filename>%1</filename> to "
+        "\"%2\""
+msgstr  "Establix «%2» a l'etiqueta del sistema de fitxers de la partició "
+        "<filename>%1</filename>"
+
+msgctxt "@info:progress"
+msgid   "Set the flags for partition <filename>%1</filename> to \"%2\""
+msgstr  "Establix els indicadors de la partició <filename>%1</filename> a «%2»"
+
+msgctxt "@info:progress"
+msgid   "Set the label on partition <filename>%1</filename> to \"%2\""
+msgstr  "Establix l'etiqueta «%2» a la partició <filename>%1</filename>"
+
+msgctxt "@info:progress"
+msgid   "Setting label for partition <filename>%1</filename> to %2"
+msgstr  "S'està establint l'etiqueta per a la partició <filename>%1</"
+        "filename> a %2"
+
+msgctxt "@info:progress"
+msgid   "Shred the file system on <filename>%1</filename>"
+msgstr  "Tritura el sistema de fitxers a <filename>%1</filename>"
+
+msgctxt "@info:progress"
+msgid   "Source and target for copying do not overlap: Rollback is not "
+        "required."
+msgstr  "L'origen i la destinació per a copiar no se superposen: no és "
+        "necessari restaurar."
+
+msgctxt "@info:progress"
+msgid   "Successfully resized file system using internal backend functions."
+msgstr  "El sistema de fitxers s'ha redimensionat amb èxit utilisant funcions "
+        "internes del dorsal."
+
+msgctxt "@info:progress"
+msgid   "The file system on partition <filename>%1</filename> cannot be "
+        "resized because there is no support for it."
+msgstr  "El sistema de fitxers a la partició <filename>%1</filename> no es "
+        "pot redimensionar perquè no admet esta funció."
+
+msgctxt "@info:progress"
+msgid   "The file system on partition <filename>%2</filename> already has the "
+        "requested length of 1 sector."
+msgid_plural    "The file system on partition <filename>%2</filename> already "
+        "has the requested length of %1 sectors."
+msgstr[0]       "El sistema de fitxers de la partició <filename>%2</filename> "
+        "ya té la llargària solicitada d'1 sector."
+msgstr[1]       "El sistema de fitxers de la partició <filename>%2</filename> "
+        "ya té la llargària solicitada de %1 sectors."
+
+msgctxt "@info:progress"
+msgid   "There was an error setting flag %1 for partition <filename>%2</"
+        "filename> to state %3."
+msgstr  "S'ha produït un error en establir l'estat %3 a l'indicador %1 per a "
+        "la partició <filename>%2</filename>."
+
+msgctxt "@info:progress"
+msgid   "Unknown partition role for new partition <filename>%1</filename> "
+        "(roles: %2)"
+msgstr  "Funció desconeguda per a la partició nova <filename>%1</filename> "
+        "(funcions: %2)"
+
+msgctxt "@info:progress"
+msgid   "Updated NTFS boot sector for partition <filename>%1</filename> "
+        "successfully."
+msgstr  "S'ha actualisat amb èxit el sector d'arrancada NTFS de la partició "
+        "<filename>%1</filename>."
+
+msgctxt "@info:progress"
+msgid   "Updating boot sector for NTFS file system on partition <filename>%1</"
+        "filename>."
+msgstr  "S'està actualisant el sector d'arrancada del sistema de fitxers NTFS "
+        "de la partició <filename>%1</filename>."
+
+msgctxt "@info:progress argument 2 is a string such as 7 bytes (localized "
+        "accordingly)"
+msgid   "Copying 1 chunk (%2) finished."
+msgid_plural    "Copying %1 chunks (%2) finished."
+msgstr[0]       "S'ha acabat de copiar 1 fragment (%2)."
+msgstr[1]       "S'han acabat de copiar %1 fragments (%2)."
+
+msgctxt "@info:progress flag turned off, inactive"
+msgid   "off"
+msgstr  "desactivat"
+
+msgctxt "@info:progress flag turned on, active"
+msgid   "on"
+msgstr  "activat"
+
+msgctxt "@info:progress job"
+msgid   "Error"
+msgstr  "Error"
+
+msgctxt "@info:progress job"
+msgid   "Pending"
+msgstr  "Pendent"
+
+msgctxt "@info:progress job"
+msgid   "Success"
+msgstr  "Correcte"
+
+msgctxt "@info:progress job status (error, warning, ...)"
+msgid   "%1: %2"
+msgstr  "%1: %2"
+
+msgctxt "@info:progress operation"
+msgid   "Error"
+msgstr  "Error"
+
+msgctxt "@info:progress operation"
+msgid   "None"
+msgstr  "Cap"
+
+msgctxt "@info:progress operation"
+msgid   "Pending"
+msgstr  "Pendent"
+
+msgctxt "@info:progress operation"
+msgid   "Running"
+msgstr  "Executant"
+
+msgctxt "@info:progress operation"
+msgid   "Success"
+msgstr  "Correcte"
+
+msgctxt "@info:progress operation"
+msgid   "Warning"
+msgstr  "Avís"
+
+msgctxt "@info:status"
+msgid   "<warning>Maximizing file system on target partition <filename>%1</"
+        "filename> to the size of the partition failed.</warning>"
+msgstr  "<warning>Avís: Ha fallat la maximisació del sistema de fitxers a la "
+        "mida de la partició, a la partició de destinació <filename>%1</"
+        "filename>.</warning>"
+
+msgctxt "@info:status"
+msgid   "Add operation: %1"
+msgstr  "Afig operació: %1"
+
+msgctxt "@info:status"
+msgid   "An error occurred while running lvdisplay."
+msgstr  "S'ha produït un error mentre s'executava «lvdisplay»."
+
+msgctxt "@info:status"
+msgid   "Backup partition <filename>%1</filename> (%2, %3) to <filename>%4</"
+        "filename>"
+msgstr  "Fes còpia de seguretat de la partició <filename>%1</filename> (%2,"
+        "%3) a <filename>%4</filename>"
+
+msgctxt "@info:status"
+msgid   "Changing file system for a new partition: No new operation required."
+msgstr  "Canvia el sistema de fitxers d'una partició nova: no necessiteu cap "
+        "operació nova."
+
+msgctxt "@info:status"
+msgid   "Changing flags again for the same partition: Removing old operation."
+msgstr  "Torna a canviar els indicadors d'una partició: elimina l'operació "
+        "antiga."
+
+msgctxt "@info:status"
+msgid   "Changing label again for the same partition: Removing old operation."
+msgstr  "Torna a canviar l'etiqueta d'una partició: elimina l'operació antiga."
+
+msgctxt "@info:status"
+msgid   "Changing label for a new partition: No new operation required."
+msgstr  "Canvia l'etiqueta d'una partició nova: no necessiteu cap operació "
+        "nova."
+
+msgctxt "@info:status"
+msgid   "Check and repair partition <filename>%1</filename> (%2, %3)"
+msgstr  "Comprova i repara la partició <filename>%1</filename> (%2, %3)"
+
+msgctxt "@info:status"
+msgid   "Checking file systems is automatically done when creating them: No "
+        "new operation required."
+msgstr  "Es verifica automàticament el sistema de fitxers quan es crea: No "
+        "necessiteu cap operació nova."
+
+msgctxt "@info:status"
+msgid   "Checking partition <filename>%1</filename> after resize/move failed."
+msgstr  "Ha fallat la comprovació de la partició <filename>%1</filename> "
+        "després de redimensionar/desplaçar."
+
+msgctxt "@info:status"
+msgid   "Checking partition <filename>%1</filename> before resize/move failed."
+msgstr  "Ha fallat la comprovació de la partició <filename>%1</filename> "
+        "abans de redimensionar/desplaçar."
+
+msgctxt "@info:status"
+msgid   "Checking source partition <filename>%1</filename> failed."
+msgstr  "Ha fallat la comprovació de la partició d'origen <filename>%1</"
+        "filename>."
+
+msgctxt "@info:status"
+msgid   "Checking target file system on partition <filename>%1</filename> "
+        "after the restore failed."
+msgstr  "Ha fallat la comprovació del sistema de fitxers a la partició "
+        "<filename>%1</filename> després de restaurar."
+
+msgctxt "@info:status"
+msgid   "Checking target partition <filename>%1</filename> after copy failed."
+msgstr  "Ha fallat la comprovació de la partició <filename>%1</filename> "
+        "després de copiar."
+
+msgctxt "@info:status"
+msgid   "Clear flags for partition <filename>%1</filename>"
+msgstr  "Neteja els indicadors de la partició <filename>%1</filename>"
+
+msgctxt "@info:status"
+msgid   "Command: %1 %2"
+msgstr  "Ordre: %1 %2"
+
+msgctxt "@info:status"
+msgid   "Copy partition <filename>%1</filename> (%2, %3) to <filename>%4</"
+        "filename> (%5, %6)"
+msgstr  "Copia la partició <filename>%1</filename> (%2, %3) a <filename>%4</"
+        "filename> (%5, %6)"
+
+msgctxt "@info:status"
+msgid   "Copy partition <filename>%1</filename> (%2, %3) to <filename>%4</"
+        "filename> (%5, %6) and grow it to %7"
+msgstr  "Copia la partició <filename>%1</filename> (%2, %3) a <filename>%4</"
+        "filename> (%5, %6) i engrandir-la fins a %7"
+
+msgctxt "@info:status"
+msgid   "Copy partition <filename>%1</filename> (%2, %3) to unallocated space "
+        "(starting at %4) on <filename>%5</filename>"
+msgstr  "Copia la partició <filename>%1</filename> (%2, %3) a l'espai sense "
+        "assignar (començant a %4) a <filename>%5</filename>"
+
+msgctxt "@info:status"
+msgid   "Copy partition <filename>%1</filename> (%2, %3) to unallocated space "
+        "(starting at %4) on <filename>%5</filename> and grow it to %6"
+msgstr  "Copia la partició <filename>%1</filename> (%2, %3) a l'espai sense "
+        "assignar (començant a %4) a <filename>%5</filename> i engrandir-la "
+        "fins a %6"
+
+msgctxt "@info:status"
+msgid   "Copying a new partition: Creating a new partition instead."
+msgstr  "Copia una partició nova: en lloc de copiar-la, crea-la."
+
+msgctxt "@info:status"
+msgid   "Copying a partition that is itself a copy: Copying the original "
+        "source partition instead."
+msgstr  "Copia una partició que és una còpia en si mateixa: copia la partició "
+        "font original."
+
+msgctxt "@info:status"
+msgid   "Copying source to target partition failed."
+msgstr  "Ha fallat la còpia de l'origen a la partició de destinació."
+
+msgctxt "@info:status"
+msgid   "Could not restore old partition size for partition <filename>%1</"
+        "filename>."
+msgstr  "No s'ha pogut restaurar l'antiga mida de la partició <filename>%1</"
+        "filename>."
+
+msgctxt "@info:status"
+msgid   "Create a new partition (%1, %2) on <filename>%3</filename>"
+msgstr  "Crea una partició nova (%1, %2) a <filename>%3</filename>"
+
+msgctxt "@info:status"
+msgid   "Create a new partition table (type: %1) on <filename>%2</filename>"
+msgstr  "Es crea una taula de particions nova (tipus: %1) a <filename>%2</"
+        "filename>"
+
+msgctxt "@info:status"
+msgid   "Create filesystem %1 on partition <filename>%2</filename>"
+msgstr  "Es crea el sistema de fitxers %1 a la partició <filename>%2</"
+        "filename>"
+
+msgctxt "@info:status"
+msgid   "Creating new partition table, discarding previous operation on "
+        "device."
+msgstr  "Crea una taula de particions nova, descartant les operacions prèvies "
+        "en el dispositiu."
+
+msgctxt "@info:status"
+msgid   "Creating target partition for copying failed."
+msgstr  "No s'ha pogut crear la partició de destinació per a copiar."
+
+msgctxt "@info:status"
+msgid   "Creating the destination partition to restore to failed."
+msgstr  "No s'ha pogut crear la partició de destinació per a restaurar."
+
+msgctxt "@info:status"
+msgid   "Delete partition <filename>%1</filename> (%2, %3)"
+msgstr  "Suprimix la partició <filename>%1</filename> (%2,%3)"
+
+msgctxt "@info:status"
+msgid   "Deleting a partition just copied over an existing partition: "
+        "Removing the copy and deleting the existing partition."
+msgstr  "Suprimix una partició acabada de copiar damunt d'una partició "
+        "existent. Elimina la còpia i suprimix la partició existent."
+
+msgctxt "@info:status"
+msgid   "Deleting a partition just copied: Removing the copy."
+msgstr  "Suprimix una partició acabada de copiar. Elimina la còpia."
+
+msgctxt "@info:status"
+msgid   "Deleting a partition just created: Undoing the operation to create "
+        "the partition."
+msgstr  "Suprimix una partició acabada de crear: desfés l'operació de crear "
+        "una partició."
+
+msgctxt "@info:status"
+msgid   "Deleting a partition just restored to an existing partition: "
+        "Removing the restore operation and deleting the existing partition."
+msgstr  "Suprimix una partició acabada de restaurar a una partició existent: "
+        "elimina l'operació de restauració i suprimix la partició existent."
+
+msgctxt "@info:status"
+msgid   "Deleting a partition just restored: Removing the restore operation."
+msgstr  "Suprimix una partició acabada de restaurar: elimina l'operació de "
+        "restauració."
+
+msgctxt "@info:status"
+msgid   "Device found: %1"
+msgstr  "S'ha trobat el dispositiu: %1"
+
+msgctxt "@info:status"
+msgid   "Moving back partition <filename>%1</filename> to its original "
+        "position failed."
+msgstr  "Ha fallat el desplaçament de la partició <filename>%1</filename> a "
+        "la seua posició original."
+
+msgctxt "@info:status"
+msgid   "Moving extended partition <filename>%1</filename> failed."
+msgstr  "Ha fallat el desplaçament de la partició <filename>%1</filename>."
+
+msgctxt "@info:status"
+msgid   "Moving partition <filename>%1</filename> failed."
+msgstr  "Ha fallat el desplaçament de la partició <filename>%1</filename>."
+
+msgctxt "@info:status"
+msgid   "Moving the filesystem for partition <filename>%1</filename> failed. "
+        "Rolling back."
+msgstr  "Ha fallat el desplaçament del sistema de fitxers per a la partició "
+        "<filename>%1</filename>. S'ha tornat enrere."
+
+msgctxt "@info:status"
+msgid   "Partition <filename>%1</filename> is not properly aligned (first "
+        "sector: %2, modulo: %3)."
+msgstr  "La partició <filename>%1</filename> no està correctament alineada "
+        "(primer sector: %2, mòdul: %3)."
+
+msgctxt "@info:status"
+msgid   "Partition <filename>%1</filename> is not properly aligned (last "
+        "sector: %2, modulo: %3)."
+msgstr  "La partició <filename>%1</filename> no està correctament alineada "
+        "(últim sector: %2, mòdul: %3)."
+
+msgctxt "@info:status"
+msgid   "Resize/move failed: Could not grow partition <filename>%1</filename>."
+msgstr  "Ha fallat la redimensió/desplaçament: no s'ha pogut engrandir la "
+        "partició <filename>%1</filename>."
+
+msgctxt "@info:status"
+msgid   "Resize/move failed: Could not resize file system to shrink partition "
+        "<filename>%1</filename>."
+msgstr  "El redimensionament/desplaçament ha fallat: No s'ha pogut "
+        "redimensionar el sistema de fitxers per a encongir <filename>%1</"
+        "filename>."
+
+msgctxt "@info:status"
+msgid   "Resize/move failed: Could not resize the file system on partition "
+        "<filename>%1</filename>"
+msgstr  "Ha fallat la redimensió/desplaçament. no s'ha pogut redimensionar el "
+        "sistema de fitxers a la partició <filename>%1</filename>"
+
+msgctxt "@info:status"
+msgid   "Resize/move failed: Could not shrink partition <filename>%1</"
+        "filename>."
+msgstr  "La redimensió/desplaçament ha fallat. no s'ha pogut encongir la "
+        "partició <filename>%1</filename>."
+
+msgctxt "@info:status"
+msgid   "Resizing Volume Group, nothing to do."
+msgstr  "Redimensió del grup de volums, res fer."
+
+msgctxt "@info:status"
+msgid   "Resizing a partition just created: Updating start and end in "
+        "existing operation."
+msgstr  "Redimensiona una partició acabada de crear: actualisa l'inici i el "
+        "final a una operació existent."
+
+msgctxt "@info:status"
+msgid   "Resizing/moving partition <filename>%1</filename> failed."
+msgstr  "Ha fallat la redimensió/desplaçament de la partició <filename>%1</"
+        "filename>."
+
+msgctxt "@info:status"
+msgid   "Restore partition from <filename>%1</filename> to <filename>%2</"
+        "filename>"
+msgstr  "Restaura la partició des de <filename>%1</filename> a <filename>%2</"
+        "filename>"
+
+msgctxt "@info:status"
+msgid   "Restore partition on <filename>%1</filename> at %2 from "
+        "<filename>%3</filename>"
+msgstr  "Restaura la partició <filename>%1</filename> a %2 des de "
+        "<filename>%3</filename>"
+
+msgctxt "@info:status"
+msgid   "Restoring file system failed."
+msgstr  "Ha fallat la restauració del sistema de fitxers."
+
+msgctxt "@info:status"
+msgid   "Set flags for partition <filename>%1</filename> to \"%2\""
+msgstr  "Establix els indicadors a «%2» per a la partició <filename>%1</"
+        "filename>"
+
+msgctxt "@info:status"
+msgid   "Set label for partition <filename>%1</filename> from \"%2\" to \"%3\""
+msgstr  "Establix l'etiqueta per a la partició <filename>%1</filename> des de "
+        "«%2» a «%3»"
+
+msgctxt "@info:status"
+msgid   "Set label for partition <filename>%1</filename> to \"%2\""
+msgstr  "Establix l'etiqueta «%2» per a la partició <filename>%1</filename>"
+
+msgctxt "@info:status"
+msgid   "Shred partition <filename>%1</filename> (%2, %3)"
+msgstr  "Tritura la partició <filename>%1</filename> (%2,%3)"
+
+msgctxt "@info:status"
+msgid   "Software RAID Device found: %1"
+msgstr  "S'ha trobat el dispositiu RAID per programari: %1"
+
+msgctxt "@info:status (success, error, warning...) of operation"
+msgid   "%1: %2"
+msgstr  "%1: %2"
+
+msgctxt "@info:status describe resize/move action"
+msgid   "Grow partition <filename>%1</filename> from %2 to %3"
+msgstr  "Engrandeix la partició <filename>%1</filename> des de %2 fins a %3"
+
+msgctxt "@info:status describe resize/move action"
+msgid   "Move partition <filename>%1</filename> to the left by %2"
+msgstr  "Desplaça la partició <filename>%1</filename> a l'esquerra de %2"
+
+msgctxt "@info:status describe resize/move action"
+msgid   "Move partition <filename>%1</filename> to the left by %2 and grow it "
+        "from %3 to %4"
+msgstr  "Desplaça la partició <filename>%1</filename> a l'esquerra de %2 i "
+        "engrandeix-la des de %3 fins a %4"
+
+msgctxt "@info:status describe resize/move action"
+msgid   "Move partition <filename>%1</filename> to the left by %2 and shrink "
+        "it from %3 to %4"
+msgstr  "Desplaça la partició <filename>%1</filename> a l'esquerra de %2 i "
+        "encongeix-la des de %3 fins a %4"
+
+msgctxt "@info:status describe resize/move action"
+msgid   "Move partition <filename>%1</filename> to the right by %2"
+msgstr  "Desplaça la partició <filename>%1</filename> a la dreta de %2"
+
+msgctxt "@info:status describe resize/move action"
+msgid   "Move partition <filename>%1</filename> to the right by %2 and grow "
+        "it from %3 to %4"
+msgstr  "Desplaça la partició <filename>%1</filename> a la dreta de %2 i "
+        "engrandeix-la des de %3 fins a %4"
+
+msgctxt "@info:status describe resize/move action"
+msgid   "Move partition <filename>%1</filename> to the right by %2 and shrink "
+        "it from %3 to %4"
+msgstr  "Desplaça la partició <filename>%1</filename> a la dreta de %2 i "
+        "encongeix-la des de %3 fins a %4"
+
+msgctxt "@info:status describe resize/move action"
+msgid   "Shrink partition <filename>%1</filename> from %2 to %3"
+msgstr  "Encongeix la partició <filename>%1</filename> des de %2 fins a %3"
+
+msgctxt "@info:status describe resize/move action"
+msgid   "Unknown resize/move action."
+msgstr  "Acció de redimensionament/desplaçament desconeguda."
+
+msgctxt "@item"
+msgid   "Aborted"
+msgstr  "S'ha interromput"
+
+msgctxt "@item"
+msgid   "Disk failure is imminent. Backup all data!"
+msgstr  "La fallada del disc és imminent. Feu una còpia de seguretat de totes "
+        "les dades!"
+
+msgctxt "@item"
+msgid   "Electrical error"
+msgstr  "Error elèctric"
+
+msgctxt "@item"
+msgid   "Fatal error"
+msgstr  "Error fatal"
+
+msgctxt "@item"
+msgid   "Handling error"
+msgstr  "S'ha produït un error de gestió"
+
+msgctxt "@item"
+msgid   "Has been used outside of its design parameters in the past."
+msgstr  "En el passat s'ha utilisat per damunt dels seus paràmetres de "
+        "disseny."
+
+msgctxt "@item"
+msgid   "Has many bad sectors."
+msgstr  "Té molts sectors roïns."
+
+msgctxt "@item"
+msgid   "Has some bad sectors."
+msgstr  "Té alguns sectors roïns."
+
+msgctxt "@item"
+msgid   "Healthy"
+msgstr  "Bon estat"
+
+msgctxt "@item"
+msgid   "Interrupted"
+msgstr  "S'ha interromput"
+
+msgctxt "@item"
+msgid   "Is being used outside of its design parameters right now."
+msgstr  "Ara s'està utilisant per damunt dels seus paràmetres de disseny."
+
+msgctxt "@item"
+msgid   "Read error"
+msgstr  "S'ha produït un error de lectura"
+
+msgctxt "@item"
+msgid   "Self test in progress"
+msgstr  "Autocomprovació en curs"
+
+msgctxt "@item"
+msgid   "Servo error"
+msgstr  "S'ha produït un error del servo"
+
+msgctxt "@item"
+msgid   "Success"
+msgstr  "Correcte"
+
+msgctxt "@item"
+msgid   "Unknown error"
+msgstr  "S'ha produït un error desconegut"
+
+msgctxt "@item filesystem name"
+msgid   "BitLocker"
+msgstr  "BitLocker"
+
+msgctxt "@item filesystem name"
+msgid   "apfs"
+msgstr  "apfs"
+
+msgctxt "@item filesystem name"
+msgid   "btrfs"
+msgstr  "btrfs"
+
+msgctxt "@item filesystem name"
+msgid   "exfat"
+msgstr  "exfat"
+
+msgctxt "@item filesystem name"
+msgid   "ext2"
+msgstr  "ext2"
+
+msgctxt "@item filesystem name"
+msgid   "ext3"
+msgstr  "ext3"
+
+msgctxt "@item filesystem name"
+msgid   "ext4"
+msgstr  "ext4"
+
+msgctxt "@item filesystem name"
+msgid   "extended"
+msgstr  "ampliada"
+
+msgctxt "@item filesystem name"
+msgid   "f2fs"
+msgstr  "f2fs"
+
+msgctxt "@item filesystem name"
+msgid   "fat12"
+msgstr  "fat12"
+
+msgctxt "@item filesystem name"
+msgid   "fat16"
+msgstr  "fat16"
+
+msgctxt "@item filesystem name"
+msgid   "fat32"
+msgstr  "fat32"
+
+msgctxt "@item filesystem name"
+msgid   "hfs"
+msgstr  "hfs"
+
+msgctxt "@item filesystem name"
+msgid   "hfsplus"
+msgstr  "hfsplus"
+
+msgctxt "@item filesystem name"
+msgid   "hpfs"
+msgstr  "hpfs"
+
+msgctxt "@item filesystem name"
+msgid   "iso9660"
+msgstr  "iso9660"
+
+msgctxt "@item filesystem name"
+msgid   "jfs"
+msgstr  "jfs"
+
+msgctxt "@item filesystem name"
+msgid   "linux_raid_member"
+msgstr  "linux_raid_member"
+
+msgctxt "@item filesystem name"
+msgid   "linuxswap"
+msgstr  "linuxswap"
+
+msgctxt "@item filesystem name"
+msgid   "luks"
+msgstr  "luks"
+
+msgctxt "@item filesystem name"
+msgid   "luks2"
+msgstr  "luks2"
+
+msgctxt "@item filesystem name"
+msgid   "lvm2 pv"
+msgstr  "lvm2 pv"
+
+msgctxt "@item filesystem name"
+msgid   "minix"
+msgstr  "minix"
+
+msgctxt "@item filesystem name"
+msgid   "nilfs2"
+msgstr  "nilfs2"
+
+msgctxt "@item filesystem name"
+msgid   "ntfs"
+msgstr  "ntfs"
+
+msgctxt "@item filesystem name"
+msgid   "ocfs2"
+msgstr  "ocfs2"
+
+msgctxt "@item filesystem name"
+msgid   "reiser"
+msgstr  "reiser"
+
+msgctxt "@item filesystem name"
+msgid   "reiser4"
+msgstr  "reiser4"
+
+msgctxt "@item filesystem name"
+msgid   "udf"
+msgstr  "udf"
+
+msgctxt "@item filesystem name"
+msgid   "ufs"
+msgstr  "ufs"
+
+msgctxt "@item filesystem name"
+msgid   "unformatted"
+msgstr  "sense format"
+
+msgctxt "@item filesystem name"
+msgid   "unknown"
+msgstr  "desconegut"
+
+msgctxt "@item filesystem name"
+msgid   "xfs"
+msgstr  "xfs"
+
+msgctxt "@item filesystem name"
+msgid   "zfs"
+msgstr  "zfs"
+
+msgctxt "@item partition flag"
+msgid   "apple-tv-recovery"
+msgstr  "apple-tv-recovery"
+
+msgctxt "@item partition flag"
+msgid   "bios-grub"
+msgstr  "bios-grub"
+
+msgctxt "@item partition flag"
+msgid   "boot"
+msgstr  "boot"
+
+msgctxt "@item partition flag"
+msgid   "diag"
+msgstr  "diag"
+
+msgctxt "@item partition flag"
+msgid   "hidden"
+msgstr  "hidden"
+
+msgctxt "@item partition flag"
+msgid   "hpservice"
+msgstr  "hpservice"
+
+msgctxt "@item partition flag"
+msgid   "irst"
+msgstr  "irst"
+
+msgctxt "@item partition flag"
+msgid   "lba"
+msgstr  "lba"
+
+msgctxt "@item partition flag"
+msgid   "legacy-boot"
+msgstr  "legacy-boot"
+
+msgctxt "@item partition flag"
+msgid   "lvm"
+msgstr  "lvm"
+
+msgctxt "@item partition flag"
+msgid   "msft-data"
+msgstr  "msft-data"
+
+msgctxt "@item partition flag"
+msgid   "msft-reserved"
+msgstr  "msft-reservada"
+
+msgctxt "@item partition flag"
+msgid   "palo"
+msgstr  "palo"
+
+msgctxt "@item partition flag"
+msgid   "prep"
+msgstr  "prep"
+
+msgctxt "@item partition flag"
+msgid   "raid"
+msgstr  "raid"
+
+msgctxt "@item partition flag"
+msgid   "root"
+msgstr  "root"
+
+msgctxt "@item partition flag"
+msgid   "swap"
+msgstr  "memòria d'intercanvi"
+
+msgctxt "@item partition name"
+msgid   "Copy of %1"
+msgstr  "Còpia de %1"
+
+msgctxt "@item partition name"
+msgid   "New Partition"
+msgstr  "Partició nova"
+
+msgctxt "@item partition name"
+msgid   "Restored Partition"
+msgstr  "Partició restaurada"
+
+msgctxt "@item partition name"
+msgid   "unallocated"
+msgstr  "no assignada"
+
+msgctxt "@item partition role"
+msgid   "LUKS"
+msgstr  "LUKS"
+
+msgctxt "@item partition role"
+msgid   "LVM logical volume"
+msgstr  "Volum lògic de LVM"
+
+msgctxt "@item partition role"
+msgid   "extended"
+msgstr  "ampliada"
+
+msgctxt "@item partition role"
+msgid   "logical"
+msgstr  "lògica"
+
+msgctxt "@item partition role"
+msgid   "none"
+msgstr  "cap"
+
+msgctxt "@item partition role"
+msgid   "primary"
+msgstr  "primària"
+
+msgctxt "@item partition role"
+msgid   "unallocated"
+msgstr  "no assignat"
+
+msgctxt "@item partition table name"
+msgid   "unknown"
+msgstr  "desconegut"
+
+msgctxt "@item:inlistbox Device name – Capacity (device node)"
+msgid   "%1 – %2 (%3)"
+msgstr  "%1 – %2 (%3)"
+
+msgctxt "@item:inlistbox [RAID level - Recovering]"
+msgid   " [RAID %1 - Recovering]"
+msgstr  " [RAID %1 - Recuperant]"
+
+msgctxt "@item:inlistbox [RAID level - Resyncing]"
+msgid   " [RAID %1 - Resyncing]"
+msgstr  " [RAID %1 - Resincronitzant]"
+
+msgctxt "@item:inlistbox [RAID level]"
+msgid   " [RAID %1]"
+msgstr  " [RAID %1]"
+
+msgctxt "@item:intable"
+msgid   "%1 sector"
+msgid_plural    "%1 sectors"
+msgstr[0]       "%1 sector"
+msgstr[1]       "%1 sectors"
+
+msgctxt "@item:intable"
+msgid   "failing"
+msgstr  "està fallant"
+
+msgctxt "@item:intable"
+msgid   "good"
+msgstr  "correcta"
+
+msgctxt "@item:intable"
+msgid   "has failed"
+msgstr  "ha fallat"
+
+msgctxt "@item:intable"
+msgid   "warning"
+msgstr  "avís"
+
+msgctxt "@item:intable degrees in Celsius and Fahrenheit"
+msgid   "%1° C / %2° F"
+msgstr  "%1° C / %2° F"
+
+msgctxt "@item:intable not applicable"
+msgid   "N/A"
+msgstr  "N/D"
+
+msgctxt "@item:intext unit"
+msgid   "(unknown unit)"
+msgstr  "(unitat desconeguda)"
+
+msgctxt "@item:intext unit"
+msgid   "Byte"
+msgid_plural    "Bytes"
+msgstr[0]       "Byte"
+msgstr[1]       "Bytes"
+
+msgctxt "@item:intext unit"
+msgid   "EiB"
+msgstr  "EiB"
+
+msgctxt "@item:intext unit"
+msgid   "GiB"
+msgstr  "GiB"
+
+msgctxt "@item:intext unit"
+msgid   "KiB"
+msgstr  "KiB"
+
+msgctxt "@item:intext unit"
+msgid   "MiB"
+msgstr  "MiB"
+
+msgctxt "@item:intext unit"
+msgid   "PiB"
+msgstr  "PiB"
+
+msgctxt "@item:intext unit"
+msgid   "TiB"
+msgstr  "TiB"
+
+msgctxt "@item:intext unit"
+msgid   "YiB"
+msgstr  "YiB"
+
+msgctxt "@item:intext unit"
+msgid   "ZiB"
+msgstr  "ZiB"
+
+msgctxt "@title"
+msgid   "<application>KPMcore</application>"
+msgstr  "<application>KPMcore</application>"
+
+msgctxt "@title"
+msgid   "Library for managing partitions"
+msgstr  "Biblioteca per a gestionar les particions"
+
+msgctxt "@title:menu"
+msgid   "Activate swap"
+msgstr  "Activa la partició d'intercanvi"
+
+msgctxt "@title:menu"
+msgid   "Deactivate swap"
+msgstr  "Desactiva la partició d'intercanvi"
+
+msgctxt "@title:menu"
+msgid   "Lock"
+msgstr  "Bloca"
+
+msgctxt "@title:menu"
+msgid   "Mount"
+msgstr  "Munta"
+
+msgctxt "@title:menu"
+msgid   "Unlock"
+msgstr  "Desbloca"
+
+msgctxt "@title:menu"
+msgid   "Unmount"
+msgstr  "Desmunta"
+
+msgid   "Backend:"
+msgstr  "Dorsal:"
+
+msgid   "Could not open device <filename>%1</filename> for reading."
+msgstr  "No s'ha pogut obrir <filename>%1</filename> per a lectura."
+
+msgid   "Could not open device <filename>%1</filename> for writing."
+msgstr  "No s'ha pogut obrir el dispositiu <filename>%1</filename> per a "
+        "escritura."
+
+msgid   "Could not open file <filename>%1</filename> for writing."
+msgstr  "No s'ha pogut obrir el fitxer <filename>%1</filename> per a "
+        "escritura."
+
+msgid   "Could not read from device <filename>%1</filename>."
+msgstr  "No s'ha pogut llegir del dispositiu <filename>%1</filename>."
+
+msgid   "Could not seek position %1 on device <filename>%2</filename>."
+msgstr  "No s'ha pogut buscar la posició %1 al dispositiu <filename>%2</"
+        "filename>."
+
+msgid   "Could not write to device <filename>%1</filename>."
+msgstr  "No s'ha pogut escriure al dispositiu <filename>%1</filename>."
+
+msgid   "Could not write to file <filename>%1</filename>."
+msgstr  "No s'ha pogut escriure al fitxer <filename>%1</filename>."
+
+msgid   "Date:"
+msgstr  "Data:"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "manutortosa@gmail.com"
+
+msgid   "Enter passphrase for %1:"
+msgstr  "Introduïu la frase de pas per a %1:"
+
+msgid   "KDE Frameworks version:"
+msgstr  "Versió de Frameworks de KDE:"
+
+msgid   "Machine:"
+msgstr  "Màquina:"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Manuel Tortosa Moreno"
+
+msgid   "Program version:"
+msgstr  "Versió del programa:"
+
+msgctxt "SMART attr description"
+msgid   "\"Pre-Fail\" HP attribute."
+msgstr  "Atribut d'HP «Pre-Fail»."
+
+msgctxt "SMART attr description"
+msgid   "\"Pre-Fail\" Samsung attribute."
+msgstr  "Atribut de Samsung «Pre-Fail»."
+
+msgctxt "SMART attr description"
+msgid   "A tally of spindle start/stop cycles."
+msgstr  "Un comptador de cicles d'inicis/parades de rotació."
+
+msgctxt "SMART attr description"
+msgid   "Amount of surge current used to spin up the drive."
+msgstr  "Quantitat de càrrega elèctrica inicial utilisada per a començar la "
+        "rotació de la unitat."
+
+msgctxt "SMART attr description"
+msgid   "Amplitude of &quot;thrashing&quot; (distance of repetitive forward/"
+        "reverse head motion)"
+msgstr  "Amplitud del «trasteig» (distància del moviment repetitiu del capçal "
+        "cap avant/enrere)"
+
+msgctxt "SMART attr description"
+msgid   "Average performance of seek operations of the magnetic heads. If "
+        "this attribute is decreasing, it is a sign of problems in the "
+        "mechanical subsystem."
+msgstr  "Velocitat mitjana de les operacions de posicionament dels capçals "
+        "magnètics. Si est atribut disminueix, és un senyal de problemes en "
+        "el subsistema mecànic."
+
+msgctxt "SMART attr description"
+msgid   "Average time of spindle spin up from zero RPM to fully operational."
+msgstr  "Temps mitjà d'inici de rotació de l'eix des de zero RPM a plenament "
+        "operacional."
+
+msgctxt "SMART attr description"
+msgid   "Count of aborted operations due to HDD timeout."
+msgstr  "Comptador d'operacions interrompudes a causa de temps límit excedit "
+        "del HDD."
+
+msgctxt "SMART attr description"
+msgid   "Count of available reserved blocks as percentage of the total number "
+        "of reserved blocks"
+msgstr  "Comptador de blocs reservats disponibles com a percentage del nombre "
+        "total de blocs reservats"
+
+msgctxt "SMART attr description"
+msgid   "Count of errors in data transfer via the interface cable as "
+        "determined by ICRC."
+msgstr  "Nombre d'errors en la transferència de dades via la interfície del "
+        "cable tal com determina la ICRC."
+
+msgctxt "SMART attr description"
+msgid   "Count of errors resulting from externally-induced shock and "
+        "vibration."
+msgstr  "Comptador d'errors resultants de vegades i vibracions induïts "
+        "externament."
+
+msgctxt "SMART attr description"
+msgid   "Count of errors that could be recovered using hardware ECC."
+msgstr  "Comptador d'errors que es poden recuperar utilisant l'ECC del "
+        "maquinari."
+
+msgctxt "SMART attr description"
+msgid   "Count of errors that could not be recovered using hardware ECC."
+msgstr  "Comptador d'errors que no es poden recuperar utilisant l'ECC del "
+        "maquinari."
+
+msgctxt "SMART attr description"
+msgid   "Count of fly height errors detected."
+msgstr  "Comptador d'errors d'escritura fora de marges detectats."
+
+msgctxt "SMART attr description"
+msgid   "Count of full hard disk power on/off cycles."
+msgstr  "Comptador de cicles complets d'inici/apagat del disc dur."
+
+msgctxt "SMART attr description"
+msgid   "Count of hours in power-on state."
+msgstr  "Comptador d'hores en estat de funcionament."
+
+msgctxt "SMART attr description"
+msgid   "Count of load/unload cycles into head landing zone position."
+msgstr  "Comptador de cicles de càrrega/descàrrega en la posició de zona de "
+        "parada dels capçals."
+
+msgctxt "SMART attr description"
+msgid   "Count of physical erase cycles completed on the drive as a "
+        "percentage of the maximum physical erase cycles the drive supports"
+msgstr  "Comptador de cicles d'esborrat físic completats en la unitat com a "
+        "percentage dels cicles màxims d'esborrats físics que accepta la "
+        "unitat"
+
+msgctxt "SMART attr description"
+msgid   "Count of power-off or emergency retract cycles"
+msgstr  "Comptador de cicles de replegament d'apagat o emergència"
+
+msgctxt "SMART attr description"
+msgid   "Count of reallocated sectors. When the hard drive finds a read/write/"
+        "verification error, it marks this sector as &quot;reallocated&quot; "
+        "and transfers data to a special reserved area (spare area)."
+msgstr  "Comptador de sectors reassignats. Quan la unitat de disc dur troba "
+        "un error de lectura/escritura/verificació, marca este sector com a "
+        "«reassignat» i transfereix les dades a una àrea reservada especial "
+        "(àrea de reserva)."
+
+msgctxt "SMART attr description"
+msgid   "Count of recalibrations requested if the first attempt was "
+        "unsuccessful. An increase of this attribute value is a sign of "
+        "problems in the hard disk mechanical subsystem."
+msgstr  "Comptador de solicituts de recalibratge si el primer intent no va "
+        "funcionar. Un augment del valor d'est atribut és un senyal de "
+        "problemes en el subsistema mecànic del disc dur."
+
+msgctxt "SMART attr description"
+msgid   "Count of remap operations. The raw value of this attribute shows the "
+        "total number of attempts to transfer data from reallocated sectors "
+        "to a spare area."
+msgstr  "Comptador d'operacions de remapatge. El valor d'est atribut mostra "
+        "el nombre total d'intents de transferir dades des de sectors "
+        "reassignats a una àrea de reserva."
+
+msgctxt "SMART attr description"
+msgid   "Count of retry of spin start attempts if the first attempt was "
+        "unsuccessful. An increase of this attribute value is a sign of "
+        "problems in the hard disk mechanical subsystem."
+msgstr  "Comptador de reintents d'inici de rotació si el primer intent no va "
+        "funcionar. Un augment del valor d'est atribut és un senyal de "
+        "problemes en el subsistema mecànic del disc dur."
+
+msgctxt "SMART attr description"
+msgid   "Count of uncorrectable errors when reading/writing a sector."
+msgstr  "Comptador d'errors no corregibles en llegir/escriure un sector."
+
+msgctxt "SMART attr description"
+msgid   "Count of unrecoverable ECC errors"
+msgstr  "Comptador d'errors ECC no recuperables"
+
+msgctxt "SMART attr description"
+msgid   "Counts the maximum worst erase count on any block."
+msgstr  "Compta el màxim pitjor recompte de l'esborrat en qualsevol bloc."
+
+msgctxt "SMART attr description"
+msgid   "Current internal temperature."
+msgstr  "Temperatura interna actual."
+
+msgctxt "SMART attr description"
+msgid   "Delta between most-worn and least-worn flash blocks."
+msgstr  "Delta entre els blocs flaix més i menys emprats."
+
+msgctxt "SMART attr description"
+msgid   "Distance the disk has shifted relative to the spindle (usually due "
+        "to shock or temperature)."
+msgstr  "Distància que el disc ha decalat amb relació a la rotació (seguda "
+        "normalment a vegades o temperatura)."
+
+msgctxt "SMART attr description"
+msgid   "Drive Temperature"
+msgstr  "Temperatura de la unitat"
+
+msgctxt "SMART attr description"
+msgid   "Drive's seek performance during its internal tests."
+msgstr  "Rendiment del posicionament de la unitat durant les seues proves "
+        "internes."
+
+msgctxt "SMART attr description"
+msgid   "Height of heads above the disk surface. A flying height that is too "
+        "low increases the chances of a head crash while a flying height that "
+        "is too high increases the chances of a read/write error."
+msgstr  "Alçària dels capçals sobre la superfície del disc. Una alçària que "
+        "siga massa baixa augmenta les possibilitats d'una vegada del capçal "
+        "mentre que una alçària que siga massa alta augmenta les "
+        "possibilitats d'un error de lectura/escritura."
+
+msgctxt "SMART attr description"
+msgid   "Last test result, saturated at its maximum value. Bytes 0-1: last "
+        "test result as microseconds to discharge cap in range [25, 5000000], "
+        "lower indicates specific error code. Bytes 2-3: minutes since last "
+        "test. Bytes 4-5: lifetime number of tests. Normalized value is set "
+        "to 1 on test failure or 11 if the capacitor has been tested in an "
+        "excessive temperature condition, otherwise 100."
+msgstr  "Últim resultat de la prova, saturada al seu valor màxim. Bytes 0 a "
+        "1: últim resultat de la prova com a microsegons per a descarregar a "
+        "l'interval [25, 5000000], inferior indica un codi d'error específic. "
+        "Bytes 2 a 3: minuts des de l'última prova. Bytes 4 a 5: Nombre de "
+        "temps en les proves. El valor normalisat s'establix a 1 en el cas de "
+        "fallada de la prova o 11 si el condensador ha estat provat en una "
+        "condició de temperatura excessiva, en cas contrari 100."
+
+msgctxt "SMART attr description"
+msgid   "Margin of a channel while reading data. The function of this "
+        "attribute is not specified."
+msgstr  "Marge d'una canal en llegir dades. No s'ha especificat la funció "
+        "d'est atribut."
+
+msgctxt "SMART attr description"
+msgid   "Number of &quot;Free Fall Events&quot; detected"
+msgstr  "Nombre d'«Successos de caiguda lliure» detectats"
+
+msgctxt "SMART attr description"
+msgid   "Number of &quot;unstable&quot; sectors (waiting to be remapped, "
+        "because of read errors)."
+msgstr  "Nombre de sectors «inestables» (en espera de ser remapats, per "
+        "errors de lectura)."
+
+msgctxt "SMART attr description"
+msgid   "Number of Data Address Mark errors (or vendor-specific)."
+msgstr  "Nombre d'errors de marca d'adreça de dades (o específica de "
+        "fabricant)."
+
+msgctxt "SMART attr description"
+msgid   "Number of ECC errors"
+msgstr  "Nombre d'errors ECC"
+
+msgctxt "SMART attr description"
+msgid   "Number of attempts to compensate for platter speed variations."
+msgstr  "Nombre d'intents de compensació de les variacions de velocitat dels "
+        "plats."
+
+msgctxt "SMART attr description"
+msgid   "Number of available reserved space as a percentage of reserved space."
+msgstr  "Número d'espai reservat disponible com a percentage de l'espai "
+        "reservat."
+
+msgctxt "SMART attr description"
+msgid   "Number of buzz routines needed to spin up the drive due to "
+        "insufficient power."
+msgstr  "Nombre de rutines de brunzit necessàries per a iniciar la rotació de "
+        "la unitat a causa d'una potència insuficient."
+
+msgctxt "SMART attr description"
+msgid   "Number of errors corrected by software ECC"
+msgstr  "Nombre d'errors corregits pel programari ECC"
+
+msgctxt "SMART attr description"
+msgid   "Number of errors due to high temperature."
+msgstr  "Nombre d'errors deguts a una temperatura alta."
+
+msgctxt "SMART attr description"
+msgid   "Number of errors while reading from a disk"
+msgstr  "Nombre d'errors en llegir des del disk"
+
+msgctxt "SMART attr description"
+msgid   "Number of flash erase command failures."
+msgstr  "Nombre de fallades de l'ordre d'esborrament flaix."
+
+msgctxt "SMART attr description"
+msgid   "Number of flash erase operation failures since the drive was "
+        "deployed."
+msgstr  "Nombre de fallades en el funcionament de l'esborrat flaix des que la "
+        "unitat va ser desplegada."
+
+msgctxt "SMART attr description"
+msgid   "Number of flash program operation failures since the drive was "
+        "deployed."
+msgstr  "Nombre de fallades en el funcionament del programa flaix des que la "
+        "unitat va ser desplegada."
+
+msgctxt "SMART attr description"
+msgid   "Number of off-track errors."
+msgstr  "Nombre d'errors d'eixida de pista."
+
+msgctxt "SMART attr description"
+msgid   "Number of shutdowns without STANDBY IMMEDIATE as the last command "
+        "(regardless of PLI activity using capacitor power). Normalized value "
+        "is always 100."
+msgstr  "Nombre de sortides sense EN ESPERA IMMEDIATA com l'última ordre "
+        "(independentment de l'activitat PLI utilisant condensadors de "
+        "potència). El valor normalisat sempre és 100."
+
+msgctxt "SMART attr description"
+msgid   "Number of times head changes position."
+msgstr  "Nombre de vegades que els capçals han canviat de posició."
+
+msgctxt "SMART attr description"
+msgid   "Number of writes to NAND in 1 GB increments"
+msgstr  "Nombre d'escritures a NAND en increments d'1 GB"
+
+msgctxt "SMART attr description"
+msgid   "Overall (general) throughput performance of a hard disk drive. If "
+        "the value of this attribute is decreasing there is a high "
+        "probability that there is a problem with the disk."
+msgstr  "Rendiment global (general) de les transferències d'una unitat de "
+        "disc dur. Si el valor d'est atribut està disminuint, hi ha una "
+        "probabilitat alta que hi haja un problema amb el disc."
+
+msgctxt "SMART attr description"
+msgid   "Part of HP's SMART IV technology: After transferring through the "
+        "cache RAM data buffer the parity data between the host and the hard "
+        "drive did not match."
+msgstr  "Part de la tecnologia SMART IV d'HP: Després de transferir a través "
+        "de la memòria intermèdia de dades de la memòria cau de la RAM les "
+        "dades de paritat entre la màquina i la unitat de disc no coincidixen."
+
+msgctxt "SMART attr description"
+msgid   "Rate of hardware read errors while reading data from the disk "
+        "surface."
+msgstr  "Freqüència d'errors de lectura del maquinari en llegir dades des de "
+        "la superfície del disk."
+
+msgctxt "SMART attr description"
+msgid   "Rate of seek errors of the magnetic heads. If there is a partial "
+        "failure in the mechanical positioning system, then seek errors will "
+        "arise."
+msgstr  "Freqüència d'errors de posicionament dels capçals magnètics. Si hi "
+        "ha un fallo parcial en el sistema de posicionament mecànic, els "
+        "errors de posicionament augmentaran."
+
+msgctxt "SMART attr description"
+msgid   "Resistance caused by friction in mechanical parts while operating."
+msgstr  "Resistència causada per la fricció en les parts mecàniques durant "
+        "les operacions."
+
+msgctxt "SMART attr description"
+msgid   "Shock During Write"
+msgstr  "Vegades durant l'escritura"
+
+msgctxt "SMART attr description"
+msgid   "The number of errors resulting from externally-induced shock and "
+        "vibration."
+msgstr  "El nombre d'errors resultants de vegades i vibracions induïts "
+        "externament."
+
+msgctxt "SMART attr description"
+msgid   "The number of times the magnetic armature was retracted "
+        "automatically as a result of cutting power."
+msgstr  "El nombre de vegades que l'armadura magnètica es replega "
+        "automàticament com a resultat de tallar el corrent."
+
+msgctxt "SMART attr description"
+msgid   "The total number of errors when writing a sector."
+msgstr  "El nombre total d'errors en escriure un sector."
+
+msgctxt "SMART attr description"
+msgid   "Time elapsed in the power-on state"
+msgstr  "Temps transcorregut en l'estat d'iniciada"
+
+msgctxt "SMART attr description"
+msgid   "Time spent operating under data load."
+msgstr  "Temps dedicat a operar davall càrrega de dades."
+
+msgctxt "SMART attr description"
+msgid   "Time while head is positioning<br/>or counts the number of times the "
+        "link is reset during a data transfer."
+msgstr  "Temps en què els capçals estan posicionant-se<br/>o comptador del "
+        "nombre de vegades que l'enllaç es reinicia durant una transferència "
+        "de dades."
+
+msgctxt "SMART attr description"
+msgid   "Total LBAs Read"
+msgstr  "Total LBA llegits"
+
+msgctxt "SMART attr description"
+msgid   "Total LBAs Written"
+msgstr  "Total LBA escrits"
+
+msgctxt "SMART attr description"
+msgid   "Total number of load cycles."
+msgstr  "Nombre total de cicles de càrrega."
+
+msgctxt "SMART attr description"
+msgid   "Total time of loading on the magnetic heads actuator (time not spent "
+        "in parking area)."
+msgstr  "Temps total de càrrega sobre l'actuador dels capçals magnètics "
+        "(temps no emprat en l'àrea d'aparcament)."
+
+msgctxt "SMART attr description"
+msgid   "Uncorrected read errors reported to the operating system."
+msgstr  "Errors de lectura no corregits informats al sistema operatiu."
+
+msgctxt "SMART attr description"
+msgid   "Value is equal to (100 &ndash; temp. °C), allowing manufacturer to "
+        "set a minimum threshold which corresponds to a maximum temperature."
+msgstr  "El valor és igual que (100 &ndash; temp. °C), que permet al "
+        "fabricant definir un llindar mínim que correspon a una temperatura "
+        "màxima."
+
+msgctxt "SMART attr description"
+msgid   "Vibration During Write"
+msgstr  "Vibració durant l'escritura"
+
+msgctxt "SMART attr description"
+msgid   "Western Digital and Samsung attribute."
+msgstr  "Atribut de Western Digital i Samsung."
+
+msgctxt "SMART attr description"
+msgid   "Western Digital attribute."
+msgstr  "Atribut de Western Digital."
+
+msgctxt "SMART attr name"
+msgid   "Command Timeout"
+msgstr  "Límit de temps de l'ordre"
+
+msgctxt "SMART attr name"
+msgid   "Current Pending Sector Count"
+msgstr  "Nombre actual de sectors pendents"
+
+msgctxt "SMART attr name"
+msgid   "Data Address Mark Errors"
+msgstr  "Errors de marca d'adreça de dades"
+
+msgctxt "SMART attr name"
+msgid   "Disk Shift"
+msgstr  "Decalatge del disc"
+
+msgctxt "SMART attr name"
+msgid   "End-to-End Error"
+msgstr  "S'ha produït un error d'extrem a extrem"
+
+msgctxt "SMART attr name"
+msgid   "Endurance Remaining"
+msgstr  "Resistència romanent"
+
+msgctxt "SMART attr name"
+msgid   "Flying Height"
+msgstr  "Alçària dels capçals"
+
+msgctxt "SMART attr name"
+msgid   "Free Fall Protection"
+msgstr  "Protecció de caiguda lliure"
+
+msgctxt "SMART attr name"
+msgid   "G-Sense Error Rate"
+msgstr  "Freqüència d'errors del sensor G"
+
+msgctxt "SMART attr name"
+msgid   "G-sense Error Rate"
+msgstr  "Freqüència d'errors del sensor G"
+
+msgctxt "SMART attr name"
+msgid   "GMR Head Amplitude"
+msgstr  "Amplitud de GMR dels capçals"
+
+msgctxt "SMART attr name"
+msgid   "Good Block Rate"
+msgstr  "Taxa de blocs correctes"
+
+msgctxt "SMART attr name"
+msgid   "Hardware ECC Recovered"
+msgstr  "ECC recuperat per maquinari"
+
+msgctxt "SMART attr name"
+msgid   "Head Flying Hours<br/>or Transfer Error Rate (Fujitsu)"
+msgstr  "Hores de capçals en vol<br/>o Freqüència d'errors de transferència "
+        "(Fujitsu)"
+
+msgctxt "SMART attr name"
+msgid   "Head Stability"
+msgstr  "Estabilitat dels capçals"
+
+msgctxt "SMART attr name"
+msgid   "High Fly Writes"
+msgstr  "Escritures «High Fly»"
+
+msgctxt "SMART attr name"
+msgid   "Induced Op-Vibration Detection"
+msgstr  "Detecció de vibració d'operació induïda"
+
+msgctxt "SMART attr name"
+msgid   "Load Cycle Count"
+msgstr  "Comptador de cicles de càrrega"
+
+msgctxt "SMART attr name"
+msgid   "Load Friction"
+msgstr  "Fricció de càrrega"
+
+msgctxt "SMART attr name"
+msgid   "Load-In Time"
+msgstr  "Temps de càrrega"
+
+msgctxt "SMART attr name"
+msgid   "Load/Unload Cycle Count"
+msgstr  "Comptador de cicles de càrrega/descàrrega"
+
+msgctxt "SMART attr name"
+msgid   "Load/Unload Retry Count"
+msgstr  "Comptador de reintents de càrrega/descàrrega"
+
+msgctxt "SMART attr name"
+msgid   "Loaded Hours"
+msgstr  "Hores de càrrega"
+
+msgctxt "SMART attr name"
+msgid   "Multi-Zone Error Rate<br/>Write Error Rate"
+msgstr  "Freqüència d'errors multizona<br/>Freqüència d'errors d'escritura"
+
+msgctxt "SMART attr name"
+msgid   "Offline Seek Performance"
+msgstr  "Rendiment de posicionament fora de llínea"
+
+msgctxt "SMART attr name"
+msgid   "Power Cycle Count"
+msgstr  "Comptador de cicles funcionament"
+
+msgctxt "SMART attr name"
+msgid   "Power Off Retract Count"
+msgstr  "Comptador de replegaments d'apagat"
+
+msgctxt "SMART attr name"
+msgid   "Power-Off Retract Cycle"
+msgstr  "Cicles de replegaments d'apagat"
+
+msgctxt "SMART attr name"
+msgid   "Power-On Hours"
+msgstr  "Hores de funcionament"
+
+msgctxt "SMART attr name"
+msgid   "Power-On Seconds"
+msgstr  "Segons en iniciar"
+
+msgctxt "SMART attr name"
+msgid   "Read Channel Margin"
+msgstr  "Marge del canal de lectura"
+
+msgctxt "SMART attr name"
+msgid   "Read Error Rate"
+msgstr  "Freqüència d'errors de lectura"
+
+msgctxt "SMART attr name"
+msgid   "Read Error Retry Rate"
+msgstr  "Freqüència de reintents d'error de lectura"
+
+msgctxt "SMART attr name"
+msgid   "Reallocated Sectors Count"
+msgstr  "Comptador de sectors reassignats"
+
+msgctxt "SMART attr name"
+msgid   "Reallocation Event Count"
+msgstr  "Comptador de successos de reassignació"
+
+msgctxt "SMART attr name"
+msgid   "Recalibration Retries"
+msgstr  "Reintents de recalibratge"
+
+msgctxt "SMART attr name"
+msgid   "Reported Uncorrectable Errors"
+msgstr  "Errors no corregibles informats"
+
+msgctxt "SMART attr name"
+msgid   "Run Out Cancel"
+msgstr  "Cancelació per error «Run Out»"
+
+msgctxt "SMART attr name"
+msgid   "SATA Downshift Error Count"
+msgstr  "Comptador d'errors de reducció de velocitat SATA"
+
+msgctxt "SMART attr name"
+msgid   "SSD Available Reserved Space"
+msgstr  "SSD Espai reservat disponible"
+
+msgctxt "SMART attr name"
+msgid   "SSD Erase Fail Count"
+msgstr  "SSD Comptador de les fallades de l'esborrat"
+
+msgctxt "SMART attr name"
+msgid   "SSD Erase Fail Count (chip)"
+msgstr  "SSD Comptador de les fallades de l'esborrat (xip)"
+
+msgctxt "SMART attr name"
+msgid   "SSD NAND_Writes_1GiB"
+msgstr  "SSD Escritures_NAND_1GiB"
+
+msgctxt "SMART attr name"
+msgid   "SSD Power Loss Protection Failure"
+msgstr  "SSD Fallada de la protecció de pèrdua de l'alimentació"
+
+msgctxt "SMART attr name"
+msgid   "SSD Program Fail Count"
+msgstr  "SSD Comptador de les fallades del programa"
+
+msgctxt "SMART attr name"
+msgid   "SSD Program Fail Count Total or Non-4K Aligned Access Count"
+msgstr  "SSD Comptador total de les fallades del programa o Comptador de "
+        "l'accés alineat no 4K"
+
+msgctxt "SMART attr name"
+msgid   "SSD Unexpected power loss count"
+msgstr  "SSD Comptador de la pèrdua d'energia inesperada"
+
+msgctxt "SMART attr name"
+msgid   "SSD Unused Reserved Block Count Total"
+msgstr  "SSD Compte total dels blocs reservats sense utilisar"
+
+msgctxt "SMART attr name"
+msgid   "SSD Used Reserved Block Count Total"
+msgstr  "SSD Compte total dels blocs reservats utilisats"
+
+msgctxt "SMART attr name"
+msgid   "SSD Wear Leveling Count"
+msgstr  "SSD Comptador de l'anivellament del desgast"
+
+msgctxt "SMART attr name"
+msgid   "SSD Wear Range Delta"
+msgstr  "SSD Utilisa l'interval delta"
+
+msgctxt "SMART attr name"
+msgid   "Seek Error Rate"
+msgstr  "Freqüència d'errors de posicionament"
+
+msgctxt "SMART attr name"
+msgid   "Seek Time Performance"
+msgstr  "Velocitat de posicionament"
+
+msgctxt "SMART attr name"
+msgid   "Shock During Write"
+msgstr  "Vegades durant l'escritura"
+
+msgctxt "SMART attr name"
+msgid   "Soft ECC Correction"
+msgstr  "Correcció d'ECC per programari"
+
+msgctxt "SMART attr name"
+msgid   "Soft Read Error Rate"
+msgstr  "Freqüència d'errors de lectura lleus"
+
+msgctxt "SMART attr name"
+msgid   "Spin Buzz"
+msgstr  "Brunzit de rotació"
+
+msgctxt "SMART attr name"
+msgid   "Spin High Current"
+msgstr  "Càrrega elèctrica d'inici de rotació"
+
+msgctxt "SMART attr name"
+msgid   "Spin Retry Count"
+msgstr  "Comptador de reintents de rotació"
+
+msgctxt "SMART attr name"
+msgid   "Spin-Up Time"
+msgstr  "Temps d'inici de rotació"
+
+msgctxt "SMART attr name"
+msgid   "Start/Stop Count"
+msgstr  "Comptador d'inicis/parades"
+
+msgctxt "SMART attr name"
+msgid   "Temperature"
+msgstr  "Temperatura"
+
+msgctxt "SMART attr name"
+msgid   "Temperature Difference From 100"
+msgstr  "Diferencial de temperatura des de 100"
+
+msgctxt "SMART attr name"
+msgid   "Thermal Asperity Rate"
+msgstr  "Taxa d'aspresa tèrmica"
+
+msgctxt "SMART attr name"
+msgid   "Throughput Performance"
+msgstr  "Rendiment de les transferències"
+
+msgctxt "SMART attr name"
+msgid   "Torque Amplification Count"
+msgstr  "Comptador d'amplificació del parell"
+
+msgctxt "SMART attr name"
+msgid   "Total LBAs Read"
+msgstr  "Total LBA llegits"
+
+msgctxt "SMART attr name"
+msgid   "Total LBAs Written"
+msgstr  "Total LBA escrits"
+
+msgctxt "SMART attr name"
+msgid   "UltraDMA CRC Error Count"
+msgstr  "Comptador d'errors de CRC UltraDMA"
+
+msgctxt "SMART attr name"
+msgid   "Uncorrectable Sector Count"
+msgstr  "Comptador de sectors no corregibles"
+
+msgctxt "SMART attr name"
+msgid   "Unrecoverable ECC Count"
+msgstr  "Comptador d'ECC no recuperables"
+
+msgctxt "SMART attr name"
+msgid   "Vibration During Write"
+msgstr  "Vibració durant l'escritura"
+
+msgid   "Unknown Device"
+msgstr  "Dispositiu desconegut"
+
+msgctxt "direction: left"
+msgid   "left"
+msgstr  "esquerra"
+
+msgctxt "direction: right"
+msgid   "right"
+msgstr  "dreta"

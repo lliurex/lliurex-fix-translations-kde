@@ -1,0 +1,113 @@
+msgid   ""
+msgstr  "Project-Id-Version: kdeconnect-kde\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2021-06-18 10:38+0200\n"
+        "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+        "X-Generator: Lokalize 21.04.2\n"
+
+msgid   "%1 device connected"
+msgid_plural    "%1 devices connected"
+msgstr[0]       "%1 dispositiu connectat"
+msgstr[1]       "%1 dispositius connectats"
+
+msgid   "(C) 2016 Aleix Pol Gonzalez"
+msgstr  "(C) 2016 Aleix Pol Gonzalez"
+
+msgid   "Add commands"
+msgstr  "Afig ordres"
+
+msgid   "Battery: %1%"
+msgstr  "Bateria: %1%"
+
+msgid   "Battery: %1% (Charging)"
+msgstr  "Bateria: %1% (està carregant)"
+
+msgid   "Browse device"
+msgstr  "Navega per este dispositiu"
+
+msgid   "Cannot connect to DBus\n"
+        "KDE Connect will quit"
+msgstr  "No s'ha pogut connectar amb D-Bus\n"
+        "KDE Connect eixirà"
+
+msgid   "Cannot find kdeconnectd"
+msgstr  "No s'ha pogut trobar «kdeconnectd»"
+
+msgid   "Configure..."
+msgstr  "Configura..."
+
+msgctxt "Display the cellular connection type and an approximate percentage "
+        "of signal strength"
+msgid   "%1  | ~%2%"
+msgstr  "%1  | ~%2%"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "antonibella5@yahoo.com"
+
+msgid   "Get a photo"
+msgstr  "Aconsegueix una foto"
+
+msgid   "KDE Connect"
+msgstr  "KDE Connect"
+
+msgid   "KDE Connect Indicator"
+msgstr  "Indicador de KDE Connect"
+
+msgid   "KDE Connect Indicator tool"
+msgstr  "Eina Indicador de KDE Connect"
+
+msgid   "Launching"
+msgstr  "S'està llançant"
+
+msgid   "Launching daemon"
+msgstr  "S'està llançant el dimoni"
+
+msgid   "Loading modules"
+msgstr  "S'estan carregant els mòduls"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Antoni Bella"
+
+msgid   "No Battery"
+msgstr  "Sense bateria"
+
+msgid   "Pair"
+msgstr  "Parell"
+
+msgid   "Pairing requests"
+msgstr  "Solicituts d'aparellament"
+
+msgid   "Quit"
+msgstr  "Ix"
+
+msgid   "Reject"
+msgstr  "Rebuja"
+
+msgid   "Ring device"
+msgstr  "Toca al dispositiu"
+
+msgid   "Run command"
+msgstr  "Executa una ordre"
+
+msgid   "SMS Messages..."
+msgstr  "Missatges SMS..."
+
+msgid   "Send a file/URL"
+msgstr  "Envia un fitxer/URL"
+
+msgctxt "The fallback text to display in case the remote device does not have "
+        "a cellular connection"
+msgid   "No Cellular Connectivity"
+msgstr  "Sense connectivitat celular"
+
+msgid   "Waiting D-Bus"
+msgstr  "S'està a l'espera de D-Bus"

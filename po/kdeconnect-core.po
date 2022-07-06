@@ -1,0 +1,107 @@
+msgid   ""
+msgstr  "Project-Id-Version: kdeconnect-kde\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2021-02-01 08:38+0100\n"
+        "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+        "X-Generator: Lokalize 20.12.1\n"
+
+msgid   "%1: Already paired"
+msgstr  "%1: Ya està aparellat"
+
+msgid   "%1: Pairing already requested for this device"
+msgstr  "%1: Ya s'ha demanat aparellar este dispositiu"
+
+msgctxt "@title job"
+msgid   "Receiving file"
+msgid_plural    "Receiving files"
+msgstr[0]       "S'està rebent un fitxer"
+msgstr[1]       "S'estan rebent fitxers"
+
+msgid   "Already paired"
+msgstr  "Ya està aparellat"
+
+msgid   "Canceled by other peer"
+msgstr  "Cancelat per l'atre parell"
+
+msgid   "Could not find support for RSA in your QCA installation. If your "
+        "distribution provides separate packets for QCA-ossl and QCA-gnupg, "
+        "make sure you have them installed and try again."
+msgstr  "No s'ha pogut trobar la implementació RSA en la vostra instalació de "
+        "QCA. Si la vostra distribució ofereix paquets separats per a QCA-"
+        "ossl i QCA-gnupg, assegureu-vos que els heu instalat i torneu-ho a "
+        "intentar."
+
+msgid   "Could not store certificate file: %1"
+msgstr  "No s'ha pogut almagasenar el fitxer del certificat: %1"
+
+msgid   "Could not store private key file: %1"
+msgstr  "No s'ha pogut almagasenar el fitxer de la clau privada: %1"
+
+msgid   "Couldn't find an available port"
+msgstr  "No s'ha pogut trobar un port disponible"
+
+msgid   "Device not reachable"
+msgstr  "No es pot accedir al dispositiu"
+
+msgid   "Failed to send packet to %1"
+msgstr  "No s'ha pogut enviar un paquet a %1"
+
+msgid   "File"
+msgstr  "Fitxer"
+
+msgid   "Filename already present"
+msgstr  "El nom de fitxer ya està present"
+
+msgid   "KDE Connect failed to start"
+msgstr  "KDE Connect ha fallat en iniciar"
+
+msgid   "Progress"
+msgstr  "Progrés"
+
+msgid   "Received incomplete file from: %1"
+msgstr  "S'ha rebut un fitxer incomplet des de: %1"
+
+msgid   "Received incomplete file: %1"
+msgstr  "S'ha rebut un fitxer incomplet: %1"
+
+msgid   "SHA256 fingerprint of remote device certificate is: %1\n"
+msgstr  "L'empremta digital SHA256 del certificat del dispositiu remot és: "
+        "%1\n"
+
+msgid   "SHA256 fingerprint of your device certificate is: %1\n"
+msgstr  "L'empremta digital SHA256 del certificat del vostre dispositiu és: "
+        "%1\n"
+
+msgid   "Sending file %1 of %2"
+msgstr  "S'està enviant el fitxer %1 de %2"
+
+msgid   "Sending to %1"
+msgstr  "S'està enviant a %1"
+
+msgid   "Sent 1 file"
+msgid_plural    "Sent %1 files"
+msgstr[0]       "Envia 1 fitxer"
+msgstr[1]       "Envia %1 fitxers"
+
+msgctxt "The destination of a file operation"
+msgid   "Destination"
+msgstr  "Destinació"
+
+msgctxt "The source of a file operation"
+msgid   "Source"
+msgstr  "Origen"
+
+msgid   "This device cannot be paired because it is running an old version of "
+        "KDE Connect."
+msgstr  "No es pot aparellar amb este dispositiu perquè està executant una "
+        "versió antiga de KDE Connect."
+
+msgid   "Timed out"
+msgstr  "Ha excedit el temps"

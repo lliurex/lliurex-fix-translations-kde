@@ -1,0 +1,211 @@
+msgid   ""
+msgstr  "Project-Id-Version: skanlite\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-01-21 10:00+0100\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Lokalize 20.12.0\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+
+msgid   "####."
+msgstr  "####."
+
+msgid   "%"
+msgstr  "%"
+
+msgid   "%1: %2"
+msgstr  "%1: %2"
+
+msgid   "(C) 2008-2020 Kåre Särs"
+msgstr  "(C) 2008-2020 Kåre Särs"
+
+msgid   "/home/joe/example.png"
+msgstr  "/home/jordi/exemple.png"
+
+msgid   "100"
+msgstr  "100"
+
+msgid   "150"
+msgstr  "150"
+
+msgid   "300"
+msgstr  "300"
+
+msgid   "50"
+msgstr  "50"
+
+msgid   "75"
+msgstr  "75"
+
+msgctxt "@title:window %1 = scanner device"
+msgid   "%1 - Skanlite"
+msgstr  "%1 - Skanlite"
+
+msgctxt "@title:window %1 = scanner maker, %2 = scanner model"
+msgid   "%1 %2 - Skanlite"
+msgstr  "%1 %2 - Skanlite"
+
+msgid   "Albert Astals Cid"
+msgstr  "Albert Astals Cid"
+
+msgid   "Anne-Marie Mahfouf"
+msgstr  "Anne-Marie Mahfouf"
+
+msgid   "Arseniy Lartsev"
+msgstr  "Arseniy Lartsev"
+
+msgid   "Chusslove Illich"
+msgstr  "Chusslove Illich"
+
+msgid   "Configure..."
+msgstr  "Configura..."
+
+msgid   "Disable automatic selections"
+msgstr  "Desactiva les seleccions automàtiques"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "manutortosa@gmail.com,antonibella5@yahoo.com"
+
+msgid   "Example:"
+msgstr  "Exemple:"
+
+msgid   "Failed to save image"
+msgstr  "No s'ha pogut guardar la image"
+
+msgid   "Failed to upload image"
+msgstr  "No s'ha pogut pujar la image"
+
+msgid   "General"
+msgstr  "General"
+
+msgid   "Gilles Caulier"
+msgstr  "Gilles Caulier"
+
+msgid   "Gregor Mi"
+msgstr  "Gregor Mi"
+
+msgid   "Help with translations"
+msgstr  "Ajuda amb les traduccions"
+
+msgid   "Image"
+msgstr  "Image"
+
+msgid   "Image saving"
+msgstr  "En guardar la image"
+
+msgid   "Importing libksane to extragear"
+msgstr  "Importació de la libksane a «extragear»"
+
+msgid   "Kåre Särs"
+msgstr  "Kåre Särs"
+
+msgid   "Laurent Montel"
+msgstr  "Laurent Montel"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Manuel Tortosa,Antoni Bella"
+
+msgid   "Name & Format:"
+msgstr  "Nom i format:"
+
+msgid   "Name && Format:"
+msgstr  "Nom i format:"
+
+msgid   "New Image File Name"
+msgstr  "Nom nou del fitxer d'image"
+
+msgid   "Open the save dialog for every image"
+msgstr  "Obri el diàlec de guardada per a cada image"
+
+msgid   "Open the save dialog for the first image only"
+msgstr  "Obri el diàlec de guardada només per a la primera image"
+
+msgid   "Opening the selected scanner failed."
+msgstr  "No s'ha pogut obrir l'escàner seleccionat."
+
+msgid   "Preview before saving:"
+msgstr  "Vista prèvia abans de guardar:"
+
+msgid   "Reselect scanner device"
+msgstr  "Torna a seleccionar el dispositiu d'escaneig"
+
+msgid   "Revert scanner options to default values"
+msgstr  "Restableix les opcions de l'escàner als valors predeterminats"
+
+msgid   "Sane scanner device name. Use 'test' for test device."
+msgstr  "Nom del dispositiu d'escaneig «sane». Utiliseu «test» per a un "
+        "dispositiu de prova."
+
+msgid   "Save Location"
+msgstr  "Ubicació de guardada"
+
+msgid   "Save Location:"
+msgstr  "Ubicació de guardada:"
+
+msgid   "Save mode:"
+msgstr  "Modo del guardada:"
+
+msgid   "Saving: %v kB"
+msgstr  "S'està desant: %v kB"
+
+msgid   "Scanning application by KDE based on libksane."
+msgstr  "Aplicació d'escanejat, creada per la comunitat KDE, basada en la "
+        "«libksane»."
+
+msgid   "Set preview resolution (DPI)"
+msgstr  "Establix la resolució de la vista prèvia (ppp)"
+
+msgid   "Settings"
+msgstr  "Configuració"
+
+msgid   "Skanlite"
+msgstr  "Skanlite"
+
+msgid   "Skanlite Settings"
+msgstr  "Configuració de l'Skanlite"
+
+msgid   "Specify save quality:"
+msgstr  "Indica la qualitat en guardar:"
+
+msgid   "Start numbering from:"
+msgstr  "Comença la numeració des de:"
+
+msgid   "The image will be saved in the PNG format, as the selected image "
+        "type does not support saving 16 bit color images."
+msgstr  "La image es guardarà en el format PNG, atés que el tipus d'image "
+        "seleccionat no permet guardar imàgens amb color de 16 bits."
+
+msgid   "Writing the user manual"
+msgstr  "Escritura del manual de l'usuari"
+
+msgid   "Zoom In"
+msgstr  "Amplia"
+
+msgid   "Zoom Out"
+msgstr  "Reduïx"
+
+msgid   "Zoom to Actual size"
+msgstr  "Zoom a la mida real"
+
+msgid   "Zoom to Fit"
+msgstr  "Zoom fins que ajuste"
+
+msgid   "contributor"
+msgstr  "Colaborador"
+
+msgid   "developer"
+msgstr  "Desenvolupador"
+
+msgid   "device"
+msgstr  "dispositiu"
+
+msgctxt "prefix for auto naming"
+msgid   "Image-"
+msgstr  "Image-"

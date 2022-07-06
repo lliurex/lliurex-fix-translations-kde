@@ -1,0 +1,136 @@
+msgid   ""
+msgstr  "Project-Id-Version: kaccounts-providers\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2021-09-13 17:07+0200\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+        "X-Generator: Lokalize 20.12.0\n"
+
+msgid   "Calendar"
+msgstr  "Calendari"
+
+msgid   "Calendars and Tasks"
+msgstr  "Calendaris i tasques"
+
+msgid   "Contacts"
+msgstr  "Contactes"
+
+msgid   "Events"
+msgstr  "Successos"
+
+msgid   "Facebook"
+msgstr  "Facebook"
+
+msgctxt "Facebook Contacts"
+msgid   "Contacts"
+msgstr  "Contactes"
+
+msgid   "Finish"
+msgstr  "Finalisa"
+
+msgid   "Google"
+msgstr  "Google"
+
+msgctxt "Google Contacts"
+msgid   "Contacts"
+msgstr  "Contactes"
+
+msgid   "Includes GMail, Hangouts, Google Drive and YouTube"
+msgstr  "Inclou GMail, Hangouts, Google Drive i YouTube"
+
+msgid   "Includes Posts, Notes, Events, Notifications and Chat"
+msgstr  "Inclou articles, notes, successos, notificacions i chat"
+
+msgid   "Integrate into file manager"
+msgstr  "Integra en el gestor de fitxers"
+
+msgid   "Music"
+msgstr  "Música"
+
+msgid   "Next"
+msgstr  "Següent"
+
+msgid   "Nextcloud"
+msgstr  "Nextcloud"
+
+msgid   "Nextcloud Login"
+msgstr  "Compte de Nextcloud"
+
+msgid   "Nextcloud account"
+msgstr  "Compte de Nextcloud"
+
+msgid   "Notes"
+msgstr  "Notes"
+
+msgid   "Notifications"
+msgstr  "Notificacions"
+
+msgid   "Password:"
+msgstr  "Contrasenya:"
+
+msgid   "Posts Feed"
+msgstr  "Publicacions"
+
+msgid   "Runners ID"
+msgstr  "Runners ID"
+
+msgctxt "Runners-ID Contacts"
+msgid   "Contacts"
+msgstr  "Contactes"
+
+msgid   "Server address:"
+msgstr  "Adreça del servidor:"
+
+msgid   "Services"
+msgstr  "Serveis"
+
+msgid   "Storage"
+msgstr  "Almagasenada"
+
+msgid   "Storage integration"
+msgstr  "Integració de l'almagasenada"
+
+msgid   "Synchronize contacts"
+msgstr  "Sincronisa els contactes"
+
+msgid   "Twitter"
+msgstr  "Twitter"
+
+msgid   "Unable to authenticate using the provided username and password"
+msgstr  "No s'ha pogut autenticar utilisant el nom d'usuari i la contrasenya "
+        "proporcionats"
+
+msgid   "Unable to connect to Nextcloud at the given server URL. Please check "
+        "the server URL."
+msgstr  "No s'ha pogut connectar amb Nextcloud a l'URL del servidor donat. "
+        "Verifiqueu l'URL del servidor."
+
+msgid   "Unable to connect to ownCloud at the given server URL. Please check "
+        "the server URL."
+msgstr  "No s'ha pogut connectar amb ownCloud a l'URL del servidor donat. "
+        "Verifiqueu l'URL del servidor."
+
+msgid   "Username:"
+msgstr  "Nom d'usuari:"
+
+msgid   "identi.ca"
+msgstr  "identi.ca"
+
+msgid   "ownCloud"
+msgstr  "ownCloud"
+
+msgctxt "ownCloud Contacts"
+msgid   "Contacts"
+msgstr  "Contactes"
+
+msgid   "ownCloud Login"
+msgstr  "Compte d'ownCloud"
+
+msgid   "ownCloud account"
+msgstr  "Compte d'ownCloud"

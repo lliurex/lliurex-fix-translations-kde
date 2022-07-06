@@ -1,0 +1,99 @@
+msgid   ""
+msgstr  "Project-Id-Version: kdeconnect-kde\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-05-22 10:19+0200\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+        "X-Generator: Lokalize 20.12.0\n"
+
+msgid   "%1%"
+msgstr  "%1%"
+
+msgid   "%1% charging"
+msgstr  "%1% de càrrega"
+
+msgid   "Add command"
+msgstr  "Afig una ordre"
+
+msgctxt "Battery charge percentage"
+msgid   "%1%"
+msgstr  "%1%"
+
+msgid   "Browse this device"
+msgstr  "Navega per este dispositiu"
+
+msgid   "Dismiss"
+msgstr  "Descarta"
+
+msgid   "Dismiss all notifications"
+msgstr  "Descarta totes les notificacions"
+
+msgid   "Drop a file to transfer it onto your phone."
+msgstr  "Deixeu anar un fitxer per a transferir-lo al teléfon."
+
+msgid   "File Transfer"
+msgstr  "Transferència de fitxers"
+
+msgid   "Install KDE Connect on your Android device to integrate it with "
+        "Plasma!"
+msgstr  "Instaleu KDE Connect al dispositiu Android per a integrar-lo amb "
+        "Plasma!"
+
+msgid   "Install from F-Droid"
+msgstr  "Instala des del F-Droid"
+
+msgid   "Install from Google Play"
+msgstr  "Instala des de Google Play"
+
+msgid   "KDE Connect Settings..."
+msgstr  "Configuració de KDE Connect..."
+
+msgid   "No info"
+msgstr  "Sense informació"
+
+msgid   "No paired devices"
+msgstr  "No hi ha cap dispositiu aparellat"
+
+msgid   "No signal"
+msgstr  "Sense senyal"
+
+msgid   "Notifications:"
+msgstr  "Notificacions:"
+
+msgid   "Pair a Device..."
+msgstr  "Aparella un dispositiu..."
+
+msgid   "Paired device is unavailable"
+msgid_plural    "All paired devices are unavailable"
+msgstr[0]       "El dispositiu aparellat no està disponible"
+msgstr[1]       "No hi ha disponible cap dels dispositius aparellats"
+
+msgid   "Please choose a file"
+msgstr  "Seleccioneu un fitxer"
+
+msgid   "Remote Keyboard"
+msgstr  "Teclat remot"
+
+msgid   "Reply"
+msgstr  "Respon"
+
+msgid   "Ring my phone"
+msgstr  "Fes sonar el meu teléfon"
+
+msgid   "Run command"
+msgstr  "Executa una ordre"
+
+msgid   "SMS Messages"
+msgstr  "Missatges SMS"
+
+msgid   "Share file"
+msgstr  "Compartix el fitxer"
+
+msgid   "Unknown"
+msgstr  "Desconeguda"

@@ -1,0 +1,911 @@
+msgid   ""
+msgstr  "Project-Id-Version: krdc\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2021-10-10 13:02+0200\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Lokalize 20.12.0\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+        "X-Poedit-Language: Catalan\n"
+
+msgid   "&Keyboard layout:"
+msgstr  "Disposició del &teclat:"
+
+msgid   "&Session"
+msgstr  "&Sessió"
+
+msgid   "&Width:"
+msgstr  "&Amplària:"
+
+msgid   "(c) 2007-2016, Urs Wolfer\n"
+        "(c) 2001-2003, Tim Jansen\n"
+        "(c) 2002-2003, Arend van Beelen jr.\n"
+        "(c) 2000-2002, Const Kaplinsky\n"
+        "(c) 2000, Tridia Corporation\n"
+        "(c) 1999, AT&T Laboratories Boston\n"
+        "(c) 1999-2003, Matthew Chapman\n"
+        "(c) 2009, Collabora Ltd"
+msgstr  "(c) 2007-2016, Urs Wolfer\n"
+        "(c) 2001-2003, Tim Jansen\n"
+        "(c) 2002-2003, Arend van Beelen jr.\n"
+        "(c) 2000-2002, Const Kaplinsky\n"
+        "(c) 2000, Tridia Corporation\n"
+        "(c) 1999, AT&T Laboratories Boston\n"
+        "(c) 1999-2003, Matthew Chapman\n"
+        "(c) 2009, Collabora Ltd"
+
+msgid   "<html>Enter the address here. Port is optional.<br /><i>Example: "
+        "konsoleserver (host)</i></html>"
+msgstr  "<html>Introduïu l'adreça ací. El port és opcional.<br /><i>Exemple: "
+        "konsoleserver (host)</i></html>"
+
+msgid   "<html>Enter the address here. Port is optional.<br /><i>Example: "
+        "rdpserver:3389 (host:port)</i></html>"
+msgstr  "<html>Introduïu l'adreça ací. El port és opcional.<br /><i>Exemple: "
+        "rdpserver:3389 (ordinador:port)</i></html>"
+
+msgid   "<html>Enter the address here.<br /><i>Example: vncserver:1 (host:"
+        "port / screen)</i></html>"
+msgstr  "<html>Introduïu l'adreça ací.<br /><i>Exemple: vncserver:1 "
+        "(ordinador:port / pantalla)</i></html>"
+
+msgid   "A minute ago"
+msgid_plural    "%1 minutes ago"
+msgstr[0]       "Fa un minut"
+msgstr[1]       "Fa %1 minuts"
+
+msgid   "A year ago"
+msgid_plural    "%1 years ago"
+msgstr[0]       "Fa un any"
+msgstr[1]       "Fa %1 anys"
+
+msgid   "ALSA"
+msgstr  "ALSA"
+
+msgid   "Abner Silva"
+msgstr  "Abner Silva"
+
+msgid   "Access to the system requires a password."
+msgstr  "L'accés al sistema requereix una contrasenya."
+
+msgid   "Add Bookmark"
+msgstr  "Afig una adreça d'interés"
+
+msgctxt "Add the selected url to the bookmarks menu"
+msgid   "Bookmark %1."
+msgstr  "Adreça d'interés %1."
+
+msgid   "Always show tab bar"
+msgstr  "Mostra sempre la barra de pestanyes"
+
+msgid   "American Dvorak (en-dv)"
+msgstr  "Americà Dvorak (en-dv)"
+
+msgid   "An hour ago"
+msgid_plural    "%1 hours ago"
+msgstr[0]       "Fa una hora"
+msgstr[1]       "Fa %1 hores"
+
+msgid   "Arabic (ar)"
+msgstr  "Àrab (ar)"
+
+msgid   "Are you sure you want to delete %1?"
+msgstr  "Segur que voleu suprimir %1?"
+
+msgid   "Are you sure you want to quit the KDE Remote Desktop Client?"
+msgstr  "Segur que voleu tancar el client d'escriptori remot de KDE?"
+
+msgid   "Arend van Beelen jr."
+msgstr  "Arend van Beelen jr."
+
+msgid   "Attach to Windows Server console"
+msgstr  "Adjunta a la consola de Windows Server"
+
+msgid   "Authenticating at %1"
+msgstr  "Autenticant-se a %1"
+
+msgid   "Authentication failed. Please try again."
+msgstr  "No s'ha pogut fer l'autenticació. Torneu a intentar-ho."
+
+msgid   "Authentication failure, check credentials."
+msgstr  "L'autenticació ha fallat. Verifiqueu les credencials."
+
+msgid   "Automatically recognize \"LDAP\"-Logins and share passwords"
+msgstr  "Reconeix automàticament les entrades «LDAP» i compartix les "
+        "contrasenyes"
+
+msgid   "Background color of empty place:"
+msgstr  "Color de fons dels espais buits:"
+
+msgid   "Belgian (fr-be)"
+msgstr  "Belga (fr-be)"
+
+msgid   "Belgian Dutch (nl-be)"
+msgstr  "Neerlandés belga (nl-be)"
+
+msgid   "Bookmarks"
+msgstr  "Adreces d'interés"
+
+msgid   "Bottom"
+msgstr  "Baix"
+
+msgid   "Brad Hards"
+msgstr  "Brad Hards"
+
+msgid   "Brazilian (pt-br)"
+msgstr  "Brasiler (pt-br)"
+
+msgid   "British English (en-gb)"
+msgstr  "Anglés GB (en-gb)"
+
+msgid   "Broadband"
+msgstr  "Banda ampla"
+
+msgid   "Browse to media share path"
+msgstr  "Navega al camí de compartició de soports"
+
+msgid   "Close Tab"
+msgstr  "Tanca pestanya"
+
+msgid   "Color &depth:"
+msgstr  "&Profunditat de color:"
+
+msgid   "Configure..."
+msgstr  "Configura..."
+
+msgid   "Confirm Quit"
+msgstr  "Confirma l'eixida"
+
+msgid   "Connect"
+msgstr  "Connecta"
+
+msgid   "Connect to a VNC Remote Desktop"
+msgstr  "Connecta a un escriptori remot VNC"
+
+msgid   "Connect to a Windows Remote Desktop (RDP)"
+msgstr  "Connecta amb un escriptori remot de Windows (RDP)"
+
+msgid   "Connect to:"
+msgstr  "Connecta a:"
+
+msgid   "Connect via SSH tunnel"
+msgstr  "Connecta a través del túnel SSH"
+
+msgid   "Connected to %1"
+msgstr  "Connectat a %1"
+
+msgid   "Connected."
+msgstr  "Connectat."
+
+msgid   "Connecting to %1"
+msgstr  "S'està connectant amb %1"
+
+msgid   "Connection"
+msgstr  "Connexió"
+
+msgid   "Connection &type:"
+msgstr  "&Tipus de connexió:"
+
+msgid   "Connection Failure"
+msgstr  "Falla en la connexió"
+
+msgid   "Connection attempt to host failed."
+msgstr  "No s'ha pogut fer l'intent de connexió a l'ordinador."
+
+msgid   "Connection attempt to host failed. Security negotiation or "
+        "connection failure."
+msgstr  "No s'ha pogut fer l'intent de connexió a l'ordinador. Ha fallat la "
+        "seguretat en la negociació o en la connexió."
+
+msgid   "Connection failed. You might have passed a wrong address or username."
+msgstr  "No s'ha pogut connectar. Potser s'ha passat una adreça o un nom "
+        "d'usuari incorrecta."
+
+msgid   "Console login:"
+msgstr  "Accés a la consola:"
+
+msgid   "Copy Screenshot to Clipboard"
+msgstr  "Copia la captura de pantalla en el porta-retalls"
+
+msgid   "Could not start \"%1\"; make sure %1 is properly installed."
+msgstr  "No s'ha pogut iniciar «%1»; assegureu-vos que %1 està instalat "
+        "correctament."
+
+msgid   "Croatian (hr)"
+msgstr  "Croat (hr)"
+
+msgid   "Current KRDC Size"
+msgstr  "Mida actual de KRDC"
+
+msgid   "Current Screen Resolution"
+msgstr  "Resolució actual de la pantalla"
+
+msgid   "Custom Resolution (...)"
+msgstr  "Resolució personalisada (...)"
+
+msgid   "Czech (cs)"
+msgstr  "Txec (cs)"
+
+msgid   "Danish (da)"
+msgstr  "Danés (da)"
+
+msgid   "Default protocol:"
+msgstr  "Protocol predeterminat:"
+
+msgid   "Default user name:"
+msgstr  "Nom d'usuari predeterminat:"
+
+msgid   "Delete"
+msgstr  "Suprimix"
+
+msgid   "Delete %1"
+msgstr  "Suprimix %1"
+
+msgid   "Desktop &resolution:"
+msgstr  "&Resolució de l'escriptori:"
+
+msgid   "Developer"
+msgstr  "Desenvolupador"
+
+msgid   "Developer, Maintainer"
+msgstr  "Desenvolupador, mantenidor"
+
+msgid   "Disable Sound"
+msgstr  "Desactiva el so"
+
+msgid   "Disconnect"
+msgstr  "Desconnecta"
+
+msgid   "Disconnected: %1."
+msgstr  "Desconnectat: %1."
+
+msgid   "Don't copy passwords from supported password managers to remote hosts"
+msgstr  "No copieu contrasenyes des dels gestors de contrasenyes admesos a "
+        "màquines remotes"
+
+msgid   "Dutch (nl)"
+msgstr  "Neerlandés (nl)"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "antonibella5@yahoo.com,aacid@kde.org,txemaq@gmail.com"
+
+msgid   "Enable system tray icon"
+msgstr  "Habilita la icona a la safata del sistema"
+
+msgid   "Enhanced visual experience"
+msgstr  "Experiència visual millorada"
+
+msgid   "Enter Username"
+msgstr  "Introduïu el nom d'usuari"
+
+msgid   "Error authenticating with password: %1"
+msgstr  "S'ha produït un error en autenticar amb la contrasenya: %1"
+
+msgid   "Error connecting to %1: %2"
+msgstr  "S'ha produït un error en connectar amb %1: %2"
+
+msgid   "Error creating tunnel socket"
+msgstr  "S'ha produït un error en crear el sòcol del túnel"
+
+msgid   "Estonian (et)"
+msgstr  "Estonià (et)"
+
+msgid   "Expert Options"
+msgstr  "Opcions avançades"
+
+msgid   "Extra options:"
+msgstr  "Opcions extres:"
+
+msgid   "Faroese (fo)"
+msgstr  "Feroés (fo)"
+
+msgid   "Filter"
+msgstr  "Filtre"
+
+msgid   "Finnish (fi)"
+msgstr  "Finés (fi)"
+
+msgid   "Former Developer"
+msgstr  "Antic desenvolupador"
+
+msgid   "French (fr)"
+msgstr  "Francés (fr)"
+
+msgid   "French Canadian (fr-ca)"
+msgstr  "Francés canadenc (fr-ca)"
+
+msgid   "Full Screen"
+msgstr  "Pantalla completa"
+
+msgctxt "General Config"
+msgid   "General"
+msgstr  "General"
+
+msgid   "General Configuration"
+msgstr  "Configuració general"
+
+msgid   "German (de)"
+msgstr  "Alemany (de)"
+
+msgid   "Google Summer of Code 2007 KRDC project mentor"
+msgstr  "Mentor del projecte KRDC a Google Summer of Code 2007"
+
+msgid   "Goto Address"
+msgstr  "Ves a l'adreça"
+
+msgid   "Grab All Possible Keys"
+msgstr  "Captura totes les tecles possibles"
+
+msgid   "Grab Keys"
+msgstr  "Captura de les tecles"
+
+msgid   "H&eight:"
+msgstr  "A&lçària:"
+
+msgctxt "Header of the connections list, the last time this connection was "
+        "initiated"
+msgid   "Last Connected"
+msgstr  "Última connexió"
+
+msgctxt "Header of the connections list, the number of times this connection "
+        "has been visited"
+msgid   "Visits"
+msgstr  "Visites"
+
+msgctxt "Header of the connections list, the time when this entry was created"
+msgid   "Created"
+msgstr  "Creat"
+
+msgctxt "Header of the connections list, title/url for remote connection"
+msgid   "Remote Desktop"
+msgstr  "Escriptori remot"
+
+msgctxt "Header of the connections list, where this entry comes from"
+msgid   "Source"
+msgstr  "Origen"
+
+msgid   "Hebrew (he)"
+msgstr  "Hebreu (he)"
+
+msgid   "Here you can enter additional xfreerdp (FreeRDP) options."
+msgstr  "Ací podeu introduir opcions addicionals de «xfreerdp» (FreeRDP)."
+
+msgid   "Here you can specify the resolution of the remote desktop. This "
+        "resolution determines the size of the desktop that will be presented "
+        "to you."
+msgstr  "Ací podeu especificar la resolució de l'escriptori remot. Esta "
+        "resolució determinarà la mida de l'escriptori que se vos presentarà."
+
+msgid   "High Color (16 Bit)"
+msgstr  "Color alt (16 bits)"
+
+msgid   "High Quality (LAN, direct connection)"
+msgstr  "Alta qualitat (LAN, connexió directa)"
+
+msgid   "History"
+msgstr  "Historial"
+
+msgid   "Host Configuration"
+msgstr  "Configuració de l'ordinador"
+
+msgid   "Hosts"
+msgstr  "Ordinadors"
+
+msgid   "Hungarian (hu)"
+msgstr  "Hongarés (hu)"
+
+msgid   "Icelandic (is)"
+msgstr  "Islandés (is)"
+
+msgid   "Initial RDP backend"
+msgstr  "Dorsal RDP inicial"
+
+msgid   "Italian (it)"
+msgstr  "Italià (it)"
+
+msgid   "Japanese (ja)"
+msgstr  "Japonés (ya)"
+
+msgid   "KDE Remote Desktop Client"
+msgstr  "Client d'escriptori remot de KDE"
+
+msgid   "KDE Remote Desktop Client started"
+msgstr  "S'ha iniciat el client d'escriptori remot de KDE"
+
+msgid   "KRDC"
+msgstr  "KRDC"
+
+msgid   "KRDC Konsole Connection"
+msgstr  "Connexió KRDC de Konsole"
+
+msgid   "Keep aspect ratio when scaling"
+msgstr  "Mantin la relació d'aspecte quan s'escali"
+
+msgid   "Korean (ko)"
+msgstr  "Coreà (ko)"
+
+msgid   "LAN"
+msgstr  "LAN"
+
+msgid   "Large (1280x1024)"
+msgstr  "Gran (1280x1024)"
+
+msgid   "Latvian (lv)"
+msgstr  "Letó (lv)"
+
+msgid   "Left"
+msgstr  "Esquerra"
+
+msgid   "Less than a minute ago"
+msgstr  "Fa menys d'un minut"
+
+msgid   "LibVNCServer / LibVNCClient developers"
+msgstr  "Desenvolupadors de les LibVNCServer / LibVNCClient"
+
+msgid   "Lithuanian (lt)"
+msgstr  "Lituà (lt)"
+
+msgid   "Local Cursor"
+msgstr  "Cursor local"
+
+msgid   "Login"
+msgstr  "Entrada"
+
+msgid   "Low Color (8 Bit)"
+msgstr  "Color reduït (8 bits)"
+
+msgid   "Low Quality (Modem, ISDN, slow Internet)"
+msgstr  "Baixa qualitat (Mòdem, XDSI, Internet lenta)"
+
+msgid   "Macedonian (mk)"
+msgstr  "Macedoni (mk)"
+
+msgid   "Malformed URL"
+msgstr  "URL amb format incorrecte"
+
+msgid   "Media Folder does not Exist"
+msgstr  "No existix la carpeta de soports"
+
+msgid   "Medium Quality (DSL, Cable, fast Internet)"
+msgstr  "Qualitat mitjana (DSL, cable, Internet ràpida)"
+
+msgid   "Middle-click on a tab closes it"
+msgstr  "Clic del mig sobre una pestanya, la tanca"
+
+msgid   "Minimal (640x480)"
+msgstr  "Mínima (640x480)"
+
+msgid   "Minimize Full Screen Window"
+msgstr  "Minimisa la finestra de pantalla completa"
+
+msgid   "Modem"
+msgstr  "Mòdem"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Antoni Bella,Albert Astals Cid,Josep M. Ferrer"
+
+msgid   "Name or service not known."
+msgstr  "nom o servei desconegut."
+
+msgid   "New Connection"
+msgstr  "Connexió nova"
+
+msgid   "New Konsole Connection..."
+msgstr  "Connexió nova de Konsole..."
+
+msgid   "New RDP Connection..."
+msgstr  "Connexió RDP nova..."
+
+msgid   "New VNC Connection..."
+msgstr  "Connexió VNC nova..."
+
+msgid   "No default user name"
+msgstr  "No hi ha cap nom d'usuari predeterminat"
+
+msgid   "None"
+msgstr  "Cap"
+
+msgid   "Normal (1024x768)"
+msgstr  "Normal (1024x768)"
+
+msgid   "Norwegian (no)"
+msgstr  "Noruec (no)"
+
+msgid   "Note that settings might only apply when you connect next time to "
+        "this host."
+msgstr  "Cal tindre present que la configuració podria no funcionar fins que "
+        "us connecteu de nou amb este servidor."
+
+msgid   "On Remote Computer"
+msgstr  "A un ordinador remot"
+
+msgid   "On This Computer"
+msgstr  "En est ordinador"
+
+msgid   "Over a month ago"
+msgid_plural    "%1 months ago"
+msgstr[0]       "Fa un mes"
+msgstr[1]       "Fa %1 mesos"
+
+msgid   "Please enter the SSH password."
+msgstr  "Introduïu la contrasenya del SSH."
+
+msgid   "Please enter the username you would like to use for login."
+msgstr  "Introduïu el nom d'usuari que voleu utilisar iniciar la sessió."
+
+msgid   "Plugin Configuration"
+msgstr  "Configuració de conector"
+
+msgid   "Plugins"
+msgstr  "Conectors"
+
+msgid   "Polish (pl)"
+msgstr  "Polonés (pl)"
+
+msgid   "Port:"
+msgstr  "Port:"
+
+msgid   "Portuguese (pt)"
+msgstr  "Portugués (pt)"
+
+msgid   "Preparing connection to %1"
+msgstr  "S'està preparant la connexió a %1"
+
+msgid   "PulseAudio"
+msgstr  "PulseAudio"
+
+msgid   "RDP Failure"
+msgstr  "Errada RDP"
+
+msgid   "Reconnected."
+msgstr  "S'ha tornat a connectar."
+
+msgid   "Reconnecting."
+msgstr  "Tornant a connectar."
+
+msgid   "Remember connection history"
+msgstr  "Recorda l'historial de connexions"
+
+msgid   "Remember open sessions for next startup"
+msgstr  "Recorda les sessions obertes per a la propera iniciada"
+
+msgid   "Remember password (KWallet)"
+msgstr  "Recorda la contrasenya (KWallet)"
+
+msgid   "Remember passwords (KWallet)"
+msgstr  "Recorda les contrasenyes (KWallet)"
+
+msgid   "Remote Desktops"
+msgstr  "Escriptoris remots"
+
+msgid   "Remote View Toolbar"
+msgstr  "Barra d'eines de visualització remota"
+
+msgid   "RemoteFX covers a set of technologies that enhance visual experience "
+        "of the Remote Desktop Protocol."
+msgstr  "RemoteFX és un conjunt de tecnologies que milloren l'experiència "
+        "visual del protocol d'escriptori remot (RDP)."
+
+msgid   "RemoteFX:"
+msgstr  "RemoteFX:"
+
+msgid   "Remove"
+msgstr  "Elimina"
+
+msgctxt "Remove the selected url from the bookarks menu"
+msgid   "Remove the bookmark for %1."
+msgstr  "Elimina l'adreça d'interés %1."
+
+msgid   "Rename"
+msgstr  "Canvia el nom"
+
+msgid   "Rename %1"
+msgstr  "Canvia el nom %1"
+
+msgid   "Rename %1 to"
+msgstr  "Canvia el nom %1 a"
+
+msgid   "Resize to fit"
+msgstr  "Redimensiona fins a ajustar"
+
+msgid   "Right"
+msgstr  "Dreta"
+
+msgid   "Russian (ru)"
+msgstr  "Rus (ru)"
+
+msgid   "SSH Tunnel failure"
+msgstr  "Ha fallat el túnel SSH"
+
+msgid   "SSH tunnel options"
+msgstr  "Opcions del túnel SSH"
+
+msgid   "Scale"
+msgstr  "Escala"
+
+msgid   "Scale Remote Screen to Fit Window Size"
+msgstr  "Escala la pantalla remota fins a ajustar-la a la mida de la finestra"
+
+msgid   "Scale to Size:"
+msgstr  "Escala a la mida:"
+
+msgid   "Scaling Factor"
+msgstr  "Factor del canvi d'escala"
+
+msgid   "Screenshot"
+msgstr  "Captura de pantalla"
+
+msgid   "Server not found."
+msgstr  "No s'ha trobat el servidor."
+
+msgid   "Sessions"
+msgstr  "Sessions"
+
+msgid   "Settings"
+msgstr  "Configuració"
+
+msgid   "Share Media:"
+msgstr  "Compartició de soports:"
+
+msgid   "Share a local media directory with the remote host."
+msgstr  "Compartix un directori local de soports amb l'ordinador remot."
+
+msgid   "Show Local Cursor"
+msgstr  "Mostra el cursor local"
+
+msgid   "Show close button on tabs"
+msgstr  "Mostra el botó de tancar a les pestanyes"
+
+msgid   "Show status bar"
+msgstr  "Mostra la barra d'estat"
+
+msgid   "Show the preferences dialog for new connections"
+msgstr  "Mostra el diàlec de preferències per a les connexions noves"
+
+msgid   "Show this dialog again for this host"
+msgstr  "Mostra este diàlec una atra vegada per a est ordinador"
+
+msgid   "Slovenian (sl)"
+msgstr  "Eslovè (sl)"
+
+msgid   "Small (800x600)"
+msgstr  "Baixa (800x600)"
+
+msgid   "Spanish (es)"
+msgstr  "Espanyol (es)"
+
+msgid   "Start KRDC with the provided URL in fullscreen mode (works only with "
+        "one URL)"
+msgstr  "Inicia KRDC amb l'URL subministrat en modo de pantalla completa "
+        "(funciona només amb un URL)"
+
+msgid   "Stick Toolbar"
+msgstr  "Apega la barra d'eines"
+
+msgid   "Supported password managers (like KeePassXC) mark copied passwords "
+        "with an additional MIME type \"x-kde-passwordManagerHint\" which is "
+        "used for filtering."
+msgstr  "Els gestors de contrasenyes admesos (com el KeePassXC) marquen les "
+        "contrasenyes copiades amb un tipus MIME addicional «x-kde-"
+        "passwordManagerHint» que s'utilisa per a filtrar."
+
+msgid   "Swedish (sv)"
+msgstr  "Suec (sv)"
+
+msgid   "Swiss French (fr-ch)"
+msgstr  "Francés suís (fr-ch)"
+
+msgid   "Swiss German (de-ch)"
+msgstr  "Alemany suís (de-ch)"
+
+msgid   "Switch to Full Screen Mode"
+msgstr  "Canvia al modo de pantalla completa"
+
+msgid   "Switch to Fullscreen if appropriate"
+msgstr  "Canvia al modo de pantalla completa si és apropiat"
+
+msgid   "Switch to Window Mode"
+msgstr  "Canvia al modo de finestra"
+
+msgid   "Tab Settings"
+msgstr  "Configuració de la pestanya"
+
+msgid   "Tab position:"
+msgstr  "Posició de la pestanya:"
+
+msgid   "Telepathy Tubes Integration"
+msgstr  "Integració dels tubs de Telepathy"
+
+msgid   "Thai (th)"
+msgstr  "Tai (th)"
+
+msgid   "The application \"xfreerdp\" cannot be found on your system; make "
+        "sure it is properly installed if you need RDP support."
+msgstr  "No s'ha pogut trobar l'aplicació «xfreerdp» al vostre sistema; "
+        "assegureu-vos que està instalada correctament si us cal tindre RDP."
+
+msgid   "The entered address cannot be handled."
+msgstr  "L'adreça introduïda no es pot gestionar."
+
+msgid   "The entered address does not have the required form.\n"
+        " Syntax: [username@]host[:port]"
+msgstr  "L'adreça introduïda no té la forma requerida.\n"
+        " Sintaxi: [nomusuari@]ordinador[:port]"
+
+msgid   "The folder %1 does not exist.\n"
+        "Please set an existing folder to share or empty the \"Share Media\" "
+        "option if you do not want to share any folder."
+msgstr  "La carpeta %1 no existix.\n"
+        "establiu una carpeta existent per a compartir o buideu l'opció "
+        "«Compartició de soports» si no voleu compartir cap carpeta."
+
+msgid   "The selected host cannot be handled."
+msgstr  "L'ordinador seleccionat no es pot gestionar."
+
+msgid   "The version of \"xfreerdp\" you are using is too old.\n"
+        "xfreerdp 1.0.2 or greater is required."
+msgstr  "La versió que esteu utilisant de «xfreerdp» és massa antiga.\n"
+        "Es requereix xfreerdp 1.0.2 o més gran."
+
+msgid   "This is the height of the remote desktop. You can only change this "
+        "value manually if you select Custom as desktop resolution above."
+msgstr  "Esta és l'alçària de l'escriptori remot. Tan sols podreu canviar "
+        "manualment este valor si seleccioneu «A mida» com a resolució de "
+        "l'escriptori, a dalt."
+
+msgid   "This is the width of the remote desktop. You can only change this "
+        "value manually if you select Custom as desktop resolution above."
+msgstr  "Esta és l'amplària de l'escriptori remot. Tan sols podreu canviar "
+        "manualment este valor si seleccioneu «A mida» com a resolució de "
+        "l'escriptori, damunt."
+
+msgid   "This option switches to fullscreen only if the connection resolution "
+        "is the same as the current screen resolution"
+msgstr  "Esta opció canvia a pantalla completa només si la resolució de la "
+        "connexió és la mateixa resolució que la de la pantalla actual"
+
+msgid   "This option will resize the window to fit the connection size.  If "
+        "it is too big, it will maximize the window."
+msgstr  "Esta opció redimensionarà la finestra per a ajustar-la a la mida de "
+        "la connexió. Si és massa gran, maximisarà la finestra."
+
+msgid   "Tim Jansen"
+msgstr  "Tim Jansen"
+
+msgid   "Tony Murray"
+msgstr  "Tony Murray"
+
+msgid   "Top"
+msgstr  "Dalt"
+
+msgid   "True Color (24 Bit)"
+msgstr  "Color real (24 bits)"
+
+msgid   "True Color with Alpha (32 Bit)"
+msgstr  "Color real amb alfa (24 bits)"
+
+msgid   "Tunnel via loopback address"
+msgstr  "Túnel a través de l'adreça del bucle tancat"
+
+msgid   "Turkish (tr)"
+msgstr  "Turc (tr)"
+
+msgid   "Type an IP or DNS Name here. Clear the line to get a list of "
+        "connection methods."
+msgstr  "Teclegeu ací una IP o un nom DNS. Buideu la llínea per a obtindre "
+        "una llista dels mètodes de connexió."
+
+msgid   "Type here to connect to an address and filter the list."
+msgstr  "Teclegeu ací per a connectar amb una adreça i filtrar la llista."
+
+msgid   "URLs to connect after startup"
+msgstr  "URL a connectar després d'iniciar"
+
+msgid   "US English (en-us)"
+msgstr  "Anglés US (en-us)"
+
+msgid   "Unusable URL"
+msgstr  "URL inservible"
+
+msgid   "Urs Wolfer"
+msgstr  "Urs Wolfer"
+
+msgid   "Use this to specify the performance of your connection. Note that "
+        "you should select the speed of the weakest link - even if you have a "
+        "high speed connection, it will not help you if the remote computer "
+        "uses a slow modem. Choosing a level of quality that is too high on a "
+        "slow link will cause slower response times. Choosing a lower quality "
+        "will increase latencies in high speed connections and results in "
+        "lower image quality, especially in 'Low Quality' mode."
+msgstr  "Utiliseu-la per a especificar el rendiment de la vostra connexió. "
+        "Cal tindre en compte que haureu de seleccionar la velocitat de "
+        "l'enllaç més lent -encara que tingau una connexió molt ràpida-, açò "
+        "no vos ajudarà si l'ordinador remot utilisa un mòdem lent. El fet "
+        "d'escollir una qualitat massa alta pot resultar en uns temps de "
+        "resposta molt lents. Escollir una qualitat massa baixa pot "
+        "incrementar la latència en connexions ràpides i resulta en una baixa "
+        "qualitat de la image, especialment en el modo «Baixa qualitat»."
+
+msgid   "Use this to specify your keyboard layout. This layout setting is "
+        "used to send the correct keyboard codes to the server."
+msgstr  "Utiliseu-la per a especificar la vostra disposició de teclat. Esta "
+        "opció de la disposició serà emprada per a enviar els codis de teclat "
+        "correctes cap al servidor."
+
+msgid   "User name:"
+msgstr  "Nom d'usuari:"
+
+msgid   "VNC authentication failed because of too many authentication tries."
+msgstr  "No s'ha pogut fer l'autenticació de VNC a causa de massa intents "
+        "d'autenticació."
+
+msgid   "VNC authentication failed."
+msgstr  "No s'ha pogut fer l'autenticació de VNC."
+
+msgid   "VNC authentication type is not supported."
+msgstr  "El tipus d'autenticació VNC no està acceptat."
+
+msgid   "VNC client library"
+msgstr  "Biblioteca del client VNC"
+
+msgid   "VNC failure"
+msgstr  "S'ha produït un error de VNC"
+
+msgid   "VNC server closed connection."
+msgstr  "El servidor VNC ha tancat la connexió."
+
+msgid   "Very Large (1600x1200)"
+msgstr  "Molt gran (1600x1200)"
+
+msgid   "View Only"
+msgstr  "Només visualitzar"
+
+msgid   "When Connecting"
+msgstr  "En connectar"
+
+msgctxt "Where each displayed link comes from"
+msgid   "Bookmarks"
+msgstr  "Adreces d'interés"
+
+msgctxt "Where each displayed link comes from"
+msgid   "History"
+msgstr  "Historial"
+
+msgctxt "Where each displayed link comes from"
+msgid   "None"
+msgstr  "Cap"
+
+msgctxt "Where each displayed link comes from"
+msgid   "Zeroconf"
+msgstr  "Zeroconf"
+
+msgid   "Window Mode"
+msgstr  "Modo de finestra"
+
+msgid   "Yesterday"
+msgid_plural    "%1 days ago"
+msgstr[0]       "Ahir"
+msgstr[1]       "Fa %1 dies"
+
+msgctxt "label for performance settings in preferences dialog"
+msgid   "Performance:"
+msgstr  "Rendiment:"
+
+msgctxt "label for soundsettings in preferences dialog"
+msgid   "Sound:"
+msgstr  "So:"
+
+msgid   "vnc"
+msgstr  "VNC"
+
+msgctxt "window title when in full screen mode (for example displayed in "
+        "tasklist)"
+msgid   "KDE Remote Desktop Client (Full Screen)"
+msgstr  "Client d'escriptori remot de KDE (pantalla completa)"

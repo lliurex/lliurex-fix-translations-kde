@@ -1,0 +1,2773 @@
+msgid   ""
+msgstr  "Project-Id-Version: k3b\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-03-27 12:40+0200\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Lokalize 20.12.0\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+
+msgid   " - %1 Copy"
+msgid_plural    " - %1 Copies"
+msgstr[0]       " - %1 còpia"
+msgstr[1]       " - %1 còpies"
+
+msgid   " - %1 copy"
+msgid_plural    " - %1 copies"
+msgstr[0]       " - %1 còpia"
+msgstr[1]       " - %1 còpies"
+
+msgid   " and %1 session"
+msgid_plural    " and %1 sessions"
+msgstr[0]       " i %1 sessió"
+msgstr[1]       " i %1 sessions"
+
+msgid   " – One copy"
+msgid_plural    " – %1 copies"
+msgstr[0]       " – Una còpia"
+msgstr[1]       " – %1 còpies"
+
+msgid   "%1 Hz"
+msgstr  "%1 Hz"
+
+msgid   "%1 could not reserve shared memory segment of requested size."
+msgstr  "%1 no ha pogut reservar un segment de memòria compartida de la mida "
+        "requerida."
+
+msgid   "%1 crashed."
+msgstr  "%1 ha fallat."
+
+msgid   "%1 did not exit cleanly."
+msgstr  "%1 no ha acabat correctament."
+
+msgid   "%1 executable could not be found."
+msgstr  "No s'ha trobat l'executable de «%1»."
+
+msgid   "%1 executable too old: need version %2 or greater."
+msgstr  "L'executable %1 és massa antic: cal la versió %2 o superior."
+
+msgid   "%1 has no permission to open the device."
+msgstr  "%1 no té permisos per a obrir el dispositiu."
+
+msgctxt "%1 is type of medium (e.g. DVD)"
+msgid   "rewritable %1"
+msgstr  "regravable %1"
+
+msgid   "%1 media do not support write simulation. Do you really want to "
+        "continue? The disc will actually be written to."
+msgstr  "Els soports %1 no permeten la simulació. Segur que voleu continuar? "
+        "El soport s'escriurà de veritat."
+
+msgid   "%1 returned an unknown error (code %2)."
+msgstr  "%1 ha retornat un error desconegut (codi %2)."
+
+msgid   "%1 returned error: %2"
+msgstr  "%1 ha retornat error: %2"
+
+msgid   "%1 version %2 is too old."
+msgstr  "La versió %1 de «%2» és massa antiga."
+
+msgid   "%2 in %1 track"
+msgid_plural    "%2 in %1 tracks"
+msgstr[0]       "%2 en %1 pista"
+msgstr[1]       "%2 en %1 pistes"
+
+msgctxt "%2 is of form XX:YY:ZZ, no pluralization needed"
+msgid   "1 track (%2 minutes audio data, %3 ISO 9660 data)"
+msgid_plural    "%1 tracks (%2 minutes audio data, %3 ISO 9660 data)"
+msgstr[0]       "%1 pista (%2 minuts de dades d'àudio, %3 de dades ISO 9660)"
+msgstr[1]       "%1 pistes (%2 minuts de dades d'àudio, %3 de dades ISO 9660)"
+
+msgctxt "%2 is of form XX:YY:ZZ, no pluralization needed"
+msgid   "1 track (%2 minutes)"
+msgid_plural    "%1 tracks (%2 minutes)"
+msgstr[0]       "1 pista (%2 minuts)"
+msgstr[1]       "%1 pistes (%2 minuts)"
+
+msgid   "'Force unsafe operations' enabled."
+msgstr  "«Força les operacions insegures» habilitat."
+
+msgid   "(Description taken from the Wikipedia article)"
+msgstr  "(Descripció agafada de l'article a la Viquipèdia)"
+
+msgid   "...and the K3b FAQ does not help you..."
+msgstr  "...i les PMF de K3b no vos ajuden..."
+
+msgid   "...and this error also occurs with high quality media..."
+msgstr  "...i est error també es produeix amb soports d'alta qualitat..."
+
+msgid   "...or by lowering the used software buffer size in the advanced K3b "
+        "settings."
+msgstr  "...o be reduint la mida de la memòria intermèdia per programari a la "
+        "configuració avançada de K3b."
+
+msgid   "...please include the debugging output in your problem report."
+msgstr  "...per favor, incloeu les traces de depuració en el vostre informe "
+        "d'error."
+
+msgid   "1 MPEG (%2)"
+msgid_plural    "%1 MPEGs (%2)"
+msgstr[0]       "1 MPEG (%2)"
+msgstr[1]       "%1 MPEG (%2)"
+
+msgid   "1 bit/s"
+msgid_plural    "%1 bits/s"
+msgstr[0]       "1 bits"
+msgstr[1]       "%1 bits/s"
+
+msgid   "<em>%1</em> renamed to <em>%2</em>"
+msgstr  "<em>%1</em> s'ha canviat el nom a <em>%2</em>"
+
+msgid   "<p>If this option is checked K3b uses some otherwise-unused space on "
+        "the audio CD to store additional information, such as the artist's "
+        "name, or the CD title.<p>CD-Text is an extension to the audio CD "
+        "standard introduced by Sony.<p>CD-Text will only be usable on CD "
+        "players that support this extension (mostly car CD players).<p>Since "
+        "a CD-Text-enhanced CD will work in any CD player it is never a bad "
+        "idea to enable this (if you specify CD-Text data.)"
+msgstr  "<p>Si esta opció està activada, K3b utilisa un espai dels CD d'àudio "
+        "que d'atra banda es desaprofitaria per a guardar informació "
+        "addicional, com ara l'artista o el títol del CD.<p>CD-Text és una "
+        "extensió a l'estàndard de CD d'àudio introduïda per Sony.<p>CD-Text "
+        "només es podrà utilisar en reproductors de CD que admetin esta "
+        "extensió (majoritàriament reproductors de CD de coche).<p>Com que "
+        "els CD millorats amb CD-Text funcionaran en qualsevol reproductor, "
+        "sempre és bona idea activar açò (si especifiqueu dades CD-Text)."
+
+msgid   "<p>If this option is checked K3b will adjust the volume of all "
+        "tracks to a standard level. This is useful for things like creating "
+        "mixes, where different recording levels on different albums can "
+        "cause the volume to vary greatly from song to song.<p><b>Be aware "
+        "that K3b currently does not support normalizing when writing on the "
+        "fly.</b>"
+msgstr  "<p>Si esta opció està marcada, K3b ajustarà el volum de totes les "
+        "pistes a un nivell estàndard. Açò és útil per a coses com ara crear "
+        "barreges, on diferents nivells de gravació en àlbums diferents poden "
+        "fer que el volum varie molt de cançó a cançó. <p><b>Cal tindre "
+        "present que, actualment, K3b no permet la normalisació quan es grava "
+        "al vol.</b>"
+
+msgid   "<p>If this option is checked K3b will not close the CD, and will "
+        "write a temporary table of contents.</p><p>This allows further "
+        "sessions to be appended to the CD later.</p>"
+msgstr  "<p>Si esta opció està marcada, K3b no tancarà el CD, i escriurà una "
+        "taula de continguts temporal.</p> <p>Açò permet que s'afegisquen més "
+        "sessions al CD posteriorment.</p>"
+
+msgid   "<p>If this option is checked K3b will perform all writing steps with "
+        "the laser turned off.<p>This is useful, for example, to test a "
+        "higher writing speed or whether your system is able to write on-the-"
+        "fly.<p><b>Caution:</b> DVD+R(W) does not support simulated writing."
+msgstr  "<p>Si esta opció està marcada, K3b realisarà tots els passos de la "
+        "gravació amb el làser apagat. <p>Açò és útil, per exemple, per a "
+        "provar una velocitat d'escritura més alta o si el vostre sistema és "
+        "capaç de gravar al vol.<p><b>Precaució:</b> els DVD+R(W) no permeten "
+        "l'escritura simulada."
+
+msgid   "<p>If this option is checked and K3b is not able to read an audio "
+        "sector from the source CD it will be replaced with zeros on the "
+        "resulting copy.<p>Since audio CD Player are able to interpolate "
+        "small errors in the data it is no problem to let K3b skip unreadable "
+        "sectors."
+msgstr  "<p>Si esta opció està marcada i K3b no és capaç de llegir un sector "
+        "d'àudio del disc d'origen, serà substituït per zeros a la còpia "
+        "resultant. <p>Com que els reproductors de CD són capaços "
+        "d'interpolar petits errors en les dades, deixar que K3b ometi els "
+        "sectors illegibles no dona problemes."
+
+msgid   "<p>If this option is checked, K3b enables <em>Burnfree</em> (or "
+        "<em>Just Link</em>). This is a feature of the CD writer which avoids "
+        "buffer underruns.<p>Without <em>burnfree</em>, if the writer cannot "
+        "get any more data a buffer underrun would occur, since the writer "
+        "needs a constant stream of data to write the CD.<p>With "
+        "<em>burnfree</em> the writer can <em>mark</em> the current position "
+        "of the laser and get back to it when the buffer is filled again; "
+        "but, since this means having little data gaps on the CD, <b>it is "
+        "highly recommended to always choose an appropriate writing speed to "
+        "prevent the usage of burnfree, especially for audio CDs</b> (in the "
+        "worst case one would hear the gap).<p><em>Burnfree</em> was formerly "
+        "known as <em>Burnproof</em>, but has since been renamed when it "
+        "became part of the MMC standard."
+msgstr  "<p>Si esta opció està marcada, K3b activa <em>Burnfree</em> (o "
+        "<em>Just Link</em>). Açò és una característica de la gravadora de CD "
+        "que evita els buidatges de la memòria intermèdia. <p>Sense "
+        "<em>Burnfree</em>, si la gravadora no pot obtindre més dades, es "
+        "produeix un buidatge de la memòria intermèdia, ya que la gravadora "
+        "necessita un flux constant de dades per a escriure el CD. <p>Amb "
+        "<em>Burnfree</em> la gravadora pot <em>marcar</em> la posició actual "
+        "del làser i tornar a ella quan la memòria intermèdia estiga plena de "
+        "nou; pero, com que açò significa tindre petits intervals de dades "
+        "buits al CD, <b>es recomana triar sempre una velocitat de gravació "
+        "adequada per a evitar l'ús de Burnfree, especialment per als CD "
+        "d'àudio</b> (en el cas pitjor, l'interval se sentiria)."
+        "<p><em>Burnfree</em> era conegut anteriorment com a <em>Burnproof</"
+        "em>, pero el seu nom va canviar quan va passar a formar part de "
+        "l'estàndard MMC."
+
+msgid   "<p>If this option is checked, K3b will create an image before "
+        "writing the files to the CD/DVD. Otherwise the data will be written "
+        "<em>on-the-fly</em>, i.e. no intermediate image will be created."
+        "<p><b>Caution:</b> Although writing on-the-fly should work on most "
+        "systems, make sure the data is sent to the writer fast enough."
+msgstr  "<p>Si esta opció està marcada, K3b crearà una image abans d'escriure "
+        "els fitxers al CD/DVD. En cas contrari les dades s'escriuran <em>al "
+        "vol</em>, i no es crearà cap image.<p><b>Precaució:</b> encara que "
+        "l'escritura al vol hauria de funcionar en la majoria de sistemes, "
+        "assegureu-vos que les dades s'envien a la gravadora prou de pressa."
+
+msgid   "<p>If this option is checked, K3b will not create an image first but "
+        "write the files directly to the CD/DVD.<p><b>Caution:</b> Although "
+        "this should work on most systems, make sure the data is sent to the "
+        "writer fast enough."
+msgstr  "<p>Si esta opció està marcada, K3b no crearà primer una image sinó "
+        "que escriurà els fitxers directament al CD/DVD. <p><b>Precaució:</b> "
+        "encara que açò hauria de funcionar en la majoria de sistemes, "
+        "assegureu-vos que les dades s'envien prou ràpides a la gravadora."
+
+msgid   "<p>If this option is checked, K3b will only create an image and not "
+        "do any actual writing.<p>The image can later be written to a CD/DVD "
+        "with most current writing programs (including K3b of course)."
+msgstr  "<p>Si esta opció està marcada, K3b només crearà una image i no "
+        "gravarà realment res. <p>La image pot ser escrita a un CD/DVD més "
+        "tard amb la majoria de programes de gravació actuals (incloent-hi "
+        "K3b, evidentment)."
+
+msgid   "<p>If this option is checked, K3b will remove any created images "
+        "after the writing has finished.<p>Uncheck this if you want to keep "
+        "the images."
+msgstr  "<p>Si esta opció està marcada, K3b eliminarà qualsevol image creada "
+        "una vegada acabada l'escritura. <p>Desmarqueu-la si voleu conservar "
+        "les imàgens."
+
+msgid   "<p>If this option is checked, K3b will write the CD in 'disk at "
+        "once' mode as compared to 'track at once' (TAO).<p>It is always "
+        "recommended to use DAO where possible.<p><b>Caution:</b> Track "
+        "pregaps with a length other than 2 seconds are only supported in DAO "
+        "mode."
+msgstr  "<p>Si esta opció està marcada, K3b escriurà el CD en modo «tot el "
+        "disc alhora» en comptes d'«una pista alhora» (TAO). <p>Sempre és "
+        "recomanable utilisar DAO quan siga possible. <p><b>Precaució:</b> "
+        "els preintervals de pista amb una llargària diferent de 2 segons "
+        "només estan permesos en modo DAO."
+
+msgid   "<p>If this option is checked, then after successfully writing the "
+        "disk K3b will compare the original source data with the written data "
+        "to verify that the disk has been written correctly."
+msgstr  "<p>Si esta opció està marcada, després d'escriure el disc K3b "
+        "compararà les dades originals amb les dades escrites per a verificar "
+        "que el disc s'ha gravat correctament."
+
+msgid   "<p>It is recommended to try a simulation first."
+msgstr  "<p>Es recomana intentar primer una simulació."
+
+msgid   "<p>Sets the correction mode for digital audio extraction.<ul><li>0: "
+        "No checking, data is copied directly from the drive. <li>1: Perform "
+        "overlapped reading to avoid jitter.</li><li>2: Like 1 but with "
+        "additional checks of the read audio data.</li><li>3: Like 2 but with "
+        "additional scratch detection and repair.</li></ul><p><b>The "
+        "extraction speed reduces from 0 to 3.</b>"
+msgstr  "<p>Establix el modo de correcció per a l'extracció digital d'àudio. "
+        "<ul> <li>0: cap comprovació, les dades es copien directament de la "
+        "unitat.</li><li>1: efectuar lectura superposada per a evitar "
+        "l'efecte de jitter.</li> <li>2: com l'1, pero amb comprovacions "
+        "addicionals de les dades d'àudio llegides.</li> <li>3: com el 2 pero "
+        "amb detecció i reparació de ratllades addicional.</li> </ul><p><b>La "
+        "velocitat d'extracció es reduïx del 0 al 3.</b>"
+
+msgid   "A file with that name already exists. Please enter a new name:"
+msgstr  "Ya existix un fitxer amb este nom. Introduïu-ne un atre:"
+
+msgid   "A hard-disk boot image has to contain a single partition."
+msgstr  "Una image d'arrancada de disc dur ha de contindre una única partició."
+
+msgid   "A write error occurred."
+msgstr  "S'ha produït un error d'escritura."
+
+msgid   "AC3"
+msgstr  "AC3"
+
+msgid   "AC3 (Pass-through)"
+msgstr  "AC3 (Curtcircuitat)"
+
+msgid   "AC3 (Stereo)"
+msgstr  "AC3 (Estèreo)"
+
+msgid   "AC3, better known as Dolby Digital is standardized as ATSC A/52. It "
+        "contains up to 6 total channels of sound."
+msgstr  "AC3, més conegut com a Dolby Digital, està estandardisat com a ATSC "
+        "A/52. Conté fins a un total de 6 canals de so."
+
+msgid   "APS' pts seems out of order (actual pts %1, last seen pts %2)"
+msgstr  "El PTS d'est APS sembla fora de servei (PTS real %1, últim PTS vist "
+        "%2)"
+
+msgid   "Adjust the volume levels of all tracks"
+msgstr  "Ajusta els nivells de volum de totes les pistes"
+
+msgid   "Adjusting volume level for track %1 of %2"
+msgstr  "S'està ajustant el nivell de volum per a la pista %1 de %2"
+
+msgid   "After 10-20 reformats the media might become unusable."
+msgstr  "El soport podria tornar-se inusable després de 10-20 reformatacions."
+
+msgid   "An unknown error occurred."
+msgstr  "S'ha produït un error desconegut."
+
+msgid   "An unknown number of remaining stream bytes will be ignored."
+msgstr  "S'ignorarà un nombre desconegut de bytes restants del flux."
+
+msgid   "Analysing %1"
+msgstr  "S'està analisant %1"
+
+msgid   "Analysing Chapter %1 of %2"
+msgstr  "S'està analisant el capítol %1 de %2"
+
+msgid   "Analysing Title %1 of Video DVD %2"
+msgstr  "S'està analisant la pista %1 del DVD de vídeo %2"
+
+msgid   "Analysing the audio file"
+msgstr  "S'està analisant el fitxer d'àudio"
+
+msgid   "Analysing the audio file failed. Corrupt file?"
+msgstr  "L'anàlisi del fitxer d'àudio ha fallat. Fitxer corrupte?"
+
+msgid   "Analyzing medium..."
+msgstr  "S'està analisant el soport..."
+
+msgid   "Another application is blocking the device (most likely "
+        "automounting)."
+msgstr  "Una atra aplicació està bloquejant el dispositiu (segurament el "
+        "muntatge automàtic)."
+
+msgid   "Appendable %1 medium"
+msgstr  "Soport %1 afegible"
+
+msgid   "Appendable Data %1"
+msgstr  "Dades afegibles %1"
+
+msgid   "Appending session to %1."
+msgstr  "S'està afegint la sessió a %1."
+
+msgid   "Appending session to CD"
+msgstr  "S'està afegint la sessió al CD"
+
+msgid   "Appending session to DVD+R."
+msgstr  "S'està afegint la sessió al DVD+R."
+
+msgid   "Appending session to Double Layer DVD+R."
+msgstr  "S'està afegint la sessió al DVD+R de doble capa."
+
+msgid   "Appending session to rewritable CD."
+msgstr  "S'està afegint la sessió al CD regravable."
+
+msgid   "Audio CD"
+msgstr  "CD d'àudio"
+
+msgid   "Audio images successfully created."
+msgstr  "Les imàgens d'àudio s'han creat correctament."
+
+msgid   "Auto"
+msgstr  "Auto"
+
+msgid   "Average overall write speed: %1 KB/s (%2x)"
+msgstr  "Velocitat mitjana d'escritura global: %1 kB/s (%2x)"
+
+msgid   "Bad packet at packet #%1 (stream byte offset %2)"
+msgstr  "Paquet erroni al paquet #%1 (posició %2 del flux de bytes)"
+
+msgid   "Blanking"
+msgstr  "S'està esborrant"
+
+msgid   "Blanking error."
+msgstr  "S'ha produït un error d'esborrat."
+
+msgid   "Blanking successfully completed"
+msgstr  "L'esborrat ha finalisat correctament"
+
+msgid   "Booktype successfully changed"
+msgstr  "El format s'ha canviat correctament"
+
+msgid   "Boot catalog"
+msgstr  "Catàleg d'arrancada"
+
+msgid   "Buffer was low once."
+msgid_plural    "Buffer was low %1 times."
+msgstr[0]       "La memòria intermèdia s'ha buidat una vegada."
+msgstr[1]       "La memòria intermèdia s'ha buidat %1 vegades."
+
+msgid   "Burnfree was used once."
+msgid_plural    "Burnfree was used %1 times."
+msgstr[0]       "«Burnfree» s'ha fet servir una vegada."
+msgstr[1]       "«Burnfree» s'ha fet servir %1 vegades."
+
+msgid   "Burning Clone Image"
+msgstr  "S'està gravant la image exacta"
+
+msgid   "Burning ISO 9660 Image"
+msgstr  "S'està gravant la image ISO 9660"
+
+msgid   "CD Track"
+msgstr  "Pista de CD"
+
+msgid   "CD writer %1 (%2) does not support cloning."
+msgstr  "La gravadora de CD %1 (%2) no permet fer còpies exactes."
+
+msgid   "CD-Text"
+msgstr  "CD-Text"
+
+msgid   "CDDB Lookup"
+msgstr  "Busca CDDB"
+
+msgid   "CDDB error (%1)."
+msgstr  "S'ha produït un error de CDDB (%1)."
+
+msgid   "Cache the data to be written on the harddisk"
+msgstr  "Guarda al cau del disc dur les dades a escriure"
+
+msgid   "Cancel and go back"
+msgstr  "Cancela i torna enrere"
+
+msgid   "Cannot change booktype on non-empty DVD+R media."
+msgstr  "No es pot canviar el format d'un soport de DVD+R no buit."
+
+msgid   "Cannot copy encrypted DVDs."
+msgstr  "No es poden copiar DVD encriptats."
+
+msgid   "Cannot read source disk."
+msgstr  "No es pot llegir el disc d'origen."
+
+msgid   "Cannot write %1 media using %2. Falling back to default application."
+msgstr  "No es pot gravar el soport %1 fent servir %2. Es farà servir "
+        "l'aplicació predeterminada."
+
+msgid   "Capacity of the medium in %1 is smaller than required."
+msgstr  "La capacitat del soport en %1 és més xicoteta del que es requereix."
+
+msgid   "Capacity: %1"
+msgstr  "Capacitat: %1"
+
+msgid   "Caption for children"
+msgstr  "Llegenda per a infants"
+
+msgid   "Caption with bigger size characters"
+msgstr  "Llegenda amb caràcters de mida més gran"
+
+msgid   "Caption with normal size characters"
+msgstr  "Llegenda amb caràcters de mida normal"
+
+msgid   "Cdrdao %1 does not support disabling burnfree."
+msgstr  "«cdrdao» versió %1 no permet la desactivació de «Burnfree»."
+
+msgid   "Cdrdao %1 does not support overburning."
+msgstr  "«cdrdao» versió %1 no permet la sobregravació."
+
+msgid   "Cdrecord %1 does not support CD-Text writing."
+msgstr  "«cdrecord» %1 no permet l'escritura de CD-Text."
+
+msgid   "Cdrecord %1 does not support overburning."
+msgstr  "«cdrecord» %1 no permet la sobregravació."
+
+msgid   "Cdrecord does not support writing %1 media."
+msgstr  "«cdrecord» no permet l'escritura de soports %1."
+
+msgid   "Cdrecord version %1 does not have cloning support."
+msgstr  "«cdrecord» versió %1 no permet fer còpies exactes."
+
+msgid   "Cdrecord version %1 does not support Blu-ray writing."
+msgstr  "La versió %1 de «cdrecord» no permet l'escritura de soports Blu-ray."
+
+msgid   "Cdrskin %1 does not support overburning."
+msgstr  "«cdrskin» versió %1 no permet la sobregravació."
+
+msgid   "Cdrskin does not support writing %1 media."
+msgstr  "«cdrskin» no permet l'escritura de soports %1."
+
+msgid   "Cdrskin version %1 does not support Blu-ray writing."
+msgstr  "La versió %1 de «cdrskin» no permet l'escritura de Blu-ray."
+
+msgid   "Changing Booktype"
+msgstr  "S'està canviant el format"
+
+msgid   "Changing DVD Booktype"
+msgstr  "S'està canviant el format del DVD"
+
+msgid   "Checking Source Medium"
+msgstr  "S'està comprovant el soport d'origen"
+
+msgid   "Checking medium"
+msgstr  "S'està comprovant el soport"
+
+msgid   "Checking source medium"
+msgstr  "S'està comprovant el soport d'origen"
+
+msgid   "Cloning CD"
+msgstr  "S'està clonant el CD"
+
+msgid   "Closed caption for children"
+msgstr  "Llegenda tancada per a infants"
+
+msgid   "Closed caption with bigger size characters"
+msgstr  "Llegenda tancada amb caràcters de mida més gran"
+
+msgid   "Closed caption with normal size characters"
+msgstr  "Llegenda tancada amb caràcters de mida normal"
+
+msgid   "Closing Disk"
+msgstr  "S'està tancant el disc"
+
+msgid   "Closing Session"
+msgstr  "S'està tancant la sessió"
+
+msgid   "Closing Session..."
+msgstr  "S'està tancant la sessió..."
+
+msgid   "Closing Track"
+msgstr  "S'està tancant la pista"
+
+msgid   "Compare original with written data"
+msgstr  "Compara les dades originals amb les escrites"
+
+msgid   "Complete %1 medium"
+msgstr  "Soport %1 complet"
+
+msgid   "Complete Data %1"
+msgstr  "Dades completes %1"
+
+msgid   "Component"
+msgstr  "Component"
+
+msgid   "Computing level for track %1 of %2"
+msgstr  "S'està calculant el nivell de la pista %1 de %2"
+
+msgid   "Consider enabling the 'update scan offsets' option, if it is not "
+        "enabled already."
+msgstr  "Considereu la possibilitat d'activar l'opció «actualisa els "
+        "desplaçaments de l'exploració», si no està ya activada."
+
+msgid   "Copying"
+msgstr  "S'està copiant"
+
+msgid   "Copying Audio CD."
+msgstr  "S'està copiant el CD d'àudio."
+
+msgid   "Copying CD"
+msgstr  "S'està copiant el CD"
+
+msgid   "Copying CD On-The-Fly"
+msgstr  "S'està copiant el CD al vol"
+
+msgid   "Copying DVD or BD"
+msgstr  "S'està copiant el DVD o el BD"
+
+msgid   "Copying DVD or BD On-The-Fly"
+msgstr  "S'està copiant el DVD o el BD al vol"
+
+msgid   "Copying Data CD."
+msgstr  "S'està copiant el CD de dades."
+
+msgid   "Copying Enhanced Audio CD (CD-Extra)."
+msgstr  "S'està copiant el CD d'àudio millorat (CD-Extra)."
+
+msgid   "Copying Multisession Data CD."
+msgstr  "S'està copiant el CD de dades multisessió."
+
+msgid   "Copying successfully completed"
+msgstr  "La còpia ha finalisat correctament"
+
+msgid   "Corrected error in sector %1"
+msgstr  "Error corregit al sector %1"
+
+msgid   "Could not backup tocfile."
+msgstr  "No s'ha pogut fer còpia de seguretat del fitxer de la taula de "
+        "continguts (TOC)."
+
+msgid   "Could not delete file %1."
+msgstr  "No s'ha pogut suprimir el fitxer %1."
+
+msgid   "Could not determine next writable address."
+msgstr  "No s'ha pogut determinar l'adreça següent que es puga escriure."
+
+msgid   "Could not determine size of resulting image file."
+msgstr  "No s'ha pogut determinar la mida del fitxer d'image resultant."
+
+msgid   "Could not find %1 executable."
+msgstr  "No s'ha pogut trobar l'executable %1."
+
+msgid   "Could not find a valid eMovix installation."
+msgstr  "No s'ha pogut trobar una instalació vàlida d'eMovix."
+
+msgid   "Could not find file %1"
+msgstr  "No s'ha pogut trobar el fitxer %1"
+
+msgid   "Could not find file %1. Skipping..."
+msgstr  "No s'ha pogut trobar %1. Saltant..."
+
+msgid   "Could not find image %1"
+msgstr  "No s'ha pogut trobar la image %1"
+
+msgid   "Could not find normalize executable."
+msgstr  "No s'ha pogut trobar l'executable de «normalize»."
+
+msgid   "Could not find readcd executable with cloning support."
+msgstr  "No s'ha pogut trobar cap executable de «readcd» que permeta fer "
+        "còpies exactes."
+
+msgid   "Could not find the following files:"
+msgstr  "No s'han pogut trobar els fitxers següents:"
+
+msgid   "Could not follow link %1 to non-existing file %2. Skipping..."
+msgstr  "No s'ha pogut seguir l'enllaç %1 cap a un fitxer inexistent %2. "
+        "Saltant..."
+
+msgid   "Could not load libcdparanoia."
+msgstr  "No s'ha pogut carregar «libcdparanoia»."
+
+msgid   "Could not open %1 for writing"
+msgstr  "No s'ha pogut obrir %1 per a escriure"
+
+msgid   "Could not open ISO 9660 filesystem in %1."
+msgstr  "No s'ha pogut obrir el sistema de fitxers ISO 9660 a %1."
+
+msgid   "Could not open device %1"
+msgstr  "No s'ha pogut obrir el dispositiu %1"
+
+msgid   "Could not open file %1"
+msgstr  "No s'ha pogut obrir el fitxer %1"
+
+msgid   "Could not open file %1."
+msgstr  "No s'ha pogut obrir el fitxer %1."
+
+msgid   "Could not read file %1. Skipping..."
+msgstr  "No s'ha pogut llegir el fitxer %1. Saltant..."
+
+msgid   "Could not rename subtitle file. File with requested name %1 already "
+        "exists."
+msgstr  "No s'ha pogut canviar el nom del fitxer de subtítols. Ya existix un "
+        "fitxer amb el nom solicitat %1."
+
+msgid   "Could not retrieve multisession information from disk."
+msgstr  "No s'ha pogut obtindre la informació de la multisessió del disc."
+
+msgid   "Could not start %1"
+msgstr  "No s'ha pogut iniciar %1"
+
+msgid   "Could not start %1."
+msgstr  "No s'ha pogut iniciar %1."
+
+msgid   "Could not start normalize."
+msgstr  "No s'ha pogut iniciar «normalize»."
+
+msgid   "Could not start readcd."
+msgstr  "No s'ha pogut iniciar readcd."
+
+msgid   "Could not unlock drive."
+msgstr  "No s'ha pogut desbloquejar la unitat."
+
+msgid   "Could not write correct XML file."
+msgstr  "No s'ha pogut escriure el fitxer XML correcte."
+
+msgid   "Could not write temporary file"
+msgstr  "No s'ha pogut escriure el fitxer temporal"
+
+msgid   "Create CD-Text entries"
+msgstr  "Crea entrades de CD-Text"
+
+msgid   "Create image"
+msgstr  "Crea la image"
+
+msgid   "Creating 1 clone copy"
+msgid_plural    "Creating %1 clone copies"
+msgstr[0]       "S'està creant 1 còpia exacta"
+msgstr[1]       "S'estan creant %1 còpies exactes"
+
+msgid   "Creating 1 copy"
+msgid_plural    "Creating %1 copies"
+msgstr[0]       "S'està creant 1 còpia"
+msgstr[1]       "S'estan creant %1 còpies"
+
+msgid   "Creating CD Image"
+msgstr  "S'està creant la image de CD"
+
+msgid   "Creating Clone Image"
+msgstr  "S'està creant la image exacta"
+
+msgid   "Creating Cue/Bin files..."
+msgstr  "S'estan creant els fitxers CUE/BIN..."
+
+msgid   "Creating Data Image File"
+msgstr  "S'està creant el fitxer de la image de dades"
+
+msgid   "Creating ISO image file"
+msgstr  "S'està creant el fitxer de la image ISO"
+
+msgid   "Creating ISO image in %1"
+msgstr  "S'està creant la image ISO a %1"
+
+msgid   "Creating Image"
+msgstr  "S'està creant la image"
+
+msgid   "Creating Image for track %1"
+msgstr  "S'està creant la image de la pista %1"
+
+msgid   "Creating Video DVD Image File"
+msgstr  "S'està creant el fitxer d'image del DVD de vídeo"
+
+msgid   "Creating audio image files"
+msgstr  "S'estan creant fitxers d'image d'àudio"
+
+msgid   "Creating audio image files in %1"
+msgstr  "S'estan creant fitxers d'image d'àudio a %1"
+
+msgid   "Creating image"
+msgstr  "S'està creant la image"
+
+msgid   "Creating image file"
+msgstr  "S'està creant el fitxer d'image"
+
+msgid   "Creating image file in %1"
+msgstr  "S'està creant el fitxer d'image a %1"
+
+msgid   "Creating image files"
+msgstr  "S'estan creant els fitxers d'image"
+
+msgid   "Creating image files in %1"
+msgstr  "S'estan creant els fitxers d'image en %1"
+
+msgid   "Cue sheet not accepted."
+msgstr  "La llista CUE no s'ha acceptat."
+
+msgid   "Cue/Bin files successfully created."
+msgstr  "Els fitxers CUE/BIN s'han creat correctament."
+
+msgid   "Cut volume descriptor in the Joliet tree"
+msgstr  "Retalla el descriptor del volum de l'arbre Joliet"
+
+msgid   "DAO (Disk At Once) recording not supported with this writer"
+msgstr  "La gravació en modo DAO (tot el disc alhora) no està permesa amb "
+        "esta gravadora"
+
+msgid   "DTS"
+msgstr  "DTS"
+
+msgid   "DVD and Blu-ray tracks can only be written in MODE1."
+msgstr  "Les pistes DVD i Blu-ray només es poden escriure en MODE1."
+
+msgid   "DVD+R(W) media do not support write simulation. Do you really want "
+        "to continue? The media will actually be written to."
+msgstr  "Els soports de DVD+R(W) no permeten la simulació. Segur que voleu "
+        "continuar? El soport s'escriurà de veritat."
+
+msgid   "Data did not fit on disk."
+msgstr  "Les dades no han cabut al disc."
+
+msgid   "Data does not fit on disk."
+msgstr  "Les dades no hi caben al disc."
+
+msgid   "Decoding audio track %1 of %2%3"
+msgstr  "S'està descodificant la pista d'àudio %1 de %2%3"
+
+msgid   "Determining maximum writing speed"
+msgstr  "S'està determinant la màxima velocitat d'escritura"
+
+msgid   "Device Selection"
+msgstr  "Seleccioneu el dispositiu"
+
+msgid   "Device not ready, waiting."
+msgstr  "El dispositiu no està llest, s'està esperant."
+
+msgid   "Director's comments 1"
+msgstr  "Comentaris del director 1"
+
+msgid   "Director's comments 2"
+msgstr  "Comentaris del director 2"
+
+msgid   "Director's comments for children"
+msgstr  "Comentaris del director per a infants"
+
+msgid   "Director's comments with bigger size characters"
+msgstr  "Comentaris del director amb caràcters de mida més gran"
+
+msgid   "Director's comments with normal size characters"
+msgstr  "Comentaris del director amb caràcters de mida normal"
+
+msgid   "Disable Joliet extensions"
+msgstr  "Desactiva les extensions Joliet"
+
+msgid   "Disable inhibition for disc writing"
+msgstr  "Desactiva la inhibició per a l'escritura al disc"
+
+msgid   "Disabled Burnfree"
+msgstr  "S'ha desactivat «Burnfree»"
+
+msgid   "Disabling on-the-fly writing."
+msgstr  "S'ha desactivat l'escritura al vol."
+
+msgid   "Discard symbolic links to folders"
+msgstr  "Descarta els enllaços simbòlics a carpetes"
+
+msgid   "Disk at once"
+msgstr  "Tot el disc alhora"
+
+msgid   "Do not be concerned with the progress stopping before 100%."
+msgstr  "No vos preocupeu si el progrés s'para abans del 100%."
+
+msgid   "Do not close the disk to allow additional sessions to be added later"
+msgstr  "No tanques el disc per tal de permetre afegir sessions addicionals "
+        "més avant"
+
+msgid   "Do not force VCD"
+msgstr  "No forces el VCD"
+
+msgid   "Do you want to overwrite %1?"
+msgstr  "Voleu sobreescriure %1?"
+
+msgid   "Due to a bug in cdrdao the toc/cue file %1 has been deleted. K3b was "
+        "unable to restore it from the backup %2."
+msgstr  "A causa d'un error en «cdrdao» el fitxer TOC/CUE %1 ha estat "
+        "suprimit. K3b no l'ha pogut restaurar a partir de la còpia de "
+        "seguretat %2."
+
+msgid   "Due to a bug in mkisofs <= 1.15a40, K3b is unable to handle "
+        "filenames that contain more than one backslash:"
+msgstr  "A causa d'un error a «mkisofs» <= 1.15a40, K3b no és capaç de "
+        "gestionar noms de fitxer que contenen més d'una barra inversa:"
+
+msgid   "Ejecting DVD..."
+msgstr  "S'està expulsant el DVD..."
+
+msgid   "Ejecting Medium"
+msgstr  "S'està expulsant el soport"
+
+msgid   "Ejecting medium..."
+msgstr  "S'està expulsant el soport..."
+
+msgid   "El Torito Boot image"
+msgstr  "Image d'arrancada «El torito»"
+
+msgid   "El Torito boot catalog file"
+msgstr  "Fitxer de catàleg d'arrancada «El Torito»"
+
+msgid   "Empty"
+msgstr  "Buit"
+
+msgid   "Empty %1 medium"
+msgstr  "Soport %1 buit"
+
+msgid   "Enable Burnfree (or Just Link) to avoid buffer underruns"
+msgstr  "Activa «Burnfree» (o «Just link») per a evitar els buidatges de la "
+        "memòria intermèdia"
+
+msgid   "Enable overburning in the advanced K3b settings to burn anyway."
+msgstr  "Activeu la sobregravació en la configuració avançada de K3b per a "
+        "gravar de totes maneres."
+
+msgid   "Enabled Burnfree"
+msgstr  "S'ha activat «Burnfree»"
+
+msgid   "Enabling UDF extension."
+msgstr  "S'està activant l'extensió UDF."
+
+msgid   "Encountered an incorrectly encoded filename '%1'"
+msgstr  "S'ha trobat un nom de fitxer codificat incorrectament «%1»"
+
+msgid   "Engaging DAO"
+msgstr  "S'està començant el DAO"
+
+msgid   "Enter New Filename"
+msgstr  "Introduïu el nom del nou fitxer"
+
+msgid   "Erasing CD-RW"
+msgstr  "S'està esborrant el CD-RW"
+
+msgid   "Erasing successfully completed"
+msgstr  "L'esborrat ha finalisat correctament"
+
+msgid   "Error while creating ISO image"
+msgstr  "S'ha produït un error mentre es creava la image ISO"
+
+msgid   "Error while creating ISO image."
+msgstr  "S'ha produït un error mentre es creava la image ISO."
+
+msgid   "Error while decoding audio tracks."
+msgstr  "S'ha produït un error mentre es descodificaven les pistes d'àudio."
+
+msgid   "Error while decoding track %1."
+msgstr  "S'ha produït un error mentre es descodificava la pista %1."
+
+msgid   "Error while initializing audio ripping."
+msgstr  "S'ha produït un error mentre s'inicialisava l'extracció d'àudio."
+
+msgid   "Error while normalizing tracks."
+msgstr  "S'ha produït un error mentre es normalisaven les pistes."
+
+msgid   "Error while reading disk."
+msgstr  "S'ha produït un error mentre es llegia el disc."
+
+msgid   "Error while reading from file %1"
+msgstr  "Error mentre es llegia del fitxer %1"
+
+msgid   "Error while reading sector %1."
+msgstr  "Error llegint el sector %1."
+
+msgid   "Error while reading session %1."
+msgstr  "S'ha produït un error mentre es llegia la sessió %1."
+
+msgid   "Executing Power calibration"
+msgstr  "S'està executant el calibratge de la potència"
+
+msgid   "Execution of %1 failed."
+msgstr  "L'execució de %1 ha fallat."
+
+msgid   "Extended"
+msgstr  "Ampliat"
+
+msgid   "FFmpeg contains an implementation of the MPEG-4 video encoding "
+        "standard which produces high quality results."
+msgstr  "FFmpeg conté una implementació de l'estàndard MPEG-4 de codificació "
+        "de vídeo que produeix resultats d'alta qualitat."
+
+msgid   "FFmpeg is an open-source project trying to support most video and "
+        "audio codecs used these days. Its subproject libavcodec forms the "
+        "basis for multimedia players such as xine or mplayer."
+msgstr  "FFmpeg és un projecte de codi obert que mira d'admetre la majoria de "
+        "còdecs d'àudio i vídeo emprats en l'actualitat. El seu subprojecte "
+        "«libavcodec» constitueix la base de reproductors multimèdia com ara "
+        "el Xine o el MPlayer."
+
+msgid   "Failed to backup boot image file %1"
+msgstr  "No s'ha pogut fer una còpia de seguretat del fitxer d'image %1"
+
+msgid   "Failed to read disk completely in clone mode."
+msgstr  "No s'ha pogut llegir completament el disc en modo de còpia exacta."
+
+msgid   "Failed to reload the medium"
+msgstr  "No s'ha pogut tornar a carregar el soport"
+
+msgid   "Failed to retrieve all CSS keys."
+msgstr  "No s'han pogut obtindre totes les claus CSS."
+
+msgid   "Failed to write temporary file '%1'"
+msgstr  "No s'ha pogut escriure el fitxer temporal «%1»"
+
+msgid   "Fatal error at startup: %1"
+msgstr  "Error fatal en iniciar: %1"
+
+msgid   "Fatal error during recording: %1"
+msgstr  "S'ha produït un error crític durant la gravació: %1"
+
+msgid   "File %1 is empty."
+msgstr  "El fitxer %1 està buit."
+
+msgid   "File Exists"
+msgstr  "El fitxer ya existix"
+
+msgid   "Files bigger than 2 GB cannot be handled."
+msgstr  "Els fitxers més grans de 2 GB no es poden gestionar."
+
+msgid   "Flushing Cache"
+msgstr  "S'està buidant la memòria cau"
+
+msgid   "Flushing cache"
+msgstr  "S'està buidant la memòria cau"
+
+msgid   "Flushing the cache may take some time."
+msgstr  "Buidar la memòria cau pot tardar una mica."
+
+msgid   "For most current drives this would be 'generic-mmc'."
+msgstr  "Per a la majoria de dispositius actuals seria «generic-mmc»."
+
+msgid   "For the visually impaired"
+msgstr  "Per als que tenen deficiències visuals"
+
+msgid   "Force VCD"
+msgstr  "Força el VCD"
+
+msgid   "Forced caption"
+msgstr  "Llegenda obligatòria"
+
+msgid   "Forcing formatting anyway."
+msgstr  "S'està forçant la formatació de totes maneres."
+
+msgid   "Formatted in %1 mode."
+msgstr  "Formatació en modo %1."
+
+msgid   "Formatting"
+msgstr  "S'està formatant"
+
+msgid   "Formatting %1 medium"
+msgstr  "S'està formatant el soport %1"
+
+msgid   "Formatting DVD-RW in %1 mode."
+msgstr  "S'està formatant el DVD-RW en modo %1."
+
+msgid   "Formatting disc"
+msgstr  "S'està formatant el disc"
+
+msgid   "Formatting successfully completed"
+msgstr  "La formatació ha acabat correctament"
+
+msgid   "Found %1 medium."
+msgstr  "S'ha trobat el soport %1."
+
+msgid   "Found CD-Text (%1 - %2) and CDDB (%3 - %4) entries. Which one should "
+        "be used to generate the CD-Text on the new CD?"
+msgstr  "S'han trobat entrades CD-Text (%1 - %2) i CDDB (%3 - %4). Quina "
+        "voleu utilisar per a generar el CD-Text del nou CD?"
+
+msgid   "Found CD-Text (%1 - %2)."
+msgstr  "S'ha trobat el CD-Text (%1 - %2)."
+
+msgid   "Found CDDB entry (%1 - %2)."
+msgstr  "S'ha trobat l'entrada CDDB (%1 - %2)."
+
+msgid   "Found ISRC code"
+msgstr  "S'ha trobat codi ISRC"
+
+msgid   "Found a high-speed medium not suitable for the writer being used."
+msgstr  "S'ha trobat un soport d'alta velocitat no adequat per a la gravadora "
+        "que s'està fent servir."
+
+msgid   "Found a low-speed medium not suitable for the writer being used."
+msgstr  "S'ha trobat un soport de baixa velocitat no adequat per a la "
+        "gravadora que s'està fent servir."
+
+msgid   "Found corrupted CD-Text. Ignoring it."
+msgstr  "S'ha trobat un CD-Text corrupte. S'ignora."
+
+msgid   "Found encrypted DVD."
+msgstr  "S'ha trobat un DVD encriptat."
+
+msgid   "Found files bigger than 2 GB. These files will be fully accessible."
+msgstr  "S'han trobat fitxers més grans de 2 GB. Estos fitxers seran "
+        "completament accessibles."
+
+msgid   "Found files bigger than 4 GB. K3b needs at least %1 to continue."
+msgstr  "S'han trobat fitxers més grans de 4 GB. K3b necessita com a mínim %1 "
+        "per a continuar."
+
+msgid   "Found invalid entry in the VIDEO_TS folder <filename>%1</filename>."
+msgstr  "S'ha trobat una entrada no vàlida a la carpeta VIDEO_TS "
+        "<filename>%1</filename>."
+
+msgid   "Found pregap: %1"
+msgstr  "S'ha trobat un preinterval: %1"
+
+msgid   "Free space: %1"
+msgstr  "Espai lliure: %1"
+
+msgid   "From now on, scan information data errors will not be reported "
+        "anymore"
+msgstr  "A partir d'ara, ya no s'informarà dels errors d'exploració de dades"
+
+msgid   "From previous session"
+msgstr  "De la sessió anterior"
+
+msgid   "Growing ISO 9660 filesystem on %1."
+msgstr  "S'està fent créixer el sistema de fitxers ISO 9660 en %1."
+
+msgid   "Growing ISO 9660 filesystem on DVD+RW."
+msgstr  "S'està fent créixer el sistema de fitxers ISO 9660 en el DVD+RW."
+
+msgid   "Growing ISO 9660 filesystem on DVD-RW in restricted overwrite mode."
+msgstr  "S'està fent créixer el sistema de fitxers ISO 9660 en el DVD-RW en "
+        "modo de sobreescritura restringida."
+
+msgid   "Growisofs version %1 does not feature a software buffer which may "
+        "result in an unstable burn process."
+msgstr  "La versió %1 de «growisofs» no té la característica de memòria "
+        "intermèdia de programari cosa que pot causar un procés de gravació "
+        "inestable."
+
+msgid   "Growisofs version %1 is too old. K3b needs at least version 5.10."
+msgstr  "La versió %1 de «growisofs» és massa antiga. K3b necessita almenys "
+        "la versió 5.10."
+
+msgid   "I/O Error"
+msgstr  "S'ha produït un error d'E/S"
+
+msgid   "I/O Error. Most likely no space left on harddisk."
+msgstr  "S'ha produït un error d'entrada/eixida. Probablement no queda espai "
+        "en el disc dur."
+
+msgid   "ISO 9660 Filesystem (Size: %1)"
+msgstr  "Sistema de fitxers ISO 9660 (mida: %1)"
+
+msgid   "ISO 9660 Filesystem (Size: %2) – One copy"
+msgid_plural    "ISO 9660 Filesystem (Size: %2) – %1 copies"
+msgstr[0]       "Sistema de fitxers ISO 9660 (mida: %2) – 1 còpia"
+msgstr[1]       "Sistema de fitxers ISO 9660 (mida: %2) – %1 còpies"
+
+msgid   "ISO 9660 data"
+msgstr  "Dades ISO 9660"
+
+msgid   "ISO 9660/Udf Filesystem (Size: %1)"
+msgstr  "Sistema de fitxers ISO 9660/UDF (Mida: %1)"
+
+msgid   "ISO image successfully created."
+msgstr  "La image ISO s'ha creat correctament."
+
+msgid   "If you are running an unpatched cdrecord version..."
+msgstr  "Si esteu executant una versió sense apedaçar de «cdrecord»..."
+
+msgid   "If you are running an unpatched cdrskin version..."
+msgstr  "Si esteu executant una versió sense apedaçar de «cdrskin»..."
+
+msgid   "Ignore read errors"
+msgstr  "Ignora els errors de lectura"
+
+msgid   "Ignored %1 erroneous sector."
+msgid_plural    "Ignored a total of %1 erroneous sectors."
+msgstr[0]       "S'ha ignorat %1 sector erroni."
+msgstr[1]       "S'han ignorat un total de %1 sectors erronis."
+
+msgid   "Ignoring clipping values of last chapter due to its short playback "
+        "time."
+msgstr  "S'estan ometent els valors de retallada del últim capítol a causa de "
+        "la seua curta duració."
+
+msgid   "Ignoring link %1 to folder %2. K3b is unable to follow links to "
+        "folders."
+msgstr  "S'està ignorant l'enllaç %1 a la carpeta %2. K3b no és capaç de "
+        "seguir enllaços a carpetes."
+
+msgid   "Ignoring read error in sector %1."
+msgstr  "S'està ignorant un error de lectura al sector %1."
+
+msgid   "Ignoring this aps"
+msgstr  "S'està ignorant est APS"
+
+msgid   "Image successfully created in %1"
+msgstr  "La image s'ha creat correctament a %1"
+
+msgid   "Information"
+msgstr  "Informació"
+
+msgid   "Inhibiting sleep for disc writing"
+msgstr  "Inhibeix la suspensió per a l'escritura al disc"
+
+msgid   "Input/output error. Not necessarily serious."
+msgstr  "S'ha produït un error d'entrada/eixida. No necessàriament greu."
+
+msgid   "Internal Error: No medium type fits. This project cannot be burned."
+msgstr  "Error intern: No hi ha tipus de soport on càpiga. Este projecte no "
+        "es pot gravar."
+
+msgid   "Internal Error: Verification job improperly initialized (%1)"
+msgstr  "Error intern: tasca de verificació mal inicialisada (%1)"
+
+msgid   "Invalid audio codec set: %1"
+msgstr  "Conjunt no vàlit de còdecs d'àudio: %1"
+
+msgid   "Invalid filename: '%1'"
+msgstr  "Nom de fitxer no vàlit: «%1»"
+
+msgid   "Invalid video codec set: %1"
+msgstr  "Conjunt no vàlit de còdecs de vídeo: %1"
+
+msgid   "It can be solved by issuing the command 'ulimit -l unlimited'..."
+msgstr  "Es pot resoldre fent servir l'ordre «ulimit -l unlimited»..."
+
+msgid   "It is not possible to write CD-Text in TAO mode."
+msgstr  "No es pot escriure CD-Text en modo TAO."
+
+msgid   "It is not possible to write CD-Text in TAO mode. Try DAO or RAW."
+msgstr  "No es pot escriure CD-Text en modo TAO. Proveu amb el modo DAO, o el "
+        "modo en brut."
+
+msgid   "It is not recommended to force formatting of %1 media."
+msgstr  "No es recomana forçar la formatació d'un soport %1."
+
+msgid   "It may simply be overwritten."
+msgstr  "Només cal sobreescriure'l."
+
+msgid   "K3b can only copy CD-Extra mixed mode CDs."
+msgstr  "K3b només pot copiar CD en modo mixt de tipus CD-Extra."
+
+msgid   "K3b detected a problem with the medium."
+msgstr  "K3b ha detectat un problema amb el soport."
+
+msgid   "K3b does not copy CDs containing multiple data tracks."
+msgstr  "K3b no copia CD que contenen múltiples pistes de dades."
+
+msgid   "K3b does not support copying DVD-RAM."
+msgstr  "K3b no permet la còpia de DVD-RAM."
+
+msgid   "K3b does not support copying multi-session DVD or Blu-ray disks."
+msgstr  "K3b no permet copiar DVD multisessió o discs Blu-ray."
+
+msgid   "K3b does not support writing on-the-fly with growisofs %1."
+msgstr  "K3b no permet escriure al vol amb «growisofs» versió %1."
+
+msgid   "K3b found multiple or inexact CDDB entries. Please select one."
+msgstr  "K3b ha trobat entrades CDDB duplicades o inexactes. Trieu-ne una."
+
+msgid   "K3b is not able to follow symbolic links to folders after they have "
+        "been added to the project. Do you want to continue without writing "
+        "the symbolic links to the image?"
+msgstr  "K3b no pot seguir els enllaços simbòlics a carpetes després d'haver-"
+        "se afegit al projecte. Voleu continuar sense escriure els enllaços "
+        "simbòlics a la image?"
+
+msgid   "K3b needs cdrecord 2.01a12 or newer to copy Mode2 data tracks."
+msgstr  "K3b necessita «cdrecord» versió 2.01a12 o superior per a copiar "
+        "pistes de dades en modo 2."
+
+msgid   "K3b relies on the size saved in the ISO 9660 header."
+msgstr  "K3b depèn de la mida guardada a la capçalera ISO 9660."
+
+msgid   "K3b was unable to eject the source disk. Please do so manually."
+msgstr  "K3b no ha estat capaç d'expulsar el disc d'origen. Feu-ho "
+        "manualment, per favor."
+
+msgid   "K3b was unable to eject the source medium. Please do so manually."
+msgstr  "K3b no ha estat capaç d'expulsar el soport d'origen. Feu-ho "
+        "manualment, per favor."
+
+msgid   "K3b was unable to eject the written disk. Please do so manually."
+msgstr  "K3b no ha estat capaç d'expulsar el disc gravat. Feu-ho manualment, "
+        "per favor."
+
+msgid   "K3b was unable to eject the written medium. Please do so manually."
+msgstr  "K3b no ha estat capaç d'expulsar el soport gravat. Feu-ho "
+        "manualment, per favor."
+
+msgid   "K3b will create a %1 image from the given MPEG files, but these "
+        "files must already be in %1 format. K3b does not yet resample MPEG "
+        "files."
+msgstr  "K3b crearà una image %1 a partir dels fitxers MPEG proporcionats, "
+        "pero estos fitxers ya hauran d'estar en format %1. K3b encara no és "
+        "capaç de remostrejar fitxers MPEG."
+
+msgid   "LPCM"
+msgstr  "LPCM"
+
+msgid   "Layer %1"
+msgstr  "Capa %1"
+
+msgid   "MPEG1"
+msgstr  "MPEG1"
+
+msgid   "MPEG1 Layer III"
+msgstr  "MPEG1 Layer III"
+
+msgid   "MPEG1 Layer III is better known as MP3 and is the most used lossy "
+        "audio format."
+msgstr  "MPEG1 Layer III és més conegut com a MP3, i és el format d'àudio amb "
+        "pèrdua més emprat."
+
+msgid   "MPEG2 Extended"
+msgstr  "MPEG2 ampliat"
+
+msgid   "MPEG4 (FFMPEG)"
+msgstr  "MPEG4 (FFMPEG)"
+
+msgid   "Media is already empty."
+msgstr  "El soport ya està buit."
+
+msgid   "Medium in %1 is not %2."
+msgstr  "El soport en %1 no és %2."
+
+msgid   "Medium in %1 is not a %2."
+msgstr  "El soport en %1 no és un %2."
+
+msgid   "Medium is not of multi-session type and does not contain ISO 9660. "
+        "Cannot emulate multi-session on it."
+msgstr  "El soport no és de tipus multisessió i no conté cap ISO 9660. No "
+        "s'hi pot emular cap multisessió."
+
+msgid   "Medium or burner does not support writing at %1x speed"
+msgstr  "El soport o la gravadora no permeten escriure a velocitat %1x"
+
+msgid   "Missing Blu-ray support in cdrecord and growisofs. Please update the "
+        "system."
+msgstr  "Falta la implementació del Blu-ray a «cdrecord» i «growisofs». "
+        "Actualiseu el sistema."
+
+msgid   "Mixed CD"
+msgstr  "CD mixt"
+
+msgid   "Mkisofs executable not found."
+msgstr  "No s'ha trobat l'executable de «mkisofs»."
+
+msgid   "Modify device settings in K3b to solve this problem."
+msgstr  "Modifiqueu la configuració del dispositiu en K3b per a resoldre este "
+        "problema."
+
+msgid   "Modifying ISO 9660 volume descriptor"
+msgstr  "S'està modificant el descriptor de volum ISO 9660"
+
+msgid   "Most likely mkisofs failed in some way."
+msgstr  "Segurament «mkisofs» ha fallat d'alguna manera."
+
+msgid   "Most likely the burning failed due to low-quality media."
+msgstr  "Probablement la gravació ha fallat a causa d'un soport de baixa "
+        "qualitat."
+
+msgid   "Most writers do not support writing multisession CDs in DAO mode."
+msgstr  "La majoria de gravadores no permeten escriure CD multisessió en modo "
+        "DAO."
+
+msgid   "Motion Picture"
+msgstr  "Image en moviment"
+
+msgid   "Multiple CDDB Entries Found"
+msgstr  "S'han trobat múltiples entrades CDDB"
+
+msgid   "Multisession CD"
+msgstr  "CD multisessió"
+
+msgid   "Need to reload medium to return to proper state."
+msgstr  "Cal tornar a carregar el soport per a tornar a l'estat adequat."
+
+msgid   "No CD-Text found."
+msgstr  "No s'ha trobat el CD-Text."
+
+msgid   "No CDDB entry found."
+msgstr  "No s'ha trobat cap entrada CDDB."
+
+msgid   "No DVD+R(W) media found."
+msgstr  "No s'ha trobat cap soport de DVD+R(W)."
+
+msgid   "No Incremental Streaming"
+msgstr  "Sense flux incremental"
+
+msgid   "No Read Permission"
+msgstr  "Sense permís de lectura"
+
+msgid   "No Simulation with %1"
+msgstr  "Sense simulació amb els %1"
+
+msgid   "No Simulation with DVD+R(W)"
+msgstr  "Sense simulació amb els DVD+R(W)"
+
+msgid   "No Simulation with DVD-R(W)"
+msgstr  "Sense simulació amb els DVD-R(W)"
+
+msgid   "No cdrdao driver found."
+msgstr  "No s'ha trobat cap controlador de «cdrdao»."
+
+msgid   "No device set"
+msgstr  "No s'ha configurat cap dispositiu"
+
+msgid   "No device set."
+msgstr  "No hi ha cap dispositiu configurat."
+
+msgid   "No files to be written."
+msgstr  "No hi ha fitxers a escriure."
+
+msgid   "No medium information"
+msgstr  "No hi ha cap informació del soport"
+
+msgid   "No medium inserted or an empty medium in %1. Cannot continue "
+        "multisession disk."
+msgstr  "No hi ha cap soport introduït o un soport buit a %1. No s'ha pogut "
+        "continuar el disc multisessió."
+
+msgid   "No medium present"
+msgstr  "No hi ha cap soport present"
+
+msgid   "No need to format %1 media more than once."
+msgstr  "No cal formatar el soport %1 més d'una vegada."
+
+msgid   "No permission to read the following files:"
+msgstr  "Sense permisos per a llegir els fitxers següents:"
+
+msgid   "No rewritable DVD or BD medium found. Unable to format."
+msgstr  "No s'ha trobat cap soport de DVD o BD regravable. No es pot formatar."
+
+msgid   "No settings available for plugin %1."
+msgstr  "El conector %1 no té cap configuració disponible."
+
+msgid   "No source medium found."
+msgstr  "No s'ha trobat el soport d'origen."
+
+msgid   "No such file or directory '%1'."
+msgstr  "El fitxer o directori «%1» no existix."
+
+msgid   "No support for reading formless Mode2 sectors."
+msgstr  "No es permet llegir sectors sense forma del Mode2."
+
+msgid   "No valid %1 option: %2"
+msgstr  "L'opció %1 no és vàlida: %2"
+
+msgid   "No valid audio cue file: '%1'"
+msgstr  "Fitxer CUE d'àudio no vàlit: «%1»"
+
+msgid   "No version of cdrskin can do this yet."
+msgstr  "Encara no hi ha cap versió de «cdrskin» que puga fer açò."
+
+msgid   "No volume id specified. Using default."
+msgstr  "No s'ha especificat cap identificador de volum. Es farà servir "
+        "l'identificador per defecte."
+
+msgid   "Normal"
+msgstr  "Normal"
+
+msgid   "Normalize volume levels"
+msgstr  "Normalisa els nivells de volum"
+
+msgid   "Normalizing volume levels"
+msgstr  "S'estan normalisant els nivells de volum"
+
+msgid   "Not Found"
+msgstr  "No trobat"
+
+msgid   "Not enough space left in temporary folder."
+msgstr  "No hi ha prou espai lliure a la carpeta temporal."
+
+msgid   "Note: Forcing MPEG2 as VCD is not supported by some standalone DVD "
+        "players."
+msgstr  "Nota: forçar MPEG2 com a VCD no és compatible amb alguns "
+        "reproductors de DVD."
+
+msgid   "OPC failed. Please try writing speed 1x."
+msgstr  "Ha fallat el calibratge. Proveu la velocitat de gravació 1x."
+
+msgid   "OPC failed. Probably the writer does not like the medium."
+msgstr  "Ha fallat el calibratge. Probablement a la gravadora no li agrada el "
+        "soport."
+
+msgid   "On the fly"
+msgstr  "Al vol"
+
+msgid   "On-the-fly writing with cdrecord < 2.01a13 not supported."
+msgstr  "L'escritura al vol no està permesa amb «cdrecord» < 2.01a13."
+
+msgid   "One copy successfully created"
+msgid_plural    "%1 copies successfully created"
+msgstr[0]       "Una còpia creada correctament"
+msgstr[1]       "%1 còpies creades correctament"
+
+msgid   "One file (%2) and about 8 MB eMovix data"
+msgid_plural    "%1 files (%2) and about 8 MB eMovix data"
+msgstr[0]       "Un fitxer (%2) i uns 8 MB de dades eMovix"
+msgstr[1]       "%1 fitxers (%2) i uns 8 MB de dades eMovix"
+
+msgid   "One or more BCD fields out of range for %1"
+msgstr  "Un o més camps de BCD fora de l'abast per a %1"
+
+msgid   "Only MPEG1 and MPEG2 video files are supported.\n"
+msgstr  "Només s'accepten els fitxers de vídeo MPEG1 i MPEG2.\n"
+
+msgid   "Only copying first session."
+msgstr  "S'està copiant només la primera sessió."
+
+msgid   "Only create an image"
+msgstr  "Crea una image i prou"
+
+msgid   "Only create image"
+msgstr  "Crea la image i prou"
+
+msgid   "Only session 1 will be cloned."
+msgstr  "Només es clonarà la sessió 1."
+
+msgid   "Only simulate the writing process"
+msgstr  "Simula només el procés d'escritura"
+
+msgid   "Optimum Power Calibration failed."
+msgstr  "El Calibratge Òptim de Potència (OPC) ha fallat."
+
+msgid   "PBC (Playback control) enabled.\n"
+        "Video players cannot reach Segments (MPEG Still Pictures) without "
+        "Playback control."
+msgstr  "PBC (control de reproducció) activat.\n"
+        "Els reproductors de vídeo no poden arribar als segments (imàgens "
+        "estàtiques MPEG) sense el control de reproducció."
+
+msgid   "Performing Optimum Power Calibration"
+msgstr  "S'està calibrant la potència òptima"
+
+msgid   "Please add files to your project first."
+msgstr  "Primer afiggau fitxers al projecte."
+
+msgid   "Please choose TAO (Track At Once) and try again"
+msgstr  "Trieu TAO (una pista alhora) i torneu-ho a provar"
+
+msgid   "Please choose a lower burning speed."
+msgstr  "Trieu una velocitat de gravació més baixa."
+
+msgid   "Please consult the debugging output for details."
+msgstr  "Per a obtindre més detalls, consulteu les traces de depuració."
+
+msgid   "Please enable Burnfree or choose a lower burning speed."
+msgstr  "Activeu «Burnfree» o trieu una velocitat de gravació més baixa."
+
+msgid   "Please include the debugging output in your problem report."
+msgstr  "Per favor, incloeu les traces de depuració en el vostre informe "
+        "d'error."
+
+msgid   "Please insert Audio CD %1%2"
+msgstr  "Inseriu el CD d'àudio %1%2"
+
+msgid   "Please insert a Data medium"
+msgstr  "Introduïu un soport de dades"
+
+msgid   "Please insert a Data medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport de dades a la unitat<p><b>%1</b>"
+
+msgid   "Please insert a Mixed Mode CD medium"
+msgstr  "Introduïu un soport de CD de modo mixt"
+
+msgid   "Please insert a Mixed Mode CD medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport de CD de modo mixt a la unitat<p><b>%1</b>"
+
+msgid   "Please insert a Video CD medium"
+msgstr  "Introduïu un soport de CD de vídeo"
+
+msgid   "Please insert a Video CD medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport de CD de vídeo a la unitat<p><b>%1</b>"
+
+msgid   "Please insert a Video DVD medium"
+msgstr  "Introduïu un soport de DVD de vídeo"
+
+msgid   "Please insert a Video DVD medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport de DVD de vídeo a la unitat<p><b>%1</b>"
+
+msgid   "Please insert a non-empty medium"
+msgstr  "Introduïu un soport no buit"
+
+msgid   "Please insert a non-empty medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport no buit a la unitat<p><b>%1</b>"
+
+msgid   "Please insert a non-empty rewritable medium"
+msgstr  "Introduïu un soport regravable no buit"
+
+msgid   "Please insert a non-empty rewritable medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport regravable no buit a la unitat<p><b>%1</b>"
+
+msgid   "Please insert a rewritable CD medium into drive<p><b>%1 %2 (%3)</b>."
+msgstr  "Inseriu un soport de CD regravable a la unitat<p><b>%1 %2 (%3)</b>."
+
+msgid   "Please insert a rewritable DVD or Blu-ray medium into drive<p><b>%1 "
+        "%2 (%3)</b>."
+msgstr  "Inseriu un soport de DVD o Blu-ray regravable a la unitat<p><b>%1 %2 "
+        "(%3)</b>."
+
+msgid   "Please insert a rewritable medium"
+msgstr  "Introduïu un soport regravable"
+
+msgid   "Please insert a rewritable medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport regravable a la unitat<p><b>%1</b>"
+
+msgid   "Please insert a suitable medium"
+msgstr  "Introduïu un soport adequat"
+
+msgid   "Please insert a suitable medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport adequat a la unitat<p><b>%1</b>"
+
+msgid   "Please insert an Audio CD medium"
+msgstr  "Introduïu un soport de CD d'àudio"
+
+msgid   "Please insert an Audio CD medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport de CD d'àudio a la unitat<p><b>%1</b>"
+
+msgid   "Please insert an empty Blu-ray medium"
+msgstr  "Introduïu un soport buit de Blu-ray"
+
+msgid   "Please insert an empty Blu-ray medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport buit de Blu-ray a la unitat<p><b>%1</b>"
+
+msgid   "Please insert an empty CD medium"
+msgstr  "Introduïu un soport buit de CD"
+
+msgid   "Please insert an empty CD medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport buit de CD a la unitat<p><b>%1</b>"
+
+msgid   "Please insert an empty DVD medium"
+msgstr  "Introduïu un soport buit de DVD"
+
+msgid   "Please insert an empty DVD medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport buit de DVD a la unitat<p><b>%1</b>"
+
+msgid   "Please insert an empty DVD or Blu-ray medium"
+msgstr  "Introduïu un soport buit de DVD o Blu-ray"
+
+msgid   "Please insert an empty DVD or Blu-ray medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport buit de DVD o Blu-ray a la unitat<p><b>%1</b>"
+
+msgid   "Please insert an empty DVD+R or a DVD+RW medium into drive<p><b>%1 "
+        "%2 (%3)</b>."
+msgstr  "Introduïu un soport buit de DVD+R o DVD+RW a la unitat <p><b>%1 %2 "
+        "(%3)</b>."
+
+msgid   "Please insert an empty DVD-DL medium"
+msgstr  "Introduïu un soport buit de DVD-DL"
+
+msgid   "Please insert an empty DVD-DL medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport buit de DVD-DL a la unitat<p><b>%1</b>"
+
+msgid   "Please insert an empty medium"
+msgstr  "Introduïu un soport buit"
+
+msgid   "Please insert an empty medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport buit a la unitat<p><b>%1</b>"
+
+msgid   "Please insert an empty medium of size %1 or larger"
+msgstr  "Introduïu un soport buit de mida %1 o més gran"
+
+msgid   "Please insert an empty medium of size %1 or larger into "
+        "drive<p><b>%2</b>"
+msgstr  "Introduïu un soport buit de mida %1 o més gran a la unitat<p><b>%2</"
+        "b>"
+
+msgid   "Please insert an empty or appendable Blu-ray medium"
+msgstr  "Introduïu un soport buit o afegible de Blu-ray"
+
+msgid   "Please insert an empty or appendable Blu-ray medium into "
+        "drive<p><b>%1</b>"
+msgstr  "Introduïu un soport buit o afegible de Blu-ray a la unitat<p><b>%1</"
+        "b>"
+
+msgid   "Please insert an empty or appendable CD medium"
+msgstr  "Introduïu un soport buit o afegible de CD"
+
+msgid   "Please insert an empty or appendable CD medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport buit o afegible de CD a la unitat<p><b>%1</b>"
+
+msgid   "Please insert an empty or appendable DVD medium"
+msgstr  "Introduïu un soport buit o afegible de DVD"
+
+msgid   "Please insert an empty or appendable DVD medium into drive<p><b>%1</"
+        "b>"
+msgstr  "Introduïu un soport buit o afegible de DVD a la unitat<p><b>%1</b>"
+
+msgid   "Please insert an empty or appendable DVD or Blu-ray medium"
+msgstr  "Introduïu un soport buit o afegible de DVD o Blu-ray"
+
+msgid   "Please insert an empty or appendable DVD or Blu-ray medium into "
+        "drive<p><b>%1</b>"
+msgstr  "Introduïu un soport buit o afegible de DVD o Blu-ray a la "
+        "unitat<p><b>%1</b>"
+
+msgid   "Please insert an empty or appendable DVD-DL medium"
+msgstr  "Introduïu un soport buit o afegible de DVD-DL"
+
+msgid   "Please insert an empty or appendable DVD-DL medium into "
+        "drive<p><b>%1</b>"
+msgstr  "Introduïu un soport buit o afegible de DVD-DL a la unitat<p><b>%1</b>"
+
+msgid   "Please insert an empty or appendable medium"
+msgstr  "Introduïu un soport buit o afegible"
+
+msgid   "Please insert an empty or appendable medium into drive<p><b>%1</b>"
+msgstr  "Introduïu un soport buit o afegible a la unitat<p><b>%1</b>"
+
+msgid   "Please reload the medium and press 'OK'"
+msgstr  "Torneu a carregar el soport i premeu «Be»"
+
+msgid   "Please select a device:"
+msgstr  "Seleccioneu un dispositiu:"
+
+msgid   "Please select one manually in the device settings."
+msgstr  "Seleccioneu-ne un manualment en la configuració de dispositius."
+
+msgid   "Please send me an email with the last output."
+msgstr  "Envieu-me un correu electrònic amb l'última eixida."
+
+msgid   "Please try again with the 'ignore speed' setting."
+msgstr  "Torneu-ho a provar amb l'opció «ignora la velocitat»."
+
+msgid   "Please try again with writing mode DAO."
+msgstr  "Torneu-ho a intentar en modo d'escritura DAO."
+
+msgid   "Please try another brand of media, preferably one explicitly "
+        "recommended by your writer's vendor."
+msgstr  "Proveu amb un soport d'una atra marca, preferiblement una recomanada "
+        "explícitament pel fabricant de la vostra gravadora."
+
+msgid   "Power calibration successful"
+msgstr  "Calibratge correcte de la potència"
+
+msgid   "Preparing blanking process..."
+msgstr  "S'està preparant el procés d'esborrat..."
+
+msgid   "Preparing burn process..."
+msgstr  "S'està preparant el procés de gravació..."
+
+msgid   "Preparing copy process..."
+msgstr  "S'està preparant el procés de còpia..."
+
+msgid   "Preparing data"
+msgstr  "S'estan preparant les dades"
+
+msgid   "Preparing read process..."
+msgstr  "S'està preparant el procés de lectura..."
+
+msgid   "Preparing write process..."
+msgstr  "S'està preparant el procés d'escritura..."
+
+msgid   "Probably a buffer underrun occurred."
+msgstr  "Probablement s'ha produït un buidatge de la memòria intermèdia."
+
+msgid   "Probably a problem with the medium."
+msgstr  "Probablement és un problema amb el soport."
+
+msgid   "Probably this is lower than your writer's lowest writing speed."
+msgstr  "Probablement açò és més baix que la velocitat mínima de la vostra "
+        "gravadora."
+
+msgid   "Probably you chose a too large buffer size."
+msgstr  "Probablement heu triat una mida massa gran per a la memòria "
+        "intermèdia."
+
+msgid   "Problem while reading. Retrying from sector %1."
+msgstr  "Hi ha hagut un problema mentre es llegia. S'intentarà de nou des del "
+        "sector %1."
+
+msgid   "Querying CDDB"
+msgstr  "S'està consultant CDDB"
+
+msgid   "Quick Format"
+msgstr  "Format ràpid"
+
+msgid   "RAW recording not supported with this writer"
+msgstr  "L'escritura en brut no està permesa amb esta gravadora"
+
+msgid   "RLE"
+msgstr  "RLE"
+
+msgid   "Raw Audio CD Image"
+msgstr  "Image de CD d'àudio en cru"
+
+msgid   "Read error from file '%1'"
+msgstr  "S'ha produït un error de lectura al fitxer «%1»"
+
+msgid   "Readcd exited abnormally."
+msgstr  "«readcd» ha acabat de manera anormal."
+
+msgid   "Reading"
+msgstr  "S'està llegint"
+
+msgid   "Reading Session %1"
+msgstr  "S'està llegint la sessió %1"
+
+msgid   "Reading Source Medium"
+msgstr  "S'està llegint el soport d'origen"
+
+msgid   "Reading clone image"
+msgstr  "S'està llegint la image a clonar"
+
+msgid   "Reading source medium."
+msgstr  "S'està llegint el soport d'origen."
+
+msgid   "Reading successfully completed"
+msgstr  "La lectura ha finalisat correctament"
+
+msgid   "Reading track %1 of %2"
+msgstr  "S'està llegint la pista %1 de %2"
+
+msgid   "Reading with sector size %1."
+msgstr  "S'està llegint amb una mida de sector de %1."
+
+msgid   "Reloading of medium required"
+msgstr  "Cal tornar a carregar el soport"
+
+msgid   "Reloading the medium"
+msgstr  "S'està tornant a carregar el soport"
+
+msgid   "Remove image"
+msgstr  "Elimina la image"
+
+msgid   "Remove images from disk when finished"
+msgstr  "Elimina les imàgens del disc una vegada acabat"
+
+msgid   "Remove missing files and continue"
+msgstr  "Elimina els fitxers que falten i continua"
+
+msgid   "Removed image file %1"
+msgstr  "S'ha eliminat el fitxer d'image %1"
+
+msgid   "Removing Binary file %1"
+msgstr  "S'està eliminant el fitxer binari %1"
+
+msgid   "Removing Cue file %1"
+msgstr  "S'està eliminant el fitxer CUE %1"
+
+msgid   "Removing buffer files."
+msgstr  "S'estan eliminant els fitxers de la memòria intermèdia."
+
+msgid   "Removing image files."
+msgstr  "S'estan eliminant els fitxers d'image."
+
+msgid   "Removing incomplete video file '%1'"
+msgstr  "S'està eliminant el fitxer de vídeo incomplet «%1»"
+
+msgid   "Removing reference to lead-out."
+msgstr  "S'està eliminant la referència a la pista d'eixida."
+
+msgid   "Removing temporary files."
+msgstr  "S'estan eliminant els fitxers temporals."
+
+msgid   "Report the problem if it persists anyway."
+msgstr  "Informeu del problema si persisteix de totes maneres."
+
+msgid   "Resizing picture of title %1 to %2x%3"
+msgstr  "S'està redimensionant la image de la pista %1 a %2x%3"
+
+msgid   "Restricted Overwrite is not possible with DVD-R media."
+msgstr  "La sobreescritura restringida no és possible amb els soports de DVD-"
+        "R."
+
+msgid   "Retrieving all CSS keys. This might take a while."
+msgstr  "S'estan obtenint totes les claus CSS. Açò pot tardar una mica."
+
+msgid   "Retrying from sector %1."
+msgstr  "S'està tornant a provar des del sector %1."
+
+msgid   "SVCD"
+msgstr  "SVCD"
+
+msgid   "Scanning video file %1 of %2 (%3)"
+msgstr  "S'està explorant el fitxer de vídeo %1 de %2 (%3)"
+
+msgid   "Searching CD-Text"
+msgstr  "S'està buscant el CD-Text"
+
+msgid   "Searching for old session"
+msgstr  "S'està buscant la sessió antiga"
+
+msgid   "Searching previous session"
+msgstr  "S'està buscant la sessió anterior"
+
+msgid   "Sending CUE sheet"
+msgstr  "S'està enviant la llista CUE"
+
+msgid   "Set the paranoia level for reading audio CDs"
+msgstr  "Establix el nivell de paranoia a l'hora de llegir CD d'àudio"
+
+msgid   "Setting iso level to 3 to support files bigger than 4 GB."
+msgstr  "S'està canviant el nivell ISO a 3 per tal de permetre fitxers més "
+        "grans de 4 GB."
+
+msgid   "Shorten Filenames"
+msgstr  "Escurça els noms de fitxer"
+
+msgid   "Silence"
+msgstr  "Silenci"
+
+msgid   "Simulate"
+msgstr  "Simula"
+
+msgid   "Simulating"
+msgstr  "S'està simulant"
+
+msgid   "Simulating CD Cloning"
+msgstr  "S'està simulant la còpia exacta del CD"
+
+msgid   "Simulating CD Copy"
+msgstr  "S'està simulant la còpia del CD"
+
+msgid   "Simulating CD Copy On-The-Fly"
+msgstr  "S'està simulant la còpia del CD al vol"
+
+msgid   "Simulating Clone Image"
+msgstr  "S'està simulant la image exacta"
+
+msgid   "Simulating ISO 9660 Image"
+msgstr  "S'està simulant la image ISO 9660"
+
+msgid   "Simulating Session %1"
+msgstr  "S'està simulant la sessió %1"
+
+msgid   "Simulating clone copy"
+msgstr  "S'està simulant la còpia exacta"
+
+msgid   "Simulating copy"
+msgstr  "S'està simulant la còpia"
+
+msgid   "Simulating first session"
+msgstr  "S'està simulant la primera sessió"
+
+msgid   "Simulating second session"
+msgstr  "S'està simulant la segona sessió"
+
+msgid   "Simulation successfully completed"
+msgstr  "La simulació ha finalisat correctament"
+
+msgid   "Since kernel version 2.6.8 cdrecord cannot use SCSI transport when "
+        "running suid root anymore."
+msgstr  "Des de la versió 2.6.8 del nucli, «cdrecord» ya no pot utilisar més "
+        "el transport SCSI quan s'executa amb el SUID root."
+
+msgid   "Since kernel version 2.6.8 cdrskin cannot use SCSI transport when "
+        "running suid root anymore."
+msgstr  "Des de la versió 2.6.8 del nucli, «cdrskin» ya no pot utilisar més "
+        "el transport SCSI quan s'executa amb el SUID root."
+
+msgid   "Single-pass Encoding"
+msgstr  "Codificació en una passada"
+
+msgid   "Skip unreadable audio sectors"
+msgstr  "Omet els sectors d'àudio illegibles"
+
+msgid   "Some drives do not support all erase types."
+msgstr  "Algunes gravadores no permeten tots els tipus d'esborrat."
+
+msgid   "Some filenames need to be shortened due to the %1 char restriction "
+        "of the Joliet extensions. If the Joliet extensions are disabled "
+        "filenames do not have to be shortened but long filenames will not be "
+        "available on Windows systems."
+msgstr  "Alguns noms de fitxer s'han d'escurçar per la restricció de %1 "
+        "caràcters de les extensions Joliet. Si les extensions Joliet estan "
+        "desactivades, no cal escurçar-los, pero els noms de fitxer llargs no "
+        "estaran disponibles en sistemes Windows."
+
+msgid   "Sometimes using TAO writing mode solves this issue."
+msgstr  "A vegades, utilisar el modo d'escritura TAO soluciona este problema."
+
+msgid   "Sorry, no error handling yet."
+msgstr  "Ho sentim, encara no hi ha gestió d'errors."
+
+msgid   "Source"
+msgstr  "Origen"
+
+msgid   "Specified an unusable temporary path. Using default."
+msgstr  "S'ha especificat un camí temporal inusable. Es farà servir el camí "
+        "per defecte."
+
+msgid   "Start multisession CD"
+msgstr  "Comença un CD multisessió"
+
+msgid   "Starting %1 simulation at %2x speed..."
+msgstr  "S'està iniciant la simulació %1 a velocitat %2x..."
+
+msgid   "Starting %1 writing at %2x speed..."
+msgstr  "S'està iniciant l'escritura %1 a velocitat %2x..."
+
+msgid   "Starting DAO simulation at %1x speed..."
+msgstr  "S'està començant la simulació DAO a velocitat %1x..."
+
+msgid   "Starting DAO writing at %1x speed..."
+msgstr  "S'està començant l'escritura DAO a velocitat %1x..."
+
+msgid   "Starting blanking..."
+msgstr  "S'està començant a esborrar..."
+
+msgid   "Starting copy at %1x speed..."
+msgstr  "S'està començant la còpia a velocitat %1x..."
+
+msgid   "Starting disc write"
+msgstr  "S'està començant a escriure el disc"
+
+msgid   "Starting disc write..."
+msgstr  "S'està començant a escriure el disc..."
+
+msgid   "Starting reading..."
+msgstr  "S'està començant la lectura..."
+
+msgid   "Starting simulation at %1x speed..."
+msgstr  "S'està iniciant la simulació a velocitat %1x..."
+
+msgid   "Starting simulation copy at %1x speed..."
+msgstr  "S'està començant la simulació de la còpia a velocitat %1x..."
+
+msgid   "Starting simulation..."
+msgstr  "S'està començant la simulació..."
+
+msgid   "Starting writing at %1x speed..."
+msgstr  "S'està iniciant l'escritura a velocitat %1x..."
+
+msgid   "Still Picture"
+msgstr  "Image estàtica"
+
+msgid   "Successfully decoded all tracks."
+msgstr  "Totes les pistes s'han descodificat correctament."
+
+msgid   "Successfully normalized all tracks."
+msgstr  "Totes les pistes s'han normalisat correctament."
+
+msgid   "Successfully read disk."
+msgstr  "El disc s'ha llegit correctament."
+
+msgid   "Successfully read session %1."
+msgstr  "S'ha llegit la sessió %1 correctament."
+
+msgid   "Successfully read source disk."
+msgstr  "S'ha llegit el disc d'origen correctament."
+
+msgid   "Successfully read source medium."
+msgstr  "S'ha llegit correctament el soport d'origen."
+
+msgid   "Successfully written clone copy %1."
+msgstr  "S'ha escrit correctament la còpia exacta %1."
+
+msgid   "Successfully written copy %1."
+msgstr  "La còpia %1 s'ha escrit correctament."
+
+msgid   "Switching burn speed down to %1x"
+msgstr  "S'està reduint la velocitat de gravació a %1x"
+
+msgid   "Switching burn speed up to %1x"
+msgstr  "S'està augmentant la velocitat de gravació a %1x"
+
+msgid   "Switching down burn speed to %1x"
+msgstr  "S'està reduint la velocitat de gravació a %1x"
+
+msgid   "Target"
+msgstr  "Destinació"
+
+msgid   "The Joliet extensions (which are needed for long filenames on "
+        "Windows systems) restrict the length of the volume descriptor (the "
+        "name of the filesystem) to %1 characters. The selected descriptor "
+        "'%2' is longer than that. Do you want it to be cut or do you want to "
+        "go back and change it manually?"
+msgstr  "Les extensions Joliet (que són necessàries per als noms de fitxer "
+        "llargs en sistemes Windows) limiten la llargària del descriptor de "
+        "volum (el nom del sistema de fitxers) a %1 caràcters. El descriptor "
+        "seleccionat («%2») és massa llarg. Voleu retallar-lo o voleu tornar "
+        "enrere i canviar-lo manualment?"
+
+msgid   "The boot image contains multiple partitions."
+msgstr  "La image d'arrancada conté diverses particions."
+
+msgid   "The boot image has an invalid size."
+msgstr  "La image d'arrancada té una mida incorrecta."
+
+msgid   "The disk is either empty or not appendable."
+msgstr  "El disc està buit o be no és afegible."
+
+msgid   "The disk might still be readable."
+msgstr  "Pot ser que el disc encara es puga llegir."
+
+msgid   "The following files could not be found. Do you want to remove them "
+        "from the project and continue without adding them to the image?"
+msgstr  "Els fitxers següents no s'han pogut trobar. Voleu eliminar-los del "
+        "projecte i continuar sense afegir-los a la image?"
+
+msgid   "The formatting will continue in the background during writing."
+msgstr  "La formatació continuarà en segon terme durant l'escritura."
+
+msgid   "The project does not contain all necessary Video DVD files."
+msgstr  "El projecte no conté tots els fitxers de DVD de vídeo necessaris."
+
+msgid   "The remaining byte of the stream will be ignored."
+msgid_plural    "The remaining %1 bytes of the stream will be ignored."
+msgstr[0]       "El byte restant del flux serà ignorat."
+msgstr[1]       "Els %1 bytes restants del flux seran ignorats."
+
+msgid   "The resulting DVD will most likely not be playable on a Hifi DVD "
+        "player."
+msgstr  "El DVD resultant segurament no es podrà reproduir en un reproductor "
+        "de DVD d'alta fidelitat."
+
+msgid   "The source disk is empty."
+msgstr  "El disc d'origen està buit."
+
+msgid   "The writer does not support writing Double Layer DVDs."
+msgstr  "La gravadora no permet l'escritura de DVD de doble capa."
+
+msgid   "This error is caused by the low memorylocked resource limit."
+msgstr  "Est error és causat per un valor baix del recurs «memorylocked»."
+
+msgid   "This growisofs version does not support writing Double Layer DVDs."
+msgstr  "Esta versió de «growisofs» no permet l'escritura de DVD de doble "
+        "capa."
+
+msgctxt "This is the default volume identifier of a data project created by "
+        "K3b. The string should not be longer than 16 characters to avoid "
+        "warnings regarding Joiliet extensions which induce this restriction."
+msgid   "K3b data project"
+msgstr  "Projecte de dades de K3b"
+
+msgid   "This looks like a RIFF header but a plain multiplexed program stream "
+        "was required."
+msgstr  "Açò sembla una capçalera RIFF, pero es requeria un flux de programa "
+        "multiplexat."
+
+msgid   "This looks like an elementary audio stream but a multiplexed program "
+        "stream was required."
+msgstr  "Açò sembla un flux d'àudio elemental, pero es requeria un flux de "
+        "programa multiplexat."
+
+msgid   "This looks like an elementary video stream but a multiplexed program "
+        "stream was required."
+msgstr  "Açò sembla un flux de vídeo elemental, pero es requeria un flux de "
+        "programa multiplexat."
+
+msgid   "This may be caused by a system update which changed the local "
+        "character set."
+msgstr  "Açò pot ser per una actualisació del sistema que haja canviat el joc "
+        "de caràcters local."
+
+msgid   "This might result in a corrupt copy if the source was mastered with "
+        "buggy software."
+msgstr  "Açò pot provocar una còpia corrupta si l'origen va ser creat amb un "
+        "programa defectuós."
+
+msgctxt "To be shown when a Blu-ray is required but another type of medium is "
+        "inserted."
+msgid   "Blu-ray"
+msgstr  "Blu-ray"
+
+msgctxt "To be shown when a CD is required but another type of medium is "
+        "inserted."
+msgid   "CD"
+msgstr  "CD"
+
+msgctxt "To be shown when a DVD is required but another type of medium is "
+        "inserted."
+msgid   "DVD"
+msgstr  "DVD"
+
+msgctxt "To be shown when a DVD or Blu-ray is required but another type of "
+        "medium is inserted."
+msgid   "DVD or Blu-ray"
+msgstr  "DVD o Blu-ray"
+
+msgctxt "To be shown when a DVD-DL is required but another type of medium is "
+        "inserted."
+msgid   "DVD-DL"
+msgstr  "DVD-DL"
+
+msgctxt "To be shown when a specific type of medium is required but another "
+        "type of medium is inserted."
+msgid   "suitable medium"
+msgstr  "soport adequat"
+
+msgctxt "To be shown when an empty medium is required"
+msgid   "empty"
+msgstr  "buit"
+
+msgctxt "To be shown when an empty or appendable medium is required"
+msgid   "empty or appendable"
+msgstr  "buit o afegible"
+
+msgctxt "To be shown when an non-empty medium is required"
+msgid   "non-empty"
+msgstr  "no buit"
+
+msgctxt "To be shown when the state of the inserted medium is not suitable."
+msgid   "suitable"
+msgstr  "adequat"
+
+msgid   "To create Video CDs you have to install VcdImager version %1."
+msgstr  "Per a crear Vídeo CD heu d'instalar el VcdImager versió %1."
+
+msgid   "Track %1 from Audio CD %2"
+msgstr  "Pista %1 de l'àudio CD %2"
+
+msgid   "Track %1 is already normalized."
+msgstr  "La pista %1 ya està normalisada."
+
+msgid   "Track 1 of 1"
+msgstr  "Pista 1 d'1"
+
+msgid   "Track lengths below 4 seconds violate the Red Book standard."
+msgstr  "Les longituds de pista per davall dels 4 segons violen l'estàndard "
+        "«Red Book»."
+
+msgid   "Transcoding title %1 from Video DVD %2"
+msgstr  "S'està transcodificant la pista %1 del DVD de vídeo %2"
+
+msgid   "Try DAO writing mode."
+msgstr  "Proveu el modo d'escritura DAO."
+
+msgid   "Try adding '-use-the-force-luke=noopc' to the growisofs user "
+        "parameters in the K3b settings."
+msgstr  "Proveu d'afegir «-use-the-force-luke=noopc» als paràmetres d'usuari "
+        "de «growisofs» en la configuració de K3b."
+
+msgid   "Try again using 'Complete' erasing."
+msgstr  "Torneu-ho a provar fent servir l'esborrat «Complet»."
+
+msgid   "Trying to write more than the official disk capacity"
+msgstr  "S'està intentant escriure més enllà de la capacitat oficial del disc"
+
+msgid   "Turning BURN-Proof on"
+msgstr  "S'està activant «Burnproof»"
+
+msgid   "Two-pass Encoding: First Pass"
+msgstr  "Codificació en dues passades: primera passada"
+
+msgid   "Two-pass Encoding: Second Pass"
+msgstr  "Codificació en dues passades: segona passada"
+
+msgid   "Unable to allocate software buffer."
+msgstr  "No s'ha pogut reservar la memòria intermèdia per programari."
+
+msgid   "Unable to close the tray"
+msgstr  "No s'ha pogut tancar la safata"
+
+msgid   "Unable to create Invalid temporary folder <filename>%1</filename>."
+msgstr  "No s'ha pogut crear la carpeta temporal <filename>%1</filename>, no "
+        "és vàlida."
+
+msgid   "Unable to create folder '%1'"
+msgstr  "No s'ha pogut crear la carpeta «%1»"
+
+msgid   "Unable to create temporary folder '%1'."
+msgstr  "No s'ha pogut crear la carpeta temporal «%1»."
+
+msgid   "Unable to create temporary folder <filename>%1</filename>."
+msgstr  "No s'ha pogut crear la carpeta temporal <filename>%1</filename>."
+
+msgid   "Unable to determine free space in temporary folder '%1'."
+msgstr  "No s'ha pogut determinar l'espai lliure a la carpeta temporal «%1»."
+
+msgid   "Unable to determine maximum speed for some reason. Ignoring."
+msgstr  "No s'ha pogut determinar la velocitat màxima per alguna raó. "
+        "S'ignora."
+
+msgid   "Unable to determine media state."
+msgstr  "No s'ha pogut determinar l'estat del soport."
+
+msgid   "Unable to determine the ISO 9660 filesystem size."
+msgstr  "No s'ha pogut determinar la mida del sistema de fitxers ISO 9660."
+
+msgid   "Unable to determine the current formatting state of the DVD-RW "
+        "medium."
+msgstr  "No s'ha pogut determinar l'estat actual de formatació del soport DVD-"
+        "RW."
+
+msgid   "Unable to determine the last track's datamode. Using default."
+msgstr  "No s'ha pogut determinar el modo de dades de l'última pista. "
+        "s'utilisa el modo per defecte."
+
+msgid   "Unable to eject media."
+msgstr  "No s'ha pogut expulsar el soport."
+
+msgid   "Unable to eject medium."
+msgstr  "No s'ha pogut expulsar el soport."
+
+msgid   "Unable to fixate the disk."
+msgstr  "No s'ha pogut fixar el disc."
+
+msgid   "Unable to handle '%1' due to an unsupported format."
+msgstr  "No s'ha pogut gestionar «%1» a causa d'un format no admés."
+
+msgid   "Unable to link temporary file in folder <filename>%1</filename>."
+msgstr  "No s'ha pogut enllaçar el fitxer temporal a la carpeta <filename>%1</"
+        "filename>."
+
+msgid   "Unable to open '%1' for writing."
+msgstr  "No s'ha pogut obrir «%1» per a escritura."
+
+msgid   "Unable to open libdvdcss."
+msgstr  "No s'ha pogut obrir libdvdcss."
+
+msgid   "Unable to open new session."
+msgstr  "No s'ha pogut obrir una nova sessió."
+
+msgid   "Unable to read Table of contents"
+msgstr  "No s'ha pogut llegir la taula de continguts"
+
+msgid   "Unable to read track %1."
+msgstr  "No s'ha pogut llegir la pista %1."
+
+msgid   "Unable to send CUE sheet."
+msgstr  "No s'ha pogut enviar la llista CUE."
+
+msgid   "Unable to set write speed to %1."
+msgstr  "No s'ha pogut establir la velocitat d'escritura a %1."
+
+msgid   "Unable to set writing speed."
+msgstr  "No s'ha pogut establir la velocitat d'escritura."
+
+msgid   "Unable to write on-the-fly with these audio sources."
+msgstr  "No es pot escriure al vol amb estos orígens d'àudio."
+
+msgid   "Uncorrected error in sector %1"
+msgstr  "Error sense corregir al sector %1"
+
+msgid   "Unlocking drive..."
+msgstr  "S'està desbloquejant la unitat..."
+
+msgid   "Unmounting medium"
+msgstr  "S'està desmuntant el soport"
+
+msgid   "Unmounting source medium"
+msgstr  "S'està desmuntant el soport d'origen"
+
+msgid   "Unrecoverable error while ripping track %1."
+msgstr  "Error irrecuperable mentre s'extreia la pista %1."
+
+msgid   "Unspecified"
+msgstr  "Sense especificar"
+
+msgid   "Unsupported media type."
+msgstr  "Tipus de soport no acceptat."
+
+msgid   "Unsupported media type: %1"
+msgstr  "Tipus de soport no acceptat: %1"
+
+msgid   "Unsupported sector type."
+msgstr  "Tipus de sector no acceptat."
+
+msgid   "Updating RMA"
+msgstr  "S'està actualisant el RMA"
+
+msgid   "Updating RMA..."
+msgstr  "S'està actualisant el RMA..."
+
+msgid   "Use Burnfree"
+msgstr  "Fes servir «Burnfree»"
+
+msgid   "Use CD-Text data"
+msgstr  "Fes servir les dades CD-Text"
+
+msgid   "Use CDDB entry"
+msgstr  "Fes servir l'entrada CDDB"
+
+msgid   "Use the 'force unsafe operations' option to ignore this."
+msgstr  "Feu servir l'opció «força les operacions insegures» per a ignorar "
+        "açò."
+
+msgid   "Use this setting to preserve 5.1 channel sound from the DVD."
+msgstr  "Feu servir esta opció per a conservar el so 5.1 del DVD."
+
+msgid   "Used version of mkisofs does not have large file support."
+msgstr  "La versió emprada de «mkisofs» no permet utilisar fitxers grans."
+
+msgid   "Using %1 %2 – Copyright © %3"
+msgstr  "S'està fent servir %1 %2 – Copyright © %3"
+
+msgid   "Using readcd %1 instead of default version for clone support."
+msgstr  "S'està fent servir «readcd» versió %1 en comptes de la versió per "
+        "defecte per tal de permetre fer còpies exactes."
+
+msgid   "Using temporary folder %1."
+msgstr  "S'està fent servir la carpeta temporal %1."
+
+msgid   "VCD"
+msgstr  "VCD"
+
+msgid   "Verify written data"
+msgstr  "Verifica les dades escrites"
+
+msgid   "Verifying copy"
+msgstr  "S'està verificant la còpia"
+
+msgid   "Verifying copy %1"
+msgstr  "S'està verificant la còpia %1"
+
+msgid   "Verifying track %1"
+msgstr  "S'està verificant la pista %1"
+
+msgid   "Verifying written copy %1 of %2"
+msgstr  "S'està verificant la còpia escrita %1 de %2"
+
+msgid   "Verifying written data"
+msgstr  "S'estan verificant les dades escrites"
+
+msgid   "Video CD"
+msgstr  "CD de vídeo"
+
+msgid   "Video DVD"
+msgstr  "DVD de vídeo"
+
+msgid   "Video DVD decryption failed."
+msgstr  "La desencriptació del DVD de vídeo ha fallat."
+
+msgid   "Waiting for a medium"
+msgstr  "S'està esperant un soport"
+
+msgid   "Waiting for media"
+msgstr  "S'està esperant el soport"
+
+msgid   "Waiting for medium"
+msgstr  "S'està esperant el soport"
+
+msgid   "Waiting for source medium"
+msgstr  "S'està esperant el soport d'origen"
+
+msgid   "Warning"
+msgstr  "Avís"
+
+msgid   "Warning at exit: (1)"
+msgstr  "Avís en eixir: (1)"
+
+msgid   "When erasing a CD-RW no progress information is available."
+msgstr  "Quan s'esborra un CD-RW, no es disposa de cap informació de progrés."
+
+msgid   "With this setting K3b will create a two-channel stereo Dolby Digital "
+        "audio stream."
+msgstr  "Amb esta opció, K3b crearà un flux d'àudio Dolby Digital estèreo de "
+        "dos canals."
+
+msgid   "With this setting K3b will create a two-channel stereo MPEG1 Layer "
+        "III audio stream."
+msgstr  "Amb esta opció, K3b crearà un flux d'àudio MPEG1 Layer III estèreo "
+        "de dos canals."
+
+msgid   "With this setting K3b will use the Dolby Digital audio stream from "
+        "the source DVD without changing it."
+msgstr  "Amb esta opció, K3b farà servir el flux d'àudio Dolby Digital del "
+        "DVD d'origen sense canviar-lo."
+
+msgid   "Write Binary Image"
+msgstr  "Escriu image binària"
+
+msgid   "Write CD-Text"
+msgstr  "Escriu CD-Text"
+
+msgid   "Write error"
+msgstr  "S'ha produït un error d'escritura"
+
+msgid   "Write files directly to CD/DVD without creating an image"
+msgstr  "Escriu els fitxers directament al CD/DVD sense crear cap image"
+
+msgid   "Write in disk at once mode"
+msgstr  "Escriu el disc en modo «tot el disc alhora»"
+
+msgid   "Writer does not support buffer underrun free recording (Burnfree)"
+msgstr  "La gravadora no permet la gravació a prova de buidatges de la "
+        "memòria intermèdia («Burnfree»)"
+
+msgid   "Writer does not support disk at once (DAO) recording"
+msgstr  "La gravadora no permet la gravació en modo tot el disc alhora (DAO)"
+
+msgid   "Writer does not support raw writing."
+msgstr  "La gravadora no permet l'escritura en brut."
+
+msgid   "Writing"
+msgstr  "S'està gravant"
+
+msgid   "Writing %1"
+msgstr  "S'està gravant %1"
+
+msgid   "Writing %1 in DAO mode."
+msgstr  "S'està gravant %1 en modo DAO."
+
+msgid   "Writing %1 in incremental mode."
+msgstr  "S'està gravant %1 en modo incremental."
+
+msgid   "Writing %1."
+msgstr  "S'està gravant %1."
+
+msgid   "Writing Audio CD"
+msgstr  "S'està gravant el CD d'àudio"
+
+msgid   "Writing Audio Cue File"
+msgstr  "S'està gravant el fitxer CUE d'àudio"
+
+msgid   "Writing BD copy"
+msgstr  "S'està gravant la còpia del BD"
+
+msgid   "Writing CD in Raw mode."
+msgstr  "S'està gravant el CD en modo cru."
+
+msgid   "Writing CD in Session At Once mode."
+msgstr  "S'està gravant el CD en modo SAO."
+
+msgid   "Writing CD in Track At Once mode."
+msgstr  "S'està gravant el CD en modo TAO."
+
+msgid   "Writing CD-Text lead-in..."
+msgstr  "S'està gravant la pista d'entrada del CD-Text..."
+
+msgid   "Writing Copy"
+msgstr  "S'està gravant la còpia"
+
+msgid   "Writing Copy %1"
+msgstr  "S'està gravant la còpia %1"
+
+msgid   "Writing Copy %1 (Session %2)"
+msgstr  "S'està gravant la còpia %1 (sessió %2)"
+
+msgid   "Writing Copy %1 of %2"
+msgstr  "S'està gravant la còpia %1 de %2"
+
+msgid   "Writing Copy (Session %1)"
+msgstr  "S'està gravant la còpia (sessió %1)"
+
+msgid   "Writing DVD copy"
+msgstr  "S'està gravant la còpia del DVD"
+
+msgid   "Writing DVD-RW in DAO mode."
+msgstr  "S'està gravant el DVD-RW en modo DAO."
+
+msgid   "Writing DVD-RW in incremental mode."
+msgstr  "S'està gravant el DVD-RW en modo incremental."
+
+msgid   "Writing DVD-RW in restricted overwrite mode."
+msgstr  "S'està gravant el DVD-RW en modo de sobreescritura restringida."
+
+msgid   "Writing Data Project"
+msgstr  "S'està gravant el projecte de dades"
+
+msgid   "Writing Double Layer DVD+R."
+msgstr  "S'està gravant el DVD+R de doble capa."
+
+msgid   "Writing Enhanced Audio CD"
+msgstr  "S'està gravant el CD d'àudio millorat"
+
+msgid   "Writing High-Quality Video CD"
+msgstr  "S'està gravant el Vídeo CD d'alta qualitat"
+
+msgid   "Writing Lead-out"
+msgstr  "S'està gravant la pista d'eixida"
+
+msgid   "Writing Leadin"
+msgstr  "S'està gravant la pista d'entrada"
+
+msgid   "Writing Leadout"
+msgstr  "S'està gravant la pista d'eixida"
+
+msgid   "Writing Mixed Mode CD"
+msgstr  "S'està gravant el CD en modo mixt"
+
+msgid   "Writing Multisession Project"
+msgstr  "S'està gravant el projecte multisessió"
+
+msgid   "Writing Super Video CD"
+msgstr  "S'està gravant el Súper Vídeo CD"
+
+msgid   "Writing Track %1 of %2"
+msgstr  "S'està gravant la pista %1 de %2"
+
+msgid   "Writing Video CD"
+msgstr  "S'està gravant el Vídeo CD"
+
+msgid   "Writing Video CD (Version 1.1)"
+msgstr  "S'està gravant el Vídeo CD (versió 1.1)"
+
+msgid   "Writing Video CD (Version 2.0)"
+msgstr  "S'està gravant el Vídeo CD (versió 2.0)"
+
+msgid   "Writing Video DVD"
+msgstr  "S'està gravant el DVD de vídeo"
+
+msgid   "Writing canceled."
+msgstr  "S'ha cancelat l'escritura."
+
+msgid   "Writing clone copy %1"
+msgstr  "S'està gravant la còpia exacta %1"
+
+msgid   "Writing copy"
+msgstr  "S'està gravant la còpia"
+
+msgid   "Writing copy %1"
+msgstr  "S'està gravant la còpia %1"
+
+msgid   "Writing copy %1 of %2"
+msgstr  "S'està gravant la còpia %1 de %2"
+
+msgid   "Writing cue/bin Image"
+msgstr  "S'està gravant la image CUE/BIN"
+
+msgid   "Writing data"
+msgstr  "S'estan gravant les dades"
+
+msgid   "Writing eMovix Project"
+msgstr  "S'està gravant el projecte eMovix"
+
+msgid   "Writing eMovix Project (%1)"
+msgstr  "S'està gravant el projecte eMovix (%1)"
+
+msgid   "Writing first session"
+msgstr  "S'està gravant la primera sessió"
+
+msgid   "Writing first session of copy %1"
+msgstr  "S'està gravant la primera sessió de la còpia %1"
+
+msgid   "Writing image"
+msgstr  "S'està gravant la image"
+
+msgid   "Writing image file to %1."
+msgstr  "S'està gravant el fitxer d'image a %1."
+
+msgid   "Writing image to %1."
+msgstr  "S'està gravant la image a %1."
+
+msgid   "Writing leadin"
+msgstr  "S'està escrivint la pista d'entrada"
+
+msgid   "Writing leadout"
+msgstr  "S'està escrivint la pista d'eixida"
+
+msgid   "Writing mode Incremental Streaming not available"
+msgstr  "El modo d'escritura de flux incremental no està disponible"
+
+msgid   "Writing mode ignored when writing %1 media."
+msgstr  "El modo d'escritura s'ignora quan s'escriuen soports %1."
+
+msgid   "Writing mode ignored when writing DVD+R(W) media."
+msgstr  "El modo d'escritura s'ignora quan s'escriuen soports de DVD+R(W)."
+
+msgid   "Writing pregap"
+msgstr  "S'està gravant el preinterval"
+
+msgid   "Writing rewritable CD in Raw mode."
+msgstr  "S'està gravant el CD regravable en modo cru."
+
+msgid   "Writing rewritable CD in Session At Once mode."
+msgstr  "S'està gravant el CD regravable en modo SAO."
+
+msgid   "Writing rewritable CD in Track At Once mode."
+msgstr  "S'està gravant el CD regravable en modo TAO."
+
+msgid   "Writing second session"
+msgstr  "S'està gravant la segona sessió"
+
+msgid   "Writing second session of copy %1"
+msgstr  "S'està gravant la segona sessió de la còpia %1"
+
+msgid   "Writing speed: %1 KB/s (%2x)"
+msgstr  "Velocitat d'escritura: %1 kB/s (%2x)"
+
+msgid   "Writing successfully completed"
+msgstr  "L'escritura ha finalisat correctament"
+
+msgid   "Writing the lead-out may take some time."
+msgstr  "Escriure la pista d'eixida pot tardar una mica."
+
+msgid   "Writing track %1 of %2"
+msgstr  "S'està gravant la pista %1 de %2"
+
+msgid   "Writing track %1 of %2 (%3)"
+msgstr  "S'està gravant la pista %1 de %2 (%3)"
+
+msgid   "Writing track %1 of %2%3"
+msgstr  "S'està gravant la pista %1 de %2%3"
+
+msgid   "Written data in track %1 differs from original."
+msgstr  "Les dades escrites a la pista %1 difereixen de les originals."
+
+msgid   "Written data verified."
+msgstr  "Les dades escrites han estat verificades."
+
+msgid   "Wrong File Format"
+msgstr  "Format de fitxer incorrecte"
+
+msgid   "Wrong File Type for This Project"
+msgstr  "Tipus de fitxer incorrecte per a este projecte"
+
+msgid   "XviD"
+msgstr  "XviD"
+
+msgid   "XviD features MPEG-4 Advanced Profile settings such as b-frames, "
+        "global and quarter pixel motion compensation, lumi masking, trellis "
+        "quantization, and H.263, MPEG and custom quantization matrices."
+msgstr  "XviD implementa configuracions MPEG-4 de perfil avançat, com ara "
+        "fotogrames bidireccionals, compensació del moviment global i Qpel, "
+        "emmascarament de luminància, quantificació Trellis, i matrius de "
+        "quantificació H.263, MPEG, i personalisades."
+
+msgid   "XviD is a free and open source MPEG-4 video codec. XviD was created "
+        "by a group of volunteer programmers after the OpenDivX source was "
+        "closed in July 2001."
+msgstr  "XviD és un còdec de vídeo MPEG-4 lliure i de codi obert. XviD va ser "
+        "creat per un grup de programadors voluntaris després que el codi de "
+        "l'OpenDivX fou tancat el juliol de 2001."
+
+msgid   "XviD is a primary competitor of DivX (XviD being DivX spelled "
+        "backwards). While DivX is closed source and may only run on Windows, "
+        "Mac OS and Linux, XviD is open source and can potentially run on any "
+        "platform."
+msgstr  "XviD és el competidor principal del DivX (XviD és DivX a l'inrevés). "
+        "Mentre que el DivX és propietari i només s'executa en Windows, Mac "
+        "OS i Linux, XviD és de codi obert i pot executar-se a qualsevol "
+        "plataforma."
+
+msgid   "You can find this on your distribution disks or download it from "
+        "https://www.gnu.org/software/vcdimager"
+msgstr  "El trobareu als discs de la vostra distribució o baixar-lo des de "
+        "https://www.gnu.org/software/vcdimager"
+
+msgid   "You cannot mix MPEG1 and MPEG2 video files.\n"
+        "Please start a new Project for this filetype.\n"
+        "Resample not implemented in K3b yet."
+msgstr  "No podeu barrejar fitxers de vídeo MPEG1 i MPEG2.\n"
+        "Comenceu un projecte nou per a este tipus de fitxer.\n"
+        "K3b encara no té implementada la capacitat de tornar a mostrejar."
+
+msgid   "You may use K3b::Setup to solve this problem or remove the suid bit "
+        "manually."
+msgstr  "Podeu utilisar K3b::Setup per a resoldre este problema, o eliminar "
+        "el bit de SUID manualment."
+
+msgid   "You may use convmv (https://j3e.de/linux/convmv/) to fix the "
+        "filename encoding."
+msgstr  "Podeu utilisar «convmv» (https://j3e.de/linux/convmv/) per a "
+        "corregir la codificació del nom de fitxer."
+
+msgid   "You will only be able to copy the first session in raw writing mode. "
+        "Continue anyway?"
+msgstr  "Només podreu copiar la primera sessió en modo d'escritura en brut. "
+        "Voleu continuar de totes maneres?"
+
+msgid   "Your writer (%1 %2) does not support Incremental Streaming with %3 "
+        "media. Multisession will not be possible. Continue anyway?"
+msgstr  "La vostra gravadora (%1 %2) no admet el flux incremental amb el "
+        "soport %3. La multisessió no serà possible. Voleu continuar de totes "
+        "maneres?"
+
+msgid   "Your writer (%1 %2) does not support simulation with DVD-R(W) media. "
+        "Do you really want to continue? The media will actually be written "
+        "to."
+msgstr  "La vostra gravadora (%1 %2) no permet la simulació amb soports de "
+        "DVD-R(W). Segur que voleu continuar? El soport serà escrit realment."
+
+msgid   "default"
+msgstr  "per defecte"
+
+msgid   "dual channel"
+msgstr  "canal dual"
+
+msgid   "duplicate"
+msgstr  "duplicat"
+
+msgid   "invalid"
+msgstr  "no vàlit"
+
+msgid   "joint stereo"
+msgstr  "estèreo unit"
+
+msgid   "n/a"
+msgstr  "No disponible"
+
+msgid   "no tracks added"
+msgstr  "no s'ha afegit cap pista"
+
+msgid   "none"
+msgstr  "cap"
+
+msgid   "original"
+msgstr  "original"
+
+msgctxt "plugin type"
+msgid   "Audio Decoder"
+msgstr  "Descodificador d'àudio"
+
+msgctxt "plugin type"
+msgid   "Audio Encoder"
+msgstr  "Codificador d'àudio"
+
+msgctxt "plugin type"
+msgid   "Project plugin"
+msgstr  "Conector de projecte"
+
+msgid   "rewritable medium"
+msgstr  "soport regravable"
+
+msgid   "single channel"
+msgstr  "un sol canal"
+
+msgid   "specified track number '%1' not found on medium"
+msgstr  "no s'ha trobat la pista especificada «%1» en el soport"
+
+msgid   "stereo"
+msgstr  "estèreo"
+
+msgid   "surround sound"
+msgstr  "so surround"
+
+msgid   "unknown"
+msgstr  "desconegut"
+
+msgid   "unknown audio code extension"
+msgstr  "extensió del codi d'àudio desconeguda"
+
+msgid   "unknown audio format"
+msgstr  "format d'àudio desconegut"
+
+msgid   "unknown code extension"
+msgstr  "extensió de codi desconeguda"
+
+msgid   "unknown coding mode"
+msgstr  "modo de codificació desconegut"

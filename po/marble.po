@@ -1,0 +1,739 @@
+msgid   ""
+msgstr  "Project-Id-Version: marble\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2021-11-03 17:33+0100\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Lokalize 20.12.0\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+
+msgid   "&Bookmarks"
+msgstr  "&Adreces d'interés"
+
+msgid   "&Edit"
+msgstr  "&Edita"
+
+msgid   "&File"
+msgstr  "&Fitxer"
+
+msgid   "&Info Boxes"
+msgstr  "&Ròtuls informatius"
+
+msgid   "&Online Services"
+msgstr  "Serveis en &llínea"
+
+msgid   "&Panels"
+msgstr  "&Quadros"
+
+msgid   "&Record Movie"
+msgstr  "En&registra una película"
+
+msgid   "&Set Home Location"
+msgstr  "E&stablix l'emplaçament de casa"
+
+msgid   "&Settings"
+msgstr  "&Configuració"
+
+msgid   "&Stop Recording"
+msgstr  "Para l'enregi&strament"
+
+msgid   "&View"
+msgstr  "&Visualisa"
+
+msgid   "&View Size"
+msgstr  "Mida de la &vista"
+
+msgid   "(c) 2007-%1"
+msgstr  "(c) 2007-%1"
+
+msgctxt "@title:window"
+msgid   "Export Map"
+msgstr  "Exporta el mapa"
+
+msgctxt "@title:window"
+msgid   "Open File"
+msgstr  "Obri un fitxer"
+
+msgid   "A Virtual Globe"
+msgstr  "Un globus terraqüi virtual"
+
+msgid   "A World Atlas."
+msgstr  "Un atles del món."
+
+msgid   "APRS Plugin"
+msgstr  "Conector d'APRS"
+
+msgctxt "Action for copying the coordinates to the clipboard"
+msgid   "C&opy Coordinates"
+msgstr  "C&opia les coordenades"
+
+msgctxt "Action for copying the map to the clipboard"
+msgid   "&Copy Map"
+msgstr  "&Copia el mapa"
+
+msgctxt "Action for creating new maps"
+msgid   "&Create a New Map..."
+msgstr  "&Crea un mapa nou..."
+
+msgctxt "Action for downloading an entire region of a map"
+msgid   "Download Region..."
+msgstr  "Descarrega una regió..."
+
+msgctxt "Action for downloading maps (GHNS)"
+msgid   "Download Maps..."
+msgstr  "Descarrega els mapes..."
+
+msgctxt "Action for locking float items on the map"
+msgid   "Lock Position"
+msgstr  "Fixa la posició"
+
+msgctxt "Action for opening a file"
+msgid   "&Open..."
+msgstr  "&Obri..."
+
+msgctxt "Action for saving the map to a file"
+msgid   "&Export Map..."
+msgstr  "&Exporta el mapa..."
+
+msgctxt "Action for sun control dialog"
+msgid   "S&un Control..."
+msgstr  "Control del &sol..."
+
+msgctxt "Action for time control dialog"
+msgid   "&Time Control..."
+msgstr  "Control del &temps..."
+
+msgctxt "Action for toggling"
+msgid   "Show Altitude"
+msgstr  "Mostra l'altitud"
+
+msgctxt "Action for toggling"
+msgid   "Show Date and Time"
+msgstr  "Mostra la data i hora"
+
+msgctxt "Action for toggling"
+msgid   "Show Download Progress Bar"
+msgstr  "Mostra la barra de progrés de les baixades"
+
+msgctxt "Action for toggling"
+msgid   "Show Position"
+msgstr  "Mostra la posició"
+
+msgctxt "Action for toggling"
+msgid   "Show Tile Zoom Level"
+msgstr  "Mostra el nivell de zoom del mosaic"
+
+msgctxt "Action for toggling clouds"
+msgid   "&Clouds"
+msgstr  "&Núvols"
+
+msgctxt "Action for toggling offline mode"
+msgid   "&Work Offline"
+msgstr  "&Treballa desconnectat"
+
+msgctxt "Add Bookmark"
+msgid   "Add &Bookmark..."
+msgstr  "&Afig una adreça d'interés..."
+
+msgid   "Albert Astals Cid"
+msgstr  "Albert Astals Cid"
+
+msgid   "All Supported Files"
+msgstr  "Tots els fitxers admesos"
+
+msgid   "Altitude: %1"
+msgstr  "Altitud: %1"
+
+msgid   "An error occurred while trying to save the file.\n"
+msgstr  "S'ha produït un error en intentar guardar el fitxer.\n"
+
+msgid   "Andrew Manson"
+msgstr  "Andrew Manson"
+
+msgid   "Anne-Marie Mahfouf"
+msgstr  "Anne-Marie Mahfouf"
+
+msgctxt "Application name"
+msgid   "Marble"
+msgstr  "Marble"
+
+msgid   "Artwork"
+msgstr  "Grafisme"
+
+msgid   "Astronomical Observatories"
+msgstr  "Observatoris astronòmics"
+
+msgid   "Bastian Holst"
+msgstr  "Bastian Holst"
+
+msgid   "Benoit Sigoure"
+msgstr  "Benoit Sigoure"
+
+msgid   "Bernhard Beschow"
+msgstr  "Bernhard Beschow"
+
+msgid   "Bugfixes"
+msgstr  "Esmena d'errors"
+
+msgid   "Cache & Proxy"
+msgstr  "Cau i Intermediari"
+
+msgid   "Cache for tiles reserved in the physical memory."
+msgstr  "Memòria cau per al mosaic reservada en la memòria física."
+
+msgid   "Carlos Licea"
+msgstr  "Carlos Licea"
+
+msgid   "Chitlesh Goorah"
+msgstr  "Chitlesh Goorah"
+
+msgid   "Christian Ehrlicher"
+msgstr  "Christian Ehrlicher"
+
+msgid   "Christophe Leske"
+msgstr  "Christophe Leske"
+
+msgid   "Claudiu Covaci"
+msgstr  "Claudiu Covaci"
+
+msgid   "Core Developer and Co-Maintainer"
+msgstr  "Desenvolupador principal i comantenidor"
+
+msgid   "Core Developer: KML and Windows support"
+msgstr  "Desenvolupador principal: Implementació de KML i Windows"
+
+msgid   "Core Developer: Marble Runners, World-Clock Plasmoid"
+msgstr  "Desenvolupador principal: Marble Runners, plasmoide World-Clock"
+
+msgid   "Daniel Marth"
+msgstr  "Daniel Marth"
+
+msgid   "Daniel Molkentin"
+msgstr  "Daniel Molkentin"
+
+msgid   "Date & Time"
+msgstr  "Data i hora"
+
+msgid   "David Roberts"
+msgstr  "David Roberts"
+
+msgid   "Dennis Nienhüser"
+msgstr  "Dennis Nienhüser"
+
+msgid   "Developer and Original Author"
+msgstr  "Desenvolupador i autor original"
+
+msgid   "Development & Patches"
+msgstr  "Desenvolupament i pedaços"
+
+msgid   "Display OSM placemarks according to the level selected"
+msgstr  "Mostra les marques de llocs de l'OSM segons el nivell seleccionat"
+
+msgid   "Display animation on voyage to target."
+msgstr  "Anima el desplaçament fins a l'objectiu."
+
+msgid   "Do not use the interface optimized for high resolutions"
+msgstr  "No utilises la interfície optimisada per a resolucions altes"
+
+msgid   "Do not use the interface optimized for small screens"
+msgstr  "No utilises la interfície optimisada per a pantalles xicotetes"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "orestes@tsc.upc.edu,joanmaspons@gmail.com"
+
+msgid   "ESA Summer of Code in Space 2011 Project: Visualization of Satellite "
+        "Orbits"
+msgstr  "Projecte ESA Summer of Code in Space 2011: Visualisació de les "
+        "òrbites dels satèlits"
+
+msgid   "ESA Summer of Code in Space 2012 Project: Visualization of planetary "
+        "satellites"
+msgstr  "Projecte ESA Summer of Code in Space 2012: Visualisació dels "
+        "satèlits planetaris"
+
+msgid   "Eckhart Wörner"
+msgstr  "Eckhart Wörner"
+
+msgid   "Edit Toolbar"
+msgstr  "Barra d'eines d'edició"
+
+msgctxt "Edit the map in an external application"
+msgid   "&Edit Map..."
+msgstr  "&Edita el mapa..."
+
+msgid   "Elevation Profile"
+msgstr  "Perfil de desnivell"
+
+msgid   "Enable debug output"
+msgstr  "Activa l'eixida de depuració"
+
+msgid   "File not accessible"
+msgstr  "El fitxer no accessible"
+
+msgid   "File not readable"
+msgstr  "El fitxer no es pot llegir"
+
+msgid   "Florian E&szlig;er"
+msgstr  "Florian E&szlig;er"
+
+msgid   "Frederik Gladhorn"
+msgstr  "Frederik Gladhorn"
+
+msgid   "Fredrik Höglund"
+msgstr  "Fredrik Höglund"
+
+msgid   "Frerich Raabe"
+msgstr  "Frerich Raabe"
+
+msgid   "Friedrich W. H. Kossebau"
+msgstr  "Friedrich W. H. Kossebau"
+
+msgid   "Gaurav Gupta"
+msgstr  "Gaurav Gupta"
+
+msgid   "Geodata"
+msgstr  "Geodata"
+
+msgid   "Google Summer of Code 2007 Project: Equirectangular Projection "
+        "(\"Flat Map\")"
+msgstr  "Projecte Google Summer of Code 2007: Projecció cilíndrica "
+        "equidistant («Mapa pla»)"
+
+msgid   "Google Summer of Code 2007 Project: GPS Support for Marble"
+msgstr  "Projecte Google Summer of Code 2007: Implementació GPS en Marble"
+
+msgid   "Google Summer of Code 2007 Project: KML Support for Marble"
+msgstr  "Projecte Google Summer of Code 2007: Implementació del KML en Marble"
+
+msgid   "Google Summer of Code 2008 Project: Panoramio / Wikipedia -photo "
+        "support for Marble"
+msgstr  "Projecte Google Summer of Code 2008: Implementació de les "
+        "fotografies de Panoramio / Viquipèdia a Marble"
+
+msgid   "Google Summer of Code 2008 Project: Vector Tiles for Marble"
+msgstr  "Projecte Google Summer of Code 2008: Mosaic vectorial per a Marble"
+
+msgid   "Google Summer of Code 2009 Project: OSM Annotation"
+msgstr  "Projecte Google Summer of Code 2009: Anotació d'OSM"
+
+msgid   "Google Summer of Code 2009 Project: Online Services"
+msgstr  "Projecte Google Summer of Code 2009: Serveis en llínea"
+
+msgid   "Google Summer of Code 2010 Project: Bookmarks"
+msgstr  "Projecte Google Summer of Code 2010: Adreces d'interés"
+
+msgid   "Google Summer of Code 2010 Project: Time Support"
+msgstr  "Projecte Google Summer of Code 2010: Implementació del temps"
+
+msgid   "Google Summer of Code 2010 Project: Turn-by-turn Navigation"
+msgstr  "Projecte Google Summer of Code 2010: Navegació guiada"
+
+msgid   "Google Summer of Code 2011 Project: Marble Touch on MeeGo"
+msgstr  "Projecte Google Summer of Code 2011: Marble Touch al MeeGo"
+
+msgid   "Google Summer of Code 2011 Project: OpenStreetMap Vector Rendering"
+msgstr  "Projecte Google Summer of Code 2011: Renderisació vectorial "
+        "d'OpenStreetMap"
+
+msgid   "Guillaume Martres"
+msgstr  "Guillaume Martres"
+
+msgid   "Harshit Jain"
+msgstr  "Harshit Jain"
+
+msgid   "Harshit Jain "
+msgstr  "Harshit Jain "
+
+msgid   "Henry de Valence"
+msgstr  "Henry de Valence"
+
+msgid   "Hide Shadow"
+msgstr  "Oculta l'ombra"
+
+msgid   "Hide sun icon on the Sub-Solar Point"
+msgstr  "Oculta la icona del sol en el punt subsolar"
+
+msgid   "Historical Maps"
+msgstr  "Mapes històrics"
+
+msgid   "Images *.jpg *.png"
+msgstr  "Imàgens *.jpg *.png"
+
+msgid   "Inge Wallin"
+msgstr  "Inge Wallin"
+
+msgid   "Jan Becker"
+msgstr  "Jan Becker"
+
+msgid   "Jens-Michael Hoffmann"
+msgstr  "Jens-Michael Hoffmann"
+
+msgid   "John Layt"
+msgstr  "John Layt"
+
+msgid   "Josef Spillner"
+msgstr  "Josef Spillner"
+
+msgid   "Joseph Wenninger"
+msgstr  "Joseph Wenninger"
+
+msgid   "Konstantin Oblaukhov"
+msgstr  "Konstantin Oblaukhov"
+
+msgid   "Kris Thomsen"
+msgstr  "Kris Thomsen"
+
+msgid   "Laurent Montel"
+msgstr  "Laurent Montel"
+
+msgid   "Lock Globe to the Sub-Solar Point"
+msgstr  "Bloqueja el globus en el Punt Subsolar"
+
+msgid   "Lock globe to the sub-solar point"
+msgstr  "Bloqueja el globus en el punt subsolar"
+
+msgid   "Lubos Petrovic"
+msgstr  "Lubos Petrovic"
+
+msgid   "Luis Silva"
+msgstr  "Luis Silva"
+
+msgid   "Magnus Valle"
+msgstr  "Magnus Valle"
+
+msgid   "Main Toolbar"
+msgstr  "Barra d'eines principal"
+
+msgid   "Make a time measurement to check performance"
+msgstr  "Fa una mesura de temps per a comprovar el rendiment"
+
+msgctxt "Manage Bookmarks"
+msgid   "&Manage Bookmarks..."
+msgstr  "&Gestiona les adreces d'interés..."
+
+msgid   "Marble Python Bindings"
+msgstr  "Lligams Python de Marble"
+
+msgid   "Marble Virtual Globe"
+msgstr  "El globus terraqüi virtual Marble"
+
+msgid   "Marcus Czeslinski"
+msgstr  "Marcus Czeslinski"
+
+msgid   "Marcus D. Hanwell"
+msgstr  "Marcus D. Hanwell"
+
+msgid   "Martin Konold"
+msgstr  "Martin Konold"
+
+msgid   "Matthias Welwarsky"
+msgstr  "Matthias Welwarsky"
+
+msgid   "Maximum space on the hard disk that can be used to store tiles."
+msgstr  "Espai màxim del disc dur que es pot utilisar per a almagasenar el "
+        "mosaic."
+
+msgid   "Mayank Madan"
+msgstr  "Mayank Madan"
+
+msgid   "Murad Tagirov"
+msgstr  "Murad Tagirov"
+
+msgid   "Médéric Boquien"
+msgstr  "Médéric Boquien"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Orestes Mas Casals,Joan Maspons Ventura"
+
+msgid   "Navigation"
+msgstr  "Navegació"
+
+msgid   "Network plugins"
+msgstr  "Conectors de ret"
+
+msgid   "Niko Sams"
+msgstr  "Niko Sams"
+
+msgid   "Nikolas Zimmermann"
+msgstr  "Nikolas Zimmermann"
+
+msgid   "Nuno Pinheiro"
+msgstr  "Nuno Pinheiro"
+
+msgid   "One or more placemark files to be opened"
+msgstr  "Un o més fitxers de marques de llocs que s'obrirà"
+
+msgid   "Online Services support"
+msgstr  "Implementació dels serveis en llínea"
+
+msgid   "OpenStreetMap Integration, OSM Namefinder, Download Management"
+msgstr  "Integració d'OpenStreetMap, buscador de noms OSM, gestor de baixades"
+
+msgid   "Password for authorization."
+msgstr  "Contrasenya per a l'autorisació."
+
+msgid   "Patrick Spendrin"
+msgstr  "Patrick Spendrin"
+
+msgid   "Pino Toscano"
+msgstr  "Pino Toscano"
+
+msgid   "Planet filter"
+msgstr  "Filtre de planetes"
+
+msgid   "Plasma Integration, Bugfixes"
+msgstr  "Integració amb Plasma, correcció d'errors"
+
+msgid   "Platforms & Distributions"
+msgstr  "Plataformes i distribucions"
+
+msgid   "Plugins"
+msgstr  "Conectors"
+
+msgid   "Port for the proxy server."
+msgstr  "El port del servidor intermediari."
+
+msgid   "Position: %1"
+msgstr  "Posició: %1"
+
+msgid   "Prashanth Udupa"
+msgstr  "Prashanth Udupa"
+
+msgid   "Proxy requires Authentication"
+msgstr  "El servidor intermediari requereix autenticació"
+
+msgid   "Proxy type is HTTP"
+msgstr  "El tipus de servidor intermediari és HTTP"
+
+msgid   "Proxy type is Socks5"
+msgstr  "El tipus de servidor intermediari és Socks5"
+
+msgid   "Rainer Endres"
+msgstr  "Rainer Endres"
+
+msgid   "Ralf Gesellensetter"
+msgstr  "Ralf Gesellensetter"
+
+msgid   "Ralf Habacker"
+msgstr  "Ralf Habacker"
+
+msgid   "Records a movie of the globe"
+msgstr  "Grava una película del globus terraqüi"
+
+msgid   "Rene Kuettner"
+msgstr  "Rene Kuettner"
+
+msgid   "Robert Scott"
+msgstr  "Robert Scott"
+
+msgid   "Routing"
+msgstr  "Itineraris"
+
+msgid   "Routing, Elevation Profile"
+msgstr  "Itineraris, Perfil de desnivell"
+
+msgid   "Routing, Navigation, Mobile"
+msgstr  "Itineraris, Navegació, Mòbil"
+
+msgid   "Satellites"
+msgstr  "Satèlits"
+
+msgid   "Satellites, Eclipses"
+msgstr  "Satèlits, eclipsis"
+
+msgid   "Sebastian Wiedenroth"
+msgstr  "Sebastian Wiedenroth"
+
+msgid   "Set the distance of the observer to the globe (in km)"
+msgstr  "Establix la distància de l'observador al globus (en km)"
+
+msgid   "Shashank Singh"
+msgstr  "Shashank Singh"
+
+msgctxt "Show Bookmarks"
+msgid   "Show &Bookmarks"
+msgstr  "Mostra les &adreces d'interés"
+
+msgid   "Show Shadow"
+msgstr  "Mostra l'ombra"
+
+msgid   "Show frame rate"
+msgstr  "Mostra la freqüència dels fotogrames"
+
+msgid   "Show map at given geo <uri>"
+msgstr  "Mostra el mapa en l'<URI> de geolocalisació indicat"
+
+msgid   "Show map at given lat lon <coordinates>"
+msgstr  "Mostra el mapa a les <coordenades> lat., lon. donades"
+
+msgid   "Show or hide bookmarks in the map"
+msgstr  "Mostra o oculta les adreces d'interés en el mapa"
+
+msgid   "Show sun icon on the Sub-Solar Point"
+msgstr  "Mostra la icona del sol en el punt subsolar"
+
+msgid   "Show sun icon on the sub-solar point"
+msgstr  "Mostra la icona del sol en el punt subsolar"
+
+msgid   "Show tile IDs"
+msgstr  "Mostra els ID dels mosaics"
+
+msgid   "Show time spent in each layer"
+msgstr  "Mostra el temps esmerçat en cada capa"
+
+msgid   "Shows and hides the shadow of the sun"
+msgstr  "Mostra i oculta l'ombra del Sol"
+
+msgid   "Siddharth Srivastava"
+msgstr  "Siddharth Srivastava"
+
+msgid   "Simon Edwards"
+msgstr  "Simon Edwards"
+
+msgid   "Simon Schmeisser"
+msgstr  "Simon Schmeisser"
+
+msgid   "Sorry, unable to open '%1'. The file is not accessible."
+msgstr  "No s'ha pogut obrir «%1». El fitxer no és accessible."
+
+msgid   "Sorry, unable to open '%1':\n"
+        "'%2'"
+msgstr  "No s'ha pogut obrir «%1»:\n"
+        "«%2»"
+
+msgid   "Special thanks for providing an important source of inspiration by "
+        "creating Marble's predecessor \"Kartographer\"."
+msgstr  "Volem agrair-li especialment que ens proporcionés una gran font "
+        "d'inspiració en crear «Kartographer», el predecessor de Marble."
+
+msgctxt "Status tip"
+msgid   "A wizard guides you through the creation of your own map theme."
+msgstr  "Un assistent vos guiarà a través de la creació d'un tema de mapa "
+        "propi."
+
+msgctxt "Status tip"
+msgid   "Download new maps"
+msgstr  "Descarrega mapes nous"
+
+msgid   "Stefan Asserhäll"
+msgstr  "Stefan Asserhäll"
+
+msgid   "Stefan Jordan"
+msgstr  "Stefan Jordan"
+
+msgid   "Steffen Joeris"
+msgstr  "Steffen Joeris"
+
+msgid   "Stop recording a movie of the globe"
+msgstr  "Para la gravació d'una película del globus terraqüi"
+
+msgid   "Synchronization"
+msgstr  "Sincronisació"
+
+msgid   "The behaviour of the planet's axis on mouse dragging."
+msgstr  "El comportament dels eixos del planeta en arrossegar el ratolí."
+
+msgid   "The date and time of marble clock"
+msgstr  "La data i hora del rellotge de Marble"
+
+msgid   "The external OpenStreetMap editor application"
+msgstr  "L'aplicació externa d'edició d'OpenStreetMap"
+
+msgid   "The general font used on the map."
+msgstr  "El tipus de lletra general utilisat en el mapa."
+
+msgid   "The last directory that was opened by File->Open."
+msgstr  "L'últim directori que s'ha obert via Fitxer->Obri."
+
+msgid   "The localization of the labels."
+msgstr  "La ubicació de les etiquetes."
+
+msgid   "The location shown on application startup."
+msgstr  "L'emplaçament mostrat en iniciar l'aplicació."
+
+msgid   "The position tracking plugin used to determine the current location"
+msgstr  "El conector de seguiment de la posició utilisat per a determinar "
+        "l'emplaçament actual"
+
+msgid   "The quality at which a still map gets painted."
+msgstr  "La qualitat a la qual es dibuixa un mapa fotogràfic."
+
+msgid   "The quality at which an animated map gets painted."
+msgstr  "La qualitat a la qual es dibuixa un mapa animat."
+
+msgid   "The speed of marble clock"
+msgstr  "La velocitat del rellotge de Marble"
+
+msgid   "The unit chosen to measure angles."
+msgstr  "Les unitats seleccionades per a mesurar angles."
+
+msgid   "The unit chosen to measure distances."
+msgstr  "Les unitats seleccionades per a mesurar distàncies."
+
+msgid   "Thibaut Gridel"
+msgstr  "Thibaut Gridel"
+
+msgid   "Thomas Zander"
+msgstr  "Thomas Zander"
+
+msgid   "Tile Zoom Level: %1"
+msgstr  "Nivell de zoom dels mosaics: %1"
+
+msgid   "Tim Alder"
+msgstr  "Tim Alder"
+
+msgid   "Tim Sutton"
+msgstr  "Tim Sutton"
+
+msgid   "Time: %1"
+msgstr  "Hora: %1"
+
+msgid   "Torsten Rahn"
+msgstr  "Torsten Rahn"
+
+msgid   "URL for the proxy server."
+msgstr  "L'URL del servidor intermediari."
+
+msgid   "Unlock Globe to the Sub-Solar Point"
+msgstr  "Desbloqueja el globus del punt subsolar"
+
+msgid   "Unnamed"
+msgstr  "Sense nom"
+
+msgid   "Use a different directory <directory> which contains map data."
+msgstr  "Utilisa un directori <directori> diferent que conté dades de mapa."
+
+msgid   "Use map <id> (e.g. \"earth/openstreetmap/openstreetmap.dgml\")"
+msgstr  "Utilisa l'<ID> del mapa (p. ex. «earth/openstreetmap/openstreetmap."
+        "dgml»)"
+
+msgid   "Use the interface optimized for high resolutions"
+msgstr  "Utilisa la interfície optimisada per a resolucions altes"
+
+msgid   "Use the interface optimized for small screens"
+msgstr  "Utilisa la interfície optimisada per a pantalles xicotetes"
+
+msgid   "Username for authorization."
+msgstr  "Nom d'usuari per a l'autorisació."
+
+msgid   "Various Suggestions & Testing"
+msgstr  "Diversos sugeriments i proves"
+
+msgid   "View"
+msgstr  "Visualisa"
+
+msgid   "WMS Support, Mobile, Performance"
+msgstr  "Implementació WMS, mòbil, rendiment"
+
+msgid   "Wes Hardaker"
+msgstr  "Wes Hardaker"
+
+msgid   "marble_part"
+msgstr  "marble_part"
