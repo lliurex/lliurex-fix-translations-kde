@@ -1,0 +1,2149 @@
+msgid   ""
+msgstr  "Project-Id-Version: partitionmanager\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-01-11 10:20+0100\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+        "X-Generator: Lokalize 20.12.0\n"
+
+msgid   "          Minix:"
+msgstr  "          Minix:"
+
+msgid   " MiB"
+msgstr  " MiB"
+
+msgid   " sectors"
+msgstr  " sectors"
+
+msgid   "%1%2"
+msgstr  "%1%2"
+
+msgctxt "%2 is either empty or says Invalid passphrase."
+msgid   "%2Enter passphrase for %1:"
+msgstr  "%2Introduïu la frase de pas per a %1:"
+
+msgid   "&Cylinder alignment"
+msgstr  "Alineació dels &cilindres"
+
+msgid   "&Label"
+msgstr  "&Etiqueta"
+
+msgid   "&Logical"
+msgstr  "&Lògica"
+
+msgid   "(icon)"
+msgstr  "(icona)"
+
+msgid   "---"
+msgstr  "---"
+
+msgid   "<b>Warning:</b> This will destroy all data on the device!"
+msgstr  "<b>Avis:</b> açò destruirà totes les dades del dispositiu!"
+
+msgid   "<tr><td>%1</td><td>%2</td><td>%3</td><td><link>%4</link></td></tr>"
+msgstr  "<tr><td>%1</td><td>%2</td><td>%3</td><td><link>%4</link></td></tr>"
+
+msgctxt "@action:button"
+msgid   "&Advanced"
+msgstr  "&Avançat"
+
+msgctxt "@action:button"
+msgid   "&Details"
+msgstr  "&Detalls"
+
+msgctxt "@action:button"
+msgid   "Apply Pending Operations"
+msgstr  "Aplica les operacions pendents"
+
+msgctxt "@action:button"
+msgid   "Change the Backend"
+msgstr  "Canvia el dorsal"
+
+msgctxt "@action:button"
+msgid   "Change the File System"
+msgstr  "Canvia el sistema de fitxers"
+
+msgctxt "@action:button"
+msgid   "Clear Pending Operations"
+msgstr  "Neteja les operacions pendents"
+
+msgctxt "@action:button"
+msgid   "Create &New Partition Table"
+msgstr  "Crea una taula de particions &nova"
+
+msgctxt "@action:button"
+msgid   "Create MS-Dos Type"
+msgstr  "Crea un tipus MS-DOS"
+
+msgctxt "@action:button"
+msgid   "Delete It"
+msgstr  "Suprimix-la"
+
+msgctxt "@action:button"
+msgid   "Do Not Change the Backend"
+msgstr  "No canvies el dorsal"
+
+msgctxt "@action:button"
+msgid   "Do Not Change the File System"
+msgstr  "No canvies el sistema de fitxers"
+
+msgctxt "@action:button"
+msgid   "Do Not Recreate the File System"
+msgstr  "No recreïs el sistema de fitxers"
+
+msgctxt "@action:button"
+msgid   "Overwrite Partition"
+msgstr  "Sobreescriu la partició"
+
+msgctxt "@action:button"
+msgid   "Quit <application>%1</application>"
+msgstr  "Tanca <application>%1</application>"
+
+msgctxt "@action:button"
+msgid   "Recreate existing file system"
+msgstr  "Recrea sistema de fitxers existent"
+
+msgctxt "@action:button"
+msgid   "Recreate the File System"
+msgstr  "Recrea el sistema de fitxers"
+
+msgctxt "@action:button"
+msgid   "Rescan Devices"
+msgstr  "Torna a explorar els dispositius"
+
+msgctxt "@action:button"
+msgid   "Rescan Support"
+msgstr  "Torna a explorar la compatibilitat"
+
+msgctxt "@action:button"
+msgid   "Save SMART Report"
+msgstr  "Guardar l'informe SMART"
+
+msgctxt "@action:button"
+msgid   "Save changes"
+msgstr  "Guarda els canvis"
+
+msgctxt "@action:button"
+msgid   "Yes, Cancel Operations"
+msgstr  "Sí, cancela les operacions"
+
+msgctxt "@action:button advanced settings button"
+msgid   "Advanced"
+msgstr  "Avançat"
+
+msgctxt "@action:inmenu"
+msgid   "About KPMcore Library"
+msgstr  "Quant a la biblioteca KPMcore"
+
+msgctxt "@action:inmenu"
+msgid   "Backup"
+msgstr  "Còpia de seguretat"
+
+msgctxt "@action:inmenu"
+msgid   "Check"
+msgstr  "Comprova"
+
+msgctxt "@action:inmenu"
+msgid   "Clear Log"
+msgstr  "Neteja el registre"
+
+msgctxt "@action:inmenu"
+msgid   "Copy"
+msgstr  "Copia"
+
+msgctxt "@action:inmenu"
+msgid   "Deactivate Volume Group"
+msgstr  "Desactiva el grup de volums"
+
+msgctxt "@action:inmenu"
+msgid   "Delete"
+msgstr  "Suprimix"
+
+msgctxt "@action:inmenu"
+msgid   "Edit Mount Point"
+msgstr  "Edita el punt de muntatge"
+
+msgctxt "@action:inmenu"
+msgid   "Export Partition Table"
+msgstr  "Exporta la taula de particions"
+
+msgctxt "@action:inmenu"
+msgid   "File System Support"
+msgstr  "Compatibilitat amb els sistemes de fitxers"
+
+msgctxt "@action:inmenu"
+msgid   "Import Partition Table"
+msgstr  "Importa la taula de particions"
+
+msgctxt "@action:inmenu"
+msgid   "Mount"
+msgstr  "Munta"
+
+msgctxt "@action:inmenu"
+msgid   "New Partition Table"
+msgstr  "Taula de particions nova"
+
+msgctxt "@action:inmenu"
+msgid   "New Volume Group"
+msgstr  "Grup de volums nou"
+
+msgctxt "@action:inmenu"
+msgid   "Paste"
+msgstr  "Apega"
+
+msgctxt "@action:inmenu"
+msgid   "Properties"
+msgstr  "Propietats"
+
+msgctxt "@action:inmenu"
+msgid   "Remove Volume Group"
+msgstr  "Elimina el grup de volums"
+
+msgctxt "@action:inmenu"
+msgid   "Resize Volume Group"
+msgstr  "Redimensiona el grup de volums"
+
+msgctxt "@action:inmenu"
+msgid   "Resize/Move"
+msgstr  "Redimensiona/Mou"
+
+msgctxt "@action:inmenu"
+msgid   "Restore"
+msgstr  "Restaura"
+
+msgctxt "@action:inmenu"
+msgid   "SMART Status"
+msgstr  "Estat SMART"
+
+msgctxt "@action:inmenu"
+msgid   "Save Log"
+msgstr  "Guarda el registre"
+
+msgctxt "@action:inmenu"
+msgid   "Shred"
+msgstr  "Tritura"
+
+msgctxt "@action:inmenu"
+msgid   "Undo"
+msgstr  "Desfés"
+
+msgctxt "@action:inmenu"
+msgid   "Unlock"
+msgstr  "Desbloqueja"
+
+msgctxt "@action:inmenu apply all operations"
+msgid   "Apply"
+msgstr  "Aplica"
+
+msgctxt "@action:inmenu clear the list of operations"
+msgid   "Clear"
+msgstr  "Neteja"
+
+msgctxt "@action:inmenu create a new partition"
+msgid   "New"
+msgstr  "Nova"
+
+msgctxt "@action:inmenu refresh list of devices"
+msgid   "Refresh Devices"
+msgstr  "Refresca la llista dels dispositius"
+
+msgctxt "@info"
+msgid   "<para><warning>You are about to lose all data on partition "
+        "<filename>%1</filename>.</warning></para><para>Changing the file "
+        "system on a partition already on disk will erase all its contents. "
+        "If you continue now and apply the resulting operation in the main "
+        "window, all data on <filename>%1</filename> will unrecoverably be "
+        "lost.</para>"
+msgstr  "<para><warning>Esteu a punt de perdre totes les dades a la "
+        "partició<filename>%1</filename>.</warning></para><para>Canviar el "
+        "sistema de fitxers d'una partició al disc esborra tots els seus "
+        "continguts. Si continueu ara i apliqueu l'operació resultant a la "
+        "finestra principal es perdran totes les dades a <filename>%1</"
+        "filename>.</para>"
+
+msgctxt "@info"
+msgid   "<para><warning>You are about to lose all data on partition "
+        "<filename>%1</filename>.</warning></para><para>Overwriting one "
+        "partition with another (or with an image file) will destroy all data "
+        "on this target partition.</para><para>If you continue now and apply "
+        "the resulting operation in the main window, all data currently "
+        "stored on <filename>%1</filename> will unrecoverably be overwritten."
+        "</para>"
+msgstr  "<para><warning>Esteu a punt de perdre totes les dades a la partició "
+        "<filename>%1</filename>.</warning></para><para>Recrear una partició "
+        "amb una atra (o amb un fitxer d'image) destruirà totes les dades a "
+        "la partició de destinació.</para><para>Si continueu ara i apliqueu "
+        "l'operació resultant a la finestra principal, totes les dades "
+        "almagasenades a <filename>%1</filename> se sobreescriuran i seran "
+        "irrecuperable.</para>"
+
+msgctxt "@info"
+msgid   "<para><warning>You are about to lose all data on partition "
+        "<filename>%1</filename>.</warning></para><para>Recreating a file "
+        "system will erase all its contents. If you continue now and apply "
+        "the resulting operation in the main window, all data on "
+        "<filesystem>%1</filesystem> will unrecoverably be lost.</para>"
+msgstr  "<para><warning>Esteu a punt de perdre totes les dades a la partició "
+        "<filename>%1</filename>.</warning></para><para>En tornar a crear un "
+        "sistema de fitxers s'esborrarà tot el seu contingut. Si ara "
+        "continueu i apliqueu l'operació resultant a la finestra principal, "
+        "totes les dades almagasenades a <filename>%1</filename> es perdran "
+        "de manera irrecuperable.</para>"
+
+msgctxt "@info"
+msgid   "<para>Are you sure you want to save the changes you made to the "
+        "system table file <filename>/etc/fstab</filename>?</"
+        "para><para><warning>This will overwrite the existing file on your "
+        "hard drive now. This <emphasis strong='1'>can not be undone</"
+        "emphasis>.</warning></para>"
+msgstr  "<para>Segur que voleu guardar els canvis que heu fet en el fitxer de "
+        "taula del sistema <filename>/etc/fstab</filename>?</"
+        "para><para><warning>Sobreescriurà el fitxer existent en el vostre "
+        "disc dur. Açò <emphasis strong='1'>no es pot desfer</emphasis>.</"
+        "warning></para>"
+
+msgctxt "@info"
+msgid   "<para>Do you really want to apply the pending operations listed "
+        "below?</para><para><warning>This will permanently modify your disks."
+        "</warning></para>"
+msgstr  "<para>Esteu segur d'aplicar les operacions de la llista inferior?</"
+        "para><para><warning>Açò modificarà els vostres discs permanentment.</"
+        "warning></para>"
+
+msgctxt "@info"
+msgid   "<para>Do you really want to change the backend?</"
+        "para><para><warning>This will also rescan devices and thus clear the "
+        "list of pending operations.</warning></para>"
+msgstr  "<para>Segur que voleu canviar el dorsal?</para><para><warning>Açò "
+        "també tornarà a explorar els dispositius i netejarà la llista "
+        "d'operacions pendents.</warning></para>"
+
+msgctxt "@info"
+msgid   "<para>Do you really want to create an MS-Dos partition table on "
+        "<filename>%1</filename>?</para><para>This device has more than 2^32 "
+        "sectors. That is the most the MS-Dos partition table type supports, "
+        "so you will not be able to use the whole device.</para>"
+msgstr  "<para>Segur que voleu crear una taula de particions MS-DOS a "
+        "<filename>%1</filename>?</para><para>Este dispositiu té més de 2^32 "
+        "sectors. Açò és més gran que lo que accepta una taula de particions "
+        "de tipus MS-DOS, i per tant no es podrà utilisar tot el dispositiu.</"
+        "para>"
+
+msgctxt "@info"
+msgid   "<para>Do you really want to quit the application?</para><para>There "
+        "is still an operation pending.</para>"
+msgid_plural    "<para>Do you really want to quit the application?</"
+        "para><para>There are still %1 operations pending.</para>"
+msgstr[0]       "<para>Segur que voleu eixir del programa?</para><para>Encara "
+        "hi ha una operació pendent.</para>"
+msgstr[1]       "<para>Segur que voleu eixir del programa?</para><para>Encara "
+        "hi ha %1 operacions pendents.</para>"
+
+msgctxt "@info"
+msgid   "<para>Do you really want to rescan the devices?</"
+        "para><para><warning>This will also clear the list of pending "
+        "operations.</warning></para>"
+msgstr  "<para>Segur que voleu tornar a explorar els dispositius?</"
+        "para><para><warning>Açò també netejarà la llista d'operacions "
+        "pendents.</warning></para>"
+
+msgctxt "@info"
+msgid   "<para>It is not possible to create the target partition large enough "
+        "to hold the source.</para><para>This may happen if not all "
+        "partitions on a device are correctly aligned or when copying a "
+        "primary partition into an extended partition.</para>"
+msgstr  "<para>No s'ha pogut crear una partició de destinació amb la "
+        "grandària necessària per a retindre la partició d'origen.</"
+        "para><para>Açò pot passar si alguna de les particions d'un "
+        "dispositiu no està correctament alineada o en copiar una partició "
+        "primària a una partició ampliada.</para>"
+
+msgctxt "@info"
+msgid   "<para>Neither the configured (\"%1\") nor the default (\"%2\") "
+        "backend plugin could be loaded.</para><para>Please check your "
+        "installation.</para>"
+msgstr  "<para>No s'ha pogut carregar el conector del dorsal, ni el "
+        "configurat («%1») ni el per defecte (%2).</para><para>Comproveu la "
+        "instalació.</para>"
+
+msgctxt "@info"
+msgid   "<para>No support tools were found for file systems currently present "
+        "on hard disks in this computer:</para><table style='margin-"
+        "top:12px'><tr><td style='font-weight:bold;padding-right:12px;white-"
+        "space:nowrap;'>Partition</td><td style='font-weight:bold;padding-"
+        "right:12px;white-space:nowrap;'>File System</td><td style='font-"
+        "weight:bold;padding-right:12px;white-space:nowrap;'>Support Tools</"
+        "td><td style='font-weight:bold;padding-right:12px;white-space:"
+        "nowrap;'>URL</td></tr>%1</table><para>As long as the support tools "
+        "for these file systems are not installed you will not be able to "
+        "modify them.</para><para>You should find packages with these support "
+        "tools in your distribution's package manager.</para>"
+msgstr  "<para>No s'han trobat les eines d'implementació dels sistemes de "
+        "fitxers presents actualment en els discs durs d'est ordinador:</"
+        "para><table style='margin-top:12px'><tr><td style='font-weight:bold;"
+        "padding-right:12px;white-space:nowrap;'>Particionat</td><td "
+        "style='font-weight:bold;padding-right:12px;white-space:"
+        "nowrap;'>Sistema de fitxers</td><td style='font-weight:bold;padding-"
+        "right:12px;white-space:nowrap;'>Eines d'implementació</td><td "
+        "style='font-weight:bold;padding-right:12px;white-space:nowrap;'>URL</"
+        "td></tr>%1</table><para>Com que no estan instalades les eines "
+        "d'implementació per a estos sistemes de fitxers, no es podran "
+        "modificar.</para><para>Hauríeu de buscar estes eines d'implementació "
+        "en el gestor de paquets de la distribució.</para>"
+
+msgctxt "@info"
+msgid   "<para>The configured backend plugin \"%1\" could not be loaded.</"
+        "para><para>Loading the default backend plugin \"%2\" instead.</para>"
+msgstr  "<para>No s'ha pogut carregar el conector del dorsal configurat «%1»."
+        "</para><para>En el seu lloc es carrega el conector del dorsal per "
+        "defecte «%2».</para>"
+
+msgctxt "@info"
+msgid   "<para>The partition <filename>%1</filename> cannot currently be "
+        "deleted because one or more partitions with higher logical numbers "
+        "are still mounted.</para><para>Please unmount all partitions with "
+        "higher logical numbers than %2 first.</para>"
+msgstr  "<para>Actualment no es pot suprimir la partició <filename>%1</"
+        "filename> perquè encara hi ha muntades una o més particions amb un "
+        "número lògic més elevat.</para><para>Per favor, desmunteu abans "
+        "totes les particions amb un número lògic més elevat que %2.</para>"
+
+msgctxt "@info"
+msgid   "<para>The selected partition is not large enough to hold the source "
+        "partition or the backup file.</para><para>Pick another target or "
+        "resize this partition so it is as large as the source.</para>"
+msgstr  "<para>La partició seleccionada no és prou gran per a retindre la "
+        "partició d'origen o el fitxer de còpia de seguretat.</"
+        "para><para>Trieu una atra destinació o amideu esta partició perquè "
+        "siga tan gran com la partició d'origen.</para>"
+
+msgctxt "@info"
+msgid   "<para>There is already one primary partition on this device. This is "
+        "the maximum number its partition table type can handle.</"
+        "para><para>You cannot create, paste or restore a primary partition "
+        "on it before you delete an existing one.</para>"
+msgid_plural    "<para>There are already %1 primary partitions on this "
+        "device. This is the maximum number its partition table type can "
+        "handle.</para><para>You cannot create, paste or restore a primary "
+        "partition on it before you delete an existing one.</para>"
+msgstr[0]       "<para>Ya hi ha una partició primària a este dispositiu. Este "
+        "és el nombre màxim que pot gestionar esta taula de particions.</"
+        "para><para>No hi podeu crear, apegar o restaurar una partició "
+        "primària abans de suprimir-ne una d'existent.</para>"
+msgstr[1]       "<para>Ya hi ha %1 particions primàries a este dispositiu. "
+        "Este és el nombre màxim que pot gestionar este tipus de taula de "
+        "particions.</para><para>No en podeu crear, apegar o restaurar una "
+        "partició primària abans de suprimir-ne una d'existent.</para>"
+
+msgctxt "@info"
+msgid   "Could not create temporary file <filename>%1</filename> for writing."
+msgstr  "No s'ha pogut crear el fitxer temporal <filename>%1</filename> per a "
+        "escritura."
+
+msgctxt "@info"
+msgid   "Could not create temporary file when trying to save to <filename>%1</"
+        "filename>."
+msgstr  "No s'ha pogut crear el fitxer temporal en intentar guardar a "
+        "<filename>%1</filename>."
+
+msgctxt "@info"
+msgid   "Could not create temporary output file to save <filename>%1</"
+        "filename>."
+msgstr  "No s'ha pogut crear el fitxer d'eixida per a guardar <filename>%1</"
+        "filename>."
+
+msgctxt "@info"
+msgid   "Could not open input file <filename>%1</filename> for import"
+msgstr  "No s'ha pogut obrir el fitxer d'entrada <filename>%1</filename> que "
+        "s'importarà"
+
+msgctxt "@info"
+msgid   "Could not open input file <filename>%1</filename> for import: %2"
+msgstr  "No s'ha pogut obrir el fitxer d'entrada <filename>%1</filename> per "
+        "a importar: %2"
+
+msgctxt "@info"
+msgid   "Could not open temporary file <filename>%1</filename> while trying "
+        "to import from <filename>%2</filename>."
+msgstr  "No s'ha d'obrir el fitxer temporal <filename>%1</filename> en provar "
+        "d'importar des de <filename>%2</filename>."
+
+msgctxt "@info"
+msgid   "Could not save mount points to file <filename>/etc/fstab</filename>."
+msgstr  "No s'han pogut guardar els punts de muntatge al fitxer <filename>/"
+        "etc/fstab</filename>."
+
+msgctxt "@info"
+msgid   "Do you really want to cancel?"
+msgstr  "Segur que voleu cancelar?"
+
+msgctxt "@info"
+msgid   "Do you really want to clear the list of pending operations?"
+msgstr  "Segur que voleu netejar la llista d'operacions pendents?"
+
+msgctxt "@info"
+msgid   "Do you really want to delete the partition that is currently in the "
+        "clipboard? It will no longer be available for pasting after it has "
+        "been deleted."
+msgstr  "Segur que voleu suprimir la partició que hi ha actualment al porta-"
+        "retalls? Ya no estarà disponible per a apegar-la quan s'haja "
+        "suprimit."
+
+msgctxt "@info"
+msgid   "Found more than one partition table type in import file (line %1)."
+msgstr  "S'ha trobat més un tipus de taula de particions al fitxer importat "
+        "(llínea %1)."
+
+msgctxt "@info"
+msgid   "Found partition but no partition table type (line %1)."
+msgstr  "S'ha trobat una partició pero no el tipus de taula de particions "
+        "(llínea %1)."
+
+msgctxt "@info"
+msgid   "No valid partition table was found on this device."
+msgstr  "No s'ha trobat una taula de particions correcta al dispositiu."
+
+msgctxt "@info"
+msgid   "Partition %1 has end before start sector (line %2)."
+msgstr  "La partició %1 s'acaba abans de l'inici d'un sector (llínea %2)."
+
+msgctxt "@info"
+msgid   "Partition Manager requires privileges in order to work. Please "
+        "refresh the devices and authenticate when prompted."
+msgstr  "El gestor de particions requereix privilegis per tal de funcionar. "
+        "Actualiseu els dispositius i autentiqueu-vos quan es demane."
+
+msgctxt "@info"
+msgid   "Partition table type \"%1\" is not supported for import (line %2)."
+msgstr  "No està admesa la importació del tipus de taula de particions "
+        "«%1» (llínea %2)."
+
+msgctxt "@info"
+msgid   "Partition table type \"%1\" is unknown (line %2)."
+msgstr  "El tipus de taula de particions «%1» és desconegut (llínea %2)."
+
+msgctxt "@info"
+msgid   "Please select a device."
+msgstr  "Seleccioneu un dispositiu."
+
+msgctxt "@info"
+msgid   "The encrypted file system on partition <filename>%1</filename> could "
+        "not be locked."
+msgstr  "No s'ha pogut bloquejar el sistema de fitxers encriptat a la "
+        "partició <filename>%1</filename>."
+
+msgctxt "@info"
+msgid   "The encrypted file system on partition <filename>%1</filename> could "
+        "not be unlocked."
+msgstr  "No s'ha pogut desbloquejar el sistema de fitxers encriptat a la "
+        "partició <filename>%1</filename>."
+
+msgctxt "@info"
+msgid   "The file system in the image file <filename>%1</filename> is too "
+        "large to be restored to the selected partition."
+msgstr  "El sistema de fitxers al fitxer d'image <filename>%1</filename> és "
+        "massa gran per a restaurar-lo a la partició seleccionada."
+
+msgctxt "@info"
+msgid   "The file system on partition <filename>%1</filename> could not be "
+        "mounted."
+msgstr  "No s'ha pogut muntar el sistema de fitxers a la partició "
+        "<filename>%1</filename>."
+
+msgctxt "@info"
+msgid   "The file system on partition <filename>%1</filename> could not be "
+        "unmounted."
+msgstr  "No s'ha pogut desmuntar el sistema de fitxers a la partició "
+        "<filename>%1</filename>."
+
+msgctxt "@info"
+msgid   "The import file <filename>%1</filename> does not contain a valid "
+        "partition table."
+msgstr  "El fitxer que s'ha d'importar <filename>%1</filename> no conté una "
+        "taula de particions vàlida."
+
+msgctxt "@info"
+msgid   "The partition table type \"%1\" does not support extended "
+        "partitions, but one was found (line %2)."
+msgstr  "El tipus de taula de particions «%1» no admet particions ampliades, "
+        "pero se n'ha trobat una (llínea %2)."
+
+msgctxt "@info device should be inside of /dev"
+msgid   "Unrecognized device \"%1\" "
+msgstr  "Dispositiu no reconegut «%1» "
+
+msgctxt "@info device should be inside of /dev"
+msgid   "Unrecognized partition \"%1\" "
+msgstr  "Partició no reconeguda «%1» "
+
+msgctxt "@info the partition is NOT a device path, just a number"
+msgid   "Could not create file system \"%1\" for partition %2 (line %3)."
+msgstr  "No s'ha pogut crear el sistema de fitxers «%1» per a la partició %2 "
+        "(llínea %3)."
+
+msgctxt "@info the partition is NOT a device path, just a number"
+msgid   "No parent partition or partition table found for partition %1 (line "
+        "%2)."
+msgstr  "No s'ha trobat la partició pare o la taula de particions de la "
+        "partició %1 (llínea %2)."
+
+msgctxt "@info the partition is NOT a device path, just a number"
+msgid   "Partition %1 would be outside the device's boundaries (line %2)."
+msgstr  "La partició %1 estaria fora dels límits del dispositiu (llínea %2)."
+
+msgctxt "@info the partition is NOT a device path, just a number"
+msgid   "Unrecognized partition role \"%1\" for partition %2 (line %3)."
+msgstr  "Funció desconeguda de partició «%1» per a la partició %2 (llínea %3)."
+
+msgctxt "@info:credit"
+msgid   "Andrius Štikonas"
+msgstr  "Andrius Štikonas"
+
+msgctxt "@info:credit"
+msgid   "Caio Jordão Carvalho"
+msgstr  "Caio Jordão Carvalho"
+
+msgctxt "@info:credit"
+msgid   "Chantara Tith"
+msgstr  "Chantara Tith"
+
+msgctxt "@info:credit"
+msgid   "Former Calamares maintainer"
+msgstr  "Mantenidor anterior del Calamares"
+
+msgctxt "@info:credit"
+msgid   "Former maintainer"
+msgstr  "Mantenidor anterior"
+
+msgctxt "@info:credit"
+msgid   "Improved SMART support"
+msgstr  "Implementació millorada del SMART"
+
+msgctxt "@info:credit"
+msgid   "LVM support"
+msgstr  "Implementació del LVM"
+
+msgctxt "@info:credit"
+msgid   "Maintainer"
+msgstr  "Mantenidor"
+
+msgctxt "@info:credit"
+msgid   "Pali Rohár"
+msgstr  "Pali Rohár"
+
+msgctxt "@info:credit"
+msgid   "Partition Widget Design"
+msgstr  "Disseny del giny de particions"
+
+msgctxt "@info:credit"
+msgid   "Teo Mrnjavac"
+msgstr  "Teo Mrnjavac"
+
+msgctxt "@info:credit"
+msgid   "UDF support"
+msgstr  "Implementació de l'UDF"
+
+msgctxt "@info:credit"
+msgid   "Volker Lanz"
+msgstr  "Volker Lanz"
+
+msgctxt "@info:credit"
+msgid   "© 2008-2013 Volker Lanz\n"
+        "© 2012-2020 Andrius Štikonas"
+msgstr  "© 2008-2013 Volker Lanz\n"
+        "© 2012-2020 Andrius Štikonas"
+
+msgctxt "@info:progress"
+msgid   "All operations successfully finished."
+msgstr  "S'han finalisat totes les operacions amb èxit."
+
+msgctxt "@info:progress"
+msgid   "Operations cancelled."
+msgstr  "Operacions cancelades."
+
+msgctxt "@info:progress"
+msgid   "Scan finished."
+msgstr  "Ha finalisat l'exploració."
+
+msgctxt "@info:progress"
+msgid   "Scanning devices..."
+msgstr  "S'estan explorant els dispositius..."
+
+msgctxt "@info:progress"
+msgid   "Setting up..."
+msgstr  "S'està configurant..."
+
+msgctxt "@info:progress"
+msgid   "There were errors while applying operations. Aborted."
+msgstr  "S'han produït errors en aplicar les operacions. S'ha interromput."
+
+msgctxt "@info:progress"
+msgid   "Total Time: %1"
+msgstr  "Temps total: %1"
+
+msgctxt "@info:progress"
+msgid   "Using backend plugin: %1 (%2)"
+msgstr  "S'utilisa el conector de dorsal: %1 (%2)"
+
+msgctxt "@info:progress"
+msgid   "Waiting for operation to finish..."
+msgstr  "S'està esperant que l'execució s'acabe..."
+
+msgctxt "@info:progress"
+msgid   "[%1/%2] - %3: %4"
+msgstr  "[%1/%2] - %3: %4"
+
+msgctxt "@info:shell"
+msgid   "Device to manage"
+msgstr  "Dispositiu a gestionar"
+
+msgctxt "@info:status"
+msgid   "Apply the pending operations in the list."
+msgstr  "Aplica les operacions pendents a la llista."
+
+msgctxt "@info:status"
+msgid   "Applying operations..."
+msgstr  "S'estan aplicant les operacions..."
+
+msgctxt "@info:status"
+msgid   "Backup a partition to an image file."
+msgstr  "Fes una còpia de seguretat d'una partició a un fitxer d'image."
+
+msgctxt "@info:status"
+msgid   "Check a filesystem on a partition for errors."
+msgstr  "Comprova un sistema de fitxers a una partició per a buscar errades."
+
+msgctxt "@info:status"
+msgid   "Clear the log output panel."
+msgstr  "Neteja el quadro de l'eixida del registre."
+
+msgctxt "@info:status"
+msgid   "Clearing the list of pending operations."
+msgstr  "S'està netejant la llista d'operacions pendents."
+
+msgctxt "@info:status"
+msgid   "Copy an existing partition."
+msgstr  "Copia una partició existent."
+
+msgctxt "@info:status"
+msgid   "Could not parse line %1 from import file. Ignoring it."
+msgstr  "No s'ha pogut analisar la llínea %1 del fitxer importat. S'ignorarà."
+
+msgctxt "@info:status"
+msgid   "Create a new LVM Volume Group as a device."
+msgstr  "Es crea un grup de volums LVM nou com un dispositiu."
+
+msgctxt "@info:status"
+msgid   "Create a new and empty partition table on a device."
+msgstr  "Crea una taula de particions nova i buida en un dispositiu."
+
+msgctxt "@info:status"
+msgid   "Create a new partition."
+msgstr  "Crea una partició nova."
+
+msgctxt "@info:status"
+msgid   "Deactivate selected Volume Group before unplugging removable devices."
+msgstr  "Desactiva el grup de volums seleccionat abans de desconnectar els "
+        "dispositius extraïbles."
+
+msgctxt "@info:status"
+msgid   "Delete a partition."
+msgstr  "Suprimix una partició."
+
+msgctxt "@info:status"
+msgid   "Edit a partition's mount point and options."
+msgstr  "Edita el punt de muntatge de la partició i les opcions."
+
+msgctxt "@info:status"
+msgid   "Empty the list of pending operations."
+msgstr  "Buida la llista d'operacions pendents."
+
+msgctxt "@info:status"
+msgid   "Export the device's partition table to a text file."
+msgstr  "Exporta la taula de particions del dispositiu a un fitxer de text."
+
+msgctxt "@info:status"
+msgid   "Extend or reduce selected Volume Group."
+msgstr  "Amplia o reduïx el grup de volums seleccionat."
+
+msgctxt "@info:status"
+msgid   "Import a partition table from a text file."
+msgstr  "Importa una taula de particions des d'un fitxer de text."
+
+msgctxt "@info:status"
+msgid   "Mount or unmount a partition."
+msgstr  "Munta o desmunta una partició."
+
+msgctxt "@info:status"
+msgid   "One pending operation"
+msgid_plural    "%1 pending operations"
+msgstr[0]       "Una operació pendent"
+msgstr[1]       "%1 operacions pendents"
+
+msgctxt "@info:status"
+msgid   "Partition <filename>%1</filename> has been copied to the clipboard."
+msgstr  "S'ha copiat la partició <filename>%1</filename> al porta-retalls."
+
+msgctxt "@info:status"
+msgid   "Partition <filename>%1</filename> has the same position and size "
+        "after resize/move. Ignoring operation."
+msgstr  "La partició <filename>%1</filename> tindrà la mateixa posició i mida "
+        "després de redimensionar/desplaçar. S'ha ignorat l'operació."
+
+msgctxt "@info:status"
+msgid   "Paste a copied partition."
+msgstr  "Apega una partició que ha estat copiada."
+
+msgctxt "@info:status"
+msgid   "Remove selected Volume Group."
+msgstr  "Elimina el grup de volums seleccionat."
+
+msgctxt "@info:status"
+msgid   "Remove the last operation from the list."
+msgstr  "Elimina l'última operació de la llista."
+
+msgctxt "@info:status"
+msgid   "Renew the devices list."
+msgstr  "Renova la llista de dispositius."
+
+msgctxt "@info:status"
+msgid   "Restore a partition from an image file."
+msgstr  "Restaura una partició des d'un fitxer d'image."
+
+msgctxt "@info:status"
+msgid   "Save the log output to a file."
+msgstr  "Guarda l'eixida del registre a un fitxer."
+
+msgctxt "@info:status"
+msgid   "Show About KPMcore dialog."
+msgstr  "Mostra el diàlec quant a la KPMcore."
+
+msgctxt "@info:status"
+msgid   "Show information about supported file systems."
+msgstr  "Mostra informació quant a la compatibilitat dels sistemes de fitxers."
+
+msgctxt "@info:status"
+msgid   "Show the device's SMART status if supported"
+msgstr  "Mostra l'estat de SMART del dispositiu si està admés"
+
+msgctxt "@info:status"
+msgid   "Shred a partition so that its contents cannot be restored."
+msgstr  "Tritura una partició de manera que els seus continguts no puguen ser "
+        "restaurats."
+
+msgctxt "@info:status"
+msgid   "Shrink, grow or move an existing partition."
+msgstr  "Encongeix, engrandeix o redimensiona una partició existent."
+
+msgctxt "@info:status"
+msgid   "Undoing operation: %1"
+msgstr  "S'està desfent l'operació: %1"
+
+msgctxt "@info:status"
+msgid   "Unlock or lock encrypted partition."
+msgstr  "Desbloqueja o bloqueja una partició encriptada."
+
+msgctxt "@info:status"
+msgid   "View and modify device properties"
+msgstr  "Visualisa i modifica les propietats del dispositiu"
+
+msgctxt "@info:status"
+msgid   "View and modify partition properties (label, partition flags, etc.)"
+msgstr  "Vore i modificar les propietats d'una partició (etiqueta, "
+        "indicadors, etc.)"
+
+msgctxt "@info:tooltip"
+msgid   "Apply all operations"
+msgstr  "Aplica totes les operacions"
+
+msgctxt "@info:tooltip"
+msgid   "Backup partition"
+msgstr  "Còpia de seguretat de la partició"
+
+msgctxt "@info:tooltip"
+msgid   "Check partition"
+msgstr  "Comprova una partició"
+
+msgctxt "@info:tooltip"
+msgid   "Clear all operations"
+msgstr  "Neteja totes les operacions"
+
+msgctxt "@info:tooltip"
+msgid   "Clear the log output"
+msgstr  "Neteja l'eixida del registre"
+
+msgctxt "@info:tooltip"
+msgid   "Copy partition"
+msgstr  "Copia una partició"
+
+msgctxt "@info:tooltip"
+msgid   "Create a new LVM Volume Group"
+msgstr  "Crea un grup de volums LVM nou"
+
+msgctxt "@info:tooltip"
+msgid   "Create a new partition table"
+msgstr  "Crea una taula de particions nova"
+
+msgctxt "@info:tooltip"
+msgid   "Deactivate selected Volume Group"
+msgstr  "Desactiva el grup de volums seleccionat"
+
+msgctxt "@info:tooltip"
+msgid   "Delete partition"
+msgstr  "Suprimix la partició"
+
+msgctxt "@info:tooltip"
+msgid   "Edit mount point"
+msgstr  "Edita el punt de muntatge"
+
+msgctxt "@info:tooltip"
+msgid   "Export a partition table"
+msgstr  "Exporta una taula de particions"
+
+msgctxt "@info:tooltip"
+msgid   "Import a partition table"
+msgstr  "Importa una taula de particions"
+
+msgctxt "@info:tooltip"
+msgid   "Mount or unmount partition"
+msgstr  "Munta o desmunta una partició"
+
+msgctxt "@info:tooltip"
+msgid   "New partition"
+msgstr  "Partició nova"
+
+msgctxt "@info:tooltip"
+msgid   "Paste partition"
+msgstr  "Apega una partició"
+
+msgctxt "@info:tooltip"
+msgid   "Refresh all devices"
+msgstr  "Refresca la llista de tots els dispositius"
+
+msgctxt "@info:tooltip"
+msgid   "Remove selected Volume Group"
+msgstr  "Elimina el grup de volums seleccionat"
+
+msgctxt "@info:tooltip"
+msgid   "Resize or move partition"
+msgstr  "Redimensiona o mou una partició"
+
+msgctxt "@info:tooltip"
+msgid   "Resize selected Volume Group"
+msgstr  "Redimensiona el grup de volums seleccionat"
+
+msgctxt "@info:tooltip"
+msgid   "Restore partition"
+msgstr  "Restaura una partició"
+
+msgctxt "@info:tooltip"
+msgid   "Save the log output"
+msgstr  "Guarda l'eixida del registre"
+
+msgctxt "@info:tooltip"
+msgid   "Show About KPMcore dialog"
+msgstr  "Mostra el diàlec quant a la KPMcore"
+
+msgctxt "@info:tooltip"
+msgid   "Show SMART status"
+msgstr  "Mostra l'estat SMART"
+
+msgctxt "@info:tooltip"
+msgid   "Show device properties dialog"
+msgstr  "Mostra el diàlec de propietats del dispositiu"
+
+msgctxt "@info:tooltip"
+msgid   "Show partition properties dialog"
+msgstr  "Mostra el diàlec de propietats de la partició"
+
+msgctxt "@info:tooltip"
+msgid   "Shred partition"
+msgstr  "Tritura una partició"
+
+msgctxt "@info:tooltip"
+msgid   "Undo the last operation"
+msgstr  "Desfés l'última operació"
+
+msgctxt "@info:tooltip"
+msgid   "Unlock or lock encrypted partition"
+msgstr  "Desbloqueja o bloqueja una partició encriptada"
+
+msgctxt "@info:tooltip"
+msgid   "View file system support information"
+msgstr  "Mostra la informació de compatibilitat amb el sistema de fitxers"
+
+msgctxt "@item mountpoint"
+msgid   "(none found)"
+msgstr  "(no se n'ha trobat cap)"
+
+msgctxt "@item uuid"
+msgid   "(none)"
+msgstr  "(cap)"
+
+msgctxt "@item:inlistbox Device | Capacity"
+msgid   "%1 | %2"
+msgstr  "%1 | %2"
+
+msgctxt "@item:intable"
+msgid   "Offline"
+msgstr  "Desconnectat"
+
+msgctxt "@item:intable"
+msgid   "Old-Age"
+msgstr  "Antic"
+
+msgctxt "@item:intable"
+msgid   "Online"
+msgstr  "En llínea"
+
+msgctxt "@item:intable"
+msgid   "Pre-Failure"
+msgstr  "Abans de fallar"
+
+msgctxt "@item:intable Encrypted file systems, e.g. btrfs[Encrypted]"
+msgid   "%1 [Encrypted]"
+msgstr  "%1 [Encriptada]"
+
+msgctxt "@label"
+msgid   "&Flags:"
+msgstr  "In&dicadors:"
+
+msgctxt "@label"
+msgid   "&Label:"
+msgstr  "Eti&queta:"
+
+msgctxt "@label"
+msgid   "(unknown)"
+msgstr  "(desconegut)"
+
+msgctxt "@label"
+msgid   "Align partitions per default"
+msgstr  "Alineació de les particions per defecte"
+
+msgctxt "@label"
+msgid   "Backend plugin"
+msgstr  "Conector de dorsal"
+
+msgctxt "@label"
+msgid   "File system colors"
+msgstr  "Colors del sistema de fitxers"
+
+msgctxt "@label"
+msgid   "First sector:"
+msgstr  "Primer sector:"
+
+msgctxt "@label"
+msgid   "Hide log messages below"
+msgstr  "Oculta els missatges de davall"
+
+msgctxt "@label"
+msgid   "Is this the first time KDE Partition Manager is being run?"
+msgstr  "Esta és la primera vegada que s'inicia el gestor de particions de "
+        "KDE?"
+
+msgctxt "@label"
+msgid   "Label:"
+msgstr  "Etiqueta:"
+
+msgctxt "@label"
+msgid   "Last sector:"
+msgstr  "Últim sector:"
+
+msgctxt "@label"
+msgid   "Maximum size:"
+msgstr  "Mida màxima:"
+
+msgctxt "@label"
+msgid   "Minimum size:"
+msgstr  "Mida mínima:"
+
+msgctxt "@label"
+msgid   "Mount point:"
+msgstr  "Punt de muntatge:"
+
+msgctxt "@label"
+msgid   "Number of sectors:"
+msgstr  "Nombre de sectors:"
+
+msgctxt "@label"
+msgid   "Partition sector alignment"
+msgstr  "Alineació dels sectors de la partició"
+
+msgctxt "@label"
+msgid   "Partition type:"
+msgstr  "Tipus de partició:"
+
+msgctxt "@label"
+msgid   "Preferred unit:"
+msgstr  "Unitat preferida:"
+
+msgctxt "@label"
+msgid   "Scanning device: <filename>%1</filename>"
+msgstr  "S'està explorant el dispositiu: <filename>%1</filename>"
+
+msgctxt "@label"
+msgid   "Scanning..."
+msgstr  "S'està explorant..."
+
+msgctxt "@label"
+msgid   "Show the application's menu bar"
+msgstr  "Mostra la barra de menús de l'aplicació"
+
+msgctxt "@label"
+msgid   "Size:"
+msgstr  "Mida:"
+
+msgctxt "@label"
+msgid   "Status:"
+msgstr  "Estat:"
+
+msgctxt "@label"
+msgid   "This file system does not support setting a label."
+msgstr  "Este sistema de fitxers no permet l'etiquetatge."
+
+msgctxt "@label"
+msgid   "UUID:"
+msgstr  "UUID:"
+
+msgctxt "@label"
+msgid   "Use cylinder based alignment (Windows XP compatible)"
+msgstr  "Utilisa l'alineació basada en cilindres (compatible amb Windows XP)"
+
+msgctxt "@label SMART disk status"
+msgid   "BAD"
+msgstr  "ROÍ"
+
+msgctxt "@label SMART disk status"
+msgid   "good"
+msgstr  "correcte"
+
+msgctxt "@label SMART number of bad sectors"
+msgid   "none"
+msgstr  "cap"
+
+msgctxt "@label device"
+msgid   "%1 (read only)"
+msgstr  "%1 (només de lectura)"
+
+msgctxt "@label device"
+msgid   "Allocated PE:"
+msgstr  "PE assignada:"
+
+msgctxt "@label device"
+msgid   "Array Size:"
+msgstr  "Mida de la matriu:"
+
+msgctxt "@label device"
+msgid   "Capacity:"
+msgstr  "Capacitat:"
+
+msgctxt "@label device"
+msgid   "Chunk Size:"
+msgstr  "Mida dels blocs:"
+
+msgctxt "@label device"
+msgid   "Free PE:"
+msgstr  "PE lliure:"
+
+msgctxt "@label device"
+msgid   "LVM Volume Group"
+msgstr  "Grup de volums LVM"
+
+msgctxt "@label device"
+msgid   "Logical sector size:"
+msgstr  "Mida del sector lògic:"
+
+msgctxt "@label device"
+msgid   "PE Size:"
+msgstr  "Mida PE:"
+
+msgctxt "@label device"
+msgid   "Path:"
+msgstr  "Camí:"
+
+msgctxt "@label device"
+msgid   "Physical sector size:"
+msgstr  "Mida del sector físic:"
+
+msgctxt "@label device"
+msgid   "Primaries/Max:"
+msgstr  "Primaris/Màx:"
+
+msgctxt "@label device"
+msgid   "RAID Level:"
+msgstr  "Nivell del RAID:"
+
+msgctxt "@label device"
+msgid   "Software RAID Device"
+msgstr  "Dispositiu de RAID per programari"
+
+msgctxt "@label device"
+msgid   "Total Chunk:"
+msgstr  "Blocs totals:"
+
+msgctxt "@label device"
+msgid   "Total PE:"
+msgstr  "Total PE:"
+
+msgctxt "@label device"
+msgid   "Total sectors:"
+msgstr  "Sectors totals:"
+
+msgctxt "@label device"
+msgid   "Type:"
+msgstr  "Tipus:"
+
+msgctxt "@label device"
+msgid   "Volume Manager Device"
+msgstr  "Dispositiu gestor de volums"
+
+msgctxt "@label device"
+msgid   "Volume Type:"
+msgstr  "Tipus de volum:"
+
+msgctxt "@label partition"
+msgid   "Allocated PE:"
+msgstr  "PE assignada:"
+
+msgctxt "@label partition"
+msgid   "Available:"
+msgstr  "Disponible:"
+
+msgctxt "@label partition"
+msgid   "Capacity:"
+msgstr  "Capacitat:"
+
+msgctxt "@label partition"
+msgid   "Cipher mode:"
+msgstr  "Modo de xifrat:"
+
+msgctxt "@label partition"
+msgid   "Cipher name:"
+msgstr  "Nom de xifrat:"
+
+msgctxt "@label partition"
+msgid   "File system:"
+msgstr  "Sistema de fitxers:"
+
+msgctxt "@label partition"
+msgid   "First sector:"
+msgstr  "Primer sector:"
+
+msgctxt "@label partition"
+msgid   "Free PE:"
+msgstr  "PE lliure:"
+
+msgctxt "@label partition"
+msgid   "Hash:"
+msgstr  "Resum:"
+
+msgctxt "@label partition"
+msgid   "Key size:"
+msgstr  "Mida de la clau:"
+
+msgctxt "@label partition"
+msgid   "Last sector:"
+msgstr  "Últim sector:"
+
+msgctxt "@label partition"
+msgid   "Number of sectors:"
+msgstr  "Nombre de sectors:"
+
+msgctxt "@label partition"
+msgid   "PE Size:"
+msgstr  "Mida PE:"
+
+msgctxt "@label partition"
+msgid   "Payload offset:"
+msgstr  "Desplaçament del contingut:"
+
+msgctxt "@label partition"
+msgid   "Total PE:"
+msgstr  "Total PE:"
+
+msgctxt "@label partition"
+msgid   "Used:"
+msgstr  "Utilisat:"
+
+msgctxt "@label partition capacity available"
+msgid   "Available:"
+msgstr  "Disponible:"
+
+msgctxt "@label partition capacity used"
+msgid   "Used:"
+msgstr  "Utilisada:"
+
+msgctxt "@label partition state"
+msgid   "At least one logical partition is mounted."
+msgstr  "Hi ha com a mínim una partició lògica muntada."
+
+msgctxt "@label partition state"
+msgid   "idle"
+msgstr  "inactiva"
+
+msgctxt "@label partition state"
+msgid   "mounted"
+msgstr  "muntada"
+
+msgctxt "@label partition state"
+msgid   "mounted on <filename>%1</filename>"
+msgstr  "muntada a <filename>%1</filename>"
+
+msgctxt "@label:listbox"
+msgid   "F&ree space before:"
+msgstr  "Espai lliu&re abans:"
+
+msgctxt "@label:listbox"
+msgid   "File syste&m:"
+msgstr  "Siste&ma de fitxers:"
+
+msgctxt "@label:listbox"
+msgid   "File system:"
+msgstr  "Sistema de fitxers:"
+
+msgctxt "@label:listbox"
+msgid   "First sector:"
+msgstr  "Primer sector:"
+
+msgctxt "@label:listbox"
+msgid   "Free space after:"
+msgstr  "Espai lliure després:"
+
+msgctxt "@label:listbox"
+msgid   "Last sector:"
+msgstr  "Últim sector:"
+
+msgctxt "@label:listbox"
+msgid   "Partition type:"
+msgstr  "Tipus de partició:"
+
+msgctxt "@label:listbox"
+msgid   "Si&ze:"
+msgstr  "Mi&da:"
+
+msgctxt "@title"
+msgid   "<application>KDE Partition Manager</application>"
+msgstr  "<application>Gestor de particions de KDE</application>"
+
+msgctxt "@title"
+msgid   "Manage your disks, partitions and file systems"
+msgstr  "Gestioneu els vostres discos, particions i sistemes de fitxers"
+
+msgctxt "@title:column Severity of a log entry / log level. Text must be very "
+        "short."
+msgid   "Sev."
+msgstr  "Sev."
+
+msgctxt "@title:column a time stamp of a log entry"
+msgid   "Time"
+msgstr  "Temps"
+
+msgctxt "@title:column the text message of a log entry"
+msgid   "Message"
+msgstr  "Missatge"
+
+msgctxt "@title:menu"
+msgid   "Columns"
+msgstr  "Columnes"
+
+msgctxt "@title:menu"
+msgid   "Device"
+msgstr  "Dispositiu"
+
+msgctxt "@title:menu"
+msgid   "Panels Shown"
+msgstr  "Mostra els quadros"
+
+msgctxt "@title:menu"
+msgid   "Partition"
+msgstr  "Partició"
+
+msgctxt "@title:menu"
+msgid   "Partition Manager Toolbar"
+msgstr  "Barra d'eines del gestor de particions"
+
+msgctxt "@title:menu"
+msgid   "Select Current Device"
+msgstr  "Seleccioneu el dispositiu actual"
+
+msgctxt "@title:menu"
+msgid   "Tools"
+msgstr  "Eines"
+
+msgctxt "@title:tab"
+msgid   "File System Colors"
+msgstr  "Colors del sistema de fitxers"
+
+msgctxt "@title:tab advanced application settings"
+msgid   "Advanced"
+msgstr  "Avançat"
+
+msgctxt "@title:tab general application settings"
+msgid   "General"
+msgstr  "General"
+
+msgctxt "@title:window"
+msgid   "Apply Pending Operations?"
+msgstr  "Voleu aplicar les operacions pendents?"
+
+msgctxt "@title:window"
+msgid   "Cancel Running Operations"
+msgstr  "Cancela les operacions en execució"
+
+msgctxt "@title:window"
+msgid   "Cannot Create Target Partition."
+msgstr  "No s'ha pogut crear la partició de destinació."
+
+msgctxt "@title:window"
+msgid   "Cannot Delete Partition."
+msgstr  "No s'ha pogut suprimir la partició."
+
+msgctxt "@title:window"
+msgid   "Clear Pending Operations?"
+msgstr  "Voleu netejar les operacions pendents?"
+
+msgctxt "@title:window"
+msgid   "Could Not Launch Browser."
+msgstr  "No s'ha pogut iniciar el navegador."
+
+msgctxt "@title:window"
+msgid   "Could Not Lock Encrypted File System."
+msgstr  "No s'ha pogut bloquejar el sistema de fitxers encriptat."
+
+msgctxt "@title:window"
+msgid   "Could Not Mount File System."
+msgstr  "No s'ha pogut muntar el sistema de fitxers."
+
+msgctxt "@title:window"
+msgid   "Could Not Save Report."
+msgstr  "No s'ha pogut guardar l'informe."
+
+msgctxt "@title:window"
+msgid   "Could Not Save SMART Report."
+msgstr  "No s'ha pogut guardar l'informe SMART."
+
+msgctxt "@title:window"
+msgid   "Could Not Unlock Encrypted File System."
+msgstr  "No s'ha pogut desbloquejar el sistema de fitxers encriptat."
+
+msgctxt "@title:window"
+msgid   "Could Not Unmount File System."
+msgstr  "No s'ha pogut desmuntar el sistema de fitxers."
+
+msgctxt "@title:window"
+msgid   "Create a New Partition Table on <filename>%1</filename>"
+msgstr  "Crea una taula de particions nova a <filename>%1</filename>"
+
+msgctxt "@title:window"
+msgid   "Create a new partition"
+msgstr  "Crea una partició nova"
+
+msgctxt "@title:window"
+msgid   "Create new Volume Group"
+msgstr  "Creació d'un grup de volums nou"
+
+msgctxt "@title:window"
+msgid   "Device Information"
+msgstr  "Informació del dispositiu"
+
+msgctxt "@title:window"
+msgid   "Device Properties: <filename>%1</filename>"
+msgstr  "Propietats del dispositiu: <filename>%1</filename>"
+
+msgctxt "@title:window"
+msgid   "Devices"
+msgstr  "Dispositius"
+
+msgctxt "@title:window"
+msgid   "Discard Pending Operations and Quit?"
+msgstr  "Voleu descartar les operacions pendents i eixir?"
+
+msgctxt "@title:window"
+msgid   "Edit additional mount options"
+msgstr  "Edita les opcions addicionals de muntatge"
+
+msgctxt "@title:window"
+msgid   "Edit mount point for <filename>%1</filename>"
+msgstr  "Edita el punt de muntatge per a <filename>%1</filename>"
+
+msgctxt "@title:window"
+msgid   "Error Exporting Partition Table"
+msgstr  "S'ha produït un error en exportar la taula de particions"
+
+msgctxt "@title:window"
+msgid   "Error Importing Partition Table"
+msgstr  "S'ha produït un error en importar la taula de particions"
+
+msgctxt "@title:window"
+msgid   "Error Saving Log File"
+msgstr  "S'ha produït un error en guardar el fitxer de registre"
+
+msgctxt "@title:window"
+msgid   "Error While Importing Partition Table"
+msgstr  "Error mentre s'importava la taula de particions"
+
+msgctxt "@title:window"
+msgid   "Error While Saving Mount Points"
+msgstr  "S'ha produït un error en guardar els punts de muntatge"
+
+msgctxt "@title:window"
+msgid   "Error opening partition"
+msgstr  "S'ha produït un error en obrir la partició"
+
+msgctxt "@title:window"
+msgid   "Error: Could Not Load Backend Plugin"
+msgstr  "S'ha produït un error: No s'ha pogut carregar el conector del dorsal"
+
+msgctxt "@title:window"
+msgid   "File System Support"
+msgstr  "Compatibilitat amb els sistemes de fitxers"
+
+msgctxt "@title:window"
+msgid   "Information"
+msgstr  "Informació"
+
+msgctxt "@title:window"
+msgid   "Insert a partition"
+msgstr  "Inserix una partició"
+
+msgctxt "@title:window"
+msgid   "KDE Partition Manager"
+msgstr  "Gestor de particions de KDE"
+
+msgctxt "@title:window"
+msgid   "Log Output"
+msgstr  "Registre d'eixida"
+
+msgctxt "@title:window"
+msgid   "Missing File System Support Packages"
+msgstr  "Falten els paquets d'implementació de sistemes de fitxers"
+
+msgctxt "@title:window"
+msgid   "Not Enough Space to Restore File System."
+msgstr  "No hi ha hagut prou espai per a restaurar el sistema de fitxers."
+
+msgctxt "@title:window"
+msgid   "Partition Information"
+msgstr  "Informació de la partició"
+
+msgctxt "@title:window"
+msgid   "Partition properties: <filename>%1</filename>"
+msgstr  "Propietats de la partició: <filename>%1</filename>"
+
+msgctxt "@title:window"
+msgid   "Pending Operations"
+msgstr  "Operacions pendents"
+
+msgctxt "@title:window"
+msgid   "Really Change Backend?"
+msgstr  "Segur que voleu canviar el dorsal?"
+
+msgctxt "@title:window"
+msgid   "Really Create MS-Dos Partition Table Type?"
+msgstr  "Cree un tipus de taula de particions MS-DOS?"
+
+msgctxt "@title:window"
+msgid   "Really Delete Partition in the Clipboard?"
+msgstr  "Segur que voleu suprimir la partició del porta-retalls?"
+
+msgctxt "@title:window"
+msgid   "Really Overwrite Existing Partition?"
+msgstr  "Voleu sobreescriure la partició existent?"
+
+msgctxt "@title:window"
+msgid   "Really Recreate <filename>%1</filename> with File System %2?"
+msgstr  "Segur de recrear <filename>%1</filename> amb el sistema de fitxers "
+        "%2?"
+
+msgctxt "@title:window"
+msgid   "Really Recreate File System on <filename>%1</filename>?"
+msgstr  "Segur de recrear el sistema de fitxers a <filename>%1</filename>?"
+
+msgctxt "@title:window"
+msgid   "Really Rescan the Devices?"
+msgstr  "Voleu tornar a explorar els dispositius?"
+
+msgctxt "@title:window"
+msgid   "Really save changes?"
+msgstr  "Segur que voleu guardar els canvis?"
+
+msgctxt "@title:window"
+msgid   "Resize Volume Group"
+msgstr  "Redimensiona el grup de volums"
+
+msgctxt "@title:window"
+msgid   "Resize/move partition: <filename>%1</filename>"
+msgstr  "Redimensionar/moure partició: <filename>%1</filename>"
+
+msgctxt "@title:window"
+msgid   "SMART Properties: <filename>%1</filename>"
+msgstr  "Propietats SMART: <filename>%1</filename>"
+
+msgctxt "@title:window"
+msgid   "Scanning devices..."
+msgstr  "S'estan explorant els dispositius..."
+
+msgctxt "@title:window"
+msgid   "Target Not Large Enough"
+msgstr  "La destinació no és prou gran"
+
+msgctxt "@title:window"
+msgid   "Too Many Primary Partitions."
+msgstr  "Hi ha massa particions primàries."
+
+msgid   "APFS:"
+msgstr  "APFS:"
+
+msgid   "Active backend:"
+msgstr  "Dorsal actiu:"
+
+msgid   "Advanced Settings"
+msgstr  "Configuració avançada"
+
+msgid   "Align partition"
+msgstr  "Alinea la partició"
+
+msgid   "Align partitions per default"
+msgstr  "Alineació de les particions per defecte"
+
+msgid   "Allow everyone to write and read on this device"
+msgstr  "Permet que tothom escriga i llegisca en este dispositiu"
+
+msgid   "Allow only root to write and read on this device, you will need to "
+        "setup per-folder permissions"
+msgstr  "Permet que només l'administrador escriga i llegisca en este "
+        "dispositiu, cal definir permisos per carpeta"
+
+msgid   "Assessment"
+msgstr  "Evaluació"
+
+msgid   "Attribute"
+msgstr  "Atribut"
+
+msgid   "Available"
+msgstr  "Disponible"
+
+msgid   "Backend"
+msgstr  "Dorsal"
+
+msgid   "Backup"
+msgstr  "Fes còpia de seguretat"
+
+msgid   "Bad sectors:"
+msgstr  "Sectors roïns:"
+
+msgid   "BitLocker:"
+msgstr  "BitLocker:"
+
+msgid   "Btrfs:"
+msgstr  "Btrfs:"
+
+msgid   "Byte"
+msgstr  "Byte"
+
+msgid   "Capacity:"
+msgstr  "Capacitat:"
+
+msgid   "Check"
+msgstr  "Comprova"
+
+msgid   "Choose the type of partition table you want to create:"
+msgstr  "Seleccioneu el tipus de taula de particions que voleu crear:"
+
+msgid   "Copy"
+msgstr  "Copia"
+
+msgid   "Create"
+msgstr  "Crea"
+
+msgid   "Current"
+msgstr  "Actual"
+
+msgid   "De&vice Node"
+msgstr  "Nodo del dispositi&u"
+
+msgid   "Debug"
+msgstr  "Depura"
+
+msgid   "Default file system:"
+msgstr  "Sistema de fitxers per defecte:"
+
+msgid   "Dump &Frequency:"
+msgstr  "&Freqüència del bolcat:"
+
+msgid   "E&xtended"
+msgstr  "A&mpliada"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "manutortosa@gmail.com"
+
+msgid   "Edit Mount Options"
+msgstr  "Edita opcions de muntatge"
+
+msgid   "Edit the mount options for this file system:"
+msgstr  "Edita les opcions de muntatge d'este sistema de fitxers:"
+
+msgid   "EiB"
+msgstr  "EiB"
+
+msgid   "Encrypt with LUKS"
+msgstr  "Encripta amb LUKS"
+
+msgid   "Error"
+msgstr  "Error"
+
+msgid   "Everyone"
+msgstr  "Tothom"
+
+msgid   "F2FS:"
+msgstr  "F2FS:"
+
+msgid   "FAT12:"
+msgstr  "FAT12:"
+
+msgid   "FAT16:"
+msgstr  "FAT16:"
+
+msgid   "FAT32:"
+msgstr  "FAT32:"
+
+msgid   "Failure Type"
+msgstr  "Tipus de fallada"
+
+msgid   "File System"
+msgstr  "Sistema de fitxers"
+
+msgid   "File System Color Settings"
+msgstr  "Configuració del color del sistema de fitxers"
+
+msgid   "File Systems"
+msgstr  "Sistemes de fitxers"
+
+msgid   "Firmware revision:"
+msgstr  "Revisió del microprogramari:"
+
+msgid   "First Sector"
+msgstr  "Primer sector"
+
+msgid   "Flags"
+msgstr  "Indicadors"
+
+msgid   "GPT"
+msgstr  "GPT"
+
+msgid   "General Settings"
+msgstr  "Configuració general"
+
+msgid   "GiB"
+msgstr  "GiB"
+
+msgid   "Grow"
+msgstr  "Engrandeix"
+
+msgid   "HFS+:"
+msgstr  "HFS+:"
+
+msgid   "HFS:"
+msgstr  "HFS:"
+
+msgid   "HPFS:"
+msgstr  "HPFS:"
+
+msgid   "Hide messages below:"
+msgstr  "Oculta els missatges de davall:"
+
+msgid   "Hugo Pereira Da Costa"
+msgstr  "Hugo Pereira Da Costa"
+
+msgid   "ISO 9660:"
+msgstr  "ISO 9660:"
+
+msgid   "Id"
+msgstr  "ID"
+
+msgid   "Identify by:"
+msgstr  "Identifica per:"
+
+msgid   "Information"
+msgstr  "Informació"
+
+msgid   "JFS:"
+msgstr  "JFS:"
+
+msgid   "KiB"
+msgstr  "KiB"
+
+msgid   "LUKS2:"
+msgstr  "LUKS2:"
+
+msgid   "LUKS:"
+msgstr  "LUKS:"
+
+msgid   "LVM2 PV:"
+msgstr  "LVM2 PV:"
+
+msgid   "Label"
+msgstr  "Etiqueta"
+
+msgid   "Last Sector"
+msgstr  "Últim sector"
+
+msgid   "Linux RAID:"
+msgstr  "RAID de Linux:"
+
+msgid   "Linux Swap:"
+msgstr  "Intercanvi de Linux:"
+
+msgid   "Logging"
+msgstr  "Registre"
+
+msgid   "Logical Volume Name:"
+msgstr  "Nom del volum lògic:"
+
+msgid   "Logical sector size:"
+msgstr  "Mida del sector lògic:"
+
+msgid   "MS-Dos"
+msgstr  "MS-DOS"
+
+msgid   "MiB"
+msgstr  "MiB"
+
+msgid   "Model:"
+msgstr  "Model:"
+
+msgid   "More..."
+msgstr  "Més..."
+
+msgid   "Mount Point"
+msgstr  "Punt de muntatge"
+
+msgid   "Move"
+msgstr  "Mou"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Manuel Tortosa Moreno"
+
+msgid   "NILFS2:"
+msgstr  "NILFS2:"
+
+msgid   "NTFS:"
+msgstr  "NTFS:"
+
+msgid   "No automatic mount"
+msgstr  "Sense muntatge automàtic"
+
+msgid   "No binary execution"
+msgstr  "Sense execució de binaris"
+
+msgid   "No update of directory access times"
+msgstr  "Sense actualisació de vegades que s'accedeix al directori"
+
+msgid   "No update of file access times"
+msgstr  "Sense actualisació de vegades que s'accedeix al fitxer"
+
+msgid   "Number of Sectors"
+msgstr  "Nombre de sectors"
+
+msgid   "OCFS2:"
+msgstr  "OCFS2:"
+
+msgid   "Only Root"
+msgstr  "Només l'administrador"
+
+msgid   "Open in External Browser"
+msgstr  "Obri en un navegador extern"
+
+msgid   "Operation: %p%"
+msgstr  "Operació: %p%"
+
+msgid   "Operations and Jobs"
+msgstr  "Operacions i tasques"
+
+msgid   "Option1,Option2"
+msgstr  "Opció1,Opció2"
+
+msgid   "Options:"
+msgstr  "Opcions:"
+
+msgid   "Overall assessment:"
+msgstr  "Evaluació global:"
+
+msgid   "Overwrite with:"
+msgstr  "Sobreescriu amb:"
+
+msgctxt "Part of %2Enter passphrase for %1:"
+msgid   "Invalid passphrase. "
+msgstr  "Frase de pas no vàlida. "
+
+msgid   "Partition"
+msgstr  "Partició"
+
+msgid   "Partition Alignment"
+msgstr  "Alineació de la partició"
+
+msgid   "Partition Label"
+msgstr  "Etiqueta de partició"
+
+msgid   "Partition Label:"
+msgstr  "Etiqueta de partició:"
+
+msgid   "Partition UUID"
+msgstr  "UUID de partició"
+
+msgid   "Partition UUID:"
+msgstr  "UUID de partició:"
+
+msgid   "Partition table:"
+msgstr  "Taula de particions:"
+
+msgid   "Pass &Number:"
+msgstr  "&Número de passe:"
+
+msgid   "Path:"
+msgstr  "Camí:"
+
+msgid   "Permissions"
+msgstr  "Permisos"
+
+msgid   "Physical Extent Size: "
+msgstr  "Mida de l'extensió física:"
+
+msgid   "Physical sector size:"
+msgstr  "Mida del sector físic:"
+
+msgid   "PiB"
+msgstr  "PiB"
+
+msgid   "Power cycles:"
+msgstr  "Cicles de funcionament:"
+
+msgid   "Powered on for:"
+msgstr  "En funcionament durant:"
+
+msgid   "Preferred unit:"
+msgstr  "Unitat preferida:"
+
+msgid   "Primar&y"
+msgstr  "Pr&imària"
+
+msgid   "Primaries/Max:"
+msgstr  "Primaris/Màx:"
+
+msgid   "Random data"
+msgstr  "Dades aleatòries"
+
+msgid   "Raw"
+msgstr  "En brut"
+
+msgid   "Read Label"
+msgstr  "Llig l'etiqueta"
+
+msgid   "Read Usage"
+msgstr  "Llig l'ús"
+
+msgid   "Read-only"
+msgstr  "Només de lectura"
+
+msgid   "Reiser4:"
+msgstr  "Reiser4:"
+
+msgid   "ReiserFS:"
+msgstr  "ReiserFS:"
+
+msgid   "Remove"
+msgstr  "Elimina"
+
+msgid   "Restore"
+msgstr  "Restaura"
+
+msgid   "SMART status:"
+msgstr  "Estat SMART:"
+
+msgid   "Save"
+msgstr  "Guarda"
+
+msgid   "Sector alignment:"
+msgstr  "Alineació dels sectors:"
+
+msgid   "Sector based align&ment"
+msgstr  "A&lineació basada en sectors"
+
+msgid   "Select..."
+msgstr  "Selecciona..."
+
+msgid   "Self tests:"
+msgstr  "Proves d'autocomprovació:"
+
+msgid   "Serial number:"
+msgstr  "Número de sèrie:"
+
+msgid   "Set up encryption for this filesystem with LUKS. You will be asked "
+        "to provide a passphrase."
+msgstr  "Configura l'encriptació d'este sistema de fitxers amb LUKS. Es "
+        "demanarà una frase de pas."
+
+msgid   "Severity"
+msgstr  "Gravetat"
+
+msgid   "Shredding"
+msgstr  "Destrucció"
+
+msgid   "Shrink"
+msgstr  "Encongeix"
+
+msgid   "Size"
+msgstr  "Mida"
+
+msgid   "Status"
+msgstr  "Estat"
+
+msgid   "Support Tools"
+msgstr  "Eines de soport"
+
+msgid   "Synchronous access"
+msgstr  "Accés síncron"
+
+msgid   "Temperature:"
+msgstr  "Temperatura:"
+
+msgid   "This table shows which file systems are supported and which specific "
+        "operations can be performed on them.\n"
+        "Some file systems need external tools to be installed for them to be "
+        "supported. But not all operations can be performed on all file "
+        "systems, even if all required tools are installed. Please see the "
+        "documentation for details. "
+msgstr  "Esta taula mostra quins tipus de sistemes de fitxers estan acceptats "
+        "i quines operacions específiques s'hi poden dur a terme.\n"
+        "Alguns sistemes de fitxers necessiten tindre eines externes "
+        "instalades per a ser acceptats. No totes les operacions es poden dur "
+        "a terme en tots els sistemes de fitxers, encara que hi estiguen "
+        "instalades les eines necessàries. Per favor, mireu la documentació "
+        "per a més detalls."
+
+msgid   "This will reformat the filesystem, losing all contents, but keeping "
+        "the same filesystem type."
+msgstr  "Reformatarà el sistema de fitxers, perdent tot el contingut, pero "
+        "mantenint el mateix tipus de sistema de fitxers."
+
+msgid   "Threshold"
+msgstr  "Llindar"
+
+msgid   "TiB"
+msgstr  "TiB"
+
+msgid   "Time Elapsed"
+msgstr  "Temps transcorregut"
+
+msgid   "Total LV: "
+msgstr  "Total del VL:"
+
+msgid   "Total Sectors: "
+msgstr  "Sectors totals: "
+
+msgid   "Total Size: "
+msgstr  "Mida total: "
+
+msgid   "Total Time: 00:00:00"
+msgstr  "Temps total: 00:00:00"
+
+msgid   "Total sectors:"
+msgstr  "Sectors totals:"
+
+msgid   "Total: %p%"
+msgstr  "Total: %p%"
+
+msgid   "Type"
+msgstr  "Tipus"
+
+msgid   "Type:"
+msgstr  "Tipus:"
+
+msgid   "UDF:"
+msgstr  "UDF:"
+
+msgid   "UFS:"
+msgstr  "UFS:"
+
+msgid   "UU&ID"
+msgstr  "UU&ID"
+
+msgid   "UUID"
+msgstr  "UUID"
+
+msgid   "Units"
+msgstr  "Unitats"
+
+msgid   "Update Type"
+msgstr  "Tipus d'actualisació"
+
+msgid   "Update access times relative to modification"
+msgstr  "Actualisa les vegades que s'ha accedit en relació"
+
+msgid   "Use cylinder based alignment (Windows XP compatible)"
+msgstr  "Utilisa l'alineació basada en cilindres (compatible amb Windows XP)"
+
+msgid   "Used"
+msgstr  "Utilisat"
+
+msgid   "Used Size: "
+msgstr  "Mida emprada:"
+
+msgid   "Users can mount and unmount"
+msgstr  "Els usuaris poden muntar i desmuntar"
+
+msgid   "Value"
+msgstr  "Valor"
+
+msgid   "Volume Group Name: "
+msgstr  "Nom del grup de volums: "
+
+msgid   "Volume Group Type: "
+msgstr  "Tipus del grup de volums: "
+
+msgid   "Warning"
+msgstr  "Avís"
+
+msgid   "Worst"
+msgstr  "El pitjor"
+
+msgid   "Write Label"
+msgstr  "Escriu l'etiqueta"
+
+msgid   "XFS:"
+msgstr  "XFS:"
+
+msgid   "ZFS:"
+msgstr  "ZFS:"
+
+msgid   "Zeros"
+msgstr  "Zeros"
+
+msgid   "exFAT:"
+msgstr  "exFAT:"
+
+msgid   "ext2:"
+msgstr  "ext2:"
+
+msgid   "ext3:"
+msgstr  "ext3:"
+
+msgid   "ext4:"
+msgstr  "ext4:"
+
+msgid   "extended:"
+msgstr  "ampliada:"
+
+msgid   "unformatted:"
+msgstr  "sense format:"
+
+msgid   "unknown:"
+msgstr  "desconeguda:"

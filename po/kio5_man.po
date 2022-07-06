@@ -1,0 +1,132 @@
+msgid   ""
+msgstr  "Project-Id-Version: kio-extras\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2021-09-03 16:15+0200\n"
+        "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Lokalize 21.07.90\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+
+msgctxt "@info"
+msgid   "Could not find the <command>%1</command> program on your system. "
+        "Please install it if necessary, and ensure that it can be found "
+        "using the environment variable <envar>PATH</envar>."
+msgstr  "No s'ha pogut trobar el programa <command>%1</command> en el "
+        "sistema. Instaleu-lo si fos necessari, assegureu-vos que es pot "
+        "trobar utilisant la variable d'entorn <envar>PATH</envar>."
+
+msgctxt "@info"
+msgid   "No man page matching <resource>%1</resource> could be found.<nl/><nl/"
+        ">Check that you have not mistyped the name of the page, and note "
+        "that man page names are case sensitive.<nl/><nl/>If the name is "
+        "correct, then you may need to extend the search path for man pages, "
+        "either using the <envar>MANPATH</envar> environment variable or a "
+        "configuration file in the <filename>/etc</filename> directory."
+msgstr  "No s'ha trobat cap pàgina «man» coincident amb <resource>%1</"
+        "resource>.<nl/><nl/>Comproveu que no hàgeu escrit malament el nom de "
+        "la pàgina que voleu, i cal tindre en compte que els noms de les "
+        "pàgines distinguixen entre majúscules i minúscules.<nl/><nl/>Si el "
+        "nom és correcte, potser cal ampliar el camí de busca per a les "
+        "pàgines «man», be siga amb la variable d'entorn <envar>MANPATH</"
+        "envar> o amb un fitxer de configuració al directori <filename>/etc</"
+        "filename>."
+
+msgctxt "@info"
+msgid   "The man page <filename>%1</filename> could not be converted."
+msgstr  "La pàgina «man» <filename>%1</filename> no s'ha pogut convertir."
+
+msgctxt "@info"
+msgid   "The man page <filename>%1</filename> could not be read."
+msgstr  "La pàgina «man» <filename>%1</filename> no s'ha pogut llegir."
+
+msgctxt "@info"
+msgid   "The specified man page references another page <filename>%1</"
+        "filename>,<nl/>but the referenced page <filename>%2</filename> could "
+        "not be found."
+msgstr  "La pàgina «man» especificada referencia una atra pàgina "
+        "<filename>%1</filename>,<nl/>pero no s'ha pogut trobar la pàgina "
+        "referenciada <filename>%2</filename>."
+
+msgid   "Devices"
+msgstr  "Dispositius"
+
+msgid   "File Formats"
+msgstr  "Formats de fitxer"
+
+msgid   "Games"
+msgstr  "Jocs"
+
+msgid   "Generating Index"
+msgstr  "S'està generant l'índex"
+
+msgid   "Header Files"
+msgstr  "Fitxers de capçalera"
+
+msgid   "Header Files (POSIX)"
+msgstr  "Fitxers de capçalera (POSIX)"
+
+msgid   "Index for section %1: %2"
+msgstr  "Índex per a la secció %1: %2"
+
+msgid   "Kernel"
+msgstr  "Nucli"
+
+msgid   "Local Documentation"
+msgstr  "Documentació local"
+
+msgid   "Main Manual Page Index"
+msgstr  "Índex principal de pàgines de manual"
+
+msgid   "Manual Page Index"
+msgstr  "Índex de pàgines de manual"
+
+msgid   "Manual Page Viewer Error"
+msgstr  "S'ha produït un error del visor de les pàgines de manual"
+
+msgid   "Miscellaneous"
+msgstr  "Miscelànea"
+
+msgid   "Multiple Manual Pages"
+msgstr  "Múltiples pàgines de manual"
+
+msgid   "Network Functions"
+msgstr  "Funcions de ret"
+
+msgid   "New"
+msgstr  "Nou"
+
+msgid   "Note: if you read a man page in your language, be aware it can "
+        "contain some mistakes or be obsolete. In case of doubt, you should "
+        "have a look at the English version."
+msgstr  "Nota: si llegiu una pàgina «man» en el vostre idioma, heu de saber "
+        "que pot contindre algunes errades o estar obsoleta. En cas de dubte, "
+        "hauríeu de donar un colp d'ull a la versió anglesa."
+
+msgid   "Perl Modules"
+msgstr  "Mòduls de Perl"
+
+msgid   "Section %1"
+msgstr  "Secció %1"
+
+msgid   "Subroutines"
+msgstr  "Subrutines"
+
+msgid   "System Administration"
+msgstr  "Administració del sistema"
+
+msgid   "System Calls"
+msgstr  "Crides del sistema"
+
+msgid   "There is more than one matching man page:"
+msgstr  "Hi ha més d'una pàgina «man» coincident:"
+
+msgid   "User Commands"
+msgstr  "Ordres d'usuari"
+
+msgid   "User Commands (POSIX)"
+msgstr  "Ordres d'usuari (POSIX)"

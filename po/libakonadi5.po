@@ -1,0 +1,1597 @@
+msgid   ""
+msgstr  "Project-Id-Version: akonadi\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-01-26 21:48+0100\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Lokalize 20.12.0\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+
+msgctxt "%1 = agent name"
+msgid   "%1 Configuration"
+msgstr  "Configuració de %1"
+
+msgid   "%1 Handbook"
+msgstr  "Manual de %1"
+
+msgctxt "%1 is a reason why"
+msgid   "Cannot connect to the Personal information management service.\n"
+        "\n"
+        "%1"
+msgstr  "No s'ha pogut connectar amb el servei per a la gestió de la "
+        "informació personal.\n"
+        "\n"
+        "%1"
+
+msgid   "&Configure Agent Instance"
+msgstr  "&Configura la instància de l'agent"
+
+msgid   "&Copy Folder"
+msgid_plural    "&Copy %1 Folders"
+msgstr[0]       "&Copia la carpeta"
+msgstr[1]       "&Copia %1 carpetes"
+
+msgid   "&Copy Here"
+msgstr  "&Copia ací"
+
+msgid   "&Copy Item"
+msgid_plural    "&Copy %1 Items"
+msgstr[0]       "&Copia l'element"
+msgstr[1]       "&Copia %1 elements"
+
+msgid   "&Cut Folder"
+msgstr  "&Retalla la carpeta"
+
+msgid   "&Cut Item"
+msgstr  "&Retalla l'element"
+
+msgid   "&Delete Agent Instance"
+msgstr  "Sup&rimix la instància de l'agent"
+
+msgid   "&Delete Folder"
+msgstr  "Sup&rimix la carpeta"
+
+msgid   "&Delete Item"
+msgid_plural    "&Delete %1 Items"
+msgstr[0]       "Sup&rimix l'element"
+msgstr[1]       "Sup&rimix %1 elements"
+
+msgid   "&Delete Resource"
+msgid_plural    "&Delete %1 Resources"
+msgstr[0]       "Sup&rimix el recurs"
+msgstr[1]       "Sup&rimix %1 recursos"
+
+msgid   "&Link Here"
+msgstr  "&Enllaça ací"
+
+msgid   "&Modify..."
+msgstr  "&Modifica..."
+
+msgid   "&Move Folder To Trash"
+msgstr  "&Mou la carpeta a la paperera"
+
+msgid   "&Move Here"
+msgstr  "&Mou ací"
+
+msgid   "&Move Item To Trash"
+msgstr  "&Mou l'element a la paperera"
+
+msgid   "&Name:"
+msgstr  "&Nom:"
+
+msgid   "&New Agent Instance..."
+msgstr  "Instància &nova de l'agent..."
+
+msgid   "&New Folder..."
+msgstr  "Carpeta &nova..."
+
+msgid   "&New Subfolder..."
+msgstr  "Subcarpeta &nova..."
+
+msgid   "&Paste"
+msgstr  "&Apega"
+
+msgid   "&Resource Properties"
+msgstr  "&Propietats del recurs"
+
+msgid   "&Restore Collection From Trash"
+msgstr  "&Restaura la colecció des de la paperera"
+
+msgid   "&Restore Folder From Trash"
+msgstr  "&Restaura la carpeta des de la paperera"
+
+msgid   "&Restore Item From Trash"
+msgstr  "&Restaura l'element des de la paperera"
+
+msgid   "&Retrieve message bodies on demand"
+msgstr  "&Recupera els cossos dels missatges a petició"
+
+msgid   "&Subscribed only"
+msgstr  "Només els &subscrits"
+
+msgid   "&Synchronize Favorite Folders"
+msgstr  "&Sincronisa les carpetes preferides"
+
+msgid   "&Synchronize Folder"
+msgstr  "&Sincronisa la carpeta"
+
+msgid   "&Synchronize Folder Recursively"
+msgstr  "&Sincronisa les carpetes recursivament"
+
+msgid   "&Synchronize Resource"
+msgid_plural    "&Synchronize %1 Resources"
+msgstr[0]       "&Sincronisa el recurs"
+msgstr[1]       "&Sincronisa %1 recursos"
+
+msgid   "&Unsubscribe"
+msgstr  "Cancela la s&ubscripció"
+
+msgid   "&Use custom icon:"
+msgstr  "&Utilisa una icona personalisada:"
+
+msgid   "(c) 2008 Volker Krause <vkrause@kde.org>"
+msgstr  "(c) 2008 Volker Krause <vkrause@kde.org>"
+
+msgid   "(c) 2009 Volker Krause <vkrause@kde.org>"
+msgstr  "(c) 2009 Volker Krause <vkrause@kde.org>"
+
+msgid   "..."
+msgstr  "..."
+
+msgid   "0 Byte"
+msgstr  "0 Bytes"
+
+msgid   "0 objects"
+msgstr  "0 objectes"
+
+msgid   "<p>For more troubleshooting tips please refer to <a href=\"https://"
+        "userbase.kde.org/Akonadi\">userbase.kde.org/Akonadi</a>.</p>"
+msgstr  "<p>Per a més consells sobre la resolució de problemes, vejau <a "
+        "href=\"https://userbase.kde.org/Akonadi/ca\">userbase.kde.org/"
+        "Akonadi</a>.</p>"
+
+msgid   "<qt>Your changes conflict with those made by someone else meanwhile."
+        "<br>Unless one version can just be thrown away, you will have to "
+        "integrate those changes manually.<br>Click on <a "
+        "href=\"opentexteditor\">\"Open text editor\"</a> to keep a copy of "
+        "the texts, then select which version is most correct, then re-open "
+        "it and modify it again to add what's missing."
+msgstr  "<qt>Els vostres canvis entren en conflicte amb els d'algú atre.<br> "
+        "A menys que es puga llençar alguna versió, els haureu d'integrar "
+        "manualment.<br>Feu clic a «<a href=\"opentexteditor\">Obri l'editor "
+        "de text</a>» per a mantindre una còpia dels textos, seleccioneu la "
+        "versió més correcta, torneu-la a obrir i modifiqueu-la de nou per a "
+        "afegir-hi el que falta."
+
+msgctxt "@action"
+msgid   "&Cut Folder"
+msgid_plural    "&Cut %1 Folders"
+msgstr[0]       "&Retalla la carpeta"
+msgstr[1]       "&Retalla %1 carpetes"
+
+msgctxt "@action"
+msgid   "&Cut Item"
+msgid_plural    "&Cut %1 Items"
+msgstr[0]       "&Retalla l'element"
+msgstr[1]       "&Retalla %1 elements"
+
+msgctxt "@action"
+msgid   "&Delete Folder"
+msgid_plural    "&Delete %1 Folders"
+msgstr[0]       "Sup&rimix la carpeta"
+msgstr[1]       "Sup&rimix %1 carpetes"
+
+msgctxt "@action"
+msgid   "&Synchronize Folder"
+msgid_plural    "&Synchronize %1 Folders"
+msgstr[0]       "&Sincronisa la carpeta"
+msgstr[1]       "&Sincronisa %1 carpetes"
+
+msgctxt "@action"
+msgid   "Delete Resource"
+msgid_plural    "Delete %1 Resources"
+msgstr[0]       "Suprimix el recurs"
+msgstr[1]       "Suprimix %1 recursos"
+
+msgctxt "@action"
+msgid   "Synchronize Resource"
+msgid_plural    "Synchronize %1 Resources"
+msgstr[0]       "Sincronisa el recurs"
+msgstr[1]       "Sincronisa %1 recursos"
+
+msgctxt "@action:button"
+msgid   "Go Online"
+msgstr  "Connecta"
+
+msgctxt "@action:button"
+msgid   "Keep both versions"
+msgstr  "Mantin ambdues versions"
+
+msgctxt "@action:button"
+msgid   "Take my version"
+msgstr  "Agafa la meua versió"
+
+msgctxt "@action:button"
+msgid   "Take their version"
+msgstr  "Agafa la seua versió"
+
+msgctxt "@action:button Start the Akonadi server"
+msgid   "Start"
+msgstr  "Inicia"
+
+msgctxt "@info"
+msgid   "Cannot fetch item in offline mode."
+msgstr  "No es pot recuperar l'element en el modo desconnectat."
+
+msgctxt "@info"
+msgid   "Could not copy collection: <message>%1</message>"
+msgstr  "No s'ha pogut copiar la colecció: <message>%1</message>"
+
+msgctxt "@info"
+msgid   "Could not copy item: <message>%1</message>"
+msgstr  "No s'ha pogut copiar l'element: <message>%1</message>"
+
+msgctxt "@info"
+msgid   "Could not link entity: <message>%1</message>"
+msgstr  "No s'ha pogut enllaçar l'entitat: <message>%1</message>"
+
+msgctxt "@info"
+msgid   "Could not move collection: <message>%1</message>"
+msgstr  "No s'ha pogut moure la colecció: <message>%1</message>"
+
+msgctxt "@info"
+msgid   "Could not move item: <message>%1</message>"
+msgstr  "No s'ha pogut moure l'element: <message>%1</message>"
+
+msgctxt "@info"
+msgid   "Delete tag"
+msgstr  "Elimina l'etiqueta"
+
+msgctxt "@info"
+msgid   "Do you really want to remove the tag <resource>%1</resource>?"
+msgstr  "Segur que voleu eliminar l'etiqueta <resource>%1</resource>?"
+
+msgctxt "@info"
+msgid   "Error while creating item: %1"
+msgstr  "S'ha produït un error en crear l'element: %1"
+
+msgctxt "@info"
+msgid   "Error while updating collection: %1"
+msgstr  "S'ha produït un error en actualisar la colecció: %1"
+
+msgctxt "@info"
+msgid   "Invalid item retrieved"
+msgstr  "S'ha recuperat un element no vàlit"
+
+msgctxt "@info"
+msgid   "Job canceled."
+msgstr  "Treball cancelat."
+
+msgctxt "@info"
+msgid   "Updating local collection failed: %1."
+msgstr  "No s'ha pogut fer l'actualisació de la colecció local: %1."
+
+msgctxt "@info"
+msgid   "Updating local items failed: %1."
+msgstr  "No s'ha pogut fer l'actualisació dels elements locals: %1."
+
+msgctxt "@info Displayed grayed-out inside the textbox, verb to search"
+msgid   "Search"
+msgstr  "Busca"
+
+msgctxt "@info:status"
+msgid   "Error."
+msgstr  "Error."
+
+msgctxt "@info:status"
+msgid   "Loading..."
+msgstr  "S'està carregant..."
+
+msgctxt "@info:status"
+msgid   "Not configured"
+msgstr  "Sense configurar"
+
+msgctxt "@info:status"
+msgid   "Offline"
+msgstr  "Desconnectat"
+
+msgctxt "@info:status"
+msgid   "Syncing folder '%1'"
+msgstr  "S'està sincronisant la carpeta «%1»"
+
+msgctxt "@info:status"
+msgid   "Syncing..."
+msgstr  "S'està sincronisant..."
+
+msgctxt "@info:status Application ready for work"
+msgid   "Ready"
+msgstr  "Preparat"
+
+msgctxt "@label"
+msgid   "One object"
+msgid_plural    "%1 objects"
+msgstr[0]       "Un objecte"
+msgstr[1]       "%1 objectes"
+
+msgctxt "@label Placeholder text in tag selection combobox"
+msgid   "Select tags..."
+msgstr  "Selecció d'etiquetes..."
+
+msgctxt "@label command line option"
+msgid   "Resource identifier"
+msgstr  "Identificador del recurs"
+
+msgctxt "@label:textbox name of Akonadi folder"
+msgid   "Name"
+msgstr  "Nom"
+
+msgctxt "@label:textbox name of the folder"
+msgid   "Name:"
+msgstr  "Nom:"
+
+msgctxt "@label:textbox, name of a thing"
+msgid   "Name"
+msgstr  "Nom"
+
+msgctxt "@title"
+msgid   "Delete tag"
+msgstr  "Elimina l'etiqueta"
+
+msgctxt "@title"
+msgid   "Subscription Error"
+msgstr  "S'ha produït un error de subscripció"
+
+msgctxt "@title:column Name of a thing"
+msgid   "Name"
+msgstr  "Nom"
+
+msgctxt "@title:column, name of a thing"
+msgid   "Name"
+msgstr  "Nom"
+
+msgctxt "@title:tab general properties page"
+msgid   "General"
+msgstr  "General"
+
+msgctxt "@title:window"
+msgid   "Akonadi Server Self-Test"
+msgstr  "Autocomprovació del servidor Akonadi"
+
+msgctxt "@title:window"
+msgid   "Conflict Resolution"
+msgstr  "Resolució de conflictes"
+
+msgctxt "@title:window"
+msgid   "Delete Agent Instance?"
+msgstr  "Voleu suprimir la instància de l'agent?"
+
+msgctxt "@title:window"
+msgid   "Delete Resource?"
+msgid_plural    "Delete Resources?"
+msgstr[0]       "Voleu suprimir el recurs?"
+msgstr[1]       "Voleu suprimir els recursos?"
+
+msgctxt "@title:window"
+msgid   "Delete folder?"
+msgid_plural    "Delete folders?"
+msgstr[0]       "Voleu suprimir la carpeta?"
+msgstr[1]       "Voleu suprimir les carpetes?"
+
+msgctxt "@title:window"
+msgid   "Delete item?"
+msgid_plural    "Delete items?"
+msgstr[0]       "Voleu suprimir l'element?"
+msgstr[1]       "Voleu suprimir els elements?"
+
+msgctxt "@title:window"
+msgid   "Error"
+msgstr  "Error"
+
+msgctxt "@title:window"
+msgid   "New Agent Instance"
+msgstr  "Instància nova de l'agent"
+
+msgctxt "@title:window"
+msgid   "New Folder"
+msgstr  "Carpeta nova"
+
+msgctxt "@title:window"
+msgid   "New Resource"
+msgstr  "Recurs nou"
+
+msgctxt "@title:window"
+msgid   "Properties of Folder %1"
+msgstr  "Propietats de la carpeta %1"
+
+msgctxt "@title:window"
+msgid   "Rename Favorite"
+msgstr  "Canvia el nom d'una preferida"
+
+msgctxt "@title:window"
+msgid   "Select a collection"
+msgstr  "Seleccioneu una colecció"
+
+msgctxt "@window:title"
+msgid   "Error"
+msgstr  "Error"
+
+msgid   "A MySQL server error log file was found but is not readable: %1"
+msgstr  "S'ha trobat un registre d'error del servidor MySQL, pero no es pot "
+        "llegir: %1"
+
+msgid   "A&dd..."
+msgstr  "Afi&g..."
+
+msgid   "About %1"
+msgstr  "Quant a %1"
+
+msgid   "Account \"%1\" is offline"
+msgstr  "El compte «%1» està desconnectat"
+
+msgid   "Accounts integration is not supported"
+msgstr  "La integració dels comptes no està admesa"
+
+msgid   "Add to Favorite"
+msgstr  "Afig a les preferides"
+
+msgid   "Add to Favorite Folders"
+msgstr  "Afig a les carpetes preferides"
+
+msgid   "Agent identifier"
+msgstr  "Identificador de l'agent"
+
+msgid   "Agent instance creation failed"
+msgstr  "La creació de la instància de l'agent ha fallat"
+
+msgid   "Agent instance creation timed out."
+msgstr  "La creació de la instància de l'agent ha excedit el temps límit."
+
+msgid   "Akonadi Agent"
+msgstr  "Agent d'Akonadi"
+
+msgid   "Akonadi Resource"
+msgstr  "Recurs d'Akonadi"
+
+msgid   "Akonadi Self Test"
+msgstr  "Autocomprovació d'Akonadi"
+
+msgid   "Akonadi To XML converter"
+msgstr  "Convertidor a XML d'Akonadi"
+
+msgid   "Akonadi control process not registered at D-Bus."
+msgstr  "El procés de control d'Akonadi no s'ha registrat a D-Bus."
+
+msgid   "Akonadi control process registered at D-Bus."
+msgstr  "El procés de control d'Akonadi s'ha registrat a D-Bus."
+
+msgid   "Akonadi is not running as a root/administrator user, which is the "
+        "recommended setup for a secure system."
+msgstr  "Akonadi no s'està executant com a usuari root/administrador, el qual "
+        "és la configuració recomanada per a un sistema segur."
+
+msgid   "Akonadi is not running as root"
+msgstr  "Akonadi no s'està executant com a root"
+
+msgid   "Akonadi server process not registered at D-Bus."
+msgstr  "El procés de servidor d'Akonadi no s'ha registrat a D-Bus."
+
+msgid   "Akonadi server process registered at D-Bus."
+msgstr  "El procés de servidor d'Akonadi s'ha registrat a D-Bus."
+
+msgid   "Akonadi was started as root"
+msgstr  "Akonadi s'ha iniciat com a root"
+
+msgid   "Always retrieve full &messages"
+msgstr  "Recupera sempre els &missatges complets"
+
+msgid   "An error occurred during the startup of the Akonadi server. The "
+        "following self-tests are supposed to help with tracking down and "
+        "solving this problem. When requesting support or reporting bugs, "
+        "please always include this report."
+msgstr  "S'ha produït un error durant l'inici del servidor Akonadi. Se suposa "
+        "que les autocomprovacions següents ajudaran a determinar i "
+        "solucionar este problema. Quan soliciteu ajuda o informeu d'errors, "
+        "cal incloure sempre est informe, per favor."
+
+msgid   "An error occurred while creating a new tag"
+msgstr  "S'ha produït un error en crear una etiqueta nova"
+
+msgid   "At least one resource agent has been found."
+msgstr  "S'ha trobat com a mínim un agent de recursos."
+
+msgid   "Attribute: %1"
+msgstr  "Atribut: %1"
+
+msgid   "Before syncing folder \"%1\" it is necessary to have the resource "
+        "online. Do you want to make it online?"
+msgstr  "Abans de sincronisar la carpeta «%1» cal tindre el recurs en llínea. "
+        "Voleu posar-lo en llínea?"
+
+msgid   "C&ancel"
+msgstr  "C&ancela"
+
+msgid   "Calculating indexed items..."
+msgstr  "S'estan calculant els elements indexats..."
+
+msgid   "Cannot connect to PostgreSQL server."
+msgstr  "No s'ha pogut connectar amb el servidor PostgreSQL."
+
+msgid   "Cannot connect to the Akonadi service."
+msgstr  "No s'ha pogut connectar amb el servei Akonadi."
+
+msgid   "Checks and reports state of Akonadi server"
+msgstr  "Comprova i informa sobre l'estat del servidor Akonadi"
+
+msgid   "Clear"
+msgstr  "Neteja"
+
+msgid   "Click to add tags"
+msgstr  "Feu clic per a afegir les etiquetes"
+
+msgid   "Collection attributes synchronization timed out."
+msgstr  "La sincronisació dels atributs de la colecció ha excedit el temps "
+        "límit."
+
+msgid   "Configuration for %1 is already opened elsewhere."
+msgstr  "La configuració per a %1 ya es troba oberta en un atre lloc."
+
+msgid   "Converts an Akonadi collection subtree into a XML file."
+msgstr  "Convertix un subarbre de colecció d'Akonadi en un fitxer XML."
+
+msgid   "Copy Folder"
+msgid_plural    "Copy %1 Folders"
+msgstr[0]       "Copia la carpeta"
+msgstr[1]       "Copia %1 carpetes"
+
+msgid   "Copy Folder To..."
+msgstr  "Copia la carpeta a..."
+
+msgid   "Copy Item"
+msgid_plural    "Copy %1 Items"
+msgstr[0]       "Copia l'element"
+msgstr[1]       "Copia %1 elements"
+
+msgid   "Copy Item To..."
+msgstr  "Copia l'element a..."
+
+msgid   "Copy Report to Clipboard"
+msgstr  "Copia l'informe al porta-retalls"
+
+msgid   "Copy To"
+msgstr  "Copia a"
+
+msgid   "Copy to This Folder"
+msgstr  "Copia a esta carpeta"
+
+msgid   "Could not create agent instance: %1"
+msgstr  "No s'ha pogut crear la instància de l'agent: %1"
+
+msgid   "Could not create folder: %1"
+msgstr  "No s'ha pogut crear la carpeta: %1"
+
+msgid   "Could not create resource: %1"
+msgstr  "No s'ha pogut crear el recurs: %1"
+
+msgid   "Could not delete folder: %1"
+msgstr  "No s'ha pogut suprimir la carpeta: %1"
+
+msgid   "Could not delete item: %1"
+msgstr  "No s'ha pogut suprimir l'element: %1"
+
+msgid   "Could not fetch root collection of resource %1."
+msgstr  "No s'ha pogut recuperar la colecció arrel del recurs %1."
+
+msgid   "Could not find restore collection and restore resource is not "
+        "available"
+msgstr  "No s'ha pogut trobar la colecció a restaurar i el recurs de "
+        "restauració no està disponible"
+
+msgid   "Could not open file '%1'"
+msgstr  "No s'ha pogut obrir el fitxer «%1»"
+
+msgid   "Could not paste data: %1"
+msgstr  "No s'ha pogut apegar les dades: %1"
+
+msgid   "Create Resource"
+msgstr  "Crea un recurs"
+
+msgid   "Create a new subfolder under the currently selected folder"
+msgstr  "Crea una subcarpeta nova davall la carpeta seleccionada"
+
+msgid   "Create new folder error"
+msgstr  "S'ha produït un error en crear una carpeta nova"
+
+msgid   "Create new tag"
+msgstr  "Crea una etiqueta nova"
+
+msgid   "Current Akonadi control error log found."
+msgstr  "S'ha trobat el registre d'errors actual del control d'Akonadi."
+
+msgid   "Current Akonadi server error log found."
+msgstr  "S'ha trobat el registre actual d'error del servidor Akonadi."
+
+msgid   "Cut"
+msgstr  "Retalla"
+
+msgid   "Cut Folder"
+msgid_plural    "Cut %1 Folders"
+msgstr[0]       "Retalla la carpeta"
+msgstr[1]       "Retalla %1 carpetes"
+
+msgid   "Cut Item"
+msgid_plural    "Cut %1 Items"
+msgstr[0]       "Retalla l'element"
+msgstr[1]       "Retalla %1 elements"
+
+msgid   "Data"
+msgstr  "Dades"
+
+msgid   "Database driver found."
+msgstr  "S'ha trobat el controlador de la base de dades."
+
+msgid   "Database driver not found."
+msgstr  "No s'ha trobat el controlador de la base de dades."
+
+msgid   "Delete"
+msgstr  "Suprimix"
+
+msgid   "Delete Folder"
+msgid_plural    "Delete %1 Folders"
+msgstr[0]       "Suprimix la carpeta"
+msgstr[1]       "Suprimix %1 carpetes"
+
+msgid   "Delete Item"
+msgid_plural    "Delete %1 Items"
+msgstr[0]       "Suprimix element"
+msgstr[1]       "Suprimix %1 elements"
+
+msgid   "Delete Resource"
+msgstr  "Suprimix el recurs"
+
+msgid   "Details"
+msgstr  "Detalls"
+
+msgid   "Details..."
+msgstr  "Detalls..."
+
+msgid   "Did not find other item for conflict handling"
+msgstr  "No s'ha trobat cap element per a gestionar el conflicte"
+
+msgid   "Do you really want to delete the selected agent instance?"
+msgstr  "Segur que voleu suprimir la instància seleccionada de l'agent?"
+
+msgid   "Do you really want to delete the selected item?"
+msgid_plural    "Do you really want to delete %1 items?"
+msgstr[0]       "Segur que voleu suprimir l'element seleccionat?"
+msgstr[1]       "Segur que voleu suprimir %1 elements?"
+
+msgid   "Do you really want to delete this folder and all its sub-folders?"
+msgid_plural    "Do you really want to delete %1 folders and all their sub-"
+        "folders?"
+msgstr[0]       "Segur que voleu suprimir esta carpeta i totes les seues "
+        "subcarpetes?"
+msgstr[1]       "Segur que voleu suprimir %1 carpetes i totes les seues "
+        "subcarpetes?"
+
+msgid   "Do you really want to delete this resource?"
+msgid_plural    "Do you really want to delete %1 resources?"
+msgstr[0]       "Segur que voleu suprimir este recurs?"
+msgstr[1]       "Segur que voleu suprimir %1 recursos?"
+
+msgid   "Do you want to remove account '%1'?"
+msgstr  "Voleu eliminar el compte «%1»?"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "txemaq@gmail.com,antonibella5@yahoo.com"
+
+msgid   "Enable fulltext indexing"
+msgstr  "Activa la indexació de text complet"
+
+msgid   "Error"
+msgstr  "Error"
+
+msgid   "Error while retrieving indexed items count"
+msgstr  "S'ha produït un error en recuperar el compte dels elements indexats"
+
+msgid   "Executing the MySQL server '%1' failed with the following error "
+        "message: '%2'"
+msgstr  "No s'ha pogut executar el servidor «%1» de MySQL amb el missatge "
+        "d'error següent: «%2»"
+
+msgid   "Executing the MySQL server failed."
+msgstr  "No s'ha pogut executar el servidor MySQL."
+
+msgid   "Failed to configure default resource via D-Bus."
+msgstr  "No s'ha pogut configurar el recurs predeterminat via D-Bus."
+
+msgid   "Failed to create a new tag"
+msgstr  "No s'ha pogut crear una etiqueta nova"
+
+msgid   "Failed to create relation."
+msgstr  "No s'ha pogut crear la relació."
+
+msgid   "Failed to create tag."
+msgstr  "No s'ha pogut crear l'etiqueta."
+
+msgid   "Failed to fetch the resource collection."
+msgstr  "No s'ha pogut recuperar la colecció de recursos."
+
+msgid   "Failed to parse Collection from response"
+msgstr  "No s'ha pogut analisar la colecció de la resposta"
+
+msgid   "Failed to register %1 configuration dialog."
+msgstr  "No s'ha pogut registrar el diàlec de configuració %1."
+
+msgid   "Failed to retrieve collection for attribute sync."
+msgstr  "No s'ha pogut recuperar la colecció per a la sincronisació dels "
+        "atributs."
+
+msgid   "Failed to retrieve collection for sync."
+msgstr  "No s'ha pogut recuperar la colecció per a sincronisar-la."
+
+msgid   "Failed to update subscription: %1"
+msgstr  "No s'ha pogut actualisar la subscripció: %1"
+
+msgid   "Favorite Folders"
+msgstr  "Carpetes preferides"
+
+msgid   "File %1 does not exist."
+msgstr  "El fitxer %1 no existix."
+
+msgid   "File size:"
+msgstr  "Mida del fitxer:"
+
+msgid   "Filter…"
+msgstr  "Filtre…"
+
+msgid   "Flags"
+msgstr  "Indicadors"
+
+msgid   "Folder &Properties"
+msgstr  "&Propietats de la carpeta"
+
+msgid   "Folder creation failed"
+msgstr  "No s'ha pogut crear la carpeta"
+
+msgid   "Folder deletion failed"
+msgstr  "No s'ha pogut fer l'eliminació de la carpeta"
+
+msgid   "Folder type:"
+msgstr  "Tipus de carpeta:"
+
+msgid   "Found unresolved orphan collections"
+msgstr  "S'han trobat coleccions òrfenes sense resoldre"
+
+msgid   "Incoming accounts (add at least one):"
+msgstr  "Comptes d'entrada (afiggau-ne un com a mínim):"
+
+msgid   "Index is no longer available"
+msgstr  "L'índex ya no es troba disponible"
+
+msgid   "Indexed %1 item in this folder"
+msgid_plural    "Indexed %1 items in this folder"
+msgstr[0]       "S'ha indexat %1 element en esta carpeta"
+msgstr[1]       "S'han indexat %1 elements en esta carpeta"
+
+msgid   "Indexing:"
+msgstr  "Indexació:"
+
+msgid   "Invalid collection"
+msgstr  "Colecció no vàlida"
+
+msgid   "Invalid collection given."
+msgstr  "Colecció proporcionada no vàlida."
+
+msgid   "Invalid collection instance."
+msgstr  "Instància de la colecció no vàlida."
+
+msgid   "Invalid collection passed"
+msgstr  "S'ha passat una colecció no vàlida"
+
+msgid   "Invalid collection to copy"
+msgstr  "Colecció no vàlida per a copiar"
+
+msgid   "Invalid collection."
+msgstr  "Colecció no vàlida."
+
+msgid   "Invalid destination collection"
+msgstr  "Destinació de la colecció no vàlida"
+
+msgid   "Invalid file format."
+msgstr  "Format de fitxer no vàlit."
+
+msgid   "Invalid items passed"
+msgstr  "S'han passat elements no vàlids"
+
+msgid   "Invalid parent"
+msgstr  "Pare no vàlit"
+
+msgid   "Invalid parent collection"
+msgstr  "Colecció pare no vàlida"
+
+msgid   "Invalid resource identifier '%1'"
+msgstr  "Identificador del recurs «%1» no vàlit"
+
+msgid   "Invalid resource instance."
+msgstr  "Instància del recurs no vàlida."
+
+msgid   "Item deletion failed"
+msgstr  "No s'ha pogut suprimir l'element"
+
+msgid   "Local Subscriptions"
+msgstr  "Subscripcions locals"
+
+msgid   "Locally Cached Parts"
+msgstr  "Parts en memòria cau localment"
+
+msgid   "Locally cached parts:"
+msgstr  "Parts en memòria cau localment:"
+
+msgid   "Maintenance"
+msgstr  "Manteniment"
+
+msgid   "Manage Local &Subscriptions..."
+msgstr  "Gestiona les &subscripcions locals..."
+
+msgid   "Manage Local Subscriptions"
+msgstr  "Gestió de les subscripcions locals"
+
+msgid   "Manage Tags"
+msgstr  "Gestió de les etiquetes"
+
+msgid   "Modification Time"
+msgstr  "Hora de modificació"
+
+msgid   "Move Folder To Trash"
+msgstr  "Mou la carpeta a la paperera"
+
+msgid   "Move Folder To..."
+msgstr  "Mou la carpeta a..."
+
+msgid   "Move Item To Trash"
+msgstr  "Mou l'element a la paperera"
+
+msgid   "Move Item To..."
+msgstr  "Mou l'element a..."
+
+msgid   "Move To"
+msgstr  "Mou a"
+
+msgid   "Move to This Folder"
+msgstr  "Mou a esta carpeta"
+
+msgid   "Move to trash collection failed, aborting trash operation"
+msgstr  "No s'ha pogut moure la colecció a la paperera, s'ha interromput "
+        "l'operació"
+
+msgid   "MySQL error log not readable."
+msgstr  "El registre d'error de MySQL no es pot llegir."
+
+msgid   "MySQL found with unexpected name."
+msgstr  "S'ha trobat MySQL amb un nom inesperat."
+
+msgid   "MySQL server configuration is usable."
+msgstr  "La configuració del servidor MySQL es pot utilisar."
+
+msgid   "MySQL server configuration not found or not readable."
+msgstr  "No s'ha trobat la configuració del servidor MySQL o no es pot llegir."
+
+msgid   "MySQL server configuration not tested."
+msgstr  "La configuració del servidor MySQL no s'ha provat."
+
+msgid   "MySQL server custom configuration found."
+msgstr  "S'ha trobat la configuració personalisada del servidor MySQL."
+
+msgid   "MySQL server custom configuration not available."
+msgstr  "La configuració personalisada del servidor MySQL no està disponible."
+
+msgid   "MySQL server custom configuration not readable."
+msgstr  "La configuració personalisada del servidor MySQL no es pot llegir."
+
+msgid   "MySQL server default configuration found."
+msgstr  "S'ha trobat la configuració predeterminada del servidor MySQL."
+
+msgid   "MySQL server default configuration not found."
+msgstr  "No s'ha trobat la configuració predeterminada del servidor MySQL."
+
+msgid   "MySQL server error log not tested."
+msgstr  "No s'ha provat el registre d'error del servidor MySQL."
+
+msgid   "MySQL server executable not tested."
+msgstr  "No s'ha provat l'executable del servidor MySQL."
+
+msgid   "MySQL server found."
+msgstr  "S'ha trobat el servidor MySQL."
+
+msgid   "MySQL server found: %1"
+msgstr  "S'ha trobat el servidor MySQL: %1"
+
+msgid   "MySQL server is executable."
+msgstr  "El servidor MySQL és executable."
+
+msgid   "MySQL server log contains errors."
+msgstr  "El registre del servidor MySQL conté errors."
+
+msgid   "MySQL server log contains no errors."
+msgstr  "El registre del servidor MySQL no conté errors."
+
+msgid   "MySQL server log contains warnings."
+msgstr  "El registre del servidor MySQL conté avisos."
+
+msgid   "MySQL server not executable."
+msgstr  "El servidor MySQL no es pot executar."
+
+msgid   "MySQL server not found."
+msgstr  "No s'ha trobat cap servidor MySQL."
+
+msgid   "MySQL server not readable."
+msgstr  "No es pot llegir des del servidor MySQL."
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Josep M. Ferrer,Antoni Bella"
+
+msgctxt "Name and type of Akonadi resource"
+msgid   "%1 of type %2"
+msgstr  "%1 del tipus %2"
+
+msgid   "Name:"
+msgstr  "Nom:"
+
+msgid   "New"
+msgstr  "Nou"
+
+msgid   "No Folder"
+msgstr  "Cap carpeta"
+
+msgid   "No current Akonadi control error log found."
+msgstr  "No s'ha trobat cap registre d'error actual del control d'Akonadi."
+
+msgid   "No current Akonadi server error log found."
+msgstr  "No s'ha trobat cap registre actual d'error del servidor Akonadi."
+
+msgid   "No current MySQL error log found."
+msgstr  "No s'ha trobat cap registre d'error actual de MySQL."
+
+msgid   "No data loaded."
+msgstr  "No hi ha dades carregades."
+
+msgid   "No description available"
+msgstr  "No hi ha disponible cap descripció"
+
+msgid   "No filename specified"
+msgstr  "No s'ha especificat cap nom de fitxer vàlit"
+
+msgid   "No item available for this index"
+msgstr  "No hi ha disponible cap element per a este índex"
+
+msgid   "No objects specified for moving"
+msgstr  "No s'ha especificat cap objecte per a moure"
+
+msgid   "No previous Akonadi control error log found."
+msgstr  "No s'ha trobat cap registre d'error anterior del control d'Akonadi."
+
+msgid   "No previous Akonadi server error log found."
+msgstr  "No s'ha trobat cap registre d'error anterior del servidor Akonadi."
+
+msgid   "No resource ID given."
+msgstr  "No s'ha proporcionat l'ID del recurs."
+
+msgid   "No resource agents found."
+msgstr  "No s'ha trobat cap agent de recursos."
+
+msgid   "No resource agents have been found, Akonadi is not usable without at "
+        "least one. This usually means that no resource agents are installed "
+        "or that there is a setup problem. The following paths have been "
+        "searched: '%1'. The XDG_DATA_DIRS environment variable is set to "
+        "'%2'; make sure this includes all paths where Akonadi agents are "
+        "installed."
+msgstr  "No s'ha trobat cap agent de recursos, Akonadi no es pot utilisar "
+        "sense almenys un. Normalment açò significa que no hi ha cap agent "
+        "instalat o que hi ha un problema de configuració. S'ha buscat als "
+        "camins següents: «%1». La variable d'entorn XDG_DATA_DIRS s'ha "
+        "definit com a «%2», comproveu que incloga tots els camins on s'han "
+        "instalat els agents d'Akonadi."
+
+msgid   "No session available for this index"
+msgstr  "No hi ha disponible cap sessió per a este índex"
+
+msgid   "No such collection."
+msgstr  "Esta colecció no existix."
+
+msgid   "No valid collection or empty itemlist"
+msgstr  "Colecció no vàlida o llista d'elements buida"
+
+msgid   "No valid destination specified"
+msgstr  "No s'ha especificat cap destinació vàlida"
+
+msgid   "Open collection dialog"
+msgstr  "Diàlec d'obertura de colecció"
+
+msgid   "Paste"
+msgstr  "Apega"
+
+msgid   "Paste failed"
+msgstr  "No s'ha pogut apegar"
+
+msgid   "Payload part '%1' is not available for this index"
+msgstr  "La part de contingut «%1» no està disponible per a este índex"
+
+msgid   "Personal information management service is performing a database "
+        "upgrade."
+msgstr  "El servei per a la gestió de la informació personal està realisant "
+        "una actualisació de la base de dades..."
+
+msgid   "Personal information management service is performing a database "
+        "upgrade.\n"
+        "This happens after a software update and is necessary to optimize "
+        "performance.\n"
+        "Depending on the amount of personal information, this might take a "
+        "few minutes."
+msgstr  "El servei per a la gestió de la informació personal està efectuant "
+        "una actualisació de la base de dades. Açò succeeix després d'una "
+        "actualisació del programari i, és necessari per a optimisar el "
+        "rendiment.\n"
+        "En funció de la quantitat d'informació personal, açò pot tardar "
+        "alguns minuts."
+
+msgid   "Personal information management service is shutting down..."
+msgstr  "S'està parant el servei per a la gestió de la informació personal..."
+
+msgid   "Personal information management service is starting..."
+msgstr  "S'està iniciant el servei per a la gestió de la informació "
+        "personal..."
+
+msgid   "PostgreSQL server found."
+msgstr  "S'ha trobat el servidor PostgreSQL."
+
+msgid   "Previous Akonadi control error log found."
+msgstr  "S'ha trobat el registre d'errors anterior del control d'Akonadi."
+
+msgid   "Previous Akonadi server error log found."
+msgstr  "S'ha trobat el registre d'error anterior del servidor Akonadi."
+
+msgid   "Properties"
+msgstr  "Propietats"
+
+msgid   "Protocol version check not possible."
+msgstr  "No és possible comprovar la versió del protocol."
+
+msgid   "Protocol version mismatch. Server version is newer (%1) than ours "
+        "(%2). If you updated your system recently please restart all KDE PIM "
+        "applications."
+msgstr  "Les versions del protocol no coincidixen. La versió del servidor és "
+        "més nova (%1) que la nostra (%2). Si heu actualisat el vostre "
+        "sistema recentment, reinicieu totes les aplicacions PIM de KDE."
+
+msgid   "Protocol version mismatch. Server version is older (%1) than ours "
+        "(%2). If you updated your system recently please restart the Akonadi "
+        "server."
+msgstr  "Les versions del protocol no coincidixen. La versió del servidor és "
+        "més antiga (%1) que la nostra (%2). Si heu actualisat el vostre "
+        "sistema recentment, reinicieu el servidor Akonadi."
+
+msgid   "Quota"
+msgstr  "Quota"
+
+msgid   "R&emove"
+msgstr  "&Elimina"
+
+msgid   "Recent Folder"
+msgstr  "Carpeta recent"
+
+msgid   "Reindex folder"
+msgstr  "Torna a indexar la carpeta"
+
+msgid   "Remember that indexing can take some minutes."
+msgstr  "Recordeu que la indexació pot tardar uns minuts."
+
+msgid   "Remove account?"
+msgstr  "Voleu eliminar el compte?"
+
+msgid   "Remove from Favorite"
+msgstr  "Elimina de les preferides"
+
+msgid   "Remove from Favorite Folders"
+msgstr  "Elimina de les carpetes preferides"
+
+msgid   "Rename"
+msgstr  "Canvia el nom"
+
+msgid   "Rename Favorite"
+msgstr  "Canvia el nom d'una preferida"
+
+msgid   "Rename Favorite..."
+msgstr  "Canvia el nom d'una preferida..."
+
+msgid   "Resource agents found."
+msgstr  "S'han trobat els agents de recursos."
+
+msgid   "Resource creation failed"
+msgstr  "No s'ha pogut crear el recurs"
+
+msgid   "Resource synchronization timed out."
+msgstr  "La sincronisació del recurs ha excedit el temps límit."
+
+msgid   "Restart"
+msgstr  "Reinicia"
+
+msgid   "Restore Collection From Trash"
+msgstr  "Restaura la colecció des de la paperera"
+
+msgid   "Restore Folder From Trash"
+msgstr  "Restaura la carpeta des de la paperera"
+
+msgid   "Restore Item From Trash"
+msgstr  "Restaura l'element des de la paperera"
+
+msgid   "Retrieval"
+msgstr  "Recuperació"
+
+msgid   "Retrieval Options:"
+msgstr  "Opcions de recuperació:"
+
+msgid   "Retrieving indexed items count..."
+msgstr  "S'està recuperant el compte dels elements indexats..."
+
+msgid   "Running Internet-facing applications as root/administrator exposes "
+        "you to many security risks. MySQL, used by this Akonadi "
+        "installation, will not allow itself to run as root, to protect you "
+        "from these risks."
+msgstr  "Executar aplicacions de cara a Internet com a root/administrador vos "
+        "exposa a molts riscos de seguretat. MySQL, utilisat per esta "
+        "instalació d'Akonadi, no permet executar-se com a root per a "
+        "protegir-vos d'estos riscos."
+
+msgid   "Save Report..."
+msgstr  "Guarda l'informe..."
+
+msgid   "Save Test Report"
+msgstr  "Guarda l'informe de la prova"
+
+msgid   "Schema definition could not be loaded and parsed."
+msgstr  "No s'ha pogut carregar i analisar la definició de l'esquema."
+
+msgid   "Search:"
+msgstr  "Busca:"
+
+msgid   "Select Tags"
+msgstr  "Selecció d'etiquetes"
+
+msgid   "Select tags that should be applied."
+msgstr  "Selecciona les etiquetes que s'hauran d'aplicar."
+
+msgid   "Server protocol version is too new."
+msgstr  "La versió del protocol del servidor és massa nova."
+
+msgid   "Server protocol version is too old."
+msgstr  "La versió del protocol del servidor és massa antiga."
+
+msgid   "Server protocol version matches."
+msgstr  "La versió del protocol del servidor coincidix."
+
+msgid   "Size:"
+msgstr  "Mida:"
+
+msgid   "Starting Akonadi server..."
+msgstr  "S'està iniciant el servidor Akonadi..."
+
+msgid   "Statistics"
+msgstr  "Estadístiques"
+
+msgid   "Stopping Akonadi server..."
+msgstr  "S'està parant el servidor Akonadi..."
+
+msgid   "Storage Size"
+msgstr  "Mida d'almagasenada"
+
+msgid   "Store emails locally:"
+msgstr  "Almagasena localment els correus electrònics:"
+
+msgid   "Su&bscribe"
+msgstr  "Su&bscriu"
+
+msgid   "Subfolder Storage Size"
+msgstr  "Mida d'almagasenada de la subcarpeta"
+
+msgid   "Synchronize"
+msgstr  "Sincronisa"
+
+msgid   "Synchronize Favorite Folders"
+msgstr  "Sincronisa les carpetes preferides"
+
+msgid   "Synchronize Folder"
+msgid_plural    "Synchronize %1 Folders"
+msgstr[0]       "Sincronisa la carpeta"
+msgstr[1]       "Sincronisa %1 carpetes"
+
+msgid   "Synchronize Folder Tree"
+msgstr  "Sincronisa l'arbre de carpetes"
+
+msgid   "Synchronize Recursively"
+msgstr  "Sincronisa recursivament"
+
+msgid   "Synchronize Resource"
+msgstr  "Sincronisa el recurs"
+
+msgid   "Synchronize after:"
+msgstr  "Sincronisa després:"
+
+msgid   "Synchronize when selecting this folder"
+msgstr  "Sincronisa en seleccionar esta carpeta"
+
+msgid   "Tag"
+msgstr  "Etiqueta"
+
+msgid   "The Akonadi control process did not report any errors during its "
+        "current startup."
+msgstr  "El procés de control d'Akonadi no ha informat de cap error durant la "
+        "seua iniciada actual."
+
+msgid   "The Akonadi control process did not report any errors during its "
+        "previous startup."
+msgstr  "El procés de control d'Akonadi no ha informat de cap error durant la "
+        "seua iniciada anterior."
+
+msgid   "The Akonadi control process is not registered at D-Bus which "
+        "typically means it was not started or encountered a fatal error "
+        "during startup."
+msgstr  "El procés de control d'Akonadi no s'ha registrat a D-Bus, el qual "
+        "normalment vol dir que no s'ha iniciat o que ha trobat un error "
+        "fatal durant l'inici."
+
+msgid   "The Akonadi control process is registered at D-Bus which typically "
+        "indicates it is operational."
+msgstr  "El procés de control d'Akonadi s'ha registrat a D-Bus, el qual "
+        "normalment indica que es troba operatiu."
+
+msgid   "The Akonadi control process reported errors during its current "
+        "startup. The log can be found in %1."
+msgstr  "El procés de control d'Akonadi ha informat d'errors durant la seua "
+        "iniciada actual. El registre es pot trobar a %1."
+
+msgid   "The Akonadi control process reported errors during its previous "
+        "startup. The log can be found in %1."
+msgstr  "El procés de control d'Akonadi ha informat d'errors durant "
+        "l'iniciada anterior. El registre es pot trobar a %1."
+
+msgid   "The Akonadi personal information management framework is not "
+        "operational.\n"
+        "Click on \"Details...\" to obtain detailed information on this "
+        "problem."
+msgstr  "El marc de treball per a la gestió de la informació personal Akonadi "
+        "no es troba operatiu.\n"
+        "Feu clic a «Detalls...» per a obtindre informació detallada quant a "
+        "este problema."
+
+msgid   "The Akonadi personal information management service is not "
+        "operational."
+msgstr  "El servei per a la gestió de la informació personal Akonadi no es "
+        "troba operatiu."
+
+msgid   "The Akonadi personal information management service is not running. "
+        "This application cannot be used without it."
+msgstr  "El servei per a la gestió de la informació personal Akonadi no es "
+        "troba en execució. Esta aplicació no es pot utilisar sense ell."
+
+msgid   "The Akonadi server did not report any errors during its current "
+        "startup."
+msgstr  "El servidor Akonadi no ha informat de cap error durant la seua "
+        "iniciada actual."
+
+msgid   "The Akonadi server did not report any errors during its previous "
+        "startup."
+msgstr  "El servidor Akonadi no ha informat de cap error durant la seua "
+        "iniciada anterior."
+
+msgid   "The Akonadi server process is not registered at D-Bus which "
+        "typically means it was not started or encountered a fatal error "
+        "during startup."
+msgstr  "El procés de servidor d'Akonadi no s'ha registrat a D-Bus, el qual "
+        "normalment vol dir que no s'ha iniciat o que ha trobat un error "
+        "fatal durant l'inici."
+
+msgid   "The Akonadi server process is registered at D-Bus which typically "
+        "indicates it is operational."
+msgstr  "El procés de servidor d'Akonadi s'ha registrat a D-Bus, el qual "
+        "normalment indica que es troba operatiu."
+
+msgid   "The Akonadi server protocol version differs from the protocol "
+        "version used by this application.\n"
+        "If you recently updated your system please log out and back in to "
+        "make sure all applications use the correct protocol version."
+msgstr  "La versió del protocol del servidor Akonadi difereix de la versió "
+        "del protocol emprat per esta aplicació.\n"
+        "Si heu actualisat recentment el sistema, per favor, eixiu i torneu a "
+        "connectar per a assegurar-vos que totes les aplicacions empren la "
+        "versió correcta del protocol."
+
+msgid   "The Akonadi server reported errors during its current startup. The "
+        "log can be found in %1."
+msgstr  "El servidor Akonadi ha informat d'errors durant la seua iniciada "
+        "actual. Es pot trobar el registre a %1."
+
+msgid   "The Akonadi server reported errors during its previous startup. The "
+        "log can be found in %1."
+msgstr  "El servidor Akonadi ha informat d'errors durant la seua iniciada "
+        "anterior. Es pot trobar el registre a %1."
+
+msgid   "The MySQL server configuration was found at %1 and is readable."
+msgstr  "S'ha trobat la configuració del servidor MySQL a %1 i es pot llegir."
+
+msgid   "The MySQL server configuration was not found or is not readable."
+msgstr  "No s'ha trobat la configuració del servidor MySQL o no es pot llegir."
+
+msgid   "The MySQL server did not report any errors during this startup. The "
+        "log can be found in '%1'."
+msgstr  "El servidor MySQL no ha informat de cap error durant est inici. El "
+        "registre es pot trobar a «%1»."
+
+msgid   "The MySQL server error log file '%1' contains errors."
+msgstr  "El fitxer de registre d'errors «%1» del servidor MySQL conté errors."
+
+msgid   "The MySQL server log file '%1' contains warnings."
+msgstr  "El fitxer de registre d'errors «%1» del servidor MySQL conté avisos."
+
+msgid   "The MySQL server log file '%1' does not contain any errors or "
+        "warnings."
+msgstr  "El fitxer de registre d'errors «%1» del servidor MySQL no conté cap "
+        "error ni avís."
+
+msgid   "The PostgreSQL server was found and connection is working."
+msgstr  "S'ha trobat el servidor PostgreSQL i la connexió funciona."
+
+msgid   "The QtSQL driver '%1' is required by your current Akonadi server "
+        "configuration and was found on your system."
+msgstr  "La configuració actual del servidor Akonadi requereix el controlador "
+        "«%1» de QtSQL i s'ha trobat en el sistema."
+
+msgid   "The QtSQL driver '%1' is required by your current Akonadi server "
+        "configuration.\n"
+        "The following drivers are installed: %2.\n"
+        "Make sure the required driver is installed."
+msgstr  "La configuració actual del servidor Akonadi requereix el controlador "
+        "«%1» de QtSQL.\n"
+        "Estan instalats els controladors següents: %2.\n"
+        "Comproveu que el controlador requerit estiga instalat."
+
+msgid   "The configuration dialog has been opened in another window"
+msgstr  "El diàlec de configuració s'ha obert en una atra finestra"
+
+msgid   "The current Protocol version is %1."
+msgstr  "L'actual versió del protocol del servidor és la %1."
+
+msgid   "The current configuration does not require an internal MySQL server."
+msgstr  "La configuració actual no requereix cap servidor intern de MySQL."
+
+msgid   "The custom configuration for the MySQL server was found and is "
+        "readable at %1"
+msgstr  "S'ha trobat la configuració personalisada del servidor MySQL i es "
+        "pot llegir a %1"
+
+msgid   "The custom configuration for the MySQL server was found at %1 but is "
+        "not readable. Check your access rights."
+msgstr  "S'ha trobat la configuració personalisada del servidor MySQL a %1, "
+        "pero no es pot llegir. Comproveu els vostres permisos d'accés."
+
+msgid   "The custom configuration for the MySQL server was not found but is "
+        "optional."
+msgstr  "No s'ha trobat la configuració personalisada del servidor MySQL, "
+        "pero és opcional."
+
+msgid   "The default configuration for the MySQL server was found and is "
+        "readable at %1."
+msgstr  "S'ha trobat la configuració predeterminada del servidor MySQL i es "
+        "pot llegir a %1."
+
+msgid   "The default configuration for the MySQL server was not found or was "
+        "not readable. Check your Akonadi installation is complete and you "
+        "have all required access rights."
+msgstr  "No s'ha trobat la configuració predeterminada del servidor MySQL o "
+        "no s'ha pogut llegir. Comproveu que la instalació d'Akonadi ha "
+        "acabat i que teniu els permisos d'accés requerits."
+
+msgid   "The program '%1' to control the Akonadi server was found and could "
+        "be executed successfully.\n"
+        "Result:\n"
+        "%2"
+msgstr  "S'ha trobat el programa «%1» per a controlar el servidor Akonadi i "
+        "s'ha pogut executar correctament.\n"
+        "Resultat:\n"
+        "%2"
+
+msgid   "The program '%1' to control the Akonadi server was found but could "
+        "not be executed successfully.\n"
+        "Result:\n"
+        "%2\n"
+        "Make sure the Akonadi server is installed correctly."
+msgstr  "S'ha trobat el programa «%1» per a controlar el servidor Akonadi, "
+        "pero no s'ha pogut executar correctament.\n"
+        "Resultat:\n"
+        "%2\n"
+        "Comproveu que el servidor Akonadi estiga correctament instalat."
+
+msgid   "The program 'akonadictl' needs to be accessible in $PATH. Make sure "
+        "you have the Akonadi server installed."
+msgstr  "El programa «akonadictl» cal que estiga accessible a la $PATH. "
+        "Comproveu que teniu instalat el servidor Akonadi."
+
+msgid   "The protocol version of the Akonadi server is incompatible. Make "
+        "sure you have a compatible version installed."
+msgstr  "La versió del protocol del servidor Akonadi és incompatible. "
+        "Comproveu que teniu instalada una versió compatible."
+
+msgid   "The requested item no longer exists"
+msgstr  "L'element solicitat ya no existix"
+
+msgid   "The server protocol version is %1, but version %2 is required by the "
+        "client. If you recently updated KDE PIM, please make sure to restart "
+        "both Akonadi and KDE PIM applications."
+msgstr  "La versió del protocol del servidor és la %1, pero el client "
+        "requereix la versió %2. Si heu actualisat recentment la PIM de KDE, "
+        "assegureu-vos de tornar a iniciar tant Akonadi com la PIM de KDE."
+
+msgid   "The target collection '%1' contains already\n"
+        "a collection with name '%2'."
+msgstr  "La colecció de destinació «%1» ya conté\n"
+        "una colecció amb el nom «%2»."
+
+msgid   "There are no Akonadi Agents available. Please verify your KDE PIM "
+        "installation."
+msgstr  "No hi ha disponible cap agent d'Akonadi. Verifiqueu la vostra "
+        "instalació PIM de KDE."
+
+msgid   "There is currently no account configured."
+msgstr  "Actualment no hi ha cap compte configurat."
+
+msgid   "Timeout trying to get lock."
+msgstr  "Ha caducat el temps en provar d'obtindre el bloqueig."
+
+msgid   "Total Messages"
+msgstr  "Total de missatges"
+
+msgid   "Total items:"
+msgstr  "Elements totals:"
+
+msgid   "Unable to access D-Bus interface of created agent."
+msgstr  "No s'ha pogut accedir a la interfície de D-Bus de l'agent creat."
+
+msgid   "Unable to create agent instance."
+msgstr  "No s'ha pogut crear la instància de l'agent."
+
+msgid   "Unable to create schema parser context."
+msgstr  "No s'ha pogut crear l'esquema d'anàlisi del context."
+
+msgid   "Unable to create schema validation context."
+msgstr  "No s'ha pogut crear l'esquema de validació del context."
+
+msgid   "Unable to create schema."
+msgstr  "No s'ha pogut crear l'esquema."
+
+msgid   "Unable to fetch item for index"
+msgstr  "No s'ha pogut recuperar l'element per a l'índex"
+
+msgid   "Unable to find collection %1"
+msgstr  "No s'ha pogut trobar la colecció %1"
+
+msgid   "Unable to obtain D-Bus interface for resource '%1'"
+msgstr  "No s'ha pogut obtindre la interfície de D-Bus per al recurs «%1»"
+
+msgid   "Unable to obtain agent type '%1'."
+msgstr  "No s'ha pogut obtindre el tipus de l'agent «%1»."
+
+msgid   "Unable to open data file '%1'."
+msgstr  "No s'ha pogut obrir el fitxer de dades «%1»."
+
+msgid   "Unable to parse data file '%1'."
+msgstr  "No s'ha pogut analisar el fitxer de dades «%1»."
+
+msgid   "Unable to parse data file: %1"
+msgstr  "No s'ha pogut analisar el fitxer de dades: %1"
+
+msgid   "Unable to register object at dbus: %1"
+msgstr  "No s'ha pogut registrar l'objecte en «dbus»: %1"
+
+msgid   "Unexpected response"
+msgstr  "Resposta inesperada"
+
+msgid   "Unknown error."
+msgstr  "S'ha produït un error desconegut."
+
+msgid   "Unnamed plugin"
+msgstr  "Conector sense nom"
+
+msgid   "Unread Messages"
+msgstr  "Missatges sense llegir"
+
+msgid   "Unread items:"
+msgstr  "Elements sense llegir:"
+
+msgid   "Use folder by default"
+msgstr  "Utilisa la carpeta predeterminada"
+
+msgid   "Use options from parent folder or account"
+msgstr  "Utilisa les opcions de la carpeta pare o del compte"
+
+msgid   "User canceled operation."
+msgstr  "Operació cancelada per l'usuari."
+
+msgid   "We can not add \".\" at begin or end of folder name."
+msgstr  "No es pot afegir «.» a l'inici o al final del nom de la carpeta."
+
+msgid   "We can not add \"/\" in folder name."
+msgstr  "No es pot afegir «/» en el nom de la carpeta."
+
+msgid   "Without a connection to the server it is not possible to check if "
+        "the protocol version meets the requirements."
+msgstr  "No és possible comprovar si la versió del protocol compleix els "
+        "requisits sense una connexió amb el servidor."
+
+msgid   "Work Offline"
+msgstr  "Treballa desconnectat"
+
+msgid   "You have currently configured Akonadi to use the MySQL server '%1'.\n"
+        "Make sure you have the MySQL server installed, set the correct path "
+        "and ensure you have the necessary read and execution rights on the "
+        "server executable. The server executable is typically called "
+        "'mysqld'; its location varies depending on the distribution."
+msgstr  "Actualment heu configurat Akonadi per a utilisar el servidor «%1» de "
+        "MySQL.\n"
+        "Comproveu que teniu el servidor MySQL instalat, definit el camí "
+        "correcte i assegureu-vos que teniu els permisos de lectura i "
+        "execució necessaris sobre l'executable del servidor. L'executable "
+        "del servidor normalment s'anomena «mysqld», la seua ubicació varia "
+        "en funció de la distribució."
+
+msgid   "akonadictl found and usable"
+msgstr  "S'ha trobat «akonadictl» i es pot utilisar"
+
+msgid   "akonadictl found but not usable"
+msgstr  "S'ha trobat «akonadictl» pero no es pot utilisar"
+
+msgid   "akonadictl not found"
+msgstr  "No s'ha trobat «akonadictl»"
+
+msgctxt "collection size"
+msgid   "Size"
+msgstr  "Mida"
+
+msgid   "folder"
+msgstr  "carpeta"
+
+msgid   "minute"
+msgid_plural    "minutes"
+msgstr[0]       "minut"
+msgstr[1]       "minuts"
+
+msgid   "minutes"
+msgstr  "minuts"
+
+msgctxt "never check the cache"
+msgid   "Never"
+msgstr  "Mai"
+
+msgctxt "no cache timeout"
+msgid   "Forever"
+msgstr  "Per sempre"
+
+msgctxt "number of entities in the collection"
+msgid   "Total"
+msgstr  "Total"
+
+msgctxt "number of unread entities in the collection"
+msgid   "Unread"
+msgstr  "Sense llegir"
+
+msgctxt "object names"
+msgid   "Content:"
+msgstr  "Contingut:"
+
+msgid   "unknown"
+msgstr  "desconegut"

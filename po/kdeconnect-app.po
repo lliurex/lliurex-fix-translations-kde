@@ -1,0 +1,136 @@
+msgid   ""
+msgstr  "Project-Id-Version: kdeconnect-kde\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2021-08-09 16:25+0200\n"
+        "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+        "X-Generator: Lokalize 21.07.90\n"
+
+msgid   "%1 - %2"
+msgstr  "%1 - %2"
+
+msgid   "(c) 2015, Aleix Pol Gonzalez"
+msgstr  "(c) 2015, Aleix Pol Gonzalez"
+
+msgid   "Accept"
+msgstr  "Accepta"
+
+msgid   "Aleix Pol Gonzalez"
+msgstr  "Aleix Pol Gonzalez"
+
+msgid   "Available"
+msgstr  "Disponible"
+
+msgid   "Connected"
+msgstr  "Connectat"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "antonibella5@yahoo.com"
+
+msgid   "Edit commands"
+msgstr  "Edita les ordres"
+
+msgid   "Enable Full-Screen"
+msgstr  "Activa la pantalla completa"
+
+msgid   "Find Device"
+msgstr  "Troba el dispositiu"
+
+msgid   "Find devices..."
+msgstr  "Busca dispositius..."
+
+msgid   "KDE Connect"
+msgstr  "KDE Connect"
+
+msgid   "Lock"
+msgstr  "Bloqueja"
+
+msgid   "Maintainer"
+msgstr  "Mantenidor"
+
+msgid   "Multimedia Controls"
+msgstr  "Controls multimèdia"
+
+msgid   "Multimedia control"
+msgstr  "Control multimèdia"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Antoni Bella"
+
+msgid   "No commands defined"
+msgstr  "No s'ha definit cap ordre"
+
+msgid   "No devices found"
+msgstr  "No s'ha trobat cap dispositiu"
+
+msgid   "No players available"
+msgstr  "No hi ha disponible cap reproductor"
+
+msgid   "Pair"
+msgstr  "Parell"
+
+msgid   "Pair requested"
+msgstr  "S'ha demanat aparellar"
+
+msgid   "Please choose a file"
+msgstr  "Seleccioneu un fitxer"
+
+msgid   "Plugin Settings"
+msgstr  "Configuració del conector"
+
+msgid   "Presentation Remote"
+msgstr  "Presentació remota"
+
+msgid   "Press the left and right mouse buttons at the same time to unlock"
+msgstr  "Per a desbloquejar, premeu els botons esquerre i dret del ratolí al "
+        "mateix temps"
+
+msgid   "Reject"
+msgstr  "Rebuja"
+
+msgid   "Remembered"
+msgstr  "Recordats"
+
+msgid   "Remote Control"
+msgstr  "Control remot"
+
+msgid   "Remote input"
+msgstr  "Entrada remota"
+
+msgid   "Run command"
+msgstr  "Executa una ordre"
+
+msgid   "Send Ping"
+msgstr  "Envia un ping"
+
+msgid   "Share File"
+msgstr  "Compartix el fitxer"
+
+msgid   "This device is not paired"
+msgstr  "Este dispositiu no està aparellat"
+
+msgid   "This device is not reachable"
+msgstr  "No es pot accedir a este dispositiu"
+
+msgid   "URL to share"
+msgstr  "URL a compartir"
+
+msgid   "Unlock"
+msgstr  "Desbloqueja"
+
+msgid   "Unpair"
+msgstr  "Desaparella"
+
+msgid   "Volume control"
+msgstr  "Control del volum"
+
+msgid   "You can edit commands on the connected device"
+msgstr  "Podeu editar les ordres al dispositiu connectat"

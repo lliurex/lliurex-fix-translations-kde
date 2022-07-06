@@ -1,0 +1,309 @@
+msgid   ""
+msgstr  "Project-Id-Version: kate\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-03-22 16:37+0100\n"
+        "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Lokalize 21.12.3\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+
+msgid   " [read only]"
+msgstr  " [només de lectura]"
+
+msgid   "&Edit"
+msgstr  "E&dita"
+
+msgid   "&File"
+msgstr  "&Fitxer"
+
+msgid   "&New Window"
+msgstr  "Finestra &nova"
+
+msgid   "&Settings"
+msgstr  "Con&figuració"
+
+msgid   "&Tools"
+msgstr  "&Eines"
+
+msgid   "&View"
+msgstr  "&Visualisa"
+
+msgid   "(c) 2000-2022 The Kate Authors"
+msgstr  "(c) 2000-2022 Els autors de Kate"
+
+msgid   "All people who have contributed and I have forgotten to mention"
+msgstr  "Tothom qui ha colaborat i als que m'he descuidat de mencionar"
+
+msgid   "Anders Lund"
+msgstr  "Anders Lund"
+
+msgid   "Carsten Niehaus"
+msgstr  "Carsten Niehaus"
+
+msgid   "Carsten Pfeiffer"
+msgstr  "Carsten Pfeiffer"
+
+msgid   "Charles Samuels"
+msgstr  "Charles Samuels"
+
+msgid   "Chris Ross"
+msgstr  "Chris Ross"
+
+msgid   "Christian Gebauer"
+msgstr  "Christian Gebauer"
+
+msgid   "Christoph Cullmann"
+msgstr  "Christoph Cullmann"
+
+msgid   "Close the current document view"
+msgstr  "Tanca la vista del document actual"
+
+msgid   "Configure the application's keyboard shortcut assignments."
+msgstr  "Configura les associacions de les dreceres de teclat de l'aplicació."
+
+msgid   "Configure various aspects of this application and the editing "
+        "component."
+msgstr  "Configura diversos aspectes d'esta aplicació i el component d'edició."
+
+msgid   "Configure which items should appear in the toolbar(s)."
+msgstr  "Configura quins elements hauran d'aparéixer a les barres d'eines."
+
+msgid   "Core Developer"
+msgstr  "Desenvolupador principal"
+
+msgid   "Create another view containing the current document"
+msgstr  "Crea una atra vista que conté el document actual"
+
+msgctxt "Credit text for someone that did testing and some other similar "
+        "things"
+msgid   "Testing, ..."
+msgstr  "Proves..."
+
+msgctxt "Credit text for someone that helped a lot"
+msgid   "Very nice help"
+msgstr  "Ajuda molt valuosa"
+
+msgid   "Cristi Dumitrescu"
+msgstr  "Cristi Dumitrescu"
+
+msgid   "Daniel Naber"
+msgstr  "Daniel Naber"
+
+msgid   "Documents to open."
+msgstr  "Documents que cal obrir."
+
+msgid   "Dominik Haumann"
+msgstr  "Dominik Haumann"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "txemaq@gmail.com"
+
+msgid   "Former Core Developer"
+msgstr  "Antic desenvolupador principal"
+
+msgid   "Gerald Senarclens de Grancy"
+msgstr  "Gerald Senarclens de Grancy"
+
+msgid   "Glen Parker"
+msgstr  "Glen Parker"
+
+msgid   "Hamish Rodda"
+msgstr  "Hamish Rodda"
+
+msgid   "Hide menu bar"
+msgstr  "Oculta la barra de menús"
+
+msgid   "Highlighting for Ferite"
+msgstr  "Ressaltat per a Ferite"
+
+msgid   "Highlighting for ILERPG"
+msgstr  "Ressaltat per a ILERPG"
+
+msgid   "Highlighting for LaTeX"
+msgstr  "Ressaltat per a LaTeX"
+
+msgid   "Highlighting for Makefiles, Python"
+msgstr  "Ressaltat per als fitxers en Make, Python"
+
+msgid   "Highlighting for Python"
+msgstr  "Ressaltat per a Python"
+
+msgid   "Highlighting for RPM Spec-Files, Perl, Diff and more"
+msgstr  "Ressaltat per als fitxers «spec» dels RPM, Perl, diff i més"
+
+msgid   "Highlighting for SQL"
+msgstr  "Ressaltat per a SQL"
+
+msgid   "Highlighting for Scheme"
+msgstr  "Ressaltat per a Scheme"
+
+msgid   "Highlighting for VHDL"
+msgstr  "Ressaltat per a VHDL"
+
+msgid   "Jan Fritz"
+msgstr  "Jan Fritz"
+
+msgid   "Jochen Wilhemly"
+msgstr  "Jochen Wilhemly"
+
+msgid   "John Firebaugh"
+msgstr  "John Firebaugh"
+
+msgid   "Joseph Wenninger"
+msgstr  "Joseph Wenninger"
+
+msgid   "KWrite"
+msgstr  "KWrite"
+
+msgid   "KWrite - Text Editor"
+msgstr  "KWrite: Editor de text"
+
+msgid   "KWrite Author"
+msgstr  "Autoria de KWrite"
+
+msgid   "KWrite Undo History, Kspell integration"
+msgstr  "Historial desfés de KWrite, integració amb el Kspell"
+
+msgid   "KWrite XML Syntax highlighting support"
+msgstr  "Implementació del ressaltat de la sintaxi XML a KWrite"
+
+msgid   "KWrite port to KParts"
+msgstr  "Port de KWrite a KParts"
+
+msgid   "Main Toolbar"
+msgstr  "Barra d'eines principal"
+
+msgid   "Maintainer"
+msgstr  "Mantenidor"
+
+msgid   "Matt Newell"
+msgstr  "Matt Newell"
+
+msgid   "Matteo Merli"
+msgstr  "Matteo Merli"
+
+msgid   "Michael Bartl"
+msgstr  "Michael Bartl"
+
+msgid   "Michael Koch"
+msgstr  "Michael Koch"
+
+msgid   "Michael McCallum"
+msgstr  "Michael McCallum"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Josep M. Ferrer"
+
+msgid   "Navigate to this column."
+msgstr  "Navega fins esta columna."
+
+msgid   "Navigate to this line."
+msgstr  "Navega fins esta llínea."
+
+msgid   "Nick Roux"
+msgstr  "Nick Roux"
+
+msgid   "Open File"
+msgstr  "Obri un fitxer"
+
+msgid   "PHP Keyword/Datatype list"
+msgstr  "Llista de les paraules clau/tipus de dades de PHP"
+
+msgid   "Patches and more"
+msgstr  "Pedaços i més"
+
+msgid   "Per Wigren"
+msgstr  "Per Wigren"
+
+msgid   "QA and Scripting"
+msgstr  "QA i creació de scripts"
+
+msgid   "Read the contents of stdin."
+msgstr  "Llig el contingut de l'entrada estàndard."
+
+msgid   "Rocky Scaletta"
+msgstr  "Rocky Scaletta"
+
+msgid   "Roland Pabel"
+msgstr  "Roland Pabel"
+
+msgid   "Scott Manson"
+msgstr  "Scott Manson"
+
+msgid   "Set encoding for the file to open."
+msgstr  "Establix la codificació del fitxer a obrir."
+
+msgid   "Sho&w Path in Titlebar"
+msgstr  "Mo&stra el camí a la barra de títol"
+
+msgid   "Show the complete document path in the window caption"
+msgstr  "Mostra el camí complet cap al document a la llegenda de la finestra"
+
+msgid   "Simon Hausmann"
+msgstr  "Simon Hausmann"
+
+msgid   "The Editing Commands"
+msgstr  "Les ordres d'edició"
+
+msgid   "The cool buffersystem"
+msgstr  "El fantàstic sistema de memòria intermèdia"
+
+msgid   "The file '%1' could not be opened: it is not a normal file, it is a "
+        "folder."
+msgstr  "El fitxer «%1» no s'ha pogut obrir, este no és un fitxer normal, és "
+        "una carpeta."
+
+msgid   "The files/URLs opened by the application will be deleted after use"
+msgstr  "Els fitxers/URL oberts per l'aplicació se suprimiran després "
+        "d'utilisar-los"
+
+msgid   "This lists files which you have opened recently, and allows you to "
+        "easily open them again."
+msgstr  "Mostra una llista dels fitxers oberts recentment i us permet obrir-"
+        "los fàcilment una atra vegada."
+
+msgid   "This will hide the menu bar completely. You can show it again by "
+        "typing %1."
+msgstr  "Ocultarà completament la barra de menús. La podeu tornar a mostrar "
+        "prement %1."
+
+msgid   "Untitled"
+msgstr  "Sense títol"
+
+msgid   "Use this command to close the current document"
+msgstr  "Utiliseu esta ordre per a tancar el document actual"
+
+msgid   "Use this command to create a new document"
+msgstr  "Utiliseu esta ordre per a crear un document nou"
+
+msgid   "Use this command to open an existing document for editing"
+msgstr  "Utiliseu esta ordre per a obrir un document existent i editar-lo"
+
+msgid   "Use this command to show or hide the view's statusbar"
+msgstr  "Utilisa esta ordre per a mostrar o ocultar la vista de la barra "
+        "d'estat"
+
+msgid   "Waldo Bastian"
+msgstr  "Waldo Bastian"
+
+msgid   "Yury Lebedev"
+msgstr  "Yury Lebedev"
+
+msgid   "[urls...]"
+msgstr  "[URL...]"
+
+msgid   "column"
+msgstr  "columna"
+
+msgid   "encoding"
+msgstr  "codificació"
+
+msgid   "line"
+msgstr  "llínea"

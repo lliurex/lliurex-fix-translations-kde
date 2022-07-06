@@ -1,0 +1,354 @@
+msgid   ""
+msgstr  "Project-Id-Version: dolphin-plugins\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-04-20 15:59+0200\n"
+        "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Lokalize 21.12.3\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+
+msgid   "<application>Git</application> Add"
+msgstr  "Afig a <application>Git</application> («add»)"
+
+msgid   "<application>Git</application> Checkout failed. Maybe your working "
+        "directory is dirty."
+msgstr  "No s'ha pogut fer l'obtenció de <application>Git</application> "
+        "(«checkout»). Potser el directori de treball està brut."
+
+msgid   "<application>Git</application> Checkout..."
+msgstr  "Obtin de <application>Git</application> («checkout»)..."
+
+msgid   "<application>Git</application> Commit..."
+msgstr  "Publica a <application>Git</application> («commit»)..."
+
+msgid   "<application>Git</application> Create Tag..."
+msgstr  "Crea una etiqueta a <application>Git</application> («create tag»)..."
+
+msgid   "<application>Git</application> Log"
+msgstr  "Registre de <application>Git</application> («log»)"
+
+msgid   "<application>Git</application> Log failed."
+msgstr  "No s'ha pogut fer el registre de <application>Git</application> "
+        "(«log»)."
+
+msgid   "<application>Git</application> Log..."
+msgstr  "Registre de <application>Git</application> («log»)..."
+
+msgid   "<application>Git</application> Merge..."
+msgstr  "Fusiona a <application>Git</application> («merge»)..."
+
+msgid   "<application>Git</application> Pull..."
+msgstr  "Extreu de <application>Git</application> («pull»)..."
+
+msgid   "<application>Git</application> Push..."
+msgstr  "Incorpora a <application>Git</application> («push»)..."
+
+msgid   "<application>Git</application> Remove"
+msgstr  "Elimina a <application>Git</application> («remove»)"
+
+msgid   "<application>Git</application> Revert"
+msgstr  "Reverteix a <application>Git</application> («revert»)"
+
+msgid   "<application>Git</application> tag creation failed."
+msgstr  "No s'ha pogut crear l'etiqueta a <application>Git</application>."
+
+msgid   "<application>Git</application> tag creation failed. A tag with the "
+        "name '%1' already exists."
+msgstr  "No s'ha pogut crear l'etiqueta a <application>Git</application>. Ya "
+        "existix una etiqueta amb el nom «%1»."
+
+msgctxt "@action:button"
+msgid   "Checkout"
+msgstr  "Obtin"
+
+msgctxt "@action:button"
+msgid   "Commit"
+msgstr  "Publica"
+
+msgctxt "@action:button"
+msgid   "Create Tag"
+msgstr  "Crea una etiqueta"
+
+msgctxt "@action:button"
+msgid   "Pull"
+msgstr  "Extreu («Pull»)"
+
+msgctxt "@action:button"
+msgid   "Push"
+msgstr  "Incorpora («Push»)"
+
+msgctxt "@action:button Add Signed-Off line to the message widget"
+msgid   "Sign off"
+msgstr  "Signatura"
+
+msgctxt "@info:tooltip"
+msgid   "A branch with the name '%1' already exists."
+msgstr  "Ya hi ha una branca amb el nom «%1»."
+
+msgctxt "@info:tooltip"
+msgid   "A tag named '%1' already exists."
+msgstr  "Ya existix una branca anomenada «%1»."
+
+msgctxt "@info:tooltip"
+msgid   "Add Signed-off-by line at the end of the commit message."
+msgstr  "Afig una llínea de signatura al final del missatge de publicació."
+
+msgctxt "@info:tooltip"
+msgid   "Branch names may not contain any whitespace."
+msgstr  "Els noms de les branques no poden contindre espais en blanc."
+
+msgctxt "@info:tooltip"
+msgid   "Create a new branch based on a selected branch or tag."
+msgstr  "Crea una branca nova basada en una branca seleccionada o una "
+        "etiqueta."
+
+msgctxt "@info:tooltip"
+msgid   "Discard local changes."
+msgstr  "Descarta els canvis locals."
+
+msgctxt "@info:tooltip"
+msgid   "Proceed even if the remote branch is not an ancestor of the local "
+        "branch."
+msgstr  "Continua encara que la branca remota no siga un avantpassat de la "
+        "branca local."
+
+msgctxt "@info:tooltip"
+msgid   "Tag names may not contain any whitespace."
+msgstr  "Els noms de les branques no poden contindre espais en blanc."
+
+msgctxt "@info:tooltip"
+msgid   "There are no tags in this repository."
+msgstr  "No hi ha cap etiqueta en este repositori."
+
+msgctxt "@info:tooltip"
+msgid   "There is nothing to amend."
+msgstr  "No hi ha res a corregir."
+
+msgctxt "@info:tooltip"
+msgid   "You must enter a commit message first."
+msgstr  "Primer heu d'introduir un missatge de publicació."
+
+msgctxt "@info:tooltip"
+msgid   "You must enter a tag name first."
+msgstr  "Primer heu d'introduir un nom de la branca."
+
+msgctxt "@info:tooltip"
+msgid   "You must enter a valid name for the new branch first."
+msgstr  "Primer heu d'introduir un nom vàlit per a la branca nova."
+
+msgctxt "@info:tooltip"
+msgid   "You must select a valid branch first."
+msgstr  "Primer heu de seleccionar una branca vàlida."
+
+msgctxt "@item:intext Prepended to the current branch name to get the default "
+        "name for a newly created branch"
+msgid   "branch"
+msgstr  "branca"
+
+msgctxt "@label:listbox"
+msgid   "Branch:"
+msgstr  "Branca:"
+
+msgctxt "@label:listbox"
+msgid   "Local Branch:"
+msgstr  "Branca local:"
+
+msgctxt "@label:listbox"
+msgid   "Remote Branch:"
+msgstr  "Branca remota:"
+
+msgctxt "@label:listbox"
+msgid   "Remote branch:"
+msgstr  "Branca remota:"
+
+msgctxt "@label:listbox a git remote"
+msgid   "Remote:"
+msgstr  "Remota:"
+
+msgctxt "@label:textbox"
+msgid   "Tag Message:"
+msgstr  "Missatge de l'etiqueta:"
+
+msgctxt "@label:textbox"
+msgid   "Tag Name:"
+msgstr  "Nom de l'etiqueta:"
+
+msgctxt "@option:check"
+msgid   "Amend last commit"
+msgstr  "Correcció de l'última publicació"
+
+msgctxt "@option:check"
+msgid   "Create New Branch: "
+msgstr  "Crea una branca nova: "
+
+msgctxt "@option:check"
+msgid   "Force"
+msgstr  "Força"
+
+msgctxt "@option:radio Git Checkout"
+msgid   "Branch:"
+msgstr  "Branca:"
+
+msgctxt "@option:radio Git Checkout"
+msgid   "Tag:"
+msgstr  "Etiqueta:"
+
+msgctxt "@title:group"
+msgid   "Attach to"
+msgstr  "Adjunta a"
+
+msgctxt "@title:group"
+msgid   "Branch Base"
+msgstr  "Base de la branca"
+
+msgctxt "@title:group"
+msgid   "Branches"
+msgstr  "Branques"
+
+msgctxt "@title:group"
+msgid   "Checkout"
+msgstr  "Obtin"
+
+msgctxt "@title:group"
+msgid   "Commit message"
+msgstr  "Missatge de publicació"
+
+msgctxt "@title:group"
+msgid   "Options"
+msgstr  "Opcions"
+
+msgctxt "@title:group"
+msgid   "Tag Information"
+msgstr  "Informació de l'etiqueta"
+
+msgctxt "@title:group The remote host"
+msgid   "Destination"
+msgstr  "Destinació"
+
+msgctxt "@title:group The source to pull from"
+msgid   "Source"
+msgstr  "Origen"
+
+msgctxt "@title:window"
+msgid   "<application>Git</application> Checkout"
+msgstr  "Obtenció de <application>Git</application>"
+
+msgctxt "@title:window"
+msgid   "<application>Git</application> Commit"
+msgstr  "Publicació a <application>Git</application>"
+
+msgctxt "@title:window"
+msgid   "<application>Git</application> Create Tag"
+msgstr  "Creació d'una etiqueta a <application>Git</application>"
+
+msgctxt "@title:window"
+msgid   "<application>Git</application> Pull"
+msgstr  "Extracció de <application>Git</application>"
+
+msgctxt "@title:window"
+msgid   "<application>Git</application> Push"
+msgstr  "Incorporació a <application>Git</application>"
+
+msgid   "Added files to <application>Git</application> repository."
+msgstr  "S'han afegit els fitxers al repositori <application>Git</"
+        "application>."
+
+msgid   "Adding files to <application>Git</application> repository failed."
+msgstr  "No s'han pogut afegir els fitxers al repositori <application>Git</"
+        "application>."
+
+msgid   "Adding files to <application>Git</application> repository..."
+msgstr  "S'estan afegint fitxers al repositori <application>Git</"
+        "application>..."
+
+msgid   "Branch is already up-to-date."
+msgstr  "La branca ya està actualisada."
+
+msgid   "Dialog height"
+msgstr  "Alçària del diàlec"
+
+msgid   "Dialog width"
+msgstr  "Amplària del diàlec"
+
+msgctxt "Git commit author"
+msgid   "Author"
+msgstr  "Autoria"
+
+msgctxt "Git commit date"
+msgid   "Date"
+msgstr  "Data"
+
+msgctxt "Git commit hash"
+msgid   "Commit"
+msgstr  "Publica"
+
+msgctxt "Git commit message"
+msgid   "Message"
+msgstr  "Missatge"
+
+msgid   "HEAD is now at %1"
+msgstr  "HEAD ara és a %1"
+
+msgid   "Merge conflicts occurred. Fix them and commit the result."
+msgstr  "Hi ha hagut conflictes en fusionar. Esmeneu-los i publiqueu el "
+        "resultat."
+
+msgid   "Pulled branch %1 from %2 successfully."
+msgstr  "Extracció correcta a la branca %1 des de %2."
+
+msgid   "Pulling branch %1 from %2 failed."
+msgstr  "L'extracció a la branca %1 des de %2 ha fallat."
+
+msgid   "Pulling branch %1 from %2..."
+msgstr  "S'està extraient a la branca %1 des de %2..."
+
+msgid   "Pushed branch %1 to %2:%3."
+msgstr  "S'ha incorporat la branca %1 a %2:%3."
+
+msgid   "Pushing branch %1 to %2:%3 failed."
+msgstr  "La incorporació de la branca %1 a %2:%3 ha fallat."
+
+msgid   "Pushing branch %1 to %2:%3..."
+msgstr  "S'està incorporant la branca %1 a %2:%3..."
+
+msgid   "Removed files from <application>Git</application> repository."
+msgstr  "S'han eliminat els fitxers del repositori <application>Git</"
+        "application>."
+
+msgid   "Removing files from <application>Git</application> repository failed."
+msgstr  "No s'han pogut eliminar els fitxers del repositori <application>Git</"
+        "application>."
+
+msgid   "Removing files from <application>Git</application> repository..."
+msgstr  "S'estan eliminant els fitxers del repositori <application>Git</"
+        "application>..."
+
+msgid   "Reverted files from <application>Git</application> repository."
+msgstr  "S'han revertit els fitxers del repositori <application>Git</"
+        "application>."
+
+msgid   "Reverting files from <application>Git</application> repository "
+        "failed."
+msgstr  "No s'han pogut revertir els fitxers del repositori <application>Git</"
+        "application>."
+
+msgid   "Reverting files from <application>Git</application> repository..."
+msgstr  "S'estan revertint els fitxers del repositori <application>Git</"
+        "application>..."
+
+msgid   "Show Local <application>Git</application> Changes"
+msgstr  "Mostra els canvis locals de <application>Git</application>"
+
+msgid   "Successfully created tag '%1'"
+msgstr  "L'etiqueta «%1» s'ha creat correctament"
+
+msgid   "Switched to a new branch '%1'"
+msgstr  "S'ha canviat a la branca nova «%1»"
+
+msgid   "Switched to branch '%1'"
+msgstr  "S'ha canviat a la branca «%1»"

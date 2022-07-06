@@ -1,0 +1,458 @@
+msgid   ""
+msgstr  "Project-Id-Version: keditbookmarks\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-04-20 15:23+0200\n"
+        "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Lokalize 21.12.3\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+
+msgid   "%1 Bookmarks"
+msgstr  "Adreces d'interés de %1"
+
+msgid   "%1; no HTML component found (%2)"
+msgstr  "%1; no s'ha trobat cap component HTML (%2)"
+
+msgid   "&Bookmark"
+msgstr  "&Adreça d'interés"
+
+msgid   "&Delete"
+msgstr  "Sup&rimix"
+
+msgid   "&Edit"
+msgstr  "E&dita"
+
+msgid   "&Expand All Folders"
+msgstr  "&Expandix totes les carpetes"
+
+msgid   "&Export"
+msgstr  "&Exporta"
+
+msgid   "&File"
+msgstr  "&Fitxer"
+
+msgid   "&Folder"
+msgstr  "&Carpeta"
+
+msgid   "&Import"
+msgstr  "&Importa"
+
+msgid   "&Insert Separator"
+msgstr  "&Inserix separador"
+
+msgid   "&New Bookmark"
+msgstr  "Adreça d'interés &nova"
+
+msgid   "&New Folder..."
+msgstr  "Carpeta &nova..."
+
+msgid   "&Open in Browser"
+msgstr  "&Obri en el navegador"
+
+msgid   "&Settings"
+msgstr  "Con&figuració"
+
+msgid   "&Sort Alphabetically"
+msgstr  "&Ordena alfabèticament"
+
+msgid   "&Tools"
+msgstr  "&Eines"
+
+msgid   "&View"
+msgstr  "Vi&sualisa"
+
+msgctxt "(qtundo-format)"
+msgid   "Comment Change"
+msgstr  "Canvi del comentari"
+
+msgctxt "(qtundo-format)"
+msgid   "Copy %1"
+msgstr  "Copia %1"
+
+msgctxt "(qtundo-format)"
+msgid   "Copy Items"
+msgstr  "Copia elements"
+
+msgctxt "(qtundo-format)"
+msgid   "Create Bookmark"
+msgstr  "Crea una adreça d'interés"
+
+msgctxt "(qtundo-format)"
+msgid   "Create Folder"
+msgstr  "Crea una carpeta"
+
+msgctxt "(qtundo-format)"
+msgid   "Cut Items"
+msgstr  "Retalla elements"
+
+msgctxt "(qtundo-format)"
+msgid   "Delete Items"
+msgstr  "Suprimix elements"
+
+msgctxt "(qtundo-format)"
+msgid   "Icon Change"
+msgstr  "Canvi de la icona"
+
+msgctxt "(qtundo-format)"
+msgid   "Import %1 Bookmarks"
+msgstr  "Importa les adreces d'interés de %1"
+
+msgctxt "(qtundo-format)"
+msgid   "Insert Separator"
+msgstr  "Inserix un separador"
+
+msgctxt "(qtundo-format)"
+msgid   "Move %1"
+msgstr  "Mou %1"
+
+msgctxt "(qtundo-format)"
+msgid   "Move Items"
+msgstr  "Mou elements"
+
+msgctxt "(qtundo-format)"
+msgid   "Paste"
+msgstr  "Apega"
+
+msgctxt "(qtundo-format)"
+msgid   "Recursive Sort"
+msgstr  "Ordenació recursiva"
+
+msgctxt "(qtundo-format)"
+msgid   "Set as Bookmark Toolbar"
+msgstr  "Establix com a barra d'eines d'adreces d'interés"
+
+msgctxt "(qtundo-format)"
+msgid   "Sort Alphabetically"
+msgstr  "Ordena alfabèticament"
+
+msgctxt "(qtundo-format)"
+msgid   "Title Change"
+msgstr  "Canvi del títol"
+
+msgctxt "(qtundo-format)"
+msgid   "URL Change"
+msgstr  "Canvi de l'URL"
+
+msgctxt "@title:column comment for a bookmark"
+msgid   "Comment"
+msgstr  "Comentari"
+
+msgctxt "@title:column name of a bookmark"
+msgid   "Location"
+msgstr  "Ubicació"
+
+msgctxt "@title:column name of a bookmark"
+msgid   "Name"
+msgstr  "Nom"
+
+msgctxt "@title:column status of a bookmark"
+msgid   "Status"
+msgstr  "Estat"
+
+msgctxt "@title:window"
+msgid   "%1 Import"
+msgstr  "Importació de %1"
+
+msgctxt "@title:window"
+msgid   "Create New Bookmark Folder"
+msgstr  "Crea una carpeta nova d'adreces d'interés"
+
+msgctxt "@title:window"
+msgid   "Warning"
+msgstr  "Avís"
+
+msgid   "A unique name that represents this bookmark collection, usually the "
+        "kinstance name.\n"
+        "This should be \"konqueror\" for the Konqueror bookmarks, \"kfile\" "
+        "for KFileDialog bookmarks, etc.\n"
+        "The final D-Bus object path is /KBookmarkManager/<dbusObjectName>"
+msgstr  "Un nom únic que representa esta colecció d'adreces d'interés, "
+        "normalment el nom de la instància-k.\n"
+        "Açò hauria de ser «konqueror» per a les adreces d'interés de "
+        "Konqueror, «kfile» per a les adreces d'interés del KFileDialog, "
+        "etc.\n"
+        "El camí a l'objecte D-Bus final és /KBookmarkManager/<dbusObjectName>"
+
+msgid   "Alexander Kellett"
+msgstr  "Alexander Kellett"
+
+msgid   "All Visible Columns"
+msgstr  "Totes les columnes visibles"
+
+msgid   "Another instance of %1 is already running. Do you really want to "
+        "open another instance or continue work in the same instance?\n"
+        "Please note that, unfortunately, duplicate views are read-only."
+msgstr  "Ya s'està executant una atra instància de %1. Segur que voleu obrir "
+        "una atra instància o continueu treballant a la mateixa instància?\n"
+        "Cal tindre en compte que les vistes duplicades són només de lectura."
+
+msgid   "As New Folder"
+msgstr  "Com una carpeta nova"
+
+msgid   "Author"
+msgstr  "Autoria"
+
+msgid   "Bookmark Editor"
+msgstr  "Editor d'adreces d'interés"
+
+msgid   "Bookmark Organizer and Editor"
+msgstr  "Organisador i editor d'adreces d'interés"
+
+msgid   "C&hange Comment"
+msgstr  "C&anvia el comentari"
+
+msgid   "C&hange Location"
+msgstr  "C&anvia la ubicació"
+
+msgid   "Cancel &Checks"
+msgstr  "Cancela les &comprovacions"
+
+msgid   "Cancel &Favicon Updates"
+msgstr  "Cancela les actualisacions de les &icones de web"
+
+msgid   "Chan&ge Icon..."
+msgstr  "Can&via la icona..."
+
+msgid   "Check &Status"
+msgstr  "Comprova l'e&stat"
+
+msgid   "Check Status: &All"
+msgstr  "Comprova l'estat: &tot"
+
+msgid   "Checking..."
+msgstr  "S'està comprovant..."
+
+msgid   "Collapse &All Folders"
+msgstr  "Reduïx &totes les carpetes"
+
+msgctxt "Column number %1"
+msgid   "Column No. %1"
+msgstr  "Columna núm. %1"
+
+msgid   "Comment:"
+msgstr  "Comentari:"
+
+msgid   "Continue in Same"
+msgstr  "Continua la mateixa"
+
+msgid   "Copyright 2000-2017, KDE developers"
+msgstr  "Copyright 2000-2017, KDE developers"
+
+msgid   "Copyright © 2005 Frerich Raabe"
+msgstr  "Copyright © 2005 Frerich Raabe"
+
+msgid   "David Faure"
+msgstr  "David Faure"
+
+msgid   "Directory to scan for extra bookmarks"
+msgstr  "Directori a explorar per a adreces d'interés addicionals"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "txemaq@gmail.com"
+
+msgid   "Export &HTML Bookmarks..."
+msgstr  "Exporta a adreces d'interés &HTML..."
+
+msgid   "Export &Internet Explorer Bookmarks..."
+msgstr  "Exporta a adreces d'interés de l'&Internet Explorer..."
+
+msgid   "Export &Mozilla Bookmarks..."
+msgstr  "Exporta a adreces d'interés del &Mozilla..."
+
+msgid   "Export &Netscape Bookmarks"
+msgstr  "Exporta a adreces d'interés del &Netscape"
+
+msgid   "Export &Opera Bookmarks..."
+msgstr  "Exporta a adreces d'interés de l'&Opera..."
+
+msgid   "Export bookmarks to a file in Internet Explorer's Favorites format"
+msgstr  "Exporta les adreces d'interés a un fitxer amb el format dels "
+        "preferits d'Internet Explorer"
+
+msgid   "Export bookmarks to a file in Mozilla format"
+msgstr  "Exporta les adreces d'interés a un fitxer amb el format Mozilla"
+
+msgid   "Export bookmarks to a file in Netscape (4.x and earlier) format"
+msgstr  "Exporta les adreces d'interés a un fitxer amb el format Netscape (4."
+        "x i anteriors)"
+
+msgid   "Export bookmarks to a file in Opera format"
+msgstr  "Exporta les adreces d'interés a un fitxer amb el format Opera"
+
+msgid   "Export bookmarks to a file in a printable HTML format"
+msgstr  "Exporta les adreces d'interés a un fitxer amb el format HTML "
+        "imprimible"
+
+msgid   "File to edit"
+msgstr  "Fitxer a editar"
+
+msgid   "First viewed:"
+msgstr  "Primer accés:"
+
+msgid   "Frerich Raabe"
+msgstr  "Frerich Raabe"
+
+msgid   "Galeon"
+msgstr  "Galeon"
+
+msgid   "Galeon Bookmark Files (*.xbel)"
+msgstr  "Fitxers d'adreces d'interés del Galeon (*.xbel)"
+
+msgid   "HTML Bookmark Listing (*.html)"
+msgstr  "Llistat d'adreces d'interés en HTML (*.html)"
+
+msgid   "Hide all browser related functions"
+msgstr  "Oculta totes les funcions relacionades amb el navegador"
+
+msgid   "IE"
+msgstr  "IE"
+
+msgid   "Import &Galeon Bookmarks..."
+msgstr  "Importa les adreces d'interés del &Galeon..."
+
+msgid   "Import &Internet Explorer Bookmarks..."
+msgstr  "Importa les adreces d'interés de l'&Internet Explorer..."
+
+msgid   "Import &KDE 2 or KDE 3 Bookmarks..."
+msgstr  "Importa les adreces d'interés del &KDE 2 o KDE 3..."
+
+msgid   "Import &Mozilla Bookmarks..."
+msgstr  "Importa les adreces d'interés del &Mozilla..."
+
+msgid   "Import &Netscape Bookmarks..."
+msgstr  "Importa les adreces d'interés del &Netscape..."
+
+msgid   "Import &Opera Bookmarks..."
+msgstr  "Importa les adreces d'interés de l'&Opera..."
+
+msgid   "Import as a new subfolder or replace all the current bookmarks?"
+msgstr  "Importo com una subcarpeta nova o substitueixo totes les adreces "
+        "d'interés actuals?"
+
+msgid   "Import bookmarks from a file in Galeon format"
+msgstr  "Importa les adreces d'interés des d'un fitxer amb el format Galeon"
+
+msgid   "Import bookmarks from a file in Internet Explorer's Favorites format"
+msgstr  "Importa les adreces d'interés des d'un fitxer amb el format dels "
+        "preferits d'Internet Explorer"
+
+msgid   "Import bookmarks from a file in KDE2 format"
+msgstr  "Importa les adreces d'interés des d'un fitxer amb el format KDE 2"
+
+msgid   "Import bookmarks from a file in Mozilla format"
+msgstr  "Importa les adreces d'interés des d'un fitxer amb el format Mozilla"
+
+msgid   "Import bookmarks from a file in Netscape (4.x and earlier) format"
+msgstr  "Importa les adreces d'interés des d'un fitxer amb el format Netscape "
+        "(4.x i anteriors)"
+
+msgid   "Import bookmarks from a file in Opera format"
+msgstr  "Importa les adreces d'interés des d'un fitxer amb el format Opera"
+
+msgid   "Initial author"
+msgstr  "Autoria inicial"
+
+msgid   "KBookmarkMerger"
+msgstr  "KBookmarkMerger"
+
+msgid   "KDE"
+msgstr  "KDE"
+
+msgid   "KDE Bookmark Files (*.xml)"
+msgstr  "Fitxers d'adreces d'interés de KDE (*.xml)"
+
+msgid   "Location:"
+msgstr  "Ubicació:"
+
+msgid   "Main Toolbar"
+msgstr  "Barra d'eines principal"
+
+msgid   "Merges bookmarks installed by 3rd parties into the user's bookmarks"
+msgstr  "Fusiona les adreces d'interés instalades per terceres parts amb les "
+        "adreces d'interés de l'usuari"
+
+msgid   "Mozilla"
+msgstr  "Mozilla"
+
+msgid   "My Bookmarks"
+msgstr  "Les meues adreces d'interés"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Josep M. Ferrer"
+
+msgid   "Name:"
+msgstr  "Nom:"
+
+msgid   "Netscape"
+msgstr  "Netscape"
+
+msgid   "New folder:"
+msgstr  "Carpeta nova:"
+
+msgid   "OK"
+msgstr  "D'acord"
+
+msgid   "Open at the given position in the bookmarks file"
+msgstr  "Obri a la posició indicada en el fitxer d'adreces d'interés"
+
+msgid   "Opera"
+msgstr  "Opera"
+
+msgid   "Original author"
+msgstr  "Autor original"
+
+msgid   "Recursive Sort"
+msgstr  "Ordenació recursiva"
+
+msgid   "Rename"
+msgstr  "Canvia el nom"
+
+msgid   "Replace"
+msgstr  "Substitueix"
+
+msgid   "Run Another"
+msgstr  "Executa una atra"
+
+msgid   "S&earch:"
+msgstr  "Bu&sca:"
+
+msgid   "Search Columns"
+msgstr  "Busca a les columnes"
+
+msgid   "Set as T&oolbar Folder"
+msgstr  "Establix com a carpeta de barra d'&eines"
+
+msgid   "Set the user-readable caption, for example \"Konsole\""
+msgstr  "Indica una llegenda llegible per l'usuari, per exemple «Konsole»"
+
+msgid   "Times visited:"
+msgstr  "Nombre de visites:"
+
+msgid   "Update All &Favicons"
+msgstr  "Actualisa totes les &icones de web"
+
+msgid   "Update Favicon"
+msgstr  "Actualisa la icona de web"
+
+msgid   "Updating favicon..."
+msgstr  "S'està actualisant la icona de web..."
+
+msgid   "Viewed last:"
+msgstr  "Últim accés:"
+
+msgid   "You may only specify a single --export option."
+msgstr  "Només podeu especificar una única opció --export."
+
+msgid   "You may only specify a single --import option."
+msgstr  "Només podeu especificar una única opció --import."
+
+msgctxt "name of the container of all browser bookmarks"
+msgid   "Bookmarks"
+msgstr  "Adreces d'interés"

@@ -1,0 +1,156 @@
+msgid   ""
+msgstr  "Project-Id-Version: kio-extras\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2021-10-31 20:57+0100\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Lokalize 20.12.0\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+
+msgid   "An %1 host key for this server was not found, but another type of "
+        "key exists.\n"
+        "An attacker might change the default server key to confuse your "
+        "client into thinking the key does not exist.\n"
+        "Please contact your system administrator.\n"
+        "%2"
+msgstr  "No s'ha trobat la clau %1 de l'ordinador per a este servidor, pero "
+        "existix un atre tipus de clau.\n"
+        "Un atacant podria canviar la clau del servidor per defecte per a "
+        "confondre al client fent-lo creure que la clau no existix.\n"
+        "Contacteu amb l'administrador del sistema.\n"
+        "%2"
+
+msgid   "Authentication failed."
+msgstr  "No s'ha pogut fer l'autenticació."
+
+msgid   "Authentication failed. The server didn't send any authentication "
+        "methods"
+msgstr  "No s'ha pogut fer l'autenticació. El servidor no ha enviat cap "
+        "mètode d'autenticació"
+
+msgid   "Could not allocate callbacks"
+msgstr  "No s'han pogut assignar les crides de retorn"
+
+msgid   "Could not change permissions for\n"
+        "%1"
+msgstr  "No s'han pogut canviar els permisos per a\n"
+        "%1"
+
+msgid   "Could not create a new SSH session."
+msgstr  "No s'ha pogut crear cap sessió SSH nova."
+
+msgid   "Could not create fingerprint for server public key"
+msgstr  "No s'ha pogut crear l'empremta digital de la clau pública del "
+        "servidor"
+
+msgid   "Could not create hash from server public key"
+msgstr  "No s'ha pogut crear el resum de la clau pública del servidor"
+
+msgid   "Could not disable Nagle's Algorithm."
+msgstr  "No s'ha pogut desactivar l'algorisme de Nagle."
+
+msgid   "Could not get server public key type name"
+msgstr  "No s'ha pogut obtindre el nom de tipus de la clau pública del "
+        "servidor"
+
+msgid   "Could not initialize the SFTP session."
+msgstr  "No s'ha pogut restablir la sessió SFTP."
+
+msgid   "Could not parse the config file."
+msgstr  "No s'ha pogut analisar el fitxer de configuració."
+
+msgid   "Could not set a timeout."
+msgstr  "No s'ha pogut establir cap temps d'espera."
+
+msgid   "Could not set compression."
+msgstr  "No s'ha pogut establir cap compressió."
+
+msgid   "Could not set host."
+msgstr  "No s'ha pogut establir el servidor."
+
+msgid   "Could not set log callback."
+msgstr  "No s'ha pogut establir la crida de retorn del registre."
+
+msgid   "Could not set log userdata."
+msgstr  "No s'ha pogut establir la dada d'usuari del registre."
+
+msgid   "Could not set log verbosity."
+msgstr  "No s'ha pogut establir el nivell de detall del registre."
+
+msgid   "Could not set port."
+msgstr  "No s'ha pogut establir cap port."
+
+msgid   "Could not set username."
+msgstr  "No s'ha pogut establir cap nom d'usuari."
+
+msgid   "Incorrect or invalid passphrase"
+msgstr  "Frase de pas incorrecta o no vàlida"
+
+msgid   "Incorrect username or password"
+msgstr  "Nom d'usuari o contrasenya incorrectes"
+
+msgid   "Invalid sftp context"
+msgstr  "Context SFTP no vàlit"
+
+msgid   "Opening SFTP connection to host %1:%2"
+msgstr  "S'està obrint la connexió SFTP amb el servidor %1:%2"
+
+msgid   "Please enter your password."
+msgstr  "Introduïu la vostra contrasenya."
+
+msgid   "Please enter your username and password."
+msgstr  "Introduïu el vostre nom d'usuari i contrasenya."
+
+msgid   "SFTP Login"
+msgstr  "Accés SFTP"
+
+msgid   "Site:"
+msgstr  "Lloc:"
+
+msgid   "Successfully connected to %1"
+msgstr  "S'ha connectat correctament amb %1"
+
+msgid   "The authenticity of host %1 cannot be established.\n"
+        "The %2 key fingerprint is: %3\n"
+        "Are you sure you want to continue connecting?"
+msgstr  "No es pot establir l'autenticitat de l'ordinador %1.\n"
+        "L'empremta digital de la clau %2 és: %3\n"
+        "Segur que voleu continuar la connexió?"
+
+msgid   "The host key for the server %1 has changed.\n"
+        "This could either mean that DNS SPOOFING is happening or the IP "
+        "address for the host and its host key have changed at the same "
+        "time.\n"
+        "The fingerprint for the %2 key sent by the remote host is:\n"
+        "  SHA256:%3\n"
+        "Please contact your system administrator.\n"
+        "%4"
+msgstr  "La clau de l'ordinador per al servidor %1 ha canviat.\n"
+        "Açò podria significar que hi ha un falsejament de DNS («DNS "
+        "SPOOFING») o que l'adreça IP del servidor i la seua clau de servidor "
+        "han canviat al mateix temps.\n"
+        "L'empremta digital per a la clau %2 enviada pel servidor remot és:\n"
+        "  SHA256:%3\n"
+        "Contacteu amb l'administrador del sistema.\n"
+        "%4"
+
+msgid   "Unable to request the SFTP subsystem. Make sure SFTP is enabled on "
+        "the server."
+msgstr  "No s'ha pogut solicitar el subsistema SFTP. Comproveu que l'SFTP "
+        "estiga actiu en el servidor."
+
+msgid   "Use the username input field to answer this question."
+msgstr  "Utiliseu el camp d'entrada del nom d'usuari per a contestar esta "
+        "qüestió."
+
+msgid   "Warning: Cannot verify host's identity."
+msgstr  "Avís: No es pot verificar la identitat del servidor."
+
+msgctxt "error message. %1 is a path, %2 is a numeric error code"
+msgid   "Could not read link: %1 [%2]"
+msgstr  "No s'ha pogut llegir l'enllaç: %1 [%2]"

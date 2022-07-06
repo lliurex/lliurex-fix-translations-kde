@@ -1,0 +1,246 @@
+msgid   ""
+msgstr  "Project-Id-Version: kdeconnect-kde\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-04-11 21:56+0200\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+        "X-Generator: Lokalize 20.12.0\n"
+
+msgid   "%1 does not exist"
+msgstr  "%1 no existix"
+
+msgid   "&percnt;1 in the path will be replaced with the specific device name."
+msgstr  "&percnt;1 al camí serà substituït pel nom específic del dispositiu."
+
+msgid   "<html><head/><body><p>Minimum urgency level of the notifications</"
+        "p></body></html>"
+msgstr  "<html><head/><body><p>Nivell mínim d'urgència de les notificacions</"
+        "p></body></html>"
+
+msgctxt "@action:button"
+msgid   "Reply"
+msgstr  "Respon"
+
+msgctxt "@info:placeholder"
+msgid   "Reply to %1..."
+msgstr  "Respon a %1..."
+
+msgid   "Actions"
+msgstr  "Accions"
+
+msgid   "All files"
+msgstr  "Tots els fitxers"
+
+msgid   "Append the notification body to the summary when synchronizing "
+        "notifications?"
+msgstr  "Aafigc el cos de la notificació al resum en sincronisar les "
+        "notificacions?"
+
+msgid   "Applications"
+msgstr  "Aplicacions"
+
+msgid   "Automatically resume media when call has finished"
+msgstr  "Reprén automàticament el multimèdia quan finalise la tocada"
+
+msgid   "Battery at %1%"
+msgstr  "Bateria a %1%"
+
+msgid   "Blacklisted"
+msgstr  "Es troba a la llista negra"
+
+msgid   "Camera pictures"
+msgstr  "Imàgens de la càmara"
+
+msgid   "Cancel last shutdown"
+msgstr  "Cancela l'última parada"
+
+msgid   "Cannot handle SFTP protocol. Apologies for the inconvenience"
+msgstr  "No s'ha pogut gestionar el protocol SFTP. Disculpes per les molèsties"
+
+msgid   "Close All Vaults"
+msgstr  "Tanca totes les caixes fortes"
+
+msgid   "Command"
+msgstr  "Ordre"
+
+msgid   "Condition"
+msgstr  "Condició"
+
+msgid   "Could not share file"
+msgstr  "No s'ha pogut compartir el fitxer"
+
+msgid   "Dialog"
+msgstr  "Diàlec"
+
+msgid   "Discovery Utilities"
+msgstr  "Utilitats de descobriment"
+
+msgid   "Error when accessing filesystem. sshfs finished with exit code %0"
+msgstr  "S'ha produït un error en accedir al sistema de fitxers. «sshfs» ha "
+        "finalisat amb un codi d'eixida %0"
+
+msgid   "Failed to mount filesystem: device not responding"
+msgstr  "El muntatge del sistema de fitxers ha fallat: el dispositiu no respon"
+
+msgid   "Failed to start sshfs"
+msgstr  "No s'ha pogut iniciar «sshfs»"
+
+msgid   "Forcefully Close All Vaults"
+msgstr  "Tanca fortament totes les caixes fortes"
+
+msgid   "General"
+msgstr  "General"
+
+msgid   "Include body"
+msgstr  "Inclou el cos"
+
+msgid   "Incoming call from %1"
+msgstr  "Tocada entrant de %1"
+
+msgid   "KDE Connect"
+msgstr  "KDE Connect"
+
+msgid   "Lock Screen"
+msgstr  "Bloqueja la pantalla"
+
+msgid   "Maximum Brightness"
+msgstr  "Lluminositat màxima"
+
+msgid   "Minimum urgency level"
+msgstr  "Nivell mínim d'urgència"
+
+msgid   "Missed call from %1"
+msgstr  "Tocada perduda de %1"
+
+msgid   "Mute Call"
+msgstr  "Silencia la tocada"
+
+msgid   "Mute system sound"
+msgstr  "Silencia el so del sistema"
+
+msgid   "Name"
+msgstr  "Nom"
+
+msgid   "Name of a notifying application."
+msgstr  "Nom d'una aplicació amb notificacions."
+
+msgid   "Pause as soon as phone rings"
+msgstr  "Fa una pausa tan prompte com soni el teléfon"
+
+msgid   "Pause media players"
+msgstr  "Fa una pausa dels reproductors multimèdia"
+
+msgid   "Pause music plugin"
+msgstr  "Conector Pausa de la música"
+
+msgid   "Pause only while talking"
+msgstr  "Fa una pausa només mentre es parla"
+
+msgid   "Persistent notifications only"
+msgstr  "Només les notificacions persistents"
+
+msgid   "Phone is connected"
+msgstr  "El teléfon està connectat"
+
+msgid   "Ping!"
+msgstr  "Ping!"
+
+msgid   "Reboot"
+msgstr  "Reinicia"
+
+msgid   "Receiving"
+msgstr  "Recepció"
+
+msgid   "Regular expression defining which notifications should not be sent.\n"
+        "This pattern is applied to the summary and, if selected above, the "
+        "body of notifications."
+msgstr  "Expressió regular que definix les notificacions que no s'han "
+        "d'enviar.\n"
+        "Este patró s'aplica al resum, i si s'ha seleccionat a dalt, al cos "
+        "de les notificacions."
+
+msgid   "Remote lock failed"
+msgstr  "Ha fallat el bloqueig remot"
+
+msgid   "Remote lock successful"
+msgstr  "Bloqueig remot amb èxit"
+
+msgid   "Reply"
+msgstr  "Respon"
+
+msgid   "Sample commands"
+msgstr  "Ordres de mostra"
+
+msgid   "Save files in:"
+msgstr  "Guarda els fitxers a:"
+
+msgid   "Say Hello"
+msgstr  "Digues hola"
+
+msgid   "Schedule a reboot"
+msgstr  "Planifica un reinici"
+
+msgid   "Schedule a shutdown"
+msgstr  "Planifica una parada"
+
+msgid   "Select the sound to play"
+msgstr  "Seleccioneu el so que s'ha de reproduir"
+
+msgid   "Send"
+msgstr  "Envia"
+
+msgid   "Share plugin settings"
+msgstr  "Configuració del conector Compartició"
+
+msgid   "Shutdown"
+msgstr  "Para"
+
+msgid   "Shutdown now"
+msgstr  "Para ara"
+
+msgid   "Sound to play:"
+msgstr  "So que s'ha de reproduir:"
+
+msgid   "Suspend"
+msgstr  "Suspèn"
+
+msgid   "Synchronize icons"
+msgstr  "Sincronisa les icones"
+
+msgid   "Synchronize icons of notifying applications if possible?"
+msgstr  "Sincronise les icones i notificacions d'una aplicació si és possible?"
+
+msgid   "Synchronize notifications of an application?"
+msgstr  "Sincronise les notificacions d'una aplicació?"
+
+msgid   "Synchronize only notifications with a timeout value of 0?"
+msgstr  "Sincronise només les notificacions amb un valor de temps d'espera de "
+        "0?"
+
+msgid   "Synchronize only notifications with the given urgency level."
+msgstr  "Només sincronisa les notificacions amb el nivell d'urgència indicat."
+
+msgid   "Unknown error in sshfs"
+msgstr  "S'ha produït un error desconegut a «sshfs»"
+
+msgid   "Unlock Screen"
+msgstr  "Desbloqueja la pantalla"
+
+msgid   "Use your phone as a touchpad and keyboard"
+msgstr  "Utilisa el teléfon com un ratolí tàctil i teclat"
+
+msgctxt "device name: low battery"
+msgid   "%1: Low Battery"
+msgstr  "%1: Bateria baixa"
+
+msgid   "sshfs process crashed"
+msgstr  "El procés «sshfs» ha fallat"
+
+msgid   "unknown number"
+msgstr  "número desconegut"

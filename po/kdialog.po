@@ -1,0 +1,263 @@
+msgid   ""
+msgstr  "Project-Id-Version: kdialog\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2020-10-16 13:31+0100\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Lokalize 2.0\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+
+msgid   "'Error' message box"
+msgstr  "Quadro de missatge «Error»"
+
+msgid   "'Error' message box with expandable Details field"
+msgstr  "Quadro de missatge «Error» amb un camp de detalls ampliable"
+
+msgid   "'Sorry' message box"
+msgstr  "Quadro de missatge «Ho sentim»"
+
+msgid   "'Sorry' message box with expandable Details field"
+msgstr  "Quadro de missatge «Ho sentim» amb un camp de detalls ampliable"
+
+msgid   "(C) 2000, Nick Thompson"
+msgstr  "(C) 2000, Nick Thompson"
+
+msgctxt "@title:window"
+msgid   "Choose Color"
+msgstr  "Seleccioneu el color"
+
+msgctxt "@title:window"
+msgid   "Open"
+msgstr  "Obri"
+
+msgctxt "@title:window"
+msgid   "Save As"
+msgstr  "Anomena i guarda"
+
+msgctxt "@title:window"
+msgid   "Select Directory"
+msgstr  "Seleccioneu el directori"
+
+msgid   "A synonym for --attach"
+msgstr  "Un sinònim per a «--attach»"
+
+msgid   "Allow --getcolor to specify output format"
+msgstr  "Permetre «--getcolor» per a especificar el format d'eixida"
+
+msgid   "Allows the --getopenurl and --getopenfilename options to return "
+        "multiple files"
+msgstr  "Permet que les opcions --getopenurl i --getopenfilename retornen "
+        "múltiples fitxers"
+
+msgid   "Arguments - depending on main option"
+msgstr  "Arguments - depenent de l'opció principal"
+
+msgid   "Brad Hards"
+msgstr  "Brad Hards"
+
+msgid   "Calendar dialog box, returns selected date"
+msgstr  "Diàlec de calendari, retorna la data seleccionada"
+
+msgid   "Cancel"
+msgstr  "Cancela"
+
+msgid   "Check List dialog"
+msgstr  "Diàlec de llista de marques"
+
+msgid   "Color dialog to select a color"
+msgstr  "Diàlec de color per a seleccionar un color"
+
+msgid   "ComboBox dialog"
+msgstr  "Diàlec de quadro combinat"
+
+msgid   "Config file and option name for saving the \"do-not-show/ask-again\" "
+        "state"
+msgstr  "Fitxer de configuració i nom d'opció per a guardar l'estat «no ho "
+        "mostres/torna a preguntar»"
+
+msgid   "Current maintainer"
+msgstr  "Mantenidor actual"
+
+msgid   "Date format for calendar result and/or default value (Qt-style); "
+        "defaults to 'ddd MMM d yyyy'"
+msgstr  "Format de data per al resultat del calendari i/o el valor "
+        "predeterminat (estil Qt); el valor predeterminat és «ddd MMM d yyyy»"
+
+msgid   "David Faure"
+msgstr  "David Faure"
+
+msgid   "David Gümbel"
+msgstr  "David Gümbel"
+
+msgid   "Dawit Alemayehu"
+msgstr  "Dawit Alemayehu"
+
+msgid   "Default entry to use for combobox, menu, color, and calendar"
+msgstr  "Entrada predeterminada per a utilisar als quadros combinats, menús, "
+        "colors i calendaris"
+
+msgid   "Dialog geometry: [=][<width>{xX}<height>][{+-}<xoffset>{+-}<yoffset>]"
+msgstr  "Geometria del diàlec: [=][<amplària>{xX}<alçària>][{+-}"
+        "<desplaçamentx>{+-}<desplaçamenty>]"
+
+msgid   "Dialog title"
+msgstr  "Títol del diàlec"
+
+msgid   "Do not ask again"
+msgstr  "No ho tornes a preguntar"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "sps@sastia.com"
+
+msgid   "File dialog to open an existing URL (arguments [startDir] [filter])"
+msgstr  "Diàlec de fitxer per a obrir un URL existent (arguments [dirInici] "
+        "[filtre])"
+
+msgid   "File dialog to open an existing file (arguments [startDir] [filter])"
+msgstr  "Diàlec de fitxer per a obrir un fitxer existent (arguments "
+        "[dirInici] [filtre])"
+
+msgid   "File dialog to save a URL (arguments [startDir] [filter])"
+msgstr  "Diàlec de fitxer per a guardar un URL (arguments [dirInici] [filtre])"
+
+msgid   "File dialog to save a file (arguments [startDir] [filter])"
+msgstr  "Diàlec de fitxer per a guardar un fitxer (arguments [dirInici] "
+        "[filtre])"
+
+msgid   "File dialog to select an existing directory (arguments [startDir])"
+msgstr  "Diàlec de fitxer per a seleccionar un directori existent (arguments "
+        "[dirInici])"
+
+msgid   "Icon chooser dialog (arguments [group] [context])"
+msgstr  "Diàlec de selecció de la icona (arguments [grup] [context])"
+
+msgid   "Image Box Input dialog"
+msgstr  "Diàlec d'entrada de quadro d'image"
+
+msgid   "Image Box dialog"
+msgstr  "Diàlec de quadro d'image"
+
+msgid   "Input Box dialog"
+msgstr  "Diàlec de quadro d'entrada"
+
+msgid   "KDialog"
+msgstr  "KDialog"
+
+msgid   "KDialog can be used to show nice dialog boxes from shell scripts"
+msgstr  "KDialog pot utilisar-se per a mostrar diàlecs agradables des de "
+        "scripts de l'intérpret d'ordres"
+
+msgid   "Kai Uwe Broulik"
+msgstr  "Kai Uwe Broulik"
+
+msgid   "Makes the dialog transient for an X app specified by winid"
+msgstr  "Fes el diàlec transitori per a una aplicació X especificada per "
+        "«winid»"
+
+msgid   "Matthias Hölzer"
+msgstr  "Matthias Hölzer"
+
+msgid   "Menu dialog"
+msgstr  "Diàlec de menú"
+
+msgid   "Message Box dialog"
+msgstr  "Diàlec de quadro de missatge"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Sebastià Pla i Sanz"
+
+msgid   "New Password dialog"
+msgstr  "Diàlec de contrasenya nova"
+
+msgid   "Nick Thompson"
+msgstr  "Nick Thompson"
+
+msgid   "Outputs the winId of each dialog"
+msgstr  "Escriu l'ID de finestra de cada diàlec"
+
+msgid   "Passive Popup"
+msgstr  "Emergent passiu"
+
+msgid   "Password dialog"
+msgstr  "Diàlec de contrasenya"
+
+msgid   "Popup icon"
+msgstr  "Icona emergent"
+
+msgid   "Progress bar dialog, returns a D-Bus reference for communication"
+msgstr  "Diàlec de barra de progrés, retorna una referència de D-Bus per a la "
+        "comunicació"
+
+msgid   "Question message box with yes/no buttons"
+msgstr  "Quadro de missatge de pregunta amb botons sí/no"
+
+msgid   "Question message box with yes/no/cancel buttons"
+msgstr  "Quadro de missatge de pregunta amb botons sí/no/cancela"
+
+msgid   "Radio List dialog"
+msgstr  "Diàlec de llista d'opcions"
+
+msgid   "Return list items on separate lines (for checklist option and file "
+        "open with --multiple)"
+msgstr  "Retorna els elements de la llista en llínees separades (per a "
+        "l'opció de llista de marques i obertura de fitxers amb --multiple)"
+
+msgid   "Richard Moore"
+msgstr  "Richard Moore"
+
+msgid   "Slider dialog box, returns selected value"
+msgstr  "Diàlec de control lliscant, retorna el valor seleccionat"
+
+msgid   "Syntax: --checklist text tag item on/off [tag item on/off] ..."
+msgstr  "Sintaxi: --checklist text etiqueta element on/off [etiqueta element "
+        "on/off] ..."
+
+msgid   "Syntax: --combobox <text> item [item] ..."
+msgstr  "Sintaxi: --combobox <text> element [element] ..."
+
+msgid   "Syntax: --menu text tag item [tag item] ..."
+msgstr  "Sintaxi: --menu text etiqueta element [etiqueta element] ..."
+
+msgid   "Syntax: --radiolist text tag item on/off [tag item on/off] ..."
+msgstr  "Sintaxi: --radiolist text etiqueta element on/off [etiqueta element "
+        "on/off] ..."
+
+msgid   "Text Box dialog"
+msgstr  "Diàlec de quadro de text"
+
+msgid   "Text Input Box dialog"
+msgstr  "Diàlec de quadro d'entrada de text"
+
+msgid   "Use text as Cancel button label"
+msgstr  "Utilisa el text com a etiqueta del botó Cancela"
+
+msgid   "Use text as Continue button label"
+msgstr  "Utilisa el text com a etiqueta del botó Continua"
+
+msgid   "Use text as No button label"
+msgstr  "Utilisa el text com a etiqueta del botó No"
+
+msgid   "Use text as OK button label"
+msgstr  "Utilisa el text com a etiqueta del botó D'acord"
+
+msgid   "Use text as Yes button label"
+msgstr  "Utilisa el text com a etiqueta del botó Sí"
+
+msgid   "Warning message box with continue/cancel buttons"
+msgstr  "Quadro de missatge d'avís amb botons continua/cancela"
+
+msgid   "Warning message box with yes/no buttons"
+msgstr  "Quadro de missatge d'avís amb botons sí/no"
+
+msgid   "Warning message box with yes/no/cancel buttons"
+msgstr  "Quadro de missatge d'avís amb botons sí/no/cancela"
+
+msgid   "kdialog: could not open file %1"
+msgstr  "kdialog: no s'ha pogut obrir el fitxer %1"

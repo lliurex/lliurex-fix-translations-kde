@@ -1,0 +1,988 @@
+msgid   ""
+msgstr  "Project-Id-Version: print-manager\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2021-10-23 23:46+0200\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+        "X-Generator: Lokalize 20.12.0\n"
+
+msgid   "%1 network printer via DNS-SD"
+msgstr  "%1 impressora de ret via DNS-SD"
+
+msgid   "%2 (%1 Job)"
+msgid_plural    "%2 (%1 Jobs)"
+msgstr[0]       "%2 (%1 treball)"
+msgstr[1]       "%2 (%1 treballs)"
+
+msgid   "'%1' has been added, please check its driver."
+msgstr  "S'ha afegit «%1», verifiqueu el seu controlador."
+
+msgid   "'%1' has been added, using the '%2' driver."
+msgstr  "S'ha afegit «%1» utilisant el controlador «%2»."
+
+msgid   "'%1' is ready for printing."
+msgstr  "«%1» està preparada per a imprimir."
+
+msgid   "(C) 2010-2018 Daniel Nicoletti"
+msgstr  "(C) 2010-2018 Daniel Nicoletti"
+
+msgid   "*.ppd *.ppd.gz|PostScript Printer Description files"
+msgstr  "*.ppd *.ppd.gz|Fitxers PostScript Printer Description"
+
+msgid   "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3."
+        "org/TR/REC-html40/strict.dtd\">\n"
+        "<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+        "type=\"text/css\">\n"
+        "p, li { white-space: pre-wrap; }\n"
+        "</style></head><body style=\" font-family:'DejaVu Sans'; font-"
+        "size:9pt; font-weight:400; font-style:normal;\">\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+        "style=\" font-size:10pt;\">Examples:</span></p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">http://"
+        "hostname:631/ipp/</p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">http://"
+        "hostname:631/ipp/port1</p>\n"
+        "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
+        "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+        "text-indent:0px;\"></p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">ipp://"
+        "hostname/ipp/</p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">ipp://"
+        "hostname/ipp/port1</p>\n"
+        "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
+        "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+        "text-indent:0px;\"></p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">lpd://"
+        "hostname/queue</p>\n"
+        "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
+        "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+        "text-indent:0px;\"></p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">socket://"
+        "hostname</p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">socket://"
+        "hostname:9100</p></body></html>"
+msgstr  "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3."
+        "org/TR/REC-html40/strict.dtd\">\n"
+        "<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+        "type=\"text/css\">\n"
+        "p, li { white-space: pre-wrap; }\n"
+        "</style></head><body style=\" font-family:'DejaVu Sans'; font-"
+        "size:9pt; font-weight:400; font-style:normal;\">\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+        "style=\" font-size:10pt;\">Exemples:</span></p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">http://"
+        "hostname:631/ipp/</p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">http://"
+        "hostname:631/ipp/port1</p>\n"
+        "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
+        "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+        "text-indent:0px;\"></p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">ipp://"
+        "hostname/ipp/</p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">ipp://"
+        "hostname/ipp/port1</p>\n"
+        "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
+        "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+        "text-indent:0px;\"></p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">lpd://"
+        "hostname/queue</p>\n"
+        "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
+        "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+        "text-indent:0px;\"></p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">socket://"
+        "hostname</p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">socket://"
+        "hostname:9100</p></body></html>"
+
+msgctxt "@action:button"
+msgid   "Browse"
+msgstr  "Explora"
+
+msgctxt "@action:button"
+msgid   "Maintenance"
+msgstr  "Manteniment"
+
+msgctxt "@action:button"
+msgid   "Open Print Queue"
+msgstr  "Obri la cua d'impressió"
+
+msgctxt "@action:intoolbar"
+msgid   "Add a Printer Class"
+msgstr  "Afig una classe d'impressora"
+
+msgctxt "@action:intoolbar"
+msgid   "Allow printing from the Internet"
+msgstr  "Permet la impressió des d'Internet"
+
+msgctxt "@action:intoolbar"
+msgid   "Allow remote administration"
+msgstr  "Permet l'administració remota"
+
+msgctxt "@action:intoolbar"
+msgid   "Allow users to cancel any job (not just their own)"
+msgstr  "Permet que els usuaris cancelen qualsevol treball (no només els seus)"
+
+msgctxt "@action:intoolbar"
+msgid   "Share printers connected to this system"
+msgstr  "Compartix les impressores connectades a este sistema"
+
+msgctxt "@action:intoolbar"
+msgid   "Show printers shared by other systems"
+msgstr  "Mostra les impressores compartides per atres sistemes"
+
+msgctxt "@info"
+msgid   "<TABLE>\n"
+        "<TR>\n"
+        "<TD>Examples:\n"
+        "<PRE>\n"
+        "    http://hostname:631/ipp/\n"
+        "    http://hostname:631/ipp/port1\n"
+        "\n"
+        "    ipp://hostname/ipp/\n"
+        "    ipp://hostname/ipp/port1\n"
+        "\n"
+        "    lpd://hostname/queue\n"
+        "\n"
+        "    socket://hostname\n"
+        "    socket://hostname:9100\n"
+        "</PRE>\n"
+        "\n"
+        "<P>See <A HREF=\"http://localhost:631/help/network.html\" "
+        "TARGET=\"_blank\">\"Network\n"
+        "Printers\"</A> for the correct URI to use with your printer.</P>\n"
+        "</TD>\n"
+        "</TR>\n"
+        "</TABLE>"
+msgstr  "<TABLE>\n"
+        "<TR>\n"
+        "<TD>Exemples:\n"
+        "<PRE>\n"
+        "    http://hostname:631/ipp/\n"
+        "    http://hostname:631/ipp/port1\n"
+        "\n"
+        "    ipp://hostname/ipp/\n"
+        "    ipp://hostname/ipp/port1\n"
+        "\n"
+        "    lpd://hostname/queue\n"
+        "\n"
+        "    socket://hostname\n"
+        "    socket://hostname:9100\n"
+        "</PRE>\n"
+        "\n"
+        "<P>Vejau <A HREF=\"http://localhost:631/help/network.html\" "
+        "TARGET=\"_blank\">«Network Printers»</A> per a trobar l'URI correcte "
+        "a utilisar amb la impressora.</P>\n"
+        "</TD>\n"
+        "</TR>\n"
+        "</TABLE>"
+
+msgctxt "@info"
+msgid   "Failed to add class: '%1'"
+msgstr  "No s'ha pogut afegir una classe: «%1»"
+
+msgctxt "@info"
+msgid   "Failed to configure class"
+msgstr  "No s'ha pogut configurar la classe"
+
+msgctxt "@info"
+msgid   "Failed to configure printer"
+msgstr  "No s'ha pogut configurar la impressora"
+
+msgctxt "@info"
+msgid   "Failed to configure printer: '%1'"
+msgstr  "No s'ha pogut configurar la impressora: «%1»"
+
+msgctxt "@info"
+msgid   "Failed to configure server settings"
+msgstr  "No s'han pogut configurar els paràmetres del servidor"
+
+msgctxt "@info"
+msgid   "Failed to get server settings"
+msgstr  "No s'han pogut obtindre els paràmetres del servidor"
+
+msgctxt "@info:tooltip"
+msgid   "A printer connected to a USB port"
+msgstr  "Una impressora connectada a un port USB"
+
+msgctxt "@info:tooltip"
+msgid   "A printer connected to the parallel port"
+msgstr  "Una impressora connectada al port paralel"
+
+msgctxt "@info:tooltip"
+msgid   "A printer connected via Bluetooth"
+msgstr  "Una impressora connectada via Bluetooth"
+
+msgctxt "@info:tooltip"
+msgid   "HPLIP software driving a fax machine, or the fax function of a multi-"
+        "function device"
+msgstr  "El programari HPLIP que controla una màquina de fax, o la funció de "
+        "fax d'un dispositiu multifuncional"
+
+msgctxt "@info:tooltip"
+msgid   "HPLIP software driving a printer, or the printer function of a multi-"
+        "function device"
+msgstr  "El programari HPLIP que controla una impressora, o la funció "
+        "d'impressió d'un dispositiu multifuncional"
+
+msgctxt "@info:tooltip"
+msgid   "Local printer detected by the Hardware Abstraction Layer (HAL)"
+msgstr  "Impressora local detectada pel «Hardware Abstraction Layer» (HAL)"
+
+msgctxt "@info:tooltip"
+msgid   "Remote CUPS printer via DNS-SD"
+msgstr  "Impressora remota CUPS via DNS-SD"
+
+msgctxt "@item"
+msgid   "Discovered Network Printers"
+msgstr  "Impressores de ret trobades"
+
+msgctxt "@item"
+msgid   "Local Printers"
+msgstr  "Impressores locals"
+
+msgctxt "@item"
+msgid   "Manual URI"
+msgstr  "URI manual"
+
+msgctxt "@item"
+msgid   "Other Network Printers"
+msgstr  "Atres impressores de ret"
+
+msgctxt "@label kind of printer, could be driver name or \"local raw socket\""
+msgid   "Kind:"
+msgstr  "Tipus:"
+
+msgctxt "@label location of printer"
+msgid   "Location:"
+msgstr  "Ubicació:"
+
+msgctxt "@label samba URL markup example, this is preceded by a label "
+        "containing smb://"
+msgid   "smb://[workgroup/]server[:port]/printer"
+msgstr  "smb://[grup-treball/]servidor[:port]/impressora"
+
+msgctxt "@label:listbox"
+msgid   "Baud Rate:"
+msgstr  "Velocitat en bauds:"
+
+msgctxt "@label:listbox"
+msgid   "DTR/DSR (Hardware)"
+msgstr  "DTR/DSR (Maquinari)"
+
+msgctxt "@label:listbox"
+msgid   "Data Bits:"
+msgstr  "Bits de dades:"
+
+msgctxt "@label:listbox"
+msgid   "Even"
+msgstr  "Parells"
+
+msgctxt "@label:listbox"
+msgid   "Flow Control:"
+msgstr  "Control de flux:"
+
+msgctxt "@label:listbox"
+msgid   "Members:"
+msgstr  "Membres:"
+
+msgctxt "@label:listbox"
+msgid   "None"
+msgstr  "Cap"
+
+msgctxt "@label:listbox"
+msgid   "Odd"
+msgstr  "Senars"
+
+msgctxt "@label:listbox"
+msgid   "Parity:"
+msgstr  "Paritat:"
+
+msgctxt "@label:listbox"
+msgid   "RTS/CTS (Hardware)"
+msgstr  "RTS/CTS (Maquinari)"
+
+msgctxt "@label:listbox"
+msgid   "XON/XOFF (Software)"
+msgstr  "XON/XOFF (Programari)"
+
+msgctxt "@label:spinbox"
+msgid   "Port:"
+msgstr  "Port:"
+
+msgctxt "@label:textbox"
+msgid   "Address:"
+msgstr  "Adreça:"
+
+msgctxt "@label:textbox"
+msgid   "Connection:"
+msgstr  "Connexió:"
+
+msgctxt "@label:textbox"
+msgid   "Description:"
+msgstr  "Descripció:"
+
+msgctxt "@label:textbox"
+msgid   "Location:"
+msgstr  "Ubicació:"
+
+msgctxt "@label:textbox"
+msgid   "Name:"
+msgstr  "Nom:"
+
+msgctxt "@label:textbox"
+msgid   "Password"
+msgstr  "Contrasenya"
+
+msgctxt "@label:textbox"
+msgid   "Username:"
+msgstr  "Nom d'usuari:"
+
+msgctxt "@option:check"
+msgid   "Default printer"
+msgstr  "Impressora per defecte"
+
+msgctxt "@option:check"
+msgid   "Share this printer"
+msgstr  "Compartix esta impressora"
+
+msgctxt "@title"
+msgid   "Printer name or description"
+msgstr  "Nom o descripció de la impressora"
+
+msgctxt "@title:group"
+msgid   "Authentication"
+msgstr  "Autenticació"
+
+msgctxt "@title:group"
+msgid   "Windows Printer via SAMBA"
+msgstr  "Impressora Windows via SAMBA"
+
+msgctxt "@title:window"
+msgid   "Add a New Printer"
+msgstr  "Afig una impressora nova"
+
+msgctxt "@title:window"
+msgid   "Configure your connection"
+msgstr  "Configuració de la connexió"
+
+msgctxt "@title:window"
+msgid   "Failed"
+msgstr  "No s'ha pogut"
+
+msgctxt "@title:window"
+msgid   "Pick a Driver"
+msgstr  "Seleccioneu un controlador"
+
+msgctxt "@title:window"
+msgid   "Please describe your printer"
+msgstr  "Descripció de la impressora"
+
+msgctxt "@title:window"
+msgid   "Select a Printer to Add"
+msgstr  "Seleccioneu la impressora a afegir"
+
+msgid   "A CUPS connection requires authentication: \"%1\""
+msgstr  "La connexió a CUPS requereix autenticació: «%1»"
+
+msgid   "A New Printer was detected"
+msgstr  "S'ha detectat una impressora nova"
+
+msgid   "A printer connected to a USB port."
+msgstr  "Una impressora connectada a un port USB."
+
+msgid   "A printer connected to the parallel port."
+msgstr  "Una impressora connectada al port paralel."
+
+msgid   "A printer connected via Bluetooth."
+msgstr  "Una impressora connectada via Bluetooth."
+
+msgid   "A&llow these users to print"
+msgstr  "Per&met que estos usuaris imprimisquen"
+
+msgid   "Abort job"
+msgstr  "Interromp el treball"
+
+msgid   "Aborted"
+msgstr  "Interromput"
+
+msgid   "Active Jobs"
+msgstr  "Treballs actius"
+
+msgid   "Add Printer"
+msgstr  "Afig una impressora"
+
+msgid   "Add a new printer"
+msgstr  "Afig una impressora nova"
+
+msgid   "Add a new printer class"
+msgstr  "Afig una classe nova d'impressora"
+
+msgid   "Add a new printer or a printer class"
+msgstr  "Afig una impressora nova o una classe d'impressora"
+
+msgid   "Address:"
+msgstr  "Adreça:"
+
+msgid   "All Jobs"
+msgstr  "Tots els treballs"
+
+msgid   "All Printers"
+msgstr  "Totes les impressores"
+
+msgid   "All Printers (%1 Job)"
+msgid_plural    "All Printers (%1 Jobs)"
+msgstr[0]       "Totes les impressores (%1 treball)"
+msgstr[1]       "Totes les impressores (%1 treballs)"
+
+msgid   "Allowed Users"
+msgstr  "Usuaris permesos"
+
+msgid   "AppSocket/HP JetDirect"
+msgstr  "AppSocket/HP JetDirect"
+
+msgid   "AppSocket/JetDirect network printer via DNS-SD"
+msgstr  "Impressora de ret AppSocket/JetDirect via DNS-SD"
+
+msgid   "Are you sure you want to remove the class '%1'?"
+msgstr  "Segur que voleu eliminar la classe «%1»?"
+
+msgid   "Are you sure you want to remove the printer '%1'?"
+msgstr  "Segur que voleu eliminar la impressora «%1»?"
+
+msgid   "Authenticate"
+msgstr  "Autentica"
+
+msgid   "Authenticated"
+msgstr  "Autenticat"
+
+msgid   "Banners"
+msgstr  "Bàners"
+
+msgid   "Banners, Policies and Allowed Users"
+msgstr  "Bàners, polítiques i usuaris permesos"
+
+msgid   "Bluetooth"
+msgstr  "Bluetooth"
+
+msgid   "Cancel"
+msgstr  "Cancela"
+
+msgid   "Canceled"
+msgstr  "Cancelat"
+
+msgid   "Changes the PPD of a given printer"
+msgstr  "Canvia el PPD d'una impressora indicada"
+
+msgid   "Changes the PPD of a given printer/deviceid"
+msgstr  "Canvia el PPD d'una impressora indicada/ID de dispositiu"
+
+msgid   "Choose &the driver from the list"
+msgstr  "Trieu el con&trolador de la llista"
+
+msgid   "Classified"
+msgstr  "Classificat"
+
+msgid   "Clean Print Heads"
+msgstr  "Neteja els capçals de la impressió"
+
+msgid   "Click here to add a new printer"
+msgstr  "Feu clic ací per a afegir una impressora nova"
+
+msgid   "Completed"
+msgstr  "Completat"
+
+msgid   "Completed Jobs"
+msgstr  "Treballs completats"
+
+msgid   "Confidential"
+msgstr  "Confidencial"
+
+msgid   "Configure"
+msgstr  "Configura"
+
+msgid   "Configure Printer"
+msgstr  "Configuració de la impressora"
+
+msgid   "Configure the global preferences"
+msgstr  "Configura les preferències globals"
+
+msgid   "ConfigurePrinter"
+msgstr  "ConfiguracióImpressora"
+
+msgid   "Configuring new printer..."
+msgstr  "S'està configurant la impressora nova..."
+
+msgid   "Connection:"
+msgstr  "Connexió:"
+
+msgid   "Connections"
+msgstr  "Connexions"
+
+msgid   "Created"
+msgstr  "Creat"
+
+msgid   "Current - %1"
+msgstr  "Actual - %1"
+
+msgid   "Current status"
+msgstr  "Estat actual"
+
+msgid   "Default"
+msgstr  "Per defecte"
+
+msgid   "Description:"
+msgstr  "Descripció:"
+
+msgid   "Detect"
+msgstr  "Detecta"
+
+msgid   "Driver:"
+msgstr  "Controlador:"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "txemaq@gmail.com"
+
+msgid   "Ending Banner:"
+msgstr  "Bàner final:"
+
+msgid   "Enter an username and a password to complete the task"
+msgstr  "Introduïu un nom d'usuari i una contrasenya per a completar la tasca"
+
+msgid   "Enter credentials to print from <b>%1</b>"
+msgstr  "Introduïu les credencials per a imprimir des de <b>%1</b>"
+
+msgid   "Error Policy:"
+msgstr  "Política d'error:"
+
+msgid   "Error Title"
+msgstr  "Títol d'error"
+
+msgid   "Failed"
+msgstr  "No s'ha pogut"
+
+msgid   "Failed to cancel '%1'"
+msgstr  "No s'ha pogut cancelar «%1»"
+
+msgid   "Failed to get a list of devices: '%1'"
+msgstr  "No s'ha pogut obtindre la llista de dispositius: «%1»"
+
+msgid   "Failed to get a list of drivers: '%1'"
+msgstr  "No s'ha pogut obtindre una llista dels controladors: «%1»"
+
+msgid   "Failed to group devices: '%1'"
+msgstr  "No s'ha pogut agrupar dispositius: «%1»"
+
+msgid   "Failed to hold '%1'"
+msgstr  "No s'ha pogut retindre «%1»"
+
+msgid   "Failed to invoke method: %1"
+msgstr  "No s'ha pogut invocar un mètode: %1"
+
+msgid   "Failed to move '%1' to '%2'"
+msgstr  "No s'ha pogut moure «%1» a «%2»"
+
+msgid   "Failed to perform request: %1"
+msgstr  "No s'ha pogut portar a terme la solicitut: %1"
+
+msgid   "Failed to release '%1'"
+msgstr  "No s'ha pogut lliberar «%1»"
+
+msgid   "Failed to reprint '%1'"
+msgstr  "No s'ha pogut tornar a imprimir: «%1»"
+
+msgid   "Failed to search for a recommended driver: '%1'"
+msgstr  "No s'ha pogut buscar un controlador recomanat: «%1»"
+
+msgid   "Fax - HP Linux Imaging and Printing (HPLIP)"
+msgstr  "Fax - «HP Linux Imaging and Printing» (HPLIP)"
+
+msgid   "Find driver"
+msgstr  "Busca un controlador"
+
+msgid   "From Hostname"
+msgstr  "Des del nom d'ordinador"
+
+msgid   "HP Linux Imaging and Printing (HPLIP)"
+msgstr  "«HP Linux Imaging and Printing» (HPLIP)"
+
+msgid   "HPLIP software driving a fax machine, or the fax function of a multi-"
+        "function device."
+msgstr  "El programari HPLIP que controla una màquina de fax, o la funció de "
+        "fax d'un dispositiu multifuncional."
+
+msgid   "HPLIP software driving a printer, or the printer function of a multi-"
+        "function device."
+msgstr  "El programari HPLIP que controla una impressora, o la funció "
+        "d'impressió d'un dispositiu multifuncional."
+
+msgid   "HTTP"
+msgstr  "HTTP"
+
+msgid   "Hardware Abstraction Layer (HAL)"
+msgstr  "«Hardware Abstraction Layer» (HAL)"
+
+msgid   "Hold"
+msgstr  "Retén"
+
+msgid   "Human-readable description such as \"HP LaserJet with Duplexer\""
+msgstr  "Descripció inteligible per les persones, com «HP LaserJet amb doble "
+        "cara»"
+
+msgid   "Human-readable location such as \"Lab 1\""
+msgstr  "Ubicació inteligible per les persones, com «Laboratori 1»"
+
+msgid   "IPP"
+msgstr  "IPP"
+
+msgid   "IPP %1"
+msgstr  "IPP %1"
+
+msgid   "IPP network printer via DNS-SD"
+msgstr  "Impressora de ret IPP via DNS-SD"
+
+msgid   "Idle"
+msgstr  "En espera"
+
+msgid   "Idle - '%1'"
+msgstr  "En espera - «%1»"
+
+msgid   "Idle, rejecting jobs"
+msgstr  "En espera, rebuja els treballs"
+
+msgid   "Idle, rejecting jobs - '%1'"
+msgstr  "En espera, rebuja els treballs - «%1»"
+
+msgid   "In use"
+msgstr  "En ús"
+
+msgid   "In use - '%1'"
+msgstr  "En ús - «%1»"
+
+msgid   "LPD network printer via DNS-SD"
+msgstr  "Impressora de ret LPD via DNS-SD"
+
+msgid   "LPD/LPR queue"
+msgstr  "Cua LPD/LPR"
+
+msgid   "LPD/LPR queue %1"
+msgstr  "Cua LPD/LPR %1"
+
+msgid   "Local printer detected by the Hardware Abstraction Layer (HAL)."
+msgstr  "Impressora local detectada pel «Hardware Abstraction Layer» (HAL)."
+
+msgid   "Location:"
+msgstr  "Ubicació:"
+
+msgid   "Ma&nually Provide a PPD File:"
+msgstr  "Proporciona ma&nualment un fitxer PPD:"
+
+msgid   "May contain any printable characters except \"/\", \"#\", and space"
+msgstr  "Pot contindre qualsevol caràcter imprimible excepte «/», «#», i espai"
+
+msgid   "Members"
+msgstr  "Membres"
+
+msgid   "Missing printer driver"
+msgstr  "Falta el controlador de la impressora"
+
+msgid   "Modify Printer"
+msgstr  "Modifica la impressora"
+
+msgid   "Move to"
+msgstr  "Mou a"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Josep M. Ferrer"
+
+msgid   "Name"
+msgstr  "Nom"
+
+msgid   "Name:"
+msgstr  "Nom:"
+
+msgid   "Network printer via DNS-SD"
+msgstr  "Impressora de ret via DNS-SD"
+
+msgid   "No driver for this printer."
+msgstr  "No hi ha cap controlador per a esta impressora."
+
+msgid   "No printer driver for %1 %2."
+msgstr  "No hi ha cap controlador d'impressora per a %1 %2."
+
+msgid   "No printer driver for %1."
+msgstr  "No hi ha cap controlador d'impressora per a %1."
+
+msgid   "No printers have been configured or discovered"
+msgstr  "No s'ha descobert o configurat cap impressora"
+
+msgid   "None"
+msgstr  "Cap"
+
+msgid   "Not found"
+msgstr  "No s'ha trobat"
+
+msgid   "On hold"
+msgstr  "Retingut"
+
+msgid   "Operation Policy:"
+msgstr  "Política d'operació:"
+
+msgid   "Pages"
+msgstr  "Pàgines"
+
+msgid   "Parallel Port"
+msgstr  "Port paralel"
+
+msgid   "Parent Window ID"
+msgstr  "ID de la finestra pare"
+
+msgid   "Pause Printer"
+msgstr  "Posa en pausa la impressora"
+
+msgid   "Paused"
+msgstr  "En pausa"
+
+msgid   "Paused - '%1'"
+msgstr  "En pausa - «%1»"
+
+msgid   "Paused, rejecting jobs"
+msgstr  "En pausa, rebuja els treballs"
+
+msgid   "Paused, rejecting jobs - '%1'"
+msgstr  "En pausa, rebuja els treballs - «%1»"
+
+msgid   "Pending"
+msgstr  "Pendent"
+
+msgid   "Please choose an item on the list"
+msgstr  "Escolliu un element de la llista"
+
+msgid   "Policies"
+msgstr  "Polítiques"
+
+msgid   "Port to Qt 5 / Plasma 5"
+msgstr  "Adaptació a les Qt 5 / Plasma 5"
+
+msgid   "Pre&vent these users from printing "
+msgstr  "Impedei&x que estos usuaris imprimisquen "
+
+msgid   "Print Queue"
+msgstr  "Cua d'impressió"
+
+msgid   "Print Self Test Page"
+msgstr  "Imprimix la pàgina d'autocomprovació"
+
+msgid   "Print Self-Test Page"
+msgstr  "Imprimix la pàgina d'autocomprovació"
+
+msgid   "Print Test Page"
+msgstr  "Imprimix una pàgina de prova"
+
+msgid   "Print service is unavailable"
+msgstr  "El servei de la impressió no està disponible"
+
+msgid   "Print settings"
+msgstr  "Configuració de la impressió"
+
+msgid   "Print test page"
+msgstr  "Imprimix una pàgina de prova"
+
+msgid   "Printer"
+msgstr  "Impressora"
+
+msgid   "Printer Icon"
+msgstr  "Icona de la impressora"
+
+msgid   "Printer Options"
+msgstr  "Opcions de la impressora"
+
+msgid   "Printer paused"
+msgstr  "Impressora en pausa"
+
+msgid   "Printer ready"
+msgstr  "Impressora preparada"
+
+msgid   "Printer state unknown"
+msgstr  "Estat desconegut de la impressora"
+
+msgid   "Printer to be configured"
+msgstr  "Impressora a configurar"
+
+msgid   "Printers"
+msgstr  "Impressores"
+
+msgid   "Printing '%1'"
+msgstr  "S'està imprimint «%1»"
+
+msgid   "Printing..."
+msgstr  "S'està imprimint..."
+
+msgid   "Processed"
+msgstr  "Processat"
+
+msgid   "Query Printer for Default Options"
+msgstr  "Consulta a la impressora per les opcions per defecte"
+
+msgid   "Queue:"
+msgstr  "Cua:"
+
+msgid   "Recommended Drivers"
+msgstr  "Controladors recomanats"
+
+msgid   "Reject print jobs"
+msgstr  "Rebuja els treballs d'impressió"
+
+msgid   "Remote CUPS printer via DNS-SD"
+msgstr  "Impressora remota CUPS via DNS-SD"
+
+msgid   "Remove Printer"
+msgstr  "Elimina la impressora"
+
+msgid   "Remove class"
+msgstr  "Elimina la classe"
+
+msgid   "Remove printer"
+msgstr  "Elimina la impressora"
+
+msgid   "Reprint"
+msgstr  "Torna a imprimir"
+
+msgid   "Resume"
+msgstr  "Continua"
+
+msgid   "Resume Printer"
+msgstr  "Reprén la impressora"
+
+msgid   "Retry current job"
+msgstr  "Reintenta el treball actual"
+
+msgid   "Retry job"
+msgstr  "Reintenta el treball"
+
+msgid   "Search"
+msgstr  "Busca"
+
+msgid   "Secret"
+msgstr  "Secret"
+
+msgid   "Select a Driver"
+msgstr  "Selecciona un controlador"
+
+msgid   "Select a custom driver"
+msgstr  "Selecciona un controlador personalisat"
+
+msgid   "Serial Port"
+msgstr  "Port sèrie"
+
+msgid   "Set Default Options"
+msgstr  "Definix les opcions per defecte"
+
+msgid   "Set the Default Printer Options"
+msgstr  "Definix les opcions per defecte de la impressora"
+
+msgid   "Share this class"
+msgstr  "Compartix esta classe"
+
+msgid   "Share this printer"
+msgstr  "Compartix esta impressora"
+
+msgid   "Show printer queue(s)"
+msgstr  "Mostra la cua d'impressió"
+
+msgid   "Size"
+msgstr  "Mida"
+
+msgid   "Standard"
+msgstr  "Estàndard"
+
+msgid   "Starting Banner:"
+msgstr  "Bàner d'inici:"
+
+msgid   "Status"
+msgstr  "Estat"
+
+msgid   "Status Message"
+msgstr  "Missatge d'estat"
+
+msgid   "Stop printer"
+msgstr  "Para la impressora"
+
+msgid   "Stopped"
+msgstr  "Parat"
+
+msgid   "System Preferences"
+msgstr  "Preferències del sistema"
+
+msgid   "Test Page"
+msgstr  "Pàgina de prova"
+
+msgid   "TextLabel"
+msgstr  "EtiquetaDeText"
+
+msgid   "The New Printer is Missing Drivers"
+msgstr  "Falten els controladors de la impressora nova"
+
+msgid   "The New Printer was Added"
+msgstr  "S'ha afegit la impressora nova"
+
+msgid   "The current page has changes.\n"
+        "Do you want to save them?"
+msgstr  "La pàgina actual té canvis.\n"
+        "Voleu guardar-la?"
+
+msgid   "Tool for adding new printers"
+msgstr  "Eina per a afegir impressores noves"
+
+msgid   "Topsecret"
+msgstr  "Molt secret"
+
+msgid   "USB"
+msgstr  "USB"
+
+msgid   "Unable to send command to printer driver!"
+msgstr  "No s'ha pogut enviar l'ordre al controlador de la impressora!"
+
+msgid   "Unclassified"
+msgstr  "Sense classificar"
+
+msgid   "Unknown"
+msgstr  "Desconegut"
+
+msgid   "Unknown - '%1'"
+msgstr  "Desconegut - «%1»"
+
+msgid   "User"
+msgstr  "Usuari"
+
+msgid   "Windows Printer via SAMBA"
+msgstr  "Impressora Windows via SAMBA"
+
+msgid   "Wrong username or password"
+msgstr  "Nom d'usuari o contrasenya no vàlids"
+
+msgid   "my printer (x jobs)"
+msgstr  "La meua impressora (x treballs)"

@@ -1,0 +1,2647 @@
+msgid   ""
+msgstr  "Project-Id-Version: kget\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2021-10-31 19:12+0100\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Lokalize 20.12.0\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+        "X-Poedit-Language: Catalan\n"
+
+msgid   " KiB/s"
+msgstr  " KiB/s"
+
+msgid   " sec"
+msgstr  " s"
+
+msgid   "%1 %"
+msgstr  "%1 %"
+
+msgctxt "%1 filename, %2 percent complete, %3 downloaded out of %4 total size"
+msgid   "%1(%2% %3/%4) Speed:%5/s"
+msgstr  "%1(%2% %3/%4) Velocitat: %5/s"
+
+msgctxt "%1 filename, %2 percent complete, %3 downloaded out of %4 total "
+        "size, %5 status"
+msgid   "%1(%2% %3/%4) %5"
+msgstr  "%1(%2% %3/%4) %5"
+
+msgctxt "%1 filename, %2 total size, %3 status"
+msgid   "%1(%2) %3"
+msgstr  "%1(%2) %3"
+
+msgid   "%1 of %2"
+msgstr  "%1 de %2"
+
+msgid   "%1 was successfully verified."
+msgstr  "%1 s'ha verificat correctament."
+
+msgid   "%1 would become %2"
+msgstr  "%1 devindrà %2"
+
+msgid   "%1/s"
+msgstr  "%1/s"
+
+msgid   "&Advanced Details"
+msgstr  "Detalls &avançats"
+
+msgid   "&Create a Metalink..."
+msgstr  "&Crea un «Metalink»..."
+
+msgid   "&Decrease Priority"
+msgstr  "&Disminueix la prioritat"
+
+msgid   "&Download"
+msgstr  "&Baixa"
+
+msgid   "&Downloads"
+msgstr  "&Baixades"
+
+msgid   "&Export Transfers List..."
+msgstr  "E&xporta la llista de transferències..."
+
+msgid   "&File"
+msgstr  "&Fitxer"
+
+msgid   "&Group Settings"
+msgstr  "Configuracions de &grup"
+
+msgid   "&Help"
+msgstr  "A&juda"
+
+msgid   "&Import Links"
+msgstr  "&Importa els enllaços"
+
+msgid   "&Import Transfers..."
+msgstr  "&Importa les transferències..."
+
+msgid   "&Increase Priority"
+msgstr  "&Augmenta la prioritat"
+
+msgid   "&Load transfer list"
+msgstr  "&Carrega la llista de transferències"
+
+msgid   "&New Download..."
+msgstr  "Baixada &nova..."
+
+msgid   "&Open File"
+msgstr  "&Obri fitxer"
+
+msgid   "&Rename"
+msgstr  "&Canvia el nom"
+
+msgid   "&Scan Files"
+msgstr  "&Explora fitxers"
+
+msgid   "&Select All"
+msgstr  "&Selecciona-ho tot"
+
+msgid   "&Select All Filtered"
+msgstr  "&Selecciona tots els filtratges"
+
+msgid   "&Settings"
+msgstr  "Con&figuració"
+
+msgid   "&Transfer History"
+msgstr  "Historial de &transferències"
+
+msgid   "&Transfer Settings"
+msgstr  "Configuracions de les &transferències"
+
+msgid   "&Upload limit:"
+msgstr  "Límit de p&ujada:"
+
+msgid   "&Verify"
+msgstr  "&Verifica"
+
+msgid   "(C) 2005 - 2014, The KGet developers\n"
+        "(C) 2001 - 2002, Patrick Charbonnier\n"
+        "(C) 2002, Carsten Pfeiffer\n"
+        "(C) 1998 - 2000, Matej Koss"
+msgstr  "(C) 2005 - 2014, Els desenvolupadors de KGet\n"
+        "(C) 2001 - 2002, Patrick Charbonnier\n"
+        "(C) 2002, Carsten Pfeiffer\n"
+        "(C) 1998 - 2000, Matej Koss"
+
+msgid   "*.metalink *.meta4|Metalink file (*.metalink *.meta4)"
+msgstr  "*.metalink *.meta4|Fitxer «Metalink» (*.metalink *.meta4)"
+
+msgid   "*movies*"
+msgstr  "*películes*"
+
+msgid   ".netrc must have a hostname called 'youtube'."
+msgstr  "El .netrc ha de tindre un nom de màquina anomenat «youtube»."
+
+msgid   "0"
+msgstr  "0"
+
+msgid   "1 Item"
+msgid_plural    "%1 Items"
+msgstr[0]       "1 element"
+msgstr[1]       "%1 elements"
+
+msgid   "<a href=\"mailto:kget@kde.org\">kget@kde.org</a>"
+msgstr  "<a href=\"mailto:kget@kde.org\">kget@kde.org</a>"
+
+msgid   "<b>Auto paste</b> button toggles the auto-paste mode on and off.\n"
+        "When set, KGet will periodically scan the clipboard for URLs and "
+        "paste them automatically."
+msgstr  "El botó <b>Autoapega</b> canvia el modo d'apegar automàticament.\n"
+        "Quan s'activa, KGet buscarà periòdicament en el porta-retalls els "
+        "URL i els apegarà automàticament."
+
+msgid   "<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+        "type=\"text/css\">\n"
+        "p, li { white-space: pre-wrap; }\n"
+        "</style></head><body style=\" font-family:'Bitstream Vera Sans'; "
+        "font-size:8pt; font-weight:400; font-style:normal;\">\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Webseed to "
+        "add to the torrent.</p>\n"
+        "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
+        "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+        "text-indent:0px;\"></p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+        "style=\" font-weight:600;\">Note: </span>Only http webseeds are "
+        "supported.</p></body></html>"
+msgstr  "<html><head><meta name=\"qrichtext\" content=\"1\" /><style "
+        "type=\"text/css\">\n"
+        "p, li { white-space: pre-wrap; }\n"
+        "</style></head><body style=\" font-family:'Bitstream Vera Sans'; "
+        "font-size:8pt; font-weight:400; font-style:normal;\">\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\">Sembrador "
+        "web a afegir al torrent.</p>\n"
+        "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-"
+        "bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; "
+        "text-indent:0px;\"></p>\n"
+        "<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; "
+        "margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><span "
+        "style=\" font-weight:600;\">Nota: </span>només es permeten "
+        "sembradors web http.</p></body></html>"
+
+msgid   "<n>"
+msgstr  "<n>"
+
+msgid   "<p>All transfers have been finished.</p>"
+msgstr  "<p>Totes les transferències han finalisat.</p>"
+
+msgid   "<p>The following URL cannot be downloaded, its protocol is not "
+        "supported by KGet:</p>"
+msgid_plural    "<p>The following URLs cannot be downloaded, their protocols "
+        "are not supported by KGet:</p>"
+msgstr[0]       "<p>L'URL següent no es pot baixar, el seu protocol no és "
+        "admés per KGet:</p>"
+msgstr[1]       "<p>Els URL següents no es poden baixar, els seus protocols "
+        "no són admesos per KGet:</p>"
+
+msgid   "<p>The following file has finished downloading:</p><p style=\"font-"
+        "size: small;\">%1</p>"
+msgstr  "<p>El fitxer següent ha finalisat la baixada:</p><p style=\"font-"
+        "size: small;\">%1</p>"
+
+msgid   "<p>The following transfer has been added to the download list:</p>"
+msgstr  "<p>La transferència següent s'ha afegit a la llista de baixades:</p>"
+
+msgid   "<p>The following transfer has been added to the download list:</p><p "
+        "style=\"font-size: small;\">%1</p>"
+msgstr  "<p>La transferència següent s'ha afegit a la llista de baixades:</"
+        "p><p style=\"font-size: small;\">%1</p>"
+
+msgid   "<p>The following transfer has been started:</p><p style=\"font-size: "
+        "small;\">%1</p>"
+msgstr  "<p>La transferència següent s'ha iniciat:</p><p style=\"font-size: "
+        "small;\">%1</p>"
+
+msgid   "<p>The following transfers have been added to the download list:</p>"
+msgstr  "<p>Les transferències següents s'han afegit a la llista de baixades:"
+        "</p>"
+
+msgid   "<p>There has been an error in the following transfer:</p><p "
+        "style=\"font-size: small;\">%1</p><p>The error message is:</p><p "
+        "style=\"font-size: small;\">%2</p>"
+msgstr  "<p>S'ha produït un error en la transferència següent:</p><p "
+        "style=\"font-size: small;\">%1</p><p>El missatge d'error és:</p><p "
+        "style=\"font-size: small;\">%2</p>"
+
+msgctxt "@action"
+msgid   "Delete Group"
+msgstr  "Suprimix el grup"
+
+msgctxt "@action"
+msgid   "Rename Group..."
+msgstr  "Canvia el nom el grup..."
+
+msgctxt "@label transfer source"
+msgid   "Source:"
+msgstr  "Origen:"
+
+msgctxt "@title:window"
+msgid   "Choose Directory"
+msgstr  "Seleccioneu un directori"
+
+msgctxt "@title:window"
+msgid   "Export Transfers"
+msgstr  "Exporta les transferències"
+
+msgctxt "@title:window"
+msgid   "Open File"
+msgstr  "Obri un fitxer"
+
+msgctxt "@title:window"
+msgid   "Save As"
+msgstr  "Anomena i guarda"
+
+msgid   "A long time ago"
+msgstr  "Ya fa temps"
+
+msgctxt "A mirror is removed when the file has the wrong download size"
+msgid   "%1 removed as it did report a wrong file size."
+msgstr  "S'ha eliminat %1 atés que ha informat d'una mida errònia de fitxer."
+
+msgid   "A newer version of this Metalink might exist, do you want to "
+        "download it?"
+msgstr  "Pot existir una versió nova d'este «Metalink». Voleu baixar-la?"
+
+msgid   "Add New Script"
+msgstr  "Afig un script nou"
+
+msgid   "Add Tracker"
+msgstr  "Afig seguidor"
+
+msgid   "Add Webseed"
+msgstr  "Afig un sembrador"
+
+msgid   "Add at least one file."
+msgstr  "Afig un fitxer com a mínim."
+
+msgid   "Add checksum"
+msgstr  "Afig una suma de verificació"
+
+msgid   "Add item"
+msgstr  "Afig un element"
+
+msgid   "Add local files"
+msgstr  "Afig fitxers locals"
+
+msgid   "Add mirror"
+msgstr  "Afig una rèplica"
+
+msgid   "Adding local files..."
+msgstr  "S'estan afegint fitxers locals..."
+
+msgid   "Adds local files adding a lot information automatically."
+msgstr  "Afegir fitxers locals incorpora automàticament molta informació."
+
+msgid   "Advanced Details for %1"
+msgstr  "Detalls avançats per a: %1"
+
+msgid   "Advanced Options"
+msgstr  "Opcions avançades"
+
+msgctxt "Advanced Options"
+msgid   "Advanced"
+msgstr  "Avançades"
+
+msgid   "After downloads finished action"
+msgstr  "Acció després de finalisar les baixades"
+
+msgid   "Aish Raj Dahal"
+msgstr  "Aish Raj Dahal"
+
+msgid   "All"
+msgstr  "Tot"
+
+msgid   "All Openable Files"
+msgstr  "Tots els fitxers que es puguen obrir"
+
+msgid   "Always ask"
+msgstr  "Pregunta sempre"
+
+msgid   "An advanced download manager by KDE"
+msgstr  "Un gestor avançat de baixades, creat per la comunitat KDE"
+
+msgid   "Analyzing torrent...."
+msgstr  "S'està analisant el torrent..."
+
+msgid   "Appearance"
+msgstr  "Aparença"
+
+msgid   "Append"
+msgstr  "Afig al final"
+
+msgid   "Appl&y to all"
+msgstr  "Apl&ica a tot"
+
+msgid   "Archives"
+msgstr  "Archius"
+
+msgid   "Are you sure that you want to remove the following groups?"
+msgstr  "Segur que voleu eliminar els grups següents?"
+
+msgid   "Are you sure that you want to remove the group named %1?"
+msgstr  "Segur que voleu eliminar el grup anomenat %1?"
+
+msgid   "Are you sure you want to delete the selected transfer including "
+        "files?"
+msgid_plural    "Are you sure you want to delete the selected transfers "
+        "including files?"
+msgstr[0]       "Segur que voleu suprimir la transferència seleccionada "
+        "incloent els fitxers?"
+msgstr[1]       "Segur que voleu suprimir les transferències seleccionades "
+        "incloent els fitxers?"
+
+msgid   "Are you sure you want to delete the selected transfer?"
+msgid_plural    "Are you sure you want to delete the selected transfers?"
+msgstr[0]       "Segur que voleu suprimir la transferència seleccionada?"
+msgstr[1]       "Segur que voleu suprimir les transferències seleccionades?"
+
+msgid   "Ascii PGP signature:"
+msgstr  "Signatura PGP ASCII:"
+
+msgid   "Ask for destination if there are no default folders"
+msgstr  "Demana una destinació si no hi ha carpetes predeterminades"
+
+msgid   "At startup:"
+msgstr  "A l'inici:"
+
+msgid   "Audio"
+msgstr  "Àudio"
+
+msgid   "Auto-Paste Mode"
+msgstr  "Modo autoapegat"
+
+msgid   "Automatic checksums verification"
+msgstr  "Comprova automàticament les sumes de verificació"
+
+msgid   "Automatic downloading of missing keys"
+msgstr  "Baixada automàtica de les claus que falten"
+
+msgid   "Automatic rename"
+msgstr  "Canvi de nom automàtic"
+
+msgid   "Automatic verification"
+msgstr  "Verifica automàticament"
+
+msgid   "Automatically create checksums for the selected types. Keep in mind "
+        "that this might take a while."
+msgstr  "Crea sumes de verificació parcials automàticament per als tipus "
+        "seleccionats. Cal tindre present que açò pot tardar una estona."
+
+msgid   "Auxiliary header"
+msgstr  "Capçalera auxiliar"
+
+msgid   "Availability"
+msgstr  "Disponibilitat"
+
+msgid   "Average speed: %1/s"
+msgstr  "Velocitat mitjana: %1/s"
+
+msgid   "BTCore (KTorrent) Developer"
+msgstr  "Desenvolupador del BTCore (KTorrent)"
+
+msgid   "Ban Peer"
+msgstr  "Bandeja el parell"
+
+msgid   "Best Quality (.mp4)"
+msgstr  "Millor qualitat (.mp4)"
+
+msgid   "Between 100MiB-1GiB"
+msgstr  "Entre 100MiB-1GiB"
+
+msgid   "Between 10MiB and 50MiB"
+msgstr  "Entre 10MiB i 50MiB"
+
+msgid   "Between 10MiB-100MiB"
+msgstr  "Entre 10MiB-100MiB"
+
+msgid   "Between 1MiB-10MiB"
+msgstr  "Entre 1MiB-10MiB"
+
+msgid   "Between 50MiB and 100MiB"
+msgstr  "Entre 50MiB i 100MiB"
+
+msgid   "Cancel"
+msgstr  "Cancela"
+
+msgid   "Cannot add a tracker to a private torrent."
+msgstr  "No es pot afegir un seguidor a un torrent privat."
+
+msgid   "Cannot add the webseed %1, it is already part of the list of "
+        "webseeds."
+msgstr  "No s'ha pogut afegir el sembrador web %1, ya forma part de la llista "
+        "de sembradors web."
+
+msgid   "Cannot initialize libktorrent. Torrent support might not work."
+msgstr  "No s'ha pogut iniciar la «libktorrent». La utilisació dels fitxers "
+        "«torrent» podria no funcionar."
+
+msgid   "Cannot initialize port..."
+msgstr  "No s'ha pogut iniciar el port..."
+
+msgid   "Cannot remove webseed %1, it is part of the torrent."
+msgstr  "No s'ha pogut eliminar el sembrador web %1, és part del torrent."
+
+msgid   "Carsten Pfeiffer"
+msgstr  "Carsten Pfeiffer"
+
+msgid   "Case sensitive:"
+msgstr  "Distinguix entre majúscules i minúscules:"
+
+msgid   "Caution: Verification failed. Either you entered the wrong "
+        "signature, or the data has been modified."
+msgstr  "Atenció: la verificació ha fallat. O heu introduït una signatura "
+        "errònia, o s'ha modificat les dades."
+
+msgid   "Change Tracker"
+msgstr  "Canvia seguidor"
+
+msgid   "Change appearance settings"
+msgstr  "Canvia la configuració de l'aparença"
+
+msgid   "Change string:"
+msgstr  "Canvia la cadena:"
+
+msgid   "Changing the destination did not work, the destination stays "
+        "unmodified."
+msgstr  "El canvi de destinació no ha funcionat. La destinació continua sense "
+        "modificació."
+
+msgid   "Checksum type:"
+msgstr  "Tipus de suma de verificació:"
+
+msgid   "Choked"
+msgstr  "Obturat"
+
+msgctxt "Choked"
+msgid   "Yes"
+msgstr  "Sí"
+
+msgid   "Chunk"
+msgstr  "Tros"
+
+msgid   "Chunks"
+msgstr  "Trossos"
+
+msgid   "Clear History"
+msgstr  "Neteja l'historial"
+
+msgid   "Client"
+msgstr  "Client"
+
+msgid   "Close"
+msgstr  "Tanca"
+
+msgid   "Collapse Folder Tree"
+msgstr  "Contrau l'arbre de fitxers"
+
+msgid   "Comment:"
+msgstr  "Comentari:"
+
+msgctxt "Configure script"
+msgid   "Configure script"
+msgstr  "Configura l'script"
+
+msgid   "Configure...."
+msgstr  "Configura..."
+
+msgid   "Confirm Quit"
+msgstr  "Confirma l'eixida"
+
+msgid   "Confirm transfer delete"
+msgstr  "Confirma la supressió de les transferències"
+
+msgid   "Contains"
+msgstr  "Conté"
+
+msgid   "Control KGet over a Network or the Internet"
+msgstr  "Controla KGet des d'una ret o Internet"
+
+msgid   "Copy URL to Clipboard"
+msgstr  "Copia l'URL al porta-retalls"
+
+msgid   "Copyright:"
+msgstr  "Copyright:"
+
+msgid   "Core Developer"
+msgstr  "Desenvolupador principal"
+
+msgid   "Core Developer, Multithreaded Plugin Author"
+msgstr  "Desenvolupador principal, autor del conector multifil"
+
+msgid   "Could not open KWallet"
+msgstr  "No s'ha pogut obrir KWallet"
+
+msgid   "Create a Metalink"
+msgstr  "Crea un «Metalink»"
+
+msgid   "Create checksums:"
+msgstr  "Crea sumes de verificació:"
+
+msgid   "Create new Metalink"
+msgstr  "Crea un «Metalink» nou"
+
+msgid   "Create partial checksums"
+msgstr  "Crea sumes de verificació parcials"
+
+msgid   "Creation:"
+msgstr  "Creació:"
+
+msgid   "Currently downloading:"
+msgstr  "Baixant ara:"
+
+msgid   "D&eselect All"
+msgstr  "D&esselecciona-ho tot"
+
+msgid   "D&eselect All Filtered"
+msgstr  "D&esselecciona tots els filtratges"
+
+msgid   "DHT"
+msgstr  "DHT"
+
+msgid   "Dario Massarin"
+msgstr  "Dario Massarin"
+
+msgid   "Date"
+msgstr  "Data"
+
+msgid   "Date and time:"
+msgstr  "Data i hora:"
+
+msgid   "Decrease Priority"
+msgstr  "Disminueix la prioritat"
+
+msgid   "Defau&lt folder:"
+msgstr  "Carpeta per de&fecte:"
+
+msgid   "Default temporary folder:"
+msgstr  "Carpeta temporal per defecte:"
+
+msgid   "Default torrent folder:"
+msgstr  "Carpeta predeterminada del torrent:"
+
+msgid   "Define the saving location."
+msgstr  "Establix la ubicació a on guardar."
+
+msgid   "Delete File(s)"
+msgstr  "Suprimix el fitxer(s)"
+
+msgid   "Delete Group"
+msgid_plural    "Delete Groups"
+msgstr[0]       "Suprimix el grup"
+msgstr[1]       "Suprimix els grups"
+
+msgid   "Delete it and download again?"
+msgstr  "La suprimixc i torne a baixar-la?"
+
+msgctxt "Delete selected history-item"
+msgid   "Delete selected"
+msgstr  "Suprimix els seleccionats"
+
+msgid   "Description"
+msgstr  "Descripció"
+
+msgid   "Description:"
+msgstr  "Descripció:"
+
+msgid   "Design of Web Interface"
+msgstr  "Disseny de la interfície web"
+
+msgid   "Destination"
+msgstr  "Destinació"
+
+msgid   "Destination unmodified"
+msgstr  "Destinació sense modificar"
+
+msgid   "Destination:"
+msgstr  "Destinació:"
+
+msgid   "Destinations are not writable:\n"
+        "%1"
+msgstr  "No es pot escriure a les destinacions:\n"
+        "%1"
+
+msgid   "Detached OpenPGP ASCII signature (*.asc)"
+msgstr  "Signatura ASCII OpenPGP separada (*.asc)"
+
+msgid   "Detached OpenPGP binary signature (*.sig)"
+msgstr  "Signatura binària OpenPGP separada (*.sig)"
+
+msgid   "Developer"
+msgstr  "Desenvolupador"
+
+msgid   "Directory is not writable"
+msgstr  "No es pot escriure al directori"
+
+msgid   "Do Not Download"
+msgstr  "No baixes"
+
+msgid   "Do Not Enable"
+msgstr  "No habilites"
+
+msgid   "Does Not Contain"
+msgstr  "No conté"
+
+msgid   "Down Speed"
+msgstr  "Baixant a"
+
+msgid   "Download"
+msgstr  "Baixada"
+
+msgid   "Download &limit:"
+msgstr  "&Límit de baixada:"
+
+msgid   "Download Manager"
+msgstr  "Gestor de baixades"
+
+msgctxt "Download Normal (not as first or last)"
+msgid   "Normal"
+msgstr  "Normal"
+
+msgid   "Download added"
+msgstr  "S'ha afegit la baixada"
+
+msgid   "Download again"
+msgstr  "Torna a baixar"
+
+msgid   "Download completed"
+msgstr  "Baixada finalisada"
+
+msgid   "Download des&tination:"
+msgstr  "Des&tinació de baixada:"
+
+msgid   "Download destination is not writeable."
+msgstr  "No es pot escriure en la destinació de baixada."
+
+msgid   "Download destination is not writeable:\n"
+        "%1"
+msgstr  "No es pot escriure en la destinació de baixada:\n"
+        "%1"
+
+msgid   "Download directory is not writeable."
+msgstr  "No es pot escriure al directori de baixada."
+
+msgid   "Download directory is not writeable:\n"
+        "%1"
+msgstr  "No es pot escriure al directori de baixada:\n"
+        "%1"
+
+msgid   "Download failed, could not access this URL."
+msgstr  "La descàrrega ha fallat, no s'ha pogut accedir a est URL."
+
+msgid   "Download failed, no working URLs were found."
+msgstr  "La baixada ha fallat, no s'ha trobat cap URL que funcione."
+
+msgid   "Download first"
+msgstr  "Baixa el primer"
+
+msgctxt "Download first"
+msgid   "First"
+msgstr  "Primer"
+
+msgid   "Download it again?"
+msgstr  "El torne a baixar?"
+
+msgid   "Download last"
+msgstr  "Baixa l'últim"
+
+msgctxt "Download last"
+msgid   "Last"
+msgstr  "Últim"
+
+msgid   "Download limit per transfer:"
+msgstr  "Límit de baixada per transferència:"
+
+msgid   "Download normally"
+msgstr  "Baixa normalment"
+
+msgctxt "Download normally(not as first or last)"
+msgid   "Normal"
+msgstr  "Normal"
+
+msgid   "Download progress of the chunk"
+msgstr  "Progrés de la baixada del tros"
+
+msgid   "Download speed"
+msgstr  "Velocitat de baixada"
+
+msgid   "Download speed of the chunk"
+msgstr  "Velocitat de baixada del tros"
+
+msgid   "Download speed:"
+msgstr  "Velocitat de baixada:"
+
+msgid   "Download started"
+msgstr  "S'ha iniciat la baixada"
+
+msgctxt "Download the items which have been selected"
+msgid   "&Download"
+msgstr  "&Baixa"
+
+msgid   "Downloaded"
+msgstr  "Baixat"
+
+msgid   "Downloaded:"
+msgstr  "Baixat:"
+
+msgid   "Downloading Metalink File...."
+msgstr  "S'està baixant el fitxer «Metalink»..."
+
+msgid   "Downloading Torrent File...."
+msgstr  "S'està baixant el fitxer torrent..."
+
+msgid   "Downloading...."
+msgstr  "S'està baixant..."
+
+msgid   "Downloads completed"
+msgstr  "Baixades finalisades"
+
+msgid   "Drop Target"
+msgstr  "Finestra on deixar anar la destinació"
+
+msgid   "Dynamic means that updated metalinks can be found at \"Origin\"."
+msgstr  "Dinàmic vol dir que els «Metalink» actualisats es poden trobar a "
+        "l'«origen»."
+
+msgid   "Dynamic:"
+msgstr  "Dinàmic:"
+
+msgid   "E-Mail:"
+msgstr  "Correu:"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "antonibella5@yahoo.com,aacid@kde.org,txemaq@gmail.com"
+
+msgid   "Edit Script"
+msgstr  "Edita l'script"
+
+msgid   "Edit...."
+msgstr  "Edita..."
+
+msgid   "Enable"
+msgstr  "Habilita"
+
+msgid   "Enable KDE Global Progress Tracking"
+msgstr  "Activa el seguiment del progrés global de KDE"
+
+msgid   "Enable UTP protocol"
+msgstr  "Habilita el protocol UDP"
+
+msgid   "Enable Web Interface"
+msgstr  "Habilita la interfície web"
+
+msgid   "Enable animations"
+msgstr  "Habilita les animacions"
+
+msgid   "Enable system tray icon"
+msgstr  "Habilita la icona a la safata del sistema"
+
+msgid   "Engine Name"
+msgstr  "Nom del motor"
+
+msgid   "Engine name:"
+msgstr  "Nom del motor:"
+
+msgid   "Enter Group Name"
+msgstr  "Introduïu un nom de grup"
+
+msgid   "Enter URL:"
+msgstr  "Introduïu un URL:"
+
+msgid   "Enter URLs here if all the dropped files are on that server and in "
+        "the same directory. For each dropped file the URL would consist of "
+        "the entered part and the filename."
+msgstr  "Introduïu ací els URL si tots els fitxers deixats anar són en este "
+        "servidor i en el mateix directori. Per a cada fitxer deixat anar "
+        "l'URL consistirà en la part introduïda i el nom de fitxer."
+
+msgid   "Enter a URL"
+msgstr  "Introduïu un URL"
+
+msgid   "Enter a filename."
+msgstr  "Introduïu un nom de fitxer."
+
+msgid   "Enter a hash key"
+msgstr  "Introduïu una clau de resum"
+
+msgid   "Enter at least one URL."
+msgstr  "Introduïu com a mínim un URL."
+
+msgid   "Enter information that all chosen files share."
+msgstr  "Introduïu la informació que compartisquen tots els fitxers "
+        "seleccionats."
+
+msgid   "Enter the URL of the tracker:"
+msgstr  "Introduïu l'URL del seguidor:"
+
+msgid   "Ernesto Rodriguez Ortiz"
+msgstr  "Ernesto Rodriguez Ortiz"
+
+msgid   "Error"
+msgstr  "Error"
+
+msgid   "Error scanning data: %1"
+msgstr  "S'ha produït un error en explorar les dades: %1"
+
+msgid   "Error trying to get %1"
+msgstr  "S'ha produït un error en intentar obtindre %1"
+
+msgid   "Escape Sequences"
+msgstr  "Seqüències d'escapada"
+
+msgid   "Escape sequences"
+msgstr  "Seqüències d'escapada"
+
+msgid   "Exclude"
+msgstr  "Exclou"
+
+msgid   "Excluded:"
+msgstr  "Exclòs:"
+
+msgid   "Execute Unit Testing"
+msgstr  "Execució d'una prova unitària"
+
+msgid   "Execute action after all downloads have been finished:"
+msgstr  "Executa una acció quan totes les baixades estiguen finalisades:"
+
+msgid   "Expand Folder Tree"
+msgstr  "Expandix l'arbre de fitxers"
+
+msgid   "Expiration:"
+msgstr  "Venciment:"
+
+msgid   "Failed to write to the file."
+msgstr  "No s'ha pogut escriure al fitxer."
+
+msgid   "Feature is not supported, as KGet is not compiled with QPGME support."
+msgstr  "La funcionalitat no està admesa, atés que KGet està compilat sense "
+        "implementar el QPGME."
+
+msgid   "File"
+msgstr  "Fitxer"
+
+msgid   "File Name"
+msgstr  "Nom de fitxer"
+
+msgid   "File Properties"
+msgstr  "Propietats de fitxer"
+
+msgid   "File Selection"
+msgstr  "Seleccioneu el fitxer"
+
+msgid   "File Settings"
+msgstr  "Configuracions del fitxer"
+
+msgid   "File Size"
+msgstr  "Mida del fitxer"
+
+msgid   "File already downloaded. Download anyway?"
+msgstr  "El fitxer ya s'ha baixat. El baixe igualment?"
+
+msgid   "File already exists"
+msgstr  "El fitxer ya existix"
+
+msgid   "File already exists. Overwrite it?"
+msgstr  "El fitxer ya existix. Voleu sobreescriure'l?"
+
+msgid   "File already exists:\n"
+        "%1\n"
+        "Overwrite it?"
+msgstr  "El fitxer ya existix:\n"
+        "%1\n"
+        "El sobreescric?"
+
+msgid   "File size (in bytes):"
+msgstr  "Mida del fitxer (en bytes):"
+
+msgid   "File with &links to import:"
+msgstr  "Fitxer amb els en&llaços a importar:"
+
+msgid   "Filename:"
+msgstr  "Nom de fitxer:"
+
+msgid   "Files"
+msgstr  "Fitxers"
+
+msgid   "Files exist already. Overwrite them?"
+msgstr  "Els fitxers ya existixen. Els sobreescric?"
+
+msgid   "Files exist already:\n"
+        "%1\n"
+        "Overwrite them?"
+msgstr  "Els fitxers ya existixen:\n"
+        "%1\n"
+        "Els sobreescric?"
+
+msgid   "Files that exist already in the current folder have been marked."
+msgstr  "S'han marcat els fitxers que ya existixen en la carpeta actual."
+
+msgid   "Filesize is larger than maximum file size supported by VFAT."
+msgstr  "La mida del fitxer és més gran que la mida màxima de fitxer "
+        "acceptada per VFAT."
+
+msgid   "Filter Column"
+msgstr  "Filtra una columna"
+
+msgid   "Filter files here...."
+msgstr  "Filtra ací els fitxers..."
+
+msgid   "Filter history"
+msgstr  "Filtre de l'historial"
+
+msgid   "Fingerprint:"
+msgstr  "Empremta digital:"
+
+msgid   "Folders"
+msgstr  "Carpetes"
+
+msgid   "Former Developer"
+msgstr  "Antic desenvolupador"
+
+msgid   "General URL:"
+msgstr  "URL general:"
+
+msgid   "General information:"
+msgstr  "Informació general:"
+
+msgid   "General optional information for the metalink."
+msgstr  "Informació opcional general per a «Metalink»."
+
+msgctxt "General options."
+msgid   "General"
+msgstr  "General"
+
+msgid   "Global &download limit:"
+msgstr  "Límit global de les &baixades:"
+
+msgid   "Global &upload limit:"
+msgstr  "Límit global de les p&ujades:"
+
+msgid   "Google Summer of Code Student"
+msgstr  "Estudiant de Google Summer of Code"
+
+msgid   "Group Settings"
+msgstr  "Configuracions de grup"
+
+msgid   "Group Settings for %1"
+msgstr  "Configuracions de grup per a %1"
+
+msgid   "Group name:"
+msgstr  "Nom de grup:"
+
+msgid   "Groups"
+msgstr  "Grups"
+
+msgid   "Handle existing Files/Transfers"
+msgstr  "Gestiona els fitxers/transferències existents"
+
+msgid   "Has binary PGP signature."
+msgstr  "Té una signatura PGP binària."
+
+msgid   "Here you can enter optional general information on the metalink."
+msgstr  "Ací podeu introduir informació general opcional quant a «Metalink»."
+
+msgid   "Hibernate Computer"
+msgstr  "Hiberna l'ordinador"
+
+msgctxt "Hibernating computer"
+msgid   "Hibernating"
+msgstr  "S'està hibernant"
+
+msgid   "Hide Main Window"
+msgstr  "Oculta la finestra principal"
+
+msgid   "History backend:"
+msgstr  "Dorsal per a l'historial:"
+
+msgid   "Host"
+msgstr  "Màquina"
+
+msgid   "How much data we have downloaded from this peer"
+msgstr  "Quantes dades hem baixat des d'este parell"
+
+msgid   "How much data we have uploaded to this peer"
+msgstr  "Quantes dades hem pujat a este parell"
+
+msgid   "How much of the torrent's data the peer has"
+msgstr  "Quanta part de les dades del torrent té el parell"
+
+msgid   "IP Address"
+msgstr  "Adreça IP"
+
+msgid   "IP address of the peer"
+msgstr  "Adreça IP del parell"
+
+msgid   "Identity"
+msgstr  "Identitat"
+
+msgid   "Images"
+msgstr  "Imàgens"
+
+msgid   "Import &Links..."
+msgstr  "Importa els en&llaços..."
+
+msgid   "Import Links"
+msgstr  "Importa enllaços"
+
+msgid   "Import dropped files"
+msgstr  "Importa els fitxers deixats anar"
+
+msgid   "Include"
+msgstr  "Inclou"
+
+msgid   "Increase Priority"
+msgstr  "Augmenta la prioritat"
+
+msgid   "Insert Engine"
+msgstr  "Inserció d'un motor"
+
+msgid   "Interested"
+msgstr  "Interessat"
+
+msgctxt "Interested"
+msgid   "Yes"
+msgstr  "Sí"
+
+msgid   "Interesting"
+msgstr  "Interessant"
+
+msgctxt "Interesting"
+msgid   "Yes"
+msgstr  "Sí"
+
+msgid   "Internet connection established, resuming transfers."
+msgstr  "S'ha establit la connexió d'Internet, es reprenen les transferències."
+
+msgid   "Invalid download destination specified."
+msgstr  "S'ha indicat una destinació de baixada no vàlida."
+
+msgid   "Invalid download destination specified:\n"
+        "%1"
+msgstr  "S'ha indicat una destinació de baixada no vàlida:\n"
+        "%1"
+
+msgid   "Invalid download directory specified."
+msgstr  "S'ha indicat un directori de baixada no vàlit."
+
+msgid   "Invalid download directory specified:\n"
+        "%1"
+msgstr  "S'ha indicat un directori de baixada no vàlit:\n"
+        "%1"
+
+msgid   "Inver&t Selection"
+msgstr  "Inver&teix la selecció"
+
+msgid   "Issuer:"
+msgstr  "Emissor:"
+
+msgid   "Javier Goday"
+msgstr  "Javier Goday"
+
+msgid   "Joris Guisson"
+msgstr  "Joris Guisson"
+
+msgid   "KGet"
+msgstr  "KGet"
+
+msgid   "KGet Transfer"
+msgstr  "Transferència de KGet"
+
+msgid   "KGet Transfer List"
+msgstr  "Llista de transferències de KGet"
+
+msgid   "KGet has been temporarily disabled as download manager for "
+        "Konqueror. If you want to disable it forever, go to Settings-"
+        ">Advanced and disable \"Use as download manager for Konqueror\"."
+msgstr  "S'ha desactivat temporalment KGet com a gestor de baixades de "
+        "Konqueror. Si voleu desactivar-ho per sempre, aneu a «Configuració -"
+        "> Avançat» i inhabiliteu «Utilisa com a gestor de baixades de "
+        "Konqueror»."
+
+msgid   "KGet is downloading %1 file"
+msgid_plural    "KGet is downloading %1 files"
+msgstr[0]       "KGet està baixant %1 fitxer"
+msgstr[1]       "KGet està baixant %1 fitxers"
+
+msgid   "KGet is now closing, as all downloads have completed."
+msgstr  "KGet acaba ara perquè totes les baixades han finalisat."
+
+msgid   "Key"
+msgstr  "Clau"
+
+msgid   "Keyservers:"
+msgstr  "Servidors de claus:"
+
+msgid   "KiB"
+msgstr  "KiB"
+
+msgid   "Kick Peer"
+msgstr  "Expulsa el parell"
+
+msgid   "Konqueror Integration"
+msgstr  "Integració amb Konqueror"
+
+msgid   "Language:"
+msgstr  "Idioma:"
+
+msgid   "Last Month"
+msgstr  "Últim mes"
+
+msgid   "Last month"
+msgstr  "Últim mes"
+
+msgid   "Last week"
+msgstr  "Última setmana"
+
+msgid   "Least Priority"
+msgstr  "Mínima prioritat"
+
+msgid   "Leechers"
+msgstr  "Sangoneres"
+
+msgid   "Leechers:"
+msgstr  "Sangoneres:"
+
+msgid   "Left:"
+msgstr  "Resta:"
+
+msgid   "Less than 1MiB"
+msgstr  "Menys de 1MiB"
+
+msgid   "Links in: %1 - KGet"
+msgstr  "Enllaços en: %1 - KGet"
+
+msgid   "List of descriptions for user scripts"
+msgstr  "Llista de descripcions per als scripts d'usuari"
+
+msgid   "List of the Regexp to match input URL"
+msgstr  "Llista d'expressions regulars per a coincidir amb els URL d'entrada"
+
+msgid   "List of the available search engine URLs"
+msgstr  "Llista d'URL dels motors de busca disponibles"
+
+msgid   "List of the available search engines"
+msgstr  "Llista dels motors de busca disponibles"
+
+msgid   "List of whether the script is enabled"
+msgstr  "Llista de si l'script està activat"
+
+msgid   "Load Signature"
+msgstr  "Carrega la signatura"
+
+msgid   "Load Signature File"
+msgstr  "Carrega un fitxer de signatura"
+
+msgid   "Load existing Metalink:"
+msgstr  "Carrega un «Metalink» existent:"
+
+msgid   "Location (URL)"
+msgstr  "Ubicació (URL)"
+
+msgctxt "Location = country"
+msgid   "Location"
+msgstr  "Ubicació"
+
+msgid   "Location:"
+msgstr  "Ubicació:"
+
+msgid   "Login Info"
+msgstr  "Informació d'entrada"
+
+msgid   "Logo:"
+msgstr  "Logotip:"
+
+msgid   "Lukas Appelhans"
+msgstr  "Lukas Appelhans"
+
+msgid   "Ma&ximum download speed:"
+msgstr  "Velocitat mà&xima de baixada:"
+
+msgid   "Ma&ximum share ratio:"
+msgstr  "Ràtio mà&xima de compartició:"
+
+msgid   "Main Toolbar"
+msgstr  "Barra d'eines principal"
+
+msgid   "Maintainer, Core Developer, Torrent Plugin Author"
+msgstr  "Mantenidor, desenvolupador principal, autor del conector torrent"
+
+msgid   "Malformed URL, host missing."
+msgstr  "URL amb format incorrecte, falta l'ordinador."
+
+msgid   "Malformed URL, host missing:\n"
+        "%1"
+msgstr  "URL erroni, falta l'ordinador:\n"
+        "%1"
+
+msgid   "Malformed URL, protocol missing."
+msgstr  "URL amb format incorrecte, falta el protocol."
+
+msgid   "Malformed URL, protocol missing:\n"
+        "%1"
+msgstr  "URL incorrecte, falta el protocol:\n"
+        "%1"
+
+msgid   "Malformed URL."
+msgstr  "URL amb format incorrecte."
+
+msgid   "Malformed URL:\n"
+        "%1"
+msgstr  "URL amb format incorrecte:\n"
+        "%1"
+
+msgid   "Malformed URLs, host missing."
+msgstr  "URL erronis, falta l'ordinador."
+
+msgid   "Malformed URLs, host missing:\n"
+        "%1"
+msgstr  "URL erronis, falta l'ordinador:\n"
+        "%1"
+
+msgid   "Malformed URLs, protocol missing."
+msgstr  "URL erronis, falta el protocol."
+
+msgid   "Malformed URLs, protocol missing:\n"
+        "%1"
+msgstr  "URL erronis, falta el protocol:\n"
+        "%1"
+
+msgid   "Malformed URLs."
+msgstr  "URL erronis."
+
+msgid   "Malformed URLs:\n"
+        "%1"
+msgstr  "URL erronis:\n"
+        "%1"
+
+msgid   "Manage the groups"
+msgstr  "Gestiona els grups"
+
+msgid   "Manolo Valdes"
+msgstr  "Manolo Valdes"
+
+msgid   "Matej Koss"
+msgstr  "Matej Koss"
+
+msgid   "Matthias Fuchs"
+msgstr  "Matthias Fuchs"
+
+msgid   "Maximum &upload speed:"
+msgstr  "Velocitat màxima de p&ujada:"
+
+msgid   "Maximum downloads per group:"
+msgstr  "Baixades màximes per grup:"
+
+msgid   "Mensur Zahirovic (Nookie)"
+msgstr  "Mensur Zahirovic (Nookie)"
+
+msgid   "Metalink Version 3.0 file (*.metalink)"
+msgstr  "Fitxer «Metalink» versió 3.0 (*.metalink)"
+
+msgid   "Metalink Version 4.0 file (*.meta4)"
+msgstr  "Fitxer «Metalink» versió 4.0 (*.meta4)"
+
+msgid   "Metalink published"
+msgstr  "«Metalink» publicat"
+
+msgid   "Metalink updated"
+msgstr  "«Metalink» actualisat"
+
+msgctxt "Mirror as in server, in url"
+msgid   "Mirror"
+msgstr  "Rèplica"
+
+msgid   "Mirror:"
+msgstr  "Rèplica:"
+
+msgid   "Mms Plugin Author"
+msgstr  "Autoria del conector mms"
+
+msgid   "Mode:"
+msgstr  "Modo:"
+
+msgid   "Modify the mirrors used for downloading."
+msgstr  "Modifica les rèpliques emprades per a les baixades."
+
+msgid   "Modify the used mirrors"
+msgstr  "Modifica les rèpliques emprades"
+
+msgid   "Monitor Clipboard for Files to Download"
+msgstr  "Controla el porta-retalls per als fitxers a baixar"
+
+msgid   "More than 100MiB"
+msgstr  "Més de 100MiB"
+
+msgid   "More than 1GiB"
+msgstr  "Més de 1GiB"
+
+msgid   "Move File"
+msgstr  "Mou fitxer"
+
+msgid   "Moves all transfers with the regular expression to this group"
+msgstr  "Mou totes les transferències amb l'expressió regular a este grup"
+
+msgid   "My Downloads"
+msgstr  "Les meues baixades"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Antoni Bella,Albert Astals Cid,Josep M. Ferrer"
+
+msgid   "Name of the publisher"
+msgstr  "Nom de l'editor"
+
+msgid   "Name:"
+msgstr  "Nom:"
+
+msgid   "Negative offset:"
+msgstr  "Desplaçament negatiu:"
+
+msgid   "Network"
+msgstr  "Ret"
+
+msgid   "Network and Downloads"
+msgstr  "Ret i baixades"
+
+msgid   "New Download"
+msgstr  "Baixada nova"
+
+msgid   "New Engine..."
+msgstr  "Motor nou..."
+
+msgid   "New Group"
+msgstr  "Grup nou"
+
+msgid   "New Script...."
+msgstr  "Script nou..."
+
+msgid   "Next Update"
+msgstr  "Propera actualisació"
+
+msgid   "No Action"
+msgstr  "Cap acció"
+
+msgid   "No Limit"
+msgstr  "Sense límit"
+
+msgid   "No URL specified."
+msgstr  "No s'ha indicat cap URL."
+
+msgid   "No download destination specified."
+msgstr  "No s'ha indicat cap destinació de baixada."
+
+msgid   "No download directory specified."
+msgstr  "No s'ha indicat cap directori de baixada."
+
+msgid   "No fingerprint could be found, check if the signature is correct or "
+        "verify the download."
+msgstr  "No s'ha trobat cap empremta digital, comproveu si la signatura és "
+        "correcta o verifiqueu la baixada."
+
+msgid   "No internet connection, stopping transfers."
+msgstr  "No hi ha connexió d'Internet, s'paren les transferències."
+
+msgid   "No key server"
+msgstr  "Sense servidor de claus"
+
+msgctxt "No preview available"
+msgid   "No"
+msgstr  "No"
+
+msgid   "No server for downloading keys is specified in settings. Downloading "
+        "aborted."
+msgstr  "No s'ha indicat cap servidor per a baixar les claus a la "
+        "configuració. S'ha interromput la baixada."
+
+msgid   "No useful key server found, key not downloaded. Add more servers to "
+        "the settings or restart KGet and retry downloading."
+msgstr  "No s'ha trobat cap servidor de claus útil, les claus no es baixen. "
+        "Afiggau més servidors a la configuració o reinicieu KGet i torneu a "
+        "intentar la baixada."
+
+msgctxt "No value has been set"
+msgid   "Not set"
+msgstr  "No establit"
+
+msgid   "Normal Quality (.flv)"
+msgstr  "Qualitat normal (.flv)"
+
+msgctxt "Not Interested"
+msgid   "No"
+msgstr  "No"
+
+msgctxt "Not Interesting"
+msgid   "No"
+msgstr  "No"
+
+msgctxt "Not choked"
+msgid   "No"
+msgstr  "No"
+
+msgid   "Not deleting\n"
+        "%1\n"
+        "as it is a directory."
+msgstr  "No s'eliminarà\n"
+        "%1\n"
+        "atés que es tracta d'un directori."
+
+msgid   "Not deleting\n"
+        "%1\n"
+        "as it is not a local file."
+msgstr  "No s'eliminarà\n"
+        "%1\n"
+        "atés que no es tracta d'un fitxer local."
+
+msgctxt "Not snubbed"
+msgid   "No"
+msgstr  "No"
+
+msgid   "Number of chunks downloaded:"
+msgstr  "Nombre de trossos baixats:"
+
+msgid   "Number of chunks failed:"
+msgstr  "Nombre de trossos erronis:"
+
+msgid   "Number of chunks found:"
+msgstr  "Nombre de trossos trobats:"
+
+msgid   "Number of chunks not downloaded:"
+msgstr  "Nombre de trossos no baixats:"
+
+msgid   "Number of connections per URL:"
+msgstr  "Nombre de connexions per URL:"
+
+msgid   "Number of connections:"
+msgstr  "Nombre de connexions:"
+
+msgid   "Number of mirrors per file:"
+msgstr  "Nombre de rèpliques per fitxer:"
+
+msgctxt "Number of parallel connections to the mirror"
+msgid   "Connections"
+msgstr  "Connexions"
+
+msgid   "Number of retries:"
+msgstr  "Nombre de reintents:"
+
+msgid   "Number of simultaneous file downloads:"
+msgstr  "Nombre de baixades simultànies:"
+
+msgid   "Number of the chunk"
+msgstr  "Número del tros"
+
+msgid   "Only peers which have an upload slot will get data from us"
+msgstr  "Només els parells que tenen un canal de pujada obtindran dades de "
+        "nosatres"
+
+msgid   "Open Destination"
+msgstr  "Obri la destinació"
+
+msgid   "Open File"
+msgstr  "Obri fitxer"
+
+msgid   "Open file"
+msgstr  "Obri fitxer"
+
+msgctxt "Open file"
+msgid   "Open"
+msgstr  "Obri"
+
+msgid   "Operating systems:"
+msgstr  "Sistemes operatius:"
+
+msgid   "Optional"
+msgstr  "Opcional"
+
+msgid   "Optional data:"
+msgstr  "Dades opcionals:"
+
+msgid   "Optional: The priority of the mirror, 1 highest 999999 lowest."
+msgstr  "Opcional: la prioritat de la rèplica; 1 la més alta, 999999 la més "
+        "baixa."
+
+msgid   "Origin:"
+msgstr  "Origen:"
+
+msgid   "Overwrite"
+msgstr  "Sobreescriu"
+
+msgid   "Overwrite existing file?"
+msgstr  "Voleu sobreescriure el fitxer existent?"
+
+msgid   "Password:"
+msgstr  "Contrasenya:"
+
+msgid   "Path"
+msgstr  "Camí"
+
+msgid   "Path:"
+msgstr  "Camí:"
+
+msgid   "Patrick Charbonnier"
+msgstr  "Patrick Charbonnier"
+
+msgid   "Pattern"
+msgstr  "Patró"
+
+msgid   "Pause"
+msgstr  "Pausa"
+
+msgid   "Pause All"
+msgstr  "Fa una pausa de tot"
+
+msgid   "Peer"
+msgstr  "Parell"
+
+msgid   "Per transfer:"
+msgstr  "Per transferència:"
+
+msgctxt "Percent of File Downloaded"
+msgid   "% Complete"
+msgstr  "% completat"
+
+msgid   "Plugin loader could not load the plugin: %1."
+msgstr  "El carregador de conectors no ha pogut carregar el conector: %1."
+
+msgid   "Plugins"
+msgstr  "Conectors"
+
+msgid   "Port:"
+msgstr  "Port:"
+
+msgid   "Pre-allocate disk space"
+msgstr  "Pre-assigna l'espai del disc"
+
+msgid   "Preview"
+msgstr  "Vista prèvia"
+
+msgctxt "Preview available"
+msgid   "Available"
+msgstr  "Disponible"
+
+msgctxt "Preview pending"
+msgid   "Pending"
+msgstr  "Pendent"
+
+msgid   "Priority"
+msgstr  "Prioritat"
+
+msgid   "Priority:"
+msgstr  "Prioritat:"
+
+msgid   "Progress"
+msgstr  "Progrés"
+
+msgid   "Protocol unsupported"
+msgstr  "Protocol no acceptat"
+
+msgid   "Provide login info of your YouTube account in order to access "
+        "restricted media."
+msgstr  "Facilita informació d'entrada al vostre compte de YouTube per tal "
+        "d'accedir a material restringit."
+
+msgid   "Publisher:"
+msgstr  "Editor:"
+
+msgid   "PushButton"
+msgstr  "Botó"
+
+msgid   "Quality:"
+msgstr  "Qualitat:"
+
+msgid   "Question"
+msgstr  "Pregunta"
+
+msgid   "Quit KGet"
+msgstr  "Ix de KGet"
+
+msgid   "Re&gular expression:"
+msgstr  "Expressió re&gular:"
+
+msgid   "Ready"
+msgstr  "Llest"
+
+msgid   "Recommended"
+msgstr  "Recomanada"
+
+msgid   "Reconnect on Broken Connection"
+msgstr  "Torna a connectar en cas d'un tall de la connexió"
+
+msgid   "Redownload Metalink"
+msgstr  "Torna a baixar «Metalink»"
+
+msgid   "RegExp"
+msgstr  "Expressió regular"
+
+msgid   "Regexp:"
+msgstr  "Regexp:"
+
+msgid   "Regular Expression"
+msgstr  "Expressió regular"
+
+msgid   "Regular expression"
+msgstr  "Expressió regular"
+
+msgid   "Remaining Time:"
+msgstr  "Temps restant:"
+
+msgid   "Remove"
+msgstr  "Elimina"
+
+msgid   "Remove Group"
+msgstr  "Elimina un grup"
+
+msgid   "Remove Tracker"
+msgstr  "Elimina seguidor"
+
+msgid   "Remove Webseed"
+msgstr  "Elimina el sembrador"
+
+msgid   "Remove groups"
+msgstr  "Elimina els grups"
+
+msgid   "Rename"
+msgstr  "Canvia el nom"
+
+msgid   "Rename %1 to:"
+msgstr  "Canvia el nom %1 a:"
+
+msgid   "Rename File"
+msgstr  "Canvia el nom del fitxer"
+
+msgid   "Rename Group..."
+msgid_plural    "Rename Groups..."
+msgstr[0]       "Canvia el nom d'un grup..."
+msgstr[1]       "Canvia el nom grups..."
+
+msgid   "Replace file"
+msgstr  "Substituïx el fitxer"
+
+msgid   "Replace file-ending"
+msgstr  "Substituïx el final del fitxer"
+
+msgid   "Requests"
+msgstr  "Peticions"
+
+msgid   "Required"
+msgstr  "Requerit"
+
+msgid   "Resolve"
+msgstr  "Resol"
+
+msgid   "Restore Defaults"
+msgstr  "Restaura als valors predeterminats"
+
+msgid   "Restore Download State"
+msgstr  "Restaura l'estat de la baixada"
+
+msgid   "Result:"
+msgstr  "Resultat:"
+
+msgid   "Retry after:"
+msgstr  "Reintenta després de:"
+
+msgid   "Save created Metalink at:"
+msgstr  "Guarda «Metalink» creat a:"
+
+msgid   "Saving to:"
+msgstr  "Guarda a:"
+
+msgid   "Scanning data of torrent:"
+msgstr  "Explorant dades del torrent:"
+
+msgid   "Score"
+msgstr  "Puntuació"
+
+msgid   "Search Engines"
+msgstr  "Motors de busca"
+
+msgid   "Search for verification information"
+msgstr  "Busca de la informació de verificació"
+
+msgid   "Seeders"
+msgstr  "Sembradors"
+
+msgid   "Seeders:"
+msgstr  "Sembradors:"
+
+msgid   "Select Icon..."
+msgstr  "Seleccioneu una icona..."
+
+msgid   "Select Ranges:"
+msgstr  "Selecciona els intervals:"
+
+msgid   "Select a directory to move the data to"
+msgstr  "Seleccioneu un directori a on moure les dades"
+
+msgid   "Select at least one source url."
+msgstr  "Seleccioneu un URL origen com a mínim."
+
+msgid   "Select columns"
+msgstr  "Seleccioneu les columnes"
+
+msgid   "Select the files you want to be downloaded."
+msgstr  "Seleccioneu els fitxers que voleu baixar."
+
+msgid   "Set Icon..."
+msgstr  "Establix la icona..."
+
+msgid   "Set Script File"
+msgstr  "Establix el fitxer de script"
+
+msgid   "Show &web content"
+msgstr  "Mostra el contingut de la &web"
+
+msgid   "Show Details"
+msgstr  "Mostra els detalls"
+
+msgid   "Show Main Window"
+msgstr  "Mostra la finestra principal"
+
+msgid   "Show every single download "
+msgstr  "Mostra cada baixada individualment "
+
+msgid   "Show overall progress"
+msgstr  "Mostra el progrés global"
+
+msgid   "Show:"
+msgstr  "Mostra:"
+
+msgctxt "Shutting down computer"
+msgid   "Shutdown"
+msgstr  "Parada"
+
+msgid   "Signature"
+msgstr  "Signatura"
+
+msgctxt "Signature here is meant in cryptographic terms, so the signature of "
+        "a file."
+msgid   "Signature of %1."
+msgstr  "Signatura de %1."
+
+msgid   "Signature not verified"
+msgstr  "Signatura no verificada"
+
+msgid   "Size"
+msgstr  "Mida"
+
+msgid   "Size:"
+msgstr  "Mida:"
+
+msgid   "Snubbed"
+msgstr  "Rebujat"
+
+msgctxt "Snubbed"
+msgid   "Yes"
+msgstr  "Sí"
+
+msgid   "Snubbed means the peer has not sent us any data in the last 2 minutes"
+msgstr  "Rebujat vol dir que el parell no ens ha enviat cap dada en els "
+        "últims 2 minuts"
+
+msgid   "Some transfers are still running.\n"
+        "Are you sure you want to close KGet?"
+msgstr  "Encara teniu algunes transferències executant-se.\n"
+        "Segur que voleu tancar KGet?"
+
+msgid   "Source File"
+msgstr  "Fitxer d'origen"
+
+msgid   "Speed"
+msgstr  "Velocitat"
+
+msgid   "Speed Limit"
+msgstr  "Límit de velocitat"
+
+msgid   "Sqlite"
+msgstr  "Sqlite"
+
+msgid   "Stalled"
+msgstr  "Estancat"
+
+msgid   "Start"
+msgstr  "Inicia"
+
+msgid   "Start All"
+msgstr  "Inicia-les totes"
+
+msgid   "Start All Downloads"
+msgstr  "Inicia totes les baixades"
+
+msgid   "Start KGet with drop target"
+msgstr  "Inicia KGet amb una finestra on deixar anar la destinació"
+
+msgid   "Start KGet with hidden main window"
+msgstr  "Inicia KGet amb la finestra principal oculta"
+
+msgid   "Start KGet without drop target animation"
+msgstr  "Inicia KGet sense animació a la finestra on deixar anar la destinació"
+
+msgid   "Start Selected"
+msgstr  "Inicia les seleccionades"
+
+msgid   "Stats"
+msgstr  "Estadístiques"
+
+msgid   "Status"
+msgstr  "Estat"
+
+msgid   "Status:"
+msgstr  "Estat:"
+
+msgid   "Stop All Downloads"
+msgstr  "Para totes les baixades"
+
+msgid   "Stop Selected"
+msgstr  "Para les seleccionades"
+
+msgid   "Strong (recommended)"
+msgstr  "Forta (recomanada)"
+
+msgid   "Strongest (slowest)"
+msgstr  "Molt forta (més lenta)"
+
+msgid   "Supported OSes, separated with commas"
+msgstr  "SO acceptats, separats per comes"
+
+msgid   "Suspend Computer"
+msgstr  "Suspèn l'ordinador"
+
+msgctxt "Suspending computer"
+msgid   "Suspending"
+msgstr  "S'està suspenent"
+
+msgid   "Syntax"
+msgstr  "Sintaxi"
+
+msgid   "Text File"
+msgstr  "Fitxer de text"
+
+msgctxt "The available mirrors (servers) for downloading"
+msgid   "Mirrors"
+msgstr  "Rèpliques"
+
+msgid   "The computer will now suspend to RAM, as all downloads have "
+        "completed."
+msgstr  "Ara l'ordinador se suspendrà a la RAM, perquè totes les baixades han "
+        "finalisat."
+
+msgid   "The computer will now suspend to disk, as all downloads have "
+        "completed."
+msgstr  "Ara l'ordinador se suspendrà al disc, perquè totes les baixades han "
+        "finalisat."
+
+msgid   "The computer will now turn off, as all downloads have completed."
+msgstr  "S'pararà ara l'ordinador perquè totes les baixades han finalisat."
+
+msgid   "The download (%1) could not be verified. Do you want to redownload "
+        "it?"
+msgstr  "No s'ha pogut verificar la baixada (%1). Voleu tornar a baixar-la?"
+
+msgid   "The download (%1) could not be verified. Do you want to repair it?"
+msgstr  "No s'ha pogut verificar la baixada (%1). Voleu reparar-la?"
+
+msgid   "The download could not be verified, do you want to repair (if "
+        "repairing does not work the download would be restarted) it?"
+msgstr  "No s'ha pogut verificar la baixada. Voleu reparar-la? (si la "
+        "reparació no funciona, la baixada tornarà a iniciar-se)"
+
+msgid   "The download could not be verified, try to repair it?"
+msgstr  "No s'ha pogut verificar la baixada. Intento reparar-la?"
+
+msgid   "The dropped file is a KGet Transfer List"
+msgstr  "El fitxer deixat anar és una llista de transferències de KGet"
+
+msgid   "The file %1 already exists.\n"
+        "Overwrite?"
+msgstr  "El fitxer %1 ya existix.\n"
+        "El sobreescric?"
+
+msgid   "The filename exists already, choose a different one."
+msgstr  "El nom de fitxer ya existix, escolliu-ne un de diferent."
+
+msgid   "The key has been revoked."
+msgstr  "La clau ha estat revocada."
+
+msgid   "The key is disabled."
+msgstr  "La clau està desactivada."
+
+msgid   "The key is expired."
+msgstr  "La clau ha caducat."
+
+msgid   "The key is invalid."
+msgstr  "La clau no és vàlida."
+
+msgid   "The key is not to be trusted."
+msgstr  "El certificat no és de confiança."
+
+msgid   "The key is to be trusted marginally."
+msgstr  "La clau és de confiança marginal."
+
+msgid   "The key to verify the signature is missing, do you want to download "
+        "it?"
+msgstr  "No s'ha trobat la clau per a verificar la signatura. Voleu baixar-la?"
+
+msgid   "The language of the file"
+msgstr  "L'idioma del fitxer"
+
+msgid   "The number of download and upload requests"
+msgstr  "El nombre de solicituts de baixada i de pujada"
+
+msgctxt "The priority of the mirror"
+msgid   "Priority"
+msgstr  "Prioritat"
+
+msgid   "The score of the peer. KTorrent uses this to determine who to upload "
+        "to."
+msgstr  "La puntuació del parell, KTorrent l'utilisa per a determinar amb qui "
+        "puja."
+
+msgid   "The signature could not be verified for %1. See transfer settings "
+        "for more information."
+msgstr  "No es pot verificar la signatura per a %1. Vejau la configuració de "
+        "les transferències per a més informació."
+
+msgctxt "The transfer is aborted"
+msgid   "Aborted"
+msgstr  "Avortat"
+
+msgctxt "The transfer is finished"
+msgid   "Finished"
+msgstr  "Acabat"
+
+msgctxt "The transfer is running"
+msgid   "Running"
+msgstr  "En marxa"
+
+msgctxt "The transfer is stopped"
+msgid   "Stopped"
+msgstr  "Parat"
+
+msgid   "The width of the columns in the history view"
+msgstr  "L'amplària de les columnes a la vista de l'historial"
+
+msgid   "There already is a tracker named <b>%1</b>."
+msgstr  "Ya hi ha un seguidor anomenat <b>%1</b>."
+
+msgctxt "These entries are optional."
+msgid   "Optional"
+msgstr  "Opcional"
+
+msgid   "This URL does not allow multiple connections,\n"
+        "the download will take longer."
+msgstr  "Est URL no permet connexions múltiples,\n"
+        "la baixada tardarà més."
+
+msgid   "This assistant allows you to create metalinks from scratch or base "
+        "them on existing metalinks. A lot of the fields are optional or "
+        "recommended, so enter them if desired. The minimum is a save "
+        "location, at least one file and one URL."
+msgstr  "Est assistent permet crear els «Metalink» des de zero o basant-los "
+        "en alguns «Metalink» existents. Molts dels camps són opcionals o "
+        "recomanats, per tant, introduïu-los si ho voleu. El mínim és una "
+        "ubicació de guardada, almenys un fitxer i un URL."
+
+msgid   "This is the first time you have run KGet.\n"
+        "Would you like to enable KGet as the download manager for Konqueror?"
+msgstr  "Esta és la primera vegada que executeu KGet.\n"
+        "Voleu emprar KGet com a gestor de baixades de Konqueror?"
+
+msgid   "This option is not supported for the current transfer."
+msgstr  "Esta opció ni funciona amb la transferència actual."
+
+msgid   "Time"
+msgstr  "Temps"
+
+msgid   "Times Downloaded"
+msgstr  "Nombre de baixades"
+
+msgid   "Timezone offset:"
+msgstr  "Desplaçament de la zona horària:"
+
+msgid   "Today"
+msgstr  "Hui"
+
+msgid   "Top Priority"
+msgstr  "Màxima prioritat"
+
+msgid   "Torrent file does not exist"
+msgstr  "El fitxer torrent no existix"
+
+msgid   "Total:"
+msgstr  "Total:"
+
+msgid   "Trackers"
+msgstr  "Seguidors"
+
+msgid   "Transfer Details"
+msgstr  "Detalls de les transferències"
+
+msgid   "Transfer History"
+msgstr  "Historial de transferències"
+
+msgid   "Transfer Plugins"
+msgstr  "Conectors de transferència"
+
+msgid   "Transfer Settings"
+msgstr  "Configuracions de les transferències"
+
+msgid   "Transfer Settings for %1"
+msgstr  "Configuracions de transferència per a %1"
+
+msgctxt "Transfer State: Aborted"
+msgid   "Aborted"
+msgstr  "Interrompuda"
+
+msgctxt "Transfer State: Finished"
+msgid   "Finished"
+msgstr  "Finalisada"
+
+msgctxt "Transfer State:Finished"
+msgid   "Finished"
+msgstr  "Finalisada"
+
+msgid   "Transfer Verification for %1"
+msgstr  "Verificació de la transferència per a %1"
+
+msgid   "Transfer group:"
+msgstr  "Grup de transferència:"
+
+msgctxt "Transfer state: processing script"
+msgid   "Processing script...."
+msgstr  "S'està processant l'script..."
+
+msgctxt "Transfer status: seeding"
+msgid   "Seeding...."
+msgstr  "S'està sembrant..."
+
+msgid   "Trust level of the key is unclear."
+msgstr  "El nivell de confiança de clau no és clar."
+
+msgid   "Trust:"
+msgstr  "Confiança:"
+
+msgid   "Turn Off Computer"
+msgstr  "Apaga l'ordinador"
+
+msgid   "Types of the checksums:"
+msgstr  "Tipus de les sumes de verificació:"
+
+msgid   "URL"
+msgstr  "URL"
+
+msgid   "URL to the logo"
+msgstr  "URL al logotip"
+
+msgid   "URL to the publisher"
+msgstr  "URL a l'editor"
+
+msgid   "URL(s) to download"
+msgstr  "Els URL a baixar"
+
+msgid   "URL:"
+msgstr  "URL:"
+
+msgid   "Unable to load: %1"
+msgstr  "No s'ha pogut carregar: %1"
+
+msgid   "Unable to save to: %1"
+msgstr  "No es pot guardar a: %1"
+
+msgid   "Under 10MiB"
+msgstr  "Per davall de 10MiB"
+
+msgid   "Unlimited"
+msgstr  "Sense límit"
+
+msgid   "Up Speed"
+msgstr  "Pujant a"
+
+msgid   "Update Trackers"
+msgstr  "Actualisa els seguidors"
+
+msgid   "Upload Slot"
+msgstr  "Canal de pujada"
+
+msgid   "Upload limit per transfer:"
+msgstr  "Límit de pujada per transferència:"
+
+msgid   "Upload speed"
+msgstr  "Velocitat de pujada"
+
+msgid   "Upload speed:"
+msgstr  "Velocitat de pujada:"
+
+msgid   "Uploaded"
+msgstr  "Pujat"
+
+msgid   "Url"
+msgstr  "URL"
+
+msgid   "Urs Wolfer"
+msgstr  "Urs Wolfer"
+
+msgid   "Use Drop Target"
+msgstr  "Utilisa una destinació a on deixar anar"
+
+msgid   "Use KGet as Konqueror Download Manager"
+msgstr  "Utilisa KGet com a gestor de baixades de Konqueror"
+
+msgid   "Use Literal Name"
+msgstr  "Utilisa el nom literal"
+
+msgid   "Use Normalized Name"
+msgstr  "Utilisa el nom normalisat"
+
+msgid   "Use as download manager for Konqueror"
+msgstr  "Utilisa com a gestor de baixades per a Konqueror"
+
+msgid   "Use default folders for groups as suggestion"
+msgstr  "Utilisa les carpetes predeterminades com a sugeriment per als grups"
+
+msgid   "Use search engines"
+msgstr  "Utilisa els motors de busca"
+
+msgid   "Used Mirrors:"
+msgstr  "Rèpliques emprades:"
+
+msgid   "Used checksum:"
+msgstr  "Suma de verificació emprada:"
+
+msgid   "User .netrc file"
+msgstr  "Fitxers d'usuari .netrc"
+
+msgid   "User Scripts"
+msgstr  "Scripts de l'usuari"
+
+msgid   "User:"
+msgstr  "Usuari:"
+
+msgid   "Username:"
+msgstr  "Usuari:"
+
+msgid   "Verification"
+msgstr  "Verificació"
+
+msgid   "Verification failed."
+msgstr  "La verificació ha fallat."
+
+msgid   "Verification not possible. Check the entered data, whether gpg-agent "
+        "is running, or whether you have an Internet connection (for "
+        "retrieving keys.)"
+msgstr  "La verificació no es pot fer. Comproveu les dades introduïdes, si "
+        "s'està executant «gpg-agent», o si teniu una connexió a Internet "
+        "(per a recuperar les claus)."
+
+msgid   "Verification successful"
+msgstr  "Verificació correcta"
+
+msgid   "Verification:"
+msgstr  "Verificació:"
+
+msgid   "Verify"
+msgstr  "Verifica"
+
+msgid   "Verify the finished download with the selected checksum."
+msgstr  "Verifica la baixada finalisada amb la suma de verificació "
+        "seleccionada."
+
+msgid   "Verifying:"
+msgstr  "S'està verificant:"
+
+msgid   "Version:"
+msgstr  "Versió:"
+
+msgid   "Videos"
+msgstr  "Vídeos"
+
+msgid   "View Modes:"
+msgstr  "Modos de vista:"
+
+msgid   "Weak (fastest)"
+msgstr  "Dèbil (més ràpida)"
+
+msgid   "Web Interface"
+msgstr  "Interfície web"
+
+msgid   "Web URL to the metalink"
+msgstr  "URL del web a «Metalink»"
+
+msgid   "Webseeds"
+msgstr  "Sembradors web"
+
+msgid   "Whether or not the peer has DHT enabled"
+msgstr  "Si el parell té o no activat el DHT"
+
+msgid   "Whether or not the peer has choked us. If we are choked, the peer "
+        "will not send us any data."
+msgstr  "Si el parell ens ha obturat. Si estem obturats, el parell no ens "
+        "enviarà cap dada."
+
+msgid   "Whether the peer is interested in downloading data from us"
+msgstr  "Si el parell està interessat a baixar dades des de nosatres"
+
+msgid   "Whether we are interested in downloading from this peer"
+msgstr  "Si nosatres estem interessats a baixar dades des d'este parell"
+
+msgid   "Which client the peer is using"
+msgstr  "Quin client utilisa el parell"
+
+msgid   "Which files the chunk is located in"
+msgstr  "En quins fitxers està localisat el tros"
+
+msgid   "Which peer we are downloading it from"
+msgstr  "De quin parell ho estem baixant"
+
+msgid   "Xml"
+msgstr  "XML"
+
+msgid   "You are already downloading that file from another location.\n"
+        "Download and delete the previous one?"
+msgstr  "Ya heu baixat este fitxer des d'una atra ubicació.\n"
+        "El baixe i suprimixc l'anterior?"
+
+msgid   "You are already downloading the same file"
+msgstr  "Ya heu baixat el mateix fitxer"
+
+msgid   "You can drag download links into the drop target."
+msgstr  "Podeu arrossegar els enllaços a baixar dins la finestra on deixar "
+        "anar la destinació."
+
+msgid   "You can use wildcards for filtering."
+msgstr  "Podeu utilisar comodins per a filtrar."
+
+msgid   "You have a download in progress from that location.\n"
+        "Delete it and download again?"
+msgstr  "Hi ha una baixada en curs des d'esta ubicació.\n"
+        "La suprimixc i torne a baixar-la?"
+
+msgid   "You have a download in progress from the location: \n"
+        "\n"
+        "%1\n"
+        "\n"
+        "Delete it and download again?"
+msgstr  "Hi ha una baixada en curs des de la ubicació: \n"
+        "\n"
+        "%1\n"
+        "\n"
+        "La suprimixc i torne a baixar-la?"
+
+msgid   "You have already completed a download from that location. Download "
+        "it again?"
+msgstr  "Ya s'ha completat una baixada des d'esta ubicació. La baixe una atra "
+        "vegada?"
+
+msgid   "You have already completed a download from the location: \n"
+        "\n"
+        "%1\n"
+        "\n"
+        "Download it again?"
+msgstr  "Ya s'ha completat una baixada des de la ubicació: \n"
+        "\n"
+        "%1\n"
+        "\n"
+        "El baixe una atra vegada?"
+
+msgid   "You have already completed downloads at those destinations. Download "
+        "them again?"
+msgstr  "Ya s'han completat les baixades a estes destinacions. Les baixe una "
+        "atra vegada?"
+
+msgid   "You have already completed downloads at those destinations: \n"
+        "\n"
+        "%1\n"
+        "\n"
+        " Download them again?"
+msgstr  "Ya s'han completat algunes baixades a estes destinacions: \n"
+        "\n"
+        "%1\n"
+        "\n"
+        " Les baixe una atra vegada?"
+
+msgid   "You have already completed downloads from these locations. Download "
+        "them again?"
+msgstr  "Ya s'han completat les baixades des d'estes ubicacions. Les baixe "
+        "una atra vegada?"
+
+msgid   "You have already completed downloads from these locations: \n"
+        "\n"
+        "%1\n"
+        "\n"
+        "Download them again?"
+msgstr  "Ya s'han completat algunes baixades des d'estes ubicacions: \n"
+        "\n"
+        "%1\n"
+        "\n"
+        "Les baixe una atra vegada?"
+
+msgid   "You have already downloaded that file from another location.\n"
+        "\n"
+        "Download and delete the previous one?"
+msgstr  "Ya heu baixat este fitxer des d'una atra ubicació.\n"
+        "\n"
+        "El baixe i suprimixc l'anterior?"
+
+msgid   "You have already downloaded that file from another location.\n"
+        "Download and delete the previous one?"
+msgstr  "Ya heu baixat este fitxer des d'una atra ubicació.\n"
+        "El baixe i suprimixc l'anterior?"
+
+msgid   "You have downloads in progress from these locations.\n"
+        "Delete them and download again?"
+msgstr  "Hi ha algunes baixades en curs des d'estes ubicacions.\n"
+        "Les suprimixc i torne a baixar-les?"
+
+msgid   "You have downloads in progress from these locations: \n"
+        "\n"
+        "%1\n"
+        "\n"
+        "Delete them and download again?"
+msgstr  "Hi ha algunes baixades en curs des d'estes ubicacions: \n"
+        "\n"
+        "%1\n"
+        "\n"
+        "Les suprimixc i torne a baixar-les?"
+
+msgid   "You have downloads in progress to these destinations.\n"
+        "Delete them and download again?"
+msgstr  "Hi ha algunes baixades en curs a estes destinacions.\n"
+        "Les suprimixc i torne a baixar-les?"
+
+msgid   "You have downloads in progress to these destinations: \n"
+        "\n"
+        "%1\n"
+        "\n"
+        "Delete them and download again?"
+msgstr  "Hi ha algunes baixades en curs a estes destinacions: \n"
+        "\n"
+        "%1\n"
+        "\n"
+        "Les suprimixc i torne a baixar-les?"
+
+msgid   "You need to define a signature."
+msgstr  "Cal que definiu una signatura."
+
+msgid   "You need to set mirrors for the entries with an icon."
+msgstr  "Heu de definir rèpliques per a les entrades amb una icona."
+
+msgid   "You will lose all data in this file, are you sure you want to do "
+        "this?"
+msgid_plural    "You will lose all data in these files, are you sure you want "
+        "to do this?"
+msgstr[0]       "Perdreu totes les dades d'este fitxer. Segur que voleu fer "
+        "açò?"
+msgstr[1]       "Perdreu totes les dades d'estos fitxers. Segur que voleu fer "
+        "açò?"
+
+msgctxt "abort the proposed action"
+msgid   "Abort"
+msgstr  "Interromp"
+
+msgctxt "all chunks"
+msgid   "All:"
+msgstr  "Tots:"
+
+msgctxt "changing the destination of the file"
+msgid   "Changing destination"
+msgstr  "S'està canviant la destinació"
+
+msgctxt "checksum of a file"
+msgid   "Checksum"
+msgstr  "Suma de verificació"
+
+msgctxt "chunks left"
+msgid   "Left:"
+msgstr  "Resten:"
+
+msgctxt "comma, to separate members of a list"
+msgid   ","
+msgstr  ","
+
+msgctxt "delete all finished transfers"
+msgid   "Remove All Finished"
+msgstr  "Elimina totes les finalisades"
+
+msgctxt "delete selected transfer"
+msgid   "Delete Selected"
+msgstr  "Suprimix la selecció"
+
+msgctxt "delete selected transfer item"
+msgid   "Remove Selected"
+msgstr  "Elimina les seleccionades"
+
+msgctxt "delete selected transfer item and files"
+msgid   "Remove Selected and Delete Files"
+msgstr  "Elimina les seleccionades i suprimix els fitxers"
+
+msgctxt "file as in file on hard drive"
+msgid   "Files"
+msgstr  "Fitxers"
+
+msgctxt "file in a filesystem"
+msgid   "File"
+msgstr  "Fitxer"
+
+msgctxt "fix position for droptarget"
+msgid   "Sticky"
+msgstr  "Apegalós"
+
+msgctxt "hash as a hash of type md5, sha1 etc."
+msgid   "Hash:"
+msgstr  "Resum:"
+
+msgctxt "hash type as in md5t, sha1 etc."
+msgid   "Hash type:"
+msgstr  "Tipus de resum:"
+
+msgctxt "integration of KGet with other applications"
+msgid   "Integration"
+msgstr  "Integració"
+
+msgid   "label"
+msgstr  "etiqueta"
+
+msgctxt "list header: type of file"
+msgid   "File Type"
+msgstr  "Tipus de fitxer"
+
+msgctxt "name of a file"
+msgid   "Name"
+msgstr  "Nom"
+
+msgctxt "name of download"
+msgid   "Name"
+msgstr  "Nom"
+
+msgctxt "no limit for maximum downloads has been set"
+msgid   "No limit"
+msgstr  "Sense límit"
+
+msgctxt "not available"
+msgid   "n/a"
+msgstr  "n/d"
+
+msgid   "not specified"
+msgstr  "sense especificar"
+
+msgctxt "of a filter, e.g. RegExp or Wildcard"
+msgid   "Pattern Syntax"
+msgstr  "Sintaxi de patró"
+
+msgctxt "pgp signature is not verified"
+msgid   "Failed"
+msgstr  "No s'ha pogut"
+
+msgctxt "pgp signature is verified"
+msgid   "Verified"
+msgstr  "Verificat"
+
+msgctxt "preview available"
+msgid   "Available"
+msgstr  "Disponible"
+
+msgctxt "progress of download"
+msgid   "Progress"
+msgstr  "Progrés"
+
+msgid   "publisher"
+msgstr  "editor"
+
+msgctxt "redownload selected transfer item"
+msgid   "Redownload Selected"
+msgstr  "Torna a baixar la seleccionada"
+
+msgctxt "remaining time of download"
+msgid   "Remaining Time"
+msgstr  "Temps restant"
+
+msgctxt "signature of a file"
+msgid   "Signature"
+msgstr  "Signatura"
+
+msgctxt "size of download"
+msgid   "Size"
+msgstr  "Mida"
+
+msgctxt "size of the download"
+msgid   "Size"
+msgstr  "Mida"
+
+msgctxt "source-file"
+msgid   "Source:"
+msgstr  "Origen:"
+
+msgctxt "speed of download"
+msgid   "Speed"
+msgstr  "Velocitat"
+
+msgctxt "start transfergroup downloads"
+msgid   "Start"
+msgstr  "Inici"
+
+msgctxt "status of download"
+msgid   "Status"
+msgstr  "Estat"
+
+msgctxt "status of the download"
+msgid   "Status"
+msgstr  "Estat"
+
+msgctxt "stop transfergroup downloads"
+msgid   "Stop"
+msgstr  "Para"
+
+msgctxt "the mode defines how the url should be changed"
+msgid   "Change mode"
+msgstr  "Canvia el modo"
+
+msgctxt "the string that is used to modify an url"
+msgid   "Change string"
+msgstr  "Canvia la cadena"
+
+msgctxt "the transfer has been finished"
+msgid   "Finished"
+msgstr  "Finalisada"
+
+msgctxt "the type of the checksum e.g. md5"
+msgid   "Checksum type"
+msgstr  "Tipus de suma de verificació"
+
+msgctxt "the type of the hash, e.g. MD5"
+msgid   "Type"
+msgstr  "Tipus"
+
+msgctxt "the used hash for verification"
+msgid   "Hash"
+msgstr  "Resum"
+
+msgctxt "transfer state: aborted"
+msgid   "Aborted"
+msgstr  "Interromput"
+
+msgctxt "transfer state: connecting"
+msgid   "Connecting...."
+msgstr  "S'està connectant..."
+
+msgctxt "transfer state: delayed"
+msgid   "Delayed"
+msgstr  "Retardada"
+
+msgctxt "transfer state: downloading"
+msgid   "Downloading...."
+msgstr  "S'està baixant..."
+
+msgctxt "transfer state: finished"
+msgid   "Finished"
+msgstr  "Finalisada"
+
+msgctxt "transfer state: running"
+msgid   "Running...."
+msgstr  "En marxa..."
+
+msgctxt "transfer state: stopped"
+msgid   "Stopped"
+msgstr  "Parada"
+
+msgctxt "trust level"
+msgid   "Full"
+msgstr  "Complet"
+
+msgctxt "trust level"
+msgid   "Marginal"
+msgstr  "Marginalment"
+
+msgctxt "trust level"
+msgid   "Never"
+msgstr  "Cap"
+
+msgctxt "trust level"
+msgid   "Ultimate"
+msgstr  "Absolutament"
+
+msgctxt "trust level"
+msgid   "Undefined"
+msgstr  "Sense definir"
+
+msgctxt "trust level"
+msgid   "Unknown"
+msgstr  "Desconegut"
+
+msgctxt "verification of the download (e.g. by using MD5)"
+msgid   "Verification"
+msgstr  "Verificació"
+
+msgctxt "verification-result of a file, can be true/false"
+msgid   "Verified"
+msgstr  "Verificat"
+
+msgctxt "window title including overall download progress in percent"
+msgid   "KGet - %1%"
+msgstr  "KGet - %1%"

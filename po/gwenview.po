@@ -1,0 +1,1705 @@
+msgid   ""
+msgstr  "Project-Id-Version: gwenview\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-02-24 09:09+0100\n"
+        "Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+        "X-Generator: Lokalize 20.12.0\n"
+
+msgid   " %"
+msgstr  " %"
+
+msgid   " px"
+msgstr  " px"
+
+msgid   "%"
+msgstr  "%"
+
+msgid   "%1 file"
+msgid_plural    "%1 files"
+msgstr[0]       "%1 fitxer"
+msgstr[1]       "%1 fitxers"
+
+msgid   "%1 folder"
+msgid_plural    "%1 folders"
+msgstr[0]       "%1 carpeta"
+msgstr[1]       "%1 carpetes"
+
+msgctxt "%1 is the importer keyword, %2 is keyword explanation"
+msgid   "%1: %2"
+msgstr  "%1: %2"
+
+msgid   "&Checkerboard background"
+msgstr  "Fons de tauler d'es&cacs"
+
+msgid   "&File"
+msgstr  "&Fitxer"
+
+msgid   "&Fit image to page"
+msgstr  "&Ajusta la image a la pàgina"
+
+msgid   "&No scaling"
+msgstr  "&Sense escalat"
+
+msgid   "&Rating"
+msgstr  "&Puntuació"
+
+msgid   "&Scale to:"
+msgstr  "&Escala a:"
+
+msgid   "&Settings"
+msgstr  "Con&figuració"
+
+msgid   "&Solid color background:"
+msgstr  "Fons de color &sòlid:"
+
+msgid   "&Stop"
+msgstr  "A&tura"
+
+msgid   "&View"
+msgstr  "Vi&sualisa"
+
+msgctxt "(qtundo-format)"
+msgid   "Flip"
+msgstr  "Inverteix"
+
+msgctxt "(qtundo-format)"
+msgid   "Mirror"
+msgstr  "Espill"
+
+msgctxt "(qtundo-format)"
+msgid   "Resize"
+msgstr  "Redimensiona"
+
+msgctxt "(qtundo-format)"
+msgid   "Rotate Left"
+msgstr  "Gira a l'esquerra"
+
+msgctxt "(qtundo-format)"
+msgid   "Rotate Right"
+msgstr  "Gira a la dreta"
+
+msgctxt "(qtundo-format)"
+msgid   "Transform"
+msgstr  "Transforma"
+
+msgid   "<b>Thumbnail Bar</b>"
+msgstr  "<b>Barra de miniatures</b>"
+
+msgid   "<i>Type text or click the items below to customize the format</i>"
+msgstr  "<i>Introduïu text o cliqueu els elements de davall per a "
+        "personalisar el format</i>"
+
+msgctxt "@action"
+msgid   "Assuming that the image format won't be changed and\n"
+        "for lossy images using the value set in 'Lossy image save quality'."
+msgstr  "Suposant que el format de la image no es canviarà i\n"
+        "per a les imàgens amb pèrdua s'utilisa el valor establit a\n"
+        "«Qualitat d'estalvi de les imàgens amb pèrdua:»."
+
+msgctxt "@action"
+msgid   "Dark Mode"
+msgstr  "Modo fosc"
+
+msgctxt "@action"
+msgid   "Edit Tags"
+msgstr  "Edita les etiquetes"
+
+msgctxt "@action"
+msgid   "Exit Full Screen"
+msgstr  "Ix de pantalla completa"
+
+msgctxt "@action"
+msgid   "Follow color scheme"
+msgstr  "Segueix l'esquema de color"
+
+msgctxt "@action"
+msgid   "Light Mode"
+msgstr  "Modo de llum"
+
+msgctxt "@action"
+msgid   "Neutral Mode"
+msgstr  "Modo neutre"
+
+msgctxt "@action"
+msgid   "Properties"
+msgstr  "Propietats"
+
+msgctxt "@action"
+msgid   "Sidebar"
+msgstr  "Barra lateral"
+
+msgctxt "@action"
+msgid   "Start Page"
+msgstr  "Pàgina d'inici"
+
+msgctxt "@action Go to first image"
+msgid   "First"
+msgstr  "Primera"
+
+msgctxt "@action Go to last image"
+msgid   "Last"
+msgstr  "Última"
+
+msgctxt "@action Go to next image"
+msgid   "Next"
+msgstr  "Següent"
+
+msgctxt "@action Go to previous image"
+msgid   "Previous"
+msgstr  "Anterior"
+
+msgctxt "@action Open Recent menu"
+msgid   "Clear List"
+msgstr  "Neteja la llista"
+
+msgctxt "@action Rating value of zero"
+msgid   "Zero"
+msgstr  "Zero"
+
+msgctxt "@action Recent Files view"
+msgid   "Add Containing Folder to Places"
+msgstr  "Afig la carpeta contenidora a Llocs"
+
+msgctxt "@action Recent Files view"
+msgid   "Forget All Files"
+msgstr  "Oblida tots els fitxers"
+
+msgctxt "@action Recent Files view"
+msgid   "Forget This File"
+msgstr  "Oblida este fitxer"
+
+msgctxt "@action Recent Folders view"
+msgid   "Add Folder to Places"
+msgstr  "Afig la carpeta a Llocs"
+
+msgctxt "@action Recent Folders view"
+msgid   "Forget All Folders"
+msgstr  "Oblida totes les carpetes"
+
+msgctxt "@action Recent Folders view"
+msgid   "Forget This Folder"
+msgstr  "Oblida esta carpeta"
+
+msgctxt "@action Share images"
+msgid   "Share"
+msgstr  "Compartix"
+
+msgctxt "@action opens crop, rename, etc."
+msgid   "Show Editing Tools"
+msgstr  "Mostra les eines d'edició"
+
+msgctxt "@action reload the currently viewed image"
+msgid   "Reload"
+msgstr  "Torna a carregar"
+
+msgctxt "@action show more image meta info"
+msgid   "Show more details..."
+msgstr  "Mostra més detalls..."
+
+msgctxt "@action:button"
+msgid   "Copy"
+msgstr  "Copia"
+
+msgctxt "@action:button"
+msgid   "Deselect"
+msgstr  "Desselecciona"
+
+msgctxt "@action:button"
+msgid   "Discard Changes and Reload"
+msgstr  "Descarta els canvis i torna a carregar"
+
+msgctxt "@action:button"
+msgid   "Install Support for this Camera…"
+msgstr  "Instala la implementació per a esta càmara…"
+
+msgctxt "@action:button"
+msgid   "Link"
+msgstr  "Enllaç"
+
+msgctxt "@action:button"
+msgid   "Move"
+msgstr  "Mou"
+
+msgctxt "@action:button"
+msgid   "Rename"
+msgstr  "Canvia el nom"
+
+msgctxt "@action:button %1 protocol name"
+msgid   "Install Protocol Support for \"%1\"…"
+msgstr  "Instala la implementació del protocol per a «%1»…"
+
+msgctxt "@action:button %1 protocol name"
+msgid   "Search the Web for How to Install Protocol Support for \"%1\"…"
+msgstr  "Busca a la web per a instalar la implementació del protocol per a "
+        "«%1»…"
+
+msgctxt "@action:button Zoom to fill (fit width or height), shown in status "
+        "bar, keep it short please"
+msgid   "Fill"
+msgstr  "Omple"
+
+msgctxt "@action:button Zoom to fit, shown in status bar, keep it short please"
+msgid   "Fit"
+msgstr  "Ajusta"
+
+msgctxt "@action:inmenu"
+msgid   "Add Folder to Places"
+msgstr  "Afig la carpeta a Llocs"
+
+msgctxt "@action:inmenu"
+msgid   "Date"
+msgstr  "Data"
+
+msgctxt "@action:inmenu"
+msgid   "File Size"
+msgstr  "Mida del fitxer"
+
+msgctxt "@action:inmenu"
+msgid   "Filename"
+msgstr  "Nom del fitxer"
+
+msgctxt "@action:inmenu"
+msgid   "Filter by Date"
+msgstr  "Filtra per data"
+
+msgctxt "@action:inmenu"
+msgid   "Filter by Name"
+msgstr  "Filtra per nom"
+
+msgctxt "@action:inmenu"
+msgid   "Filter by Rating"
+msgstr  "Filtra per puntuació"
+
+msgctxt "@action:inmenu"
+msgid   "Filter by Tag"
+msgstr  "Filtra per etiqueta"
+
+msgctxt "@action:inmenu"
+msgid   "Image Size"
+msgstr  "Mida de la image"
+
+msgctxt "@action:inmenu"
+msgid   "Rating"
+msgstr  "Puntuació"
+
+msgctxt "@action:inmenu"
+msgid   "Sort By"
+msgstr  "Ordena per"
+
+msgctxt "@action:inmenu"
+msgid   "Thumbnail Details"
+msgstr  "Detalls de les miniatures"
+
+msgctxt "@action:inmenu Navigation Bar"
+msgid   "Edit Location"
+msgstr  "Edita la ubicació"
+
+msgctxt "@action:inmenu Navigation Bar"
+msgid   "Replace Location"
+msgstr  "Substituïx la ubicació"
+
+msgctxt "@action:inmenu Sort"
+msgid   "Descending"
+msgstr  "Descendent"
+
+msgctxt "@action:inmenu Start a slideshow Dolphin context menu"
+msgid   "Start a Slideshow"
+msgstr  "Inicia un passe de diapositives"
+
+msgctxt "@action:inmenu Start a slideshow Dolphin context menu"
+msgid   "Start a Slideshow with selected images"
+msgstr  "Inicia un passe de diapositives amb les imàgens seleccionades"
+
+msgctxt "@action:inmenu a spacer that aligns toolbar buttons with the sidebar"
+msgid   "Sidebar Alignment Spacer"
+msgstr  "Espayador d'alineació de la barra lateral"
+
+msgctxt "@action:intoolbar Switch to file list"
+msgid   "Browse"
+msgstr  "Navega"
+
+msgctxt "@action:intoolbar Switch to image view"
+msgid   "View"
+msgstr  "Visualisa"
+
+msgctxt "@addAction:inmenu"
+msgid   "Date"
+msgstr  "Data"
+
+msgctxt "@addAction:inmenu"
+msgid   "Name"
+msgstr  "Nom"
+
+msgctxt "@addAction:inmenu"
+msgid   "Rating"
+msgstr  "Puntuació"
+
+msgctxt "@addAction:inmenu"
+msgid   "Size"
+msgstr  "Mida"
+
+msgctxt "@info"
+msgid   "<emphasis strong='true'>Saving <filename>%1</filename> failed:</"
+        "emphasis><nl />%2"
+msgstr  "<emphasis strong='true'>No s'ha pogut guardar <filename>%1</"
+        "filename>:</emphasis><nl />%2"
+
+msgctxt "@info"
+msgid   "Could not open file %1"
+msgstr  "No s'ha pogut obrir el fitxer %1"
+
+msgctxt "@info"
+msgid   "Could not open file for writing, check that you have the necessary "
+        "rights in <filename>%1</filename>."
+msgstr  "No s'ha pogut obrir el fitxer per a escritura, comproveu que teniu "
+        "els permisos necessaris per a <filename>%1</filename>."
+
+msgctxt "@info"
+msgid   "Could not open file for writing."
+msgstr  "No s'ha pogut obrir el fitxer per a escritura."
+
+msgctxt "@info"
+msgid   "Could not overwrite file, check that you have the necessary rights "
+        "to write in <filename>%1</filename>."
+msgstr  "No s'ha pogut sobreescriure el fitxer, comproveu que teniu els "
+        "permisos necessaris per a escriure a <filename>%1</filename>."
+
+msgctxt "@info"
+msgid   "Gwenview cannot display documents of type %1."
+msgstr  "Gwenview no pot visualisar documents del tipus %1."
+
+msgctxt "@info"
+msgid   "Gwenview cannot edit this kind of image."
+msgstr  "Gwenview no pot editar esta classe d'imàgens."
+
+msgctxt "@info"
+msgid   "Gwenview cannot save images as %1."
+msgstr  "Gwenview no pot guardar imàgens com a %1."
+
+msgctxt "@info"
+msgid   "Gwenview cannot save this kind of documents."
+msgstr  "Gwenview no pot guardar esta classe de documents."
+
+msgctxt "@info"
+msgid   "Loading image failed."
+msgstr  "No s'ha pogut carregar la image."
+
+msgctxt "@info"
+msgid   "Loading meta information failed."
+msgstr  "No s'ha pogut carregar la meta-informació."
+
+msgctxt "@info"
+msgid   "No data to store."
+msgstr  "No hi ha cap dada a almagasenar."
+
+msgctxt "@info"
+msgid   "One document could not be saved:"
+msgid_plural    "%1 documents could not be saved:"
+msgstr[0]       "No s'ha pogut guardar un document:"
+msgstr[1]       "No s'han pogut guardar %1 documents:"
+
+msgctxt "@info"
+msgid   "This image has been modified. Reloading it will discard all your "
+        "changes."
+msgstr  "Esta image s'ha modificat. Tornant-la a carregar es descartaran els "
+        "canvis."
+
+msgctxt "@info %1 is the name of the document which failed to save, %2 is the "
+        "reason for the failure"
+msgid   "<filename>%1</filename>: %2"
+msgstr  "<filename>%1</filename>: %2"
+
+msgctxt "@info above install button when Kamera is not installed"
+msgid   "Support for your camera is not installed."
+msgstr  "El soport per a la vostra càmara no està instalat."
+
+msgctxt "@info above install button, %1 protocol name"
+msgid   "The protocol support library for \"%1\" is not installed."
+msgstr  "La biblioteca de soport del protocol per a «%1» no està instalada."
+
+msgctxt "@info this text will be used as a search term in an online search "
+        "engine, %1 protocol name"
+msgid   "How to install protocol support for \"%1\" on Linux"
+msgstr  "Com instalar la implementació del protocol per a «%1» a Linux"
+
+msgctxt "@info when failing to launch plasma-discover, %1 protocol name"
+msgid   "Opening Discover failed.<nl/>Please check if Discover is installed "
+        "on your system, or use your system's package manager to install the "
+        "protocol support library for \"%1\"."
+msgstr  "No s'ha pogut obrir Discover.<nl/>Comproveu si Discover està "
+        "instalat al vostre sistema o utiliseu el gestor de paquets del "
+        "vostre sistema per a instalar la biblioteca d'implementació del "
+        "protocol per a «%1»."
+
+msgctxt "@info when failing to open the appstream URL"
+msgid   "Opening Discover failed.<nl/>Please check if Discover is installed "
+        "on your system, or use your system's package manager to install "
+        "\"Kamera\" package."
+msgstr  "No s'ha pogut obrir Discover.<nl/>Comproveu si Discover està "
+        "instalat al vostre sistema o utiliseu el gestor de paquets del "
+        "vostre sistema per a instalar el paquet «kamera»."
+
+msgctxt "@info:progress saving all image changes"
+msgid   "Saving..."
+msgstr  "S'està desant..."
+
+msgctxt "@info:status %1 current document index, %2 total documents"
+msgid   "%1 of %2"
+msgstr  "%1 de %2"
+
+msgctxt "@info:status %1 number of selected documents, %2 total number of "
+        "documents, %3 total filesize of selected documents"
+msgid   "Selected %1 of %2 (%3)"
+msgstr  "S'han seleccionat %1 de %2 (%3)"
+
+msgctxt "@info:status Image files"
+msgid   "%1 image"
+msgid_plural    "%1 images"
+msgstr[0]       "%1 image"
+msgstr[1]       "%1 imàgens"
+
+msgctxt "@info:status Video files"
+msgid   "%1 video"
+msgid_plural    "%1 videos"
+msgstr[0]       "%1 vídeo"
+msgstr[1]       "%1 vídeos"
+
+msgctxt "@info:status images, videos"
+msgid   "%1, %2"
+msgstr  "%1, %2"
+
+msgctxt "@info:tooltip"
+msgid   "Assign this tag to all selected images"
+msgstr  "Assigna esta etiqueta a totes les imàgens seleccionades"
+
+msgctxt "@info:tooltip"
+msgid   "Browse folders for images"
+msgstr  "Navega per les carpetes buscant imàgens"
+
+msgctxt "@info:tooltip"
+msgid   "Close"
+msgstr  "Tanca"
+
+msgctxt "@info:tooltip"
+msgid   "Configure full screen mode"
+msgstr  "Configuració del modo de pantalla completa"
+
+msgctxt "@info:tooltip"
+msgid   "Fit image into the viewing area"
+msgstr  "Ajusta la image a l'àrea de visualisació"
+
+msgctxt "@info:tooltip"
+msgid   "Go to first image"
+msgstr  "Va a la primera image"
+
+msgctxt "@info:tooltip"
+msgid   "Go to last image"
+msgstr  "Va a l'última image"
+
+msgctxt "@info:tooltip"
+msgid   "Go to next image"
+msgstr  "Va a la image següent"
+
+msgctxt "@info:tooltip"
+msgid   "Go to previous image"
+msgstr  "Va a la image anterior"
+
+msgctxt "@info:tooltip"
+msgid   "Hide sidebar"
+msgstr  "Oculta la barra lateral"
+
+msgctxt "@info:tooltip"
+msgid   "Open the start page"
+msgstr  "Obri la pàgina d'inici"
+
+msgctxt "@info:tooltip"
+msgid   "Rotate image to the left"
+msgstr  "Gira la image a l'esquerra"
+
+msgctxt "@info:tooltip"
+msgid   "Rotate image to the right"
+msgstr  "Gira la image a la dreta"
+
+msgctxt "@info:tooltip"
+msgid   "Save all modified images"
+msgstr  "Guarda totes les imàgens modificades"
+
+msgctxt "@info:tooltip"
+msgid   "Show sidebar"
+msgstr  "Mostra la barra lateral"
+
+msgctxt "@info:tooltip"
+msgid   "Trash"
+msgstr  "Paperera"
+
+msgctxt "@info:tooltip"
+msgid   "View selected images"
+msgstr  "Visualisa les imàgens seleccionades"
+
+msgctxt "@info:tooltip for a button, %1 protocol name"
+msgid   "Launch Discover to install the protocol support library for \"%1\""
+msgstr  "Llanceu Discover per a instalar la biblioteca de soport del protocol "
+        "per a «%1»"
+
+msgctxt "@info:tooltip of custom toolbar button"
+msgid   "%1"
+msgstr  "%1"
+
+msgctxt "@info:usagetip above install button"
+msgid   "After finishing the installation process, restart this Importer to "
+        "continue."
+msgstr  "Després d'acabar el procés d'instalació, reinicieu est importador "
+        "per a continuar."
+
+msgctxt "@info:whatsthis"
+msgid   "<para>This toggles a small bar showing all the other images in the "
+        "current folder. Selecting one of them changes the currently viewed "
+        "image.</para><para>Select multiple images at the same time to see "
+        "them side by side.</para><para>The bar can optionally be moved to "
+        "the right side of the screen and contain multiple rows of images; "
+        "<link url='%1'>configure these options in the settings</link>.</para>"
+msgstr  "<para>Canvia una xicoteta barra que mostra totes les atres imàgens "
+        "de la carpeta actual. Seleccionant una d'elles canvia la image "
+        "visualisada actualment.</para><para>Seleccioneu diverses imàgens al "
+        "mateix temps per vore-les una al costat de l'atra.</para><para>La "
+        "barra es pot moure de manera opcional a la part dreta de la pantalla "
+        "i contindre diverses files d'imàgens; <link url='%1'>configureu "
+        "estes opcions a la configuració</link>.</para>"
+
+msgctxt "@info:whatsthis for a button when Kamera is not installed"
+msgid   "You need Kamera installed on your system to read from the camera. "
+        "Click here to launch Discover to install Kamera to enable protocol "
+        "support for \"camera:/\" on your system."
+msgstr  "Necessiteu instalar Kamera al vostre sistema per a llegir des de la "
+        "càmara. Feu clic ací per a iniciar Discover i instalar Kamera per a "
+        "habilitar la implementació del protocol per a «camera:/» al vostre "
+        "sistema."
+
+msgctxt "@info:whatsthis for a button, %1 protocol name"
+msgid   "Click here to launch Discover to install the missing protocol "
+        "support library to enable the protocol support for \"%1:/\" on your "
+        "system."
+msgstr  "Feu clic ací per a iniciar Discover per a instalar la biblioteca de "
+        "soport del protocol que falta per a habilitar la implementació del "
+        "protocol per a «%1:/» al vostre sistema."
+
+msgctxt "@info:whatsthis, %1 the action's text"
+msgid   "<para>This fits the image into the available viewing area:"
+        "<list><item>Images that are bigger than the viewing area are "
+        "displayed at a smaller size so they fit.</item><item>Images that are "
+        "smaller than the viewing area are displayed at their normal size. If "
+        "smaller images should instead use all of the available viewing area, "
+        "turn on <emphasis>Enlarge smaller images</emphasis> <link "
+        "url='%2'>in the settings</link>.</item></list></para><para>If \"%1\" "
+        "is already enabled, pressing it again will switch it off and the "
+        "image will be displayed at its normal size instead.</"
+        "para><para>\"%1\" is the default zoom mode for images. This can be "
+        "changed so images are displayed at a previous zoom value instead "
+        "<link url='%2'>in the settings</link>.</para>"
+msgstr  "<para>Açò ajusta la image a l'àrea de visualisació disponible:"
+        "<list><item>Les imàgens que són més grans que l'àrea de visualisació "
+        "es mostren a una mida més xicoteta perquè s'ajusten.</item><item>Les "
+        "imàgens que són més xicotetes que l'àrea de visualisació es mostren "
+        "a la seua mida normal. Si les imàgens més xicotetes haurien "
+        "d'utilisar tota l'àrea de visualisació disponible, activeu "
+        "<emphasis>Augmenta les imàgens xicotetes</emphasis> <link url='%2'> "
+        "a la configuració</link>.</item></list></para><para>Si ya està "
+        "activat «%1», prement-lo de nou es desactivarà i la image es "
+        "mostrarà en la seua mida normal.</para><para>«%1» és el modo de zoom "
+        "predeterminat per a les imàgens. Açò es pot canviar de manera que "
+        "les imàgens es mostren amb el valor d'ampliació anterior <link "
+        "url='%2'>a la configuració</link>.</para>"
+
+msgctxt "@item:inmenu"
+msgid   "Background Color Mode"
+msgstr  "Modo del color de fons"
+
+msgctxt "@item:inmenu toggle loop in slideshow"
+msgid   "Loop"
+msgstr  "Repetició"
+
+msgctxt "@item:inmenu toggle random order in slideshow"
+msgid   "Random"
+msgstr  "Aleatori"
+
+msgctxt "@item:intable"
+msgid   "Comment"
+msgstr  "Comentari"
+
+msgctxt "@item:intable"
+msgid   "File Size"
+msgstr  "Mida del fitxer"
+
+msgctxt "@item:intable"
+msgid   "File Time"
+msgstr  "Hora del fitxer"
+
+msgctxt "@item:intable"
+msgid   "Image Size"
+msgstr  "Mida de la image"
+
+msgctxt "@item:intable %1 is image width, %2 is image height"
+msgid   "%1x%2"
+msgstr  "%1x%2"
+
+msgctxt "@item:intable %1 is number of millions of pixels in image"
+msgid   "(%1MP)"
+msgstr  "(%1MP)"
+
+msgctxt "@item:intable Image file name"
+msgid   "Name"
+msgstr  "Nom"
+
+msgctxt "@item:intext %1 is a key, we append a colon to it. A value is "
+        "displayed after"
+msgid   "%1:"
+msgstr  "%1:"
+
+msgctxt "@item:intext fullscreen meta info separator"
+msgid   ", "
+msgstr  ", "
+
+msgctxt "@label"
+msgid   "%1 file selected"
+msgid_plural    "%1 files selected"
+msgstr[0]       "S'ha seleccionat %1 fitxer"
+msgstr[1]       "S'han seleccionat %1 fitxers"
+
+msgctxt "@label"
+msgid   "%1 folder selected"
+msgid_plural    "%1 folders selected"
+msgstr[0]       "S'ha seleccionat %1 carpeta"
+msgstr[1]       "S'han seleccionat %1 carpetes"
+
+msgctxt "@label. The two parameters are strings like '2 folders' and '1 file'."
+msgid   "%1 and %2 selected"
+msgstr  "S'han seleccionat %1 i %2"
+
+msgctxt "@label:listbox"
+msgid   "Aspect ratio:"
+msgstr  "Relació d'aspecte:"
+
+msgctxt "@label:spinbox"
+msgid   "Position:"
+msgstr  "Posició:"
+
+msgctxt "@label:spinbox"
+msgid   "Size:"
+msgstr  "Mida:"
+
+msgctxt "@option:Perceptual rendering intent"
+msgid   "Perceptual"
+msgstr  "Perceptiu"
+
+msgctxt "@option:Relative Colorimetric rendering intent"
+msgid   "Relative Colorimetric"
+msgstr  "Colorimetria relativa"
+
+msgctxt "@option:check"
+msgid   "Advanced settings"
+msgstr  "Configuració avançada"
+
+msgctxt "@option:check"
+msgid   "Preserve aspect ratio"
+msgstr  "Mantin la relació d'aspecte"
+
+msgctxt "@option:radio action on mouse wheel"
+msgid   "Browse"
+msgstr  "Navega"
+
+msgctxt "@option:radio action on mouse wheel"
+msgid   "Scroll"
+msgstr  "Desplaçament"
+
+msgctxt "@option:radio action on mouse wheel"
+msgid   "Zoom"
+msgstr  "Zoom"
+
+msgctxt "@title actions category"
+msgid   "Edit"
+msgstr  "Edita"
+
+msgctxt "@title actions category"
+msgid   "File"
+msgstr  "Fitxer"
+
+msgctxt "@title actions category - means actions changing image"
+msgid   "Edit"
+msgstr  "Edita"
+
+msgctxt "@title actions category - means actions changing smth in interface"
+msgid   "Edit"
+msgstr  "Edita"
+
+msgctxt "@title actions category - means actions changing smth in interface"
+msgid   "View"
+msgstr  "Visualisa"
+
+msgctxt "@title:column"
+msgid   "Property"
+msgstr  "Propietat"
+
+msgctxt "@title:column"
+msgid   "Value"
+msgstr  "Valor"
+
+msgctxt "@title:group"
+msgid   "Image Information"
+msgstr  "Informació de la image"
+
+msgctxt "@title:group General info about the image"
+msgid   "General"
+msgstr  "General"
+
+msgctxt "@title:menu submenu for actions that open configuration dialogs"
+msgid   "Configure"
+msgstr  "Configura"
+
+msgctxt "@title:window"
+msgid   "Image Information"
+msgstr  "Informació de la image"
+
+msgctxt "@title:window"
+msgid   "Import Finished"
+msgstr  "Importació finalisada"
+
+msgctxt "@title:window"
+msgid   "Open Image"
+msgstr  "Obri una image"
+
+msgctxt "@title:window"
+msgid   "Rename"
+msgstr  "Canvi de nom"
+
+msgctxt "@title:window"
+msgid   "Save Image"
+msgstr  "Guarda la image"
+
+msgctxt "@title:window %1 file name"
+msgid   "Copy %1"
+msgstr  "Copia %1"
+
+msgctxt "@title:window %1 file name"
+msgid   "Link %1"
+msgstr  "Enllaça %1"
+
+msgctxt "@title:window %1 file name"
+msgid   "Move %1"
+msgstr  "Mou %1"
+
+msgctxt "@title:window %1 number of images"
+msgid   "Copy %1 image"
+msgid_plural    "Copy %1 images"
+msgstr[0]       "Copia %1 image"
+msgstr[1]       "Copia %1 imàgens"
+
+msgctxt "@title:window %1 number of images"
+msgid   "Link %1 image"
+msgid_plural    "Link %1 images"
+msgstr[0]       "Enllaça %1 image"
+msgstr[1]       "Enllaça %1 imàgens"
+
+msgctxt "@title:window %1 number of images"
+msgid   "Move %1 image"
+msgid_plural    "Move %1 images"
+msgstr[0]       "Mou %1 image"
+msgstr[1]       "Mou %1 imàgens"
+
+msgid   "A list of filename extensions Gwenview should not try to\n"
+        "            load. We exclude *.new as well because this is the "
+        "extension\n"
+        "            used for temporary files by KSaveFile."
+msgstr  "Una llista de les extensions dels noms de fitxer que Gwenview\n"
+        "            no hauria d'intentar carregar. S'exclou *.new perquè "
+        "esta\n"
+        "            és l'extensió emprada pels fitxers temporals del "
+        "KSaveFile."
+
+msgid   "A starting file or folders"
+msgstr  "Un fitxer o carpeta inicial"
+
+msgid   "Add Filter"
+msgstr  "Afig un filtre"
+
+msgid   "Add tag"
+msgstr  "Afig una etiqueta"
+
+msgid   "Advanced"
+msgstr  "Avançat"
+
+msgid   "All buttons"
+msgstr  "Tots els botons"
+
+msgid   "Always"
+msgstr  "Sempre"
+
+msgid   "An Image Viewer"
+msgstr  "Un visor d'imàgens"
+
+msgid   "Animations:"
+msgstr  "Animacions:"
+
+msgid   "Apply only the profile embedded in the image file"
+msgstr  "Aplica només el perfil incrustat al fitxer de la image"
+
+msgid   "Assume that system-wide color correction already applies monitor "
+        "profile."
+msgstr  "Assumix que la correcció de color global del sistema ya aplica el "
+        "perfil del monitor."
+
+msgid   "Autofit each image"
+msgstr  "Ajusta automàticament cada image"
+
+msgid   "Automatically play"
+msgstr  "Reproduïx automàticament"
+
+msgid   "Black"
+msgstr  "Negre"
+
+msgid   "Browsing by tags is not available. Make sure Nepomuk is properly "
+        "installed on your computer."
+msgstr  "No està disponible la navegació per les etiquetes. Comproveu que el "
+        "Nepomuk estiga instalat correctament a l'ordinador."
+
+msgid   "Cancel"
+msgstr  "Cancela"
+
+msgid   "Centimeters"
+msgstr  "Centímetros"
+
+msgid   "Click on a red eye and choose a size, or double-click to correct "
+        "instantly."
+msgstr  "Feu clic sobre un ull roig i trieu una mida o feu doble clic per a "
+        "corregir-ho a l'instant."
+
+msgid   "Color profile:"
+msgstr  "Perfil de color:"
+
+msgid   "Configure"
+msgstr  "Configura"
+
+msgid   "Copy Here"
+msgstr  "Copia ací"
+
+msgid   "Copyright 2000-2022 Gwenview authors"
+msgstr  "Copyright 2000-2022 Gwenview authors"
+
+msgid   "Could not create destination folder."
+msgstr  "No s'ha pogut crear la carpeta de destinació."
+
+msgid   "Could not create temporary upload folder."
+msgstr  "No s'ha pogut crear la carpeta temporal de pujada."
+
+msgid   "Could not load document %1"
+msgstr  "No s'ha pogut carregar el document %1"
+
+msgid   "Create Folder..."
+msgstr  "Crea una carpeta..."
+
+msgid   "Crop"
+msgstr  "Escapça"
+
+msgid   "Current Image"
+msgstr  "Image actual"
+
+msgid   "Current Maintainer"
+msgstr  "Mantenidor actual"
+
+msgid   "Current image modified"
+msgstr  "S'ha modificat la image actual"
+
+msgid   "Current size:"
+msgstr  "Mida actual:"
+
+msgid   "Dark gray texture"
+msgstr  "Textura de gris fosc"
+
+msgid   "Date <="
+msgstr  "Data <="
+
+msgid   "Date ="
+msgstr  "Data ="
+
+msgid   "Date >="
+msgstr  "Data >="
+
+msgid   "Defines how colors are rendered when your display\n"
+        "            uses an ICC color profile and an image has colors that "
+        "do not\n"
+        "            fit within the profile's color gamut. \"Perceptual\" "
+        "will scale\n"
+        "            the colors of the entire image so that they all fit "
+        "within the\n"
+        "            display's capabilities. \"Relative\" will squash only "
+        "the colors\n"
+        "            that cannot be displayed, and leave the other colors "
+        "alone."
+msgstr  "Definix com es representen els colors quan la vostra pantalla\n"
+        "            utilisa un perfil de color ICC i una image té colors  "
+        "que no\n"
+        "            encaixen amb la gamma de colors del perfil. «Perceptiu» "
+        "escalarà\n"
+        "            els colors de la image sencera de manera que s'ajusten "
+        "amb les\n"
+        "            característiques de la pantalla. «Relatiu» només reduirà "
+        "els colors\n"
+        "            que no es poden visualisar, i deixarà iguals els atres "
+        "colors."
+
+msgid   "Defines what happens when going to image B after\n"
+        "            having zoomed in on an area of image A.  If set to "
+        "Autofit,\n"
+        "            image B is zoomed out to fit the screen.  If set to "
+        "KeepSame,\n"
+        "            all images share the same zoom and position: image B is "
+        "set\n"
+        "            to the same zoom parameters as image A (and if these "
+        "are\n"
+        "            changed, image A will then be displayed with the updated "
+        "zoom\n"
+        "            and position).  If set to Individual, all images "
+        "remember\n"
+        "            their own zoom and position: image B is initially set to "
+        "the\n"
+        "            same zoom parameters as image A, but will then remember "
+        "its\n"
+        "            own zoom and position (if these are changed, image A "
+        "will NOT\n"
+        "            be displayed with the updated zoom and position)."
+msgstr  "Definix el que passa quan es va a la image B\n"
+        "            després d'haver acostat el zoom a una àrea de la image "
+        "A.\n"
+        "            Si s'establix a «Ajusta automàticament», la image B "
+        "estarà\n"
+        "            allunyada per a ajustar-se a la pantalla. Si s'establix "
+        "a\n"
+        "            «Mantin el mateix», totes les imàgens tindran el mateix "
+        "zoom\n"
+        "            i posició: la image B s'establirà en els mateixos "
+        "paràmetres\n"
+        "            de zoom com la image A (i si es canvien, la image A es\n"
+        "            mostrarà amb el zoom i posició actualisats). Si "
+        "s'establix\n"
+        "            a «Individual», totes les imàgens recordaran el seu "
+        "propi\n"
+        "            zoom i posició: la image B s'establirà inicialment als\n"
+        "            mateixos paràmetres de zoom com la image A, pero a\n"
+        "            continuació, recordarà el seu propi zoom i posició (si "
+        "es\n"
+        "            canvien, la image A no serà mostrada amb el zoom i "
+        "posició\n"
+        "            actualisats)."
+
+msgid   "Delete the imported document from the device?"
+msgid_plural    "Delete the %1 imported documents from the device?"
+msgstr[0]       "Voleu suprimir el document importat del dispositiu?"
+msgstr[1]       "Voleu suprimir els %1 documents importats del dispositiu?"
+
+msgid   "Delete the skipped document from the device?"
+msgid_plural    "Delete the %1 skipped documents from the device?"
+msgstr[0]       "Voleu suprimir el document omés del dispositiu?"
+msgstr[1]       "Voleu suprimir els %1 documents omesos del dispositiu?"
+
+msgid   "Description"
+msgstr  "Descripció"
+
+msgid   "Developer"
+msgstr  "Desenvolupador"
+
+msgid   "Device UDI"
+msgstr  "UDI del dispositiu"
+
+msgctxt "Dimension separator, as in: '15 x 10 centimeters'"
+msgid   "x"
+msgstr  "x"
+
+msgid   "Discard Changes"
+msgstr  "Descarta els canvis"
+
+msgid   "Display slide show images in random order"
+msgstr  "Visualisa les imàgens del passe de diapositives en ordre aleatori"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "marcoll@ya.com,txemaq@gmail.com"
+
+msgid   "Edit"
+msgstr  "Edita"
+
+msgid   "Enable this option if you do not have a lot of disk space. This will "
+        "avoid storing thumbnails on disk and will prefer embedded thumbnails "
+        "of lower quality that are faster to load, if available."
+msgstr  "Activeu esta opció si no teniu molt espai de disc. Açò evitarà "
+        "l'almagasenada de miniatures al disc i es preferiran les miniatures "
+        "incrustades de qualitat més baixa que són més ràpides en carregar, "
+        "si estan disponibles."
+
+msgid   "Enlarge smaller images"
+msgstr  "Augmenta les imàgens xicotetes"
+
+msgid   "Enter the import destination"
+msgstr  "Introduïu la destinació de la importació"
+
+msgid   "Error while sharing: %1"
+msgstr  "S'ha produït un error en compartir: %1"
+
+msgid   "Failed to create %1 destination subfolder."
+msgid_plural    "Failed to create %1 destination subfolders."
+msgstr[0]       "No s'ha pogut crear %1 subcarpeta de destinació."
+msgstr[1]       "No s'ha pogut crear %1 subcarpetes de destinació."
+
+msgid   "Failed to create subfolders:"
+msgstr  "No s'han pogut crear les subcarpetes:"
+
+msgid   "Failed to delete the document:\n"
+        "%2"
+msgid_plural    "Failed to delete documents:\n"
+        "%2"
+msgstr[0]       "No s'ha pogut suprimir el document:\n"
+        "%2"
+msgstr[1]       "No s'han pogut suprimir els documents:\n"
+        "%2"
+
+msgid   "Failed to import %1 document."
+msgid_plural    "Failed to import %1 documents."
+msgstr[0]       "No s'ha pogut importar %1 document."
+msgstr[1]       "No s'ha pogut importar %1 documents."
+
+msgid   "Failed to import documents:"
+msgstr  "No s'han pogut importar els documents:"
+
+msgid   "File Operations"
+msgstr  "Operacions amb fitxers"
+
+msgid   "Flip"
+msgstr  "Inverteix"
+
+msgid   "Folders"
+msgstr  "Carpetes"
+
+msgid   "Fullscreen background:"
+msgstr  "Fons a la pantalla completa:"
+
+msgid   "General"
+msgstr  "General"
+
+msgid   "Go Back to the Document List"
+msgstr  "Torna a la llista de documents"
+
+msgid   "Go back to the original"
+msgstr  "Torna a l'original"
+
+msgid   "Go to first modified image"
+msgstr  "Ves a la primera image modificada"
+
+msgid   "Go to it"
+msgstr  "Ves-hi"
+
+msgid   "Go to the First Document"
+msgstr  "Ves al primer document"
+
+msgid   "Go to the Last Document"
+msgstr  "Ves al últim document"
+
+msgid   "Gwenview"
+msgstr  "Gwenview"
+
+msgid   "Gwenview Importer"
+msgstr  "Importador de Gwenview"
+
+msgid   "Gwenview cannot save images in '%1' format."
+msgstr  "Gwenview no pot guardar imàgens en el format «%1»."
+
+msgid   "Gwenview does not know how to display this kind of document"
+msgstr  "Gwenview no sap com visualisar esta classe de document"
+
+msgid   "Height"
+msgstr  "Alçària"
+
+msgid   "Height:"
+msgstr  "Alçària:"
+
+msgid   "Hide menu bar"
+msgstr  "Oculta la barra de menús"
+
+msgid   "History has been disabled."
+msgstr  "S'ha desactivat l'historial."
+
+msgid   "History:"
+msgstr  "Historial:"
+
+msgid   "Horizontal"
+msgstr  "Horisontal"
+
+msgid   "ISO (A4, A3...)"
+msgstr  "ISO (A4, A3...)"
+
+msgid   "If you quit now, your changes will be lost."
+msgstr  "Si eixiu ara, els canvis es perdran."
+
+msgid   "Ignore"
+msgstr  "Ignora"
+
+msgid   "Image Information"
+msgstr  "Informació de la image"
+
+msgid   "Image Operations"
+msgstr  "Operacions de la image"
+
+msgid   "Image Position"
+msgstr  "Posició de la image"
+
+msgid   "Image Settings"
+msgstr  "Paràmetres de la image"
+
+msgid   "Image View"
+msgstr  "Vista de les imàgens"
+
+msgid   "Image quality:"
+msgstr  "Qualitat de la image:"
+
+msgid   "Import All"
+msgstr  "Importa-ho tot"
+
+msgid   "Import Selected"
+msgstr  "Importa els seleccionats"
+
+msgid   "Import more Documents"
+msgstr  "Importa més documents"
+
+msgid   "Importing documents..."
+msgstr  "S'estan important els documents..."
+
+msgid   "Inches"
+msgstr  "Polzades"
+
+msgid   "Index representing selected ratio in the Advanced settings combobox"
+msgstr  "Índex que representa la relació seleccionada al quadro combinat de "
+        "la configuració avançada"
+
+msgid   "Information"
+msgstr  "Informació"
+
+msgid   "Interval between images (in seconds)"
+msgstr  "Interval entre les imàgens (en segons)"
+
+msgid   "Interval:"
+msgstr  "Interval:"
+
+msgid   "Invalid source folder."
+msgstr  "Carpeta d'origen no vàlida."
+
+msgid   "Keep"
+msgstr  "Mantin"
+
+msgid   "Keep aspect ratio"
+msgstr  "Mantin la relació d'aspecte"
+
+msgid   "Keep ratio"
+msgstr  "Mantin les proporcions"
+
+msgid   "Keep same zoom and position"
+msgstr  "Mantin el mateix zoom i posició"
+
+msgid   "Landscape"
+msgstr  "Apaïsat"
+
+msgid   "Last used crop ratio height when Advanced Settings enabled"
+msgstr  "Última alçària utilisada de la relació d'escapçat quan la "
+        "configuració avançada estava activa"
+
+msgid   "Last used crop ratio width when Advanced Settings enabled"
+msgstr  "Última amplària utilisada de la relació d'escapçat quan la "
+        "configuració avançada estava activa"
+
+msgid   "Last visited: %1"
+msgstr  "Última visita: %1"
+
+msgid   "Link Here"
+msgstr  "Enllaça ací"
+
+msgid   "Listing content of:"
+msgstr  "Llistant el contingut de:"
+
+msgid   "Loading <filename>%1</filename> failed"
+msgstr  "Ha fallat la càrrega de <filename>%1</filename>"
+
+msgid   "Loop"
+msgstr  "Repetició"
+
+msgid   "Loop on images"
+msgstr  "Repeteix les imàgens"
+
+msgid   "Lossy image save quality:"
+msgstr  "Qualitat d'estalvi de les imàgens amb pèrdua:"
+
+msgid   "Low resource usage mode"
+msgstr  "Modo d'ús baix de recursos"
+
+msgid   "Main Toolbar"
+msgstr  "Barra d'eines principal"
+
+msgid   "Millimeters"
+msgstr  "Milímetros"
+
+msgid   "Mirror"
+msgstr  "Espill"
+
+msgid   "Missing required source folder argument."
+msgstr  "Falta l'argument requerit de la carpeta d'origen."
+
+msgid   "Mouse wheel behavior:"
+msgstr  "Comportament de la roda del ratolí:"
+
+msgid   "Move Here"
+msgstr  "Mou ací"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Marc Coll Carrillo,Josep M. Ferrer"
+
+msgid   "Name contains"
+msgstr  "El nom conté"
+
+msgid   "Name does not contain"
+msgstr  "El nom no conté"
+
+msgid   "Never"
+msgstr  "Mai"
+
+msgid   "New size:"
+msgstr  "Mida nova:"
+
+msgid   "Next"
+msgstr  "Següent"
+
+msgid   "Next modified image"
+msgstr  "S'ha modificat la image posterior"
+
+msgid   "No document selected"
+msgstr  "Cap document seleccionat"
+
+msgid   "None"
+msgstr  "Cap"
+
+msgid   "Not Tagged"
+msgstr  "Sense etiqueta"
+
+msgid   "Notify after reaching the last image:"
+msgstr  "Informa després d'obtindre l'última image:"
+
+msgid   "One document has been imported."
+msgid_plural    "%1 documents have been imported."
+msgstr[0]       "S'ha importat un document."
+msgstr[1]       "S'han importat %1 documents."
+
+msgid   "One document has been skipped because it had already been imported."
+msgid_plural    "%1 documents have been skipped because they had already been "
+        "imported."
+msgstr[0]       "S'ha omés un document perquè ya ha estat importat."
+msgstr[1]       "S'han omés %1 documents perquè ya han estat importats."
+
+msgid   "One image has been modified."
+msgid_plural    "%1 images have been modified."
+msgstr[0]       "S'ha modificat una image."
+msgstr[1]       "S'han modificat %1 imàgens."
+
+msgid   "One image modified"
+msgid_plural    "%1 images modified"
+msgstr[0]       "S'ha modificat una image"
+msgstr[1]       "S'han modificat %1 imàgens"
+
+msgid   "One of them has been renamed because another document with the same "
+        "name had already been imported."
+msgid_plural    "%1 of them have been renamed because other documents with "
+        "the same name had already been imported."
+msgstr[0]       "Se n'ha canviat el nom un perquè ya s'havia importat un atre "
+        "document amb el mateix nom."
+msgstr[1]       "Se n'han canviat el nom %1 perquè ya s'havien importat atres "
+        "documents amb el mateix nom."
+
+msgid   "Only during slideshows"
+msgstr  "Només durant els passes de diapositives"
+
+msgid   "Open Containing Folder"
+msgstr  "Obri la carpeta contenidora"
+
+msgid   "Open With"
+msgstr  "Obri amb"
+
+msgid   "OpenGL"
+msgstr  "OpenGL"
+
+msgid   "Operations"
+msgstr  "Operacions"
+
+msgid   "Orientation:"
+msgstr  "Orientació:"
+
+msgid   "Original extension"
+msgstr  "Extensió original"
+
+msgid   "Original extension, in lower case"
+msgstr  "Extensió original, en minúscules"
+
+msgid   "Original filename"
+msgstr  "Nom del fitxer original"
+
+msgid   "Original filename, in lower case"
+msgstr  "Nom del fitxer original, en minúscules"
+
+msgid   "Other Application..."
+msgstr  "Atres aplicacions..."
+
+msgid   "Pause Slideshow"
+msgstr  "Fes pausa en el passe de diapositives"
+
+msgid   "Per image zoom and position"
+msgstr  "Zoom i posició per a cada image"
+
+msgid   "Photo Importer"
+msgstr  "Importador de fotografies"
+
+msgid   "Places"
+msgstr  "Llocs"
+
+msgid   "Portrait"
+msgstr  "Vertical"
+
+msgid   "Preview:"
+msgstr  "Vista prèvia:"
+
+msgid   "Previous"
+msgstr  "Anterior"
+
+msgid   "Previous modified image"
+msgstr  "S'ha modificat la image anterior"
+
+msgid   "Print Image"
+msgstr  "Imprimix la image"
+
+msgid   "Properties"
+msgstr  "Propietats"
+
+msgid   "Quit"
+msgstr  "Ix"
+
+msgid   "Random"
+msgstr  "Aleatori"
+
+msgid   "Rating <="
+msgstr  "Puntuació <="
+
+msgid   "Rating ="
+msgstr  "Puntuació ="
+
+msgid   "Rating >="
+msgstr  "Puntuació >="
+
+msgid   "Rating:"
+msgstr  "Puntuació:"
+
+msgid   "Recent Files"
+msgstr  "Fitxers recents"
+
+msgid   "Recent Folders"
+msgstr  "Carpetes recents"
+
+msgid   "Redo"
+msgstr  "Refés"
+
+msgid   "Reduce Red Eye"
+msgstr  "Reducció d'ulls rojos"
+
+msgid   "Remember folders and URLs"
+msgstr  "Recorda les carpetes i els URL"
+
+msgid   "Rename <filename>%1</filename> to:"
+msgstr  "Canvia el nom <filename>%1</filename> a:"
+
+msgid   "Rename Format:"
+msgstr  "Format per a canviar de nom:"
+
+msgid   "Rename documents automatically"
+msgstr  "Canvia el nom automàticament els documents"
+
+msgid   "Rendering intent:"
+msgstr  "Propòsit de la representació:"
+
+msgid   "Resize"
+msgstr  "Redimensiona"
+
+msgid   "Resize Image"
+msgstr  "Redimensiona la image"
+
+msgid   "Restore"
+msgstr  "Restaura"
+
+msgid   "Restrict crop to image ratio when Advanced Settings disabled"
+msgstr  "Restringeix l'escapçat a la relació de la image quan la configuració "
+        "avançada està desactivat"
+
+msgid   "Resume Slideshow"
+msgstr  "Reprén el passe de diapositives"
+
+msgid   "Retry"
+msgstr  "Torna a intentar-ho"
+
+msgid   "Rotate Left"
+msgstr  "Gira a l'esquerra"
+
+msgid   "Rotate Right"
+msgstr  "Gira a la dreta"
+
+msgid   "Row count:"
+msgstr  "Nombre de files:"
+
+msgid   "Save All"
+msgstr  "Guarda-ho tot"
+
+msgid   "Save All Changes"
+msgstr  "Guarda tots els canvis"
+
+msgid   "Save using another format"
+msgstr  "Guarda emprant un atre format"
+
+msgid   "Scale all colors equally to fit them within the active color "
+        "profile's color gamut"
+msgstr  "Escala igualment tots els colors per a ajustar-los amb la gamma de "
+        "colors del perfil de colors actiu"
+
+msgid   "Scaling"
+msgstr  "Escalat"
+
+msgid   "Select Image Information to Display..."
+msgstr  "Seleccioneu la informació a mostrar de la image..."
+
+msgid   "Select the documents to import"
+msgstr  "Seleccioneu els documents que s'importarà"
+
+msgid   "Settings..."
+msgstr  "Configuració..."
+
+msgid   "Shooting date"
+msgstr  "Data de la foto"
+
+msgid   "Shooting time"
+msgstr  "Hora de la foto"
+
+msgid   "Show Bird's Eye View When Zoomed In"
+msgstr  "Mostra la vista d'ocell en acostar"
+
+msgid   "Show Thumbnails"
+msgstr  "Mostra les miniatures"
+
+msgid   "Show failed files..."
+msgstr  "Mostra els fitxers que han fallat..."
+
+msgid   "Show failed subfolders..."
+msgstr  "Mostra les subcarpetes que han fallat..."
+
+msgid   "Show selection button only"
+msgstr  "Mostra només el botó de selecció"
+
+msgid   "Show slideshow in fullscreen mode"
+msgstr  "Mostra el passe de diapositives en el modo de pantalla completa"
+
+msgid   "Show thumbnails"
+msgstr  "Mostra les miniatures"
+
+msgid   "Show transparency with:"
+msgstr  "Mostra la transparència amb:"
+
+msgid   "Show videos"
+msgstr  "Mostra els vídeos"
+
+msgctxt "Singular sentence is actually never used."
+msgid   "Delete the imported or skipped document from the device?"
+msgid_plural    "Delete the %1 imported and skipped documents from the device?"
+msgstr[0]       "Voleu suprimir el document importat o omés del dispositiu?"
+msgstr[1]       "Voleu suprimir els %1 documents importats o omesos del "
+        "dispositiu?"
+
+msgid   "Size:"
+msgstr  "Mida:"
+
+msgid   "Slideshow"
+msgstr  "Passe de diapositives"
+
+msgctxt "Slideshow interval in seconds"
+msgid   "%1 sec"
+msgid_plural    "%1 secs"
+msgstr[0]       "%1 s"
+msgstr[1]       "%1 s"
+
+msgid   "Software"
+msgstr  "Programari"
+
+msgid   "Source folder"
+msgstr  "Carpeta d'origen"
+
+msgctxt "Spinbox suffix; percentage 1 - 100"
+msgid   "%"
+msgstr  "%"
+
+msgid   "Square"
+msgstr  "Quadrat"
+
+msgid   "Squash colors that don't fit within the active color profile's color "
+        "gamut, leaving other colors untouched"
+msgstr  "Reduïx els colors que no s'ajusten a la gamma de colors del perfil "
+        "de colors actiu, sense modificar els atres colors"
+
+msgid   "Start Slideshow"
+msgstr  "Inicia el passe de diapositives"
+
+msgid   "Start in fullscreen mode"
+msgstr  "Inicia en el modo de pantalla completa"
+
+msgid   "Start in slideshow mode"
+msgstr  "Inicia en el modo de passe de diapositives"
+
+msgid   "Stay There"
+msgstr  "Canvia allí"
+
+msgid   "Stop at last image of folder"
+msgstr  "Para en l'última image de la carpeta"
+
+msgid   "Surrounding background"
+msgstr  "Fons circumdant"
+
+msgid   "Synchronize"
+msgstr  "Sincronisa"
+
+msgid   "Tag Editor"
+msgstr  "Editor d'etiquetes"
+
+msgid   "Tagged"
+msgstr  "Amb etiqueta"
+
+msgid   "Tags"
+msgstr  "Etiquetes"
+
+msgid   "Tags:"
+msgstr  "Etiquetes:"
+
+msgid   "The device UDI, used to retrieve information about the device (name, "
+        "icon...)"
+msgstr  "L'UDI del dispositiu, utilisat per a recuperar informació quant al "
+        "dispositiu (nom, icona...)"
+
+msgid   "The percentage of memory used by Gwenview before it\n"
+        "            warns the user and suggest saving changes."
+msgstr  "El percentage de la memòria emprada per Gwenview abans\n"
+        "            que avise l'usuari i sugerixca guardar els canvis."
+
+msgid   "The quality level when saving images using lossy image formats such "
+        "as JPEG, WEBP, AVIF, HEIF, and HEIC. Higher quality increases the "
+        "file size."
+msgstr  "El nivell de qualitat en guardar les imàgens amb formats d'image amb "
+        "pèrdua com JPEG, WEBP, AVIF, HEIF i HEIC. Una qualitat més alta "
+        "augmentarà la mida del fitxer."
+
+msgid   "The shared image link (<a href=\"%1\">%1</a>) has been copied to the "
+        "clipboard."
+msgstr  "L'enllaç a la image compartida (<a href=\"%1\">%1</a>) s'ha copiat "
+        "al porta-retalls."
+
+msgid   "This Screen"
+msgstr  "Esta pantalla"
+
+msgid   "This will hide the menu bar completely. You can show it again by "
+        "typing %1."
+msgstr  "Ocultarà completament la barra de menús. La podeu tornar a mostrar "
+        "prement %1."
+
+msgid   "Thumbnail actions:"
+msgstr  "Accions de les miniatures:"
+
+msgid   "Thumbnails"
+msgstr  "Miniatures"
+
+msgid   "Thumbnails:"
+msgstr  "Miniatures:"
+
+msgid   "Too many arguments."
+msgstr  "Hi ha massa arguments."
+
+msgid   "US Letter"
+msgstr  "Carta US"
+
+msgid   "Undo"
+msgstr  "Desfés"
+
+msgctxt "Verb"
+msgid   "Copy To..."
+msgstr  "Copia a..."
+
+msgctxt "Verb"
+msgid   "Move To..."
+msgstr  "Mou a..."
+
+msgctxt "Verb"
+msgid   "Rename..."
+msgstr  "Canvia el nom..."
+
+msgctxt "Verb"
+msgid   "Trash"
+msgstr  "Paperera"
+
+msgctxt "Verb: create link to the file where user wants"
+msgid   "Link To..."
+msgstr  "Enllaça a..."
+
+msgid   "Vertical"
+msgstr  "Vertical"
+
+msgid   "Videos:"
+msgstr  "Vídeos:"
+
+msgid   "View Imported Documents with Gwenview"
+msgstr  "Vore els documents importats amb Gwenview"
+
+msgid   "What do you want to do now?"
+msgstr  "Què és el que voleu fer ara?"
+
+msgid   "Width"
+msgstr  "Amplària"
+
+msgid   "You are now viewing the new document."
+msgstr  "Ara esteu visualisant el document nou."
+
+msgid   "You have modified many images. To avoid memory problems, you should "
+        "save your changes."
+msgstr  "Heu modificat moltes imàgens. Per a evitar problemes de memòria, "
+        "hauríeu de guardar els canvis."
+
+msgid   "You reached the first document, what do you want to do?"
+msgstr  "Heu arribat al primer document. Què voleu fer?"
+
+msgid   "You reached the last document, what do you want to do?"
+msgstr  "Heu arribat al últim document. Què voleu fer?"
+
+msgid   "Zoom mode:"
+msgstr  "Modo de zoom:"
+
+msgid   "Zoom to Fit"
+msgstr  "Zoom fins que ajuste"
+
+msgid   "Zoom to fill window by fitting to width or height"
+msgstr  "Amplia fins a omplir la finestra, ajustant a amplària o alçària"
+
+msgid   "error"
+msgstr  "error"
+
+msgctxt "search engine URL, %1 search keyword, and translators can replace "
+        "duckduckgo with other search engines"
+msgid   "https://duckduckgo.com/?q=%1"
+msgstr  "https://duckduckgo.com/?q=%1"

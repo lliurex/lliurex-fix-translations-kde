@@ -1,0 +1,411 @@
+msgid   ""
+msgstr  "Project-Id-Version: kwalletmanager\n"
+        "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+        "PO-Revision-Date: 2022-05-09 16:26+0200\n"
+        "Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+        "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+        "Language: ca@valencia\n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+        "X-Generator: Lokalize 22.04.0\n"
+        "Plural-Forms: nplurals=2; plural=n != 1;\n"
+        "X-Accelerator-Marker: &\n"
+
+msgid   "&Close"
+msgstr  "&Tanca"
+
+msgid   "&Copy"
+msgstr  "&Copia"
+
+msgid   "&Delete"
+msgstr  "Sup&rimix"
+
+msgid   "&Delete Folder"
+msgstr  "Sup&rimix la carpeta"
+
+msgid   "&Delete Wallet..."
+msgstr  "Sup&rimix la cartera..."
+
+msgid   "&Export as XML..."
+msgstr  "&Exporta com a XML..."
+
+msgid   "&File"
+msgstr  "&Fitxer"
+
+msgid   "&Help"
+msgstr  "A&juda"
+
+msgid   "&Import XML..."
+msgstr  "&Importa XML..."
+
+msgid   "&Import a wallet..."
+msgstr  "&Importa una cartera..."
+
+msgid   "&Import encrypted"
+msgstr  "&Importa'n una d'encriptada"
+
+msgid   "&New Entry"
+msgstr  "Entrada &nova"
+
+msgid   "&New Folder..."
+msgstr  "Carpeta &nova..."
+
+msgid   "&New Wallet..."
+msgstr  "Cartera &nova..."
+
+msgid   "&New..."
+msgstr  "&Nova..."
+
+msgid   "&Open..."
+msgstr  "&Obri..."
+
+msgid   "&Rename"
+msgstr  "&Canvia el nom"
+
+msgid   "&Replace"
+msgstr  "&Substitueix"
+
+msgid   "&Save"
+msgstr  "Guar&da"
+
+msgid   "&Settings"
+msgstr  "Con&figuracions"
+
+msgid   "&Show values"
+msgstr  "Mo&stra els valors"
+
+msgid   "&Skip"
+msgstr  "&Omet"
+
+msgid   "&Undo"
+msgstr  "&Desfés"
+
+msgid   "A folder by the name '%1' already exists.  What would you like to do?"
+msgstr  "Ya existix una carpeta amb el nom «%1». Voleu continuar?"
+
+msgid   "A wallet is open."
+msgstr  "Hi ha una cartera oberta."
+
+msgid   "A wallet name"
+msgstr  "Un nom de cartera"
+
+msgid   "Always hide contents"
+msgstr  "Oculta sempre els continguts"
+
+msgid   "Always show contents"
+msgstr  "Mostra sempre els continguts"
+
+msgid   "An entry by the name '%1' already exists. Would you like to continue?"
+msgstr  "Ya existix una entrada amb el nom «%1». Voleu continuar?"
+
+msgid   "An unexpected error occurred trying to add the new entry"
+msgstr  "S'ha produït un error inesperat en intentar afegir l'entrada nova"
+
+msgid   "An unexpected error occurred trying to delete the entry"
+msgstr  "S'ha produït un error inesperat en intentar suprimir l'entrada"
+
+msgid   "An unexpected error occurred trying to delete the original folder, "
+        "but the folder has been copied successfully"
+msgstr  "S'ha produït un error inesperat en intentar suprimir la carpeta "
+        "original, encara que la carpeta s'ha copiat amb èxit"
+
+msgid   "An unexpected error occurred trying to drop the entry"
+msgstr  "S'ha produït un error inesperat en intentar deixar anar l'entrada"
+
+msgid   "An unexpected error occurred trying to drop the item"
+msgstr  "S'ha produït un error inesperat en intentar deixar anar l'element"
+
+msgid   "An unexpected error occurred trying to rename the entry"
+msgstr  "S'ha produït un error inesperat en intentar canviar de nom l'entrada"
+
+msgid   "Applications"
+msgstr  "Aplicacions"
+
+msgid   "Are you sure you wish to delete the folder '%1' from the wallet?"
+msgstr  "Segur que voleu suprimir la carpeta «%1» de la cartera?"
+
+msgid   "Are you sure you wish to delete the item '%1'?"
+msgstr  "Segur que voleu suprimir l'element «%1»?"
+
+msgid   "Are you sure you wish to delete the wallet '%1'?"
+msgstr  "Segur que voleu suprimir la cartera «%1»?"
+
+msgid   "Binary Data"
+msgstr  "Dades binàries"
+
+msgid   "Binary Data: %1"
+msgstr  "Dades binàries: %1"
+
+msgid   "Change &Password..."
+msgstr  "Can&via la contrasenya..."
+
+msgid   "Change Password..."
+msgstr  "Canvia la contrasenya..."
+
+msgid   "Close &All Wallets"
+msgstr  "&Tanca totes les carteres"
+
+msgid   "Configure &Wallet..."
+msgstr  "Configura les &carteres..."
+
+msgid   "Contents"
+msgstr  "Contingut"
+
+msgid   "Copyright ©2013–2017, KWallet Manager authors"
+msgstr  "Copyright © 2013–2017, els autors de KWallet Manager"
+
+msgid   "Create new wallet"
+msgstr  "Crea una cartera nova"
+
+msgid   "Delete Entry"
+msgstr  "Suprimix l'entrada"
+
+msgid   "Developer"
+msgstr  "Desenvolupador"
+
+msgid   "Developer and former maintainer"
+msgstr  "Desenvolupador i mantenidor anterior"
+
+msgid   "Disconnec&t"
+msgstr  "&Desconnecta"
+
+msgid   "Disconnect"
+msgstr  "Desconnecta"
+
+msgid   "Do Not Force"
+msgstr  "No el forces"
+
+msgid   "Do Not Try"
+msgstr  "No ho intentes"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid   "Your emails"
+msgstr  "montoro_mde@gva.es,aacid@kde.org,joanmaspons@gmail.com"
+
+msgid   "Empty name is not supported. Please select a new one."
+msgstr  "El nom buit no està admés. Seleccioneu-ne un de nou."
+
+msgid   "Error deleting folder."
+msgstr  "S'ha produït un error en suprimir la carpeta."
+
+msgid   "Error opening wallet %1."
+msgstr  "S'ha produït un error en obrir la cartera %1."
+
+msgid   "Error reading XML file '<b>%1</b>' for input."
+msgstr  "S'ha produït un error en llegir el fitxer XML «<b>%1</b>»."
+
+msgid   "Error saving entry. Error code: %1"
+msgstr  "S'ha produït un error en guardar l'entrada. Codi d'error: %1"
+
+msgid   "Error: XML file does not contain a wallet."
+msgstr  "S'ha produït un error: El fitxer XML no conté cap cartera."
+
+msgid   "Export as encrypted"
+msgstr  "Exporta com a encriptada"
+
+msgid   "Failed to copy files"
+msgstr  "No s'han pogut copiar els fitxers"
+
+msgid   "Failed to open file"
+msgstr  "No s'ha pogut obrir el fitxer"
+
+msgid   "Failed to open file for writing"
+msgstr  "No s'ha pogut obrir el fitxer per a escritura"
+
+msgid   "File name"
+msgstr  "Nom del fitxer"
+
+msgid   "Folder '<b>%1</b>' already contains an entry '<b>%2</b>'.  Do you "
+        "wish to replace it?"
+msgstr  "La carpeta «<b>%1</b>» ya conté una entrada «<b>%2</b>». Voleu "
+        "substituir-la?"
+
+msgid   "Folders"
+msgstr  "Carpetes"
+
+msgid   "For use by kwalletd only"
+msgstr  "Per a ser utilisada només per kwalletd"
+
+msgid   "Force Closure"
+msgstr  "Força el tancament"
+
+msgid   "George Staikos"
+msgstr  "George Staikos"
+
+msgid   "Hide &Contents"
+msgstr  "Oculta els &continguts"
+
+msgid   "Ignore unsaved changes?"
+msgstr  "Voleu ignorar els canvis sense guardar?"
+
+msgid   "Isaac Clerencia"
+msgstr  "Isaac Clerencia"
+
+msgid   "KDE Wallet Management Tool"
+msgstr  "Eina per a la gestió de carteres de KDE"
+
+msgid   "KSqueezedTextLabel"
+msgstr  "KSqueezedTextLabel"
+
+msgid   "Key"
+msgstr  "Clau"
+
+msgid   "Maintainer, user interface refactoring"
+msgstr  "mantenidor, reestructuració de la interfície d'usuari"
+
+msgid   "Maps"
+msgstr  "Correspondències"
+
+msgid   "Michael Leupold"
+msgstr  "Michael Leupold"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid   "Your names"
+msgstr  "Empar Montoro Martín,Albert Astals Cid,Joan Maspons Ventura"
+
+msgid   "Name-Value Map: %1"
+msgstr  "Correspondència nom-valor: %1"
+
+msgid   "New Entry"
+msgstr  "Entrada nova"
+
+msgid   "New Folder"
+msgstr  "Carpeta nova"
+
+msgid   "New Wallet"
+msgstr  "Cartera nova"
+
+msgid   "No wallets open."
+msgstr  "No hi ha cap cartera oberta."
+
+msgid   "Open..."
+msgstr  "Obri..."
+
+msgid   "Original author and former maintainer"
+msgstr  "Autor original i mantenidor anterior"
+
+msgid   "Password: %1"
+msgstr  "Contrasenya: %1"
+
+msgid   "Passwords"
+msgstr  "Contrasenyes"
+
+msgid   "Please choose a name for the new entry:"
+msgstr  "Escolliu un nom per a l'entrada nova:"
+
+msgid   "Please choose a name for the new folder:"
+msgstr  "Escolliu un nom per a la carpeta nova:"
+
+msgid   "Please choose a name for the new wallet:"
+msgstr  "Escolliu un nom per a la cartera nova:"
+
+msgid   "Replace"
+msgstr  "Substitueix"
+
+msgid   "Replace &All"
+msgstr  "Substitueix-ho &tot"
+
+msgid   "Revoke Authorization"
+msgstr  "Revocació d'autorisació"
+
+msgid   "Search"
+msgstr  "Busca"
+
+msgid   "Select file"
+msgstr  "Seleccioneu el fitxer"
+
+msgid   "Show &Contents"
+msgstr  "Mostra els &continguts"
+
+msgid   "Show window on startup"
+msgstr  "Mostra la finestra en iniciar"
+
+msgid   "Skip A&ll"
+msgstr  "&Omet-ho tot"
+
+msgid   "Sorry, that entry already exists. Try again?"
+msgstr  "L'entrada ya existix. Voleu tornar-ho a intentar?"
+
+msgid   "Sorry, that folder name is in use. Try again?"
+msgstr  "Este nom de directori ya s'utilisa. Voleu tornar-ho a intentar?"
+
+msgid   "Sorry, that wallet already exists. Try a new name?"
+msgstr  "Esta cartera ya existix. Voleu provar un atre nom?"
+
+msgid   "The KDE Wallet system is not enabled. Do you want me to enable it? "
+        "If not, the KWalletManager will quit as it cannot work without "
+        "reading the wallets."
+msgstr  "El sistema de cartera de KDE no està habilitat. Voleu habilitar-lo? "
+        "Si no, KWalletManager es tancarà, ya que no pot treballar sense "
+        "llegir les carteres."
+
+msgid   "The contents of the current item has changed.\n"
+        "Do you want to save changes?"
+msgstr  "El contingut de l'element actual ha canviat.\n"
+        "Voleu guardar els canvis?"
+
+msgid   "The wallet is currently closed"
+msgstr  "La cartera està tancada actualment"
+
+msgid   "These applications are authorized to access this wallet:"
+msgstr  "Estes aplicacions estan autorisades a accedir a esta cartera:"
+
+msgid   "These applications are currently connected to this wallet:"
+msgstr  "Estes aplicacions estan connectades actualment amb esta cartera:"
+
+msgid   "Try Again"
+msgstr  "Torna-ho a intentar"
+
+msgid   "Try New"
+msgstr  "Intenta de nou"
+
+msgid   "Unable to access XML file '<b>%1</b>'."
+msgstr  "No s'ha pogut accedir en el fitxer XML «<b>%1</b>»."
+
+msgid   "Unable to access wallet '<b>%1</b>'."
+msgstr  "No s'ha pogut accedir a la cartera «<b>%1</b>»."
+
+msgid   "Unable to close wallet cleanly. It is probably in use by other "
+        "applications. Do you wish to force it closed?"
+msgstr  "No s'ha pogut tancar la cartera netament. Probablement atres "
+        "aplicacions l'estan utilisant. Voleu tancar-la forçadament?"
+
+msgid   "Unable to create temporary file for downloading '<b>%1</b>'."
+msgstr  "No s'ha pogut crear el fitxer temporal per a baixar «<b>%1</b>»."
+
+msgid   "Unable to delete the wallet. Error code was %1."
+msgstr  "No s'ha pogut suprimir la cartera. El codi d'error ha estat %1."
+
+msgid   "Unable to force the wallet closed. Error code was %1."
+msgstr  "No s'ha pogut tancar forçadament la cartera. El codi d'error ha "
+        "estat %1."
+
+msgid   "Unable to open the requested wallet."
+msgstr  "No s'ha pogut obrir la cartera demanada."
+
+msgid   "Unable to store to '<b>%1</b>'."
+msgstr  "No s'ha pogut almagasenar en «<b>%1</b>»."
+
+msgid   "Unknown"
+msgstr  "Desconegut"
+
+msgid   "Valentin Rusu"
+msgstr  "Valentin Rusu"
+
+msgid   "Value"
+msgstr  "Valor"
+
+msgid   "Wallet"
+msgstr  "Cartera"
+
+msgid   "Wallet Manager"
+msgstr  "Gestor de carteres"
+
+msgid   "Wallet named %1 already exists, Operation aborted"
+msgstr  "Ya existix una cartera anomenada %1. S'ha interromput l'operació"
+
+msgctxt "the 'kdewallet' is currently open (e.g. %1 will be replaced with "
+        "current wallet name)"
+msgid   "The '%1' wallet is currently open"
+msgstr  "La cartera «%1» està oberta actualment"
