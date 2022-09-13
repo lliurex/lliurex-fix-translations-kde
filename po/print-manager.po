@@ -13,7 +13,7 @@ msgstr  "Project-Id-Version: print-manager\n"
         "X-Generator: Lokalize 20.12.0\n"
 
 msgid   "%1 network printer via DNS-SD"
-msgstr  "%1 impressora de ret via DNS-SD"
+msgstr  "%1 impressora de xarxa via DNS-SD"
 
 msgid   "%2 (%1 Job)"
 msgid_plural    "%2 (%1 Jobs)"
@@ -256,7 +256,7 @@ msgstr  "Impressora remota CUPS via DNS-SD"
 
 msgctxt "@item"
 msgid   "Discovered Network Printers"
-msgstr  "Impressores de ret trobades"
+msgstr  "Impressores de xarxa trobades"
 
 msgctxt "@item"
 msgid   "Local Printers"
@@ -268,7 +268,7 @@ msgstr  "URI manual"
 
 msgctxt "@item"
 msgid   "Other Network Printers"
-msgstr  "Atres impressores de ret"
+msgstr  "Atres impressores de xarxa"
 
 msgctxt "@label kind of printer, could be driver name or \"local raw socket\""
 msgid   "Kind:"
@@ -463,7 +463,7 @@ msgid   "AppSocket/HP JetDirect"
 msgstr  "AppSocket/HP JetDirect"
 
 msgid   "AppSocket/JetDirect network printer via DNS-SD"
-msgstr  "Impressora de ret AppSocket/JetDirect via DNS-SD"
+msgstr  "Impressora de xarxa AppSocket/JetDirect via DNS-SD"
 
 msgid   "Are you sure you want to remove the class '%1'?"
 msgstr  "Segur que voleu eliminar la classe «%1»?"
@@ -661,7 +661,7 @@ msgid   "IPP %1"
 msgstr  "IPP %1"
 
 msgid   "IPP network printer via DNS-SD"
-msgstr  "Impressora de ret IPP via DNS-SD"
+msgstr  "Impressora de xarxa IPP via DNS-SD"
 
 msgid   "Idle"
 msgstr  "En espera"
@@ -682,7 +682,7 @@ msgid   "In use - '%1'"
 msgstr  "En ús - «%1»"
 
 msgid   "LPD network printer via DNS-SD"
-msgstr  "Impressora de ret LPD via DNS-SD"
+msgstr  "Impressora de xarxa LPD via DNS-SD"
 
 msgid   "LPD/LPR queue"
 msgstr  "Cua LPD/LPR"
@@ -725,7 +725,7 @@ msgid   "Name:"
 msgstr  "Nom:"
 
 msgid   "Network printer via DNS-SD"
-msgstr  "Impressora de ret via DNS-SD"
+msgstr  "Impressora de xarxa via DNS-SD"
 
 msgid   "No driver for this printer."
 msgstr  "No hi ha cap controlador per a esta impressora."

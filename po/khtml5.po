@@ -669,7 +669,7 @@ msgid   "Ne&ver store for this site"
 msgstr  "&Mai l'almagasenes per a este lloc"
 
 msgid   "Network Transmission"
-msgstr  "Transmissió de ret"
+msgstr  "Transmissió de xarxa"
 
 msgid   "New Web Shortcut"
 msgstr  "Drecera web nova"
@@ -1039,7 +1039,7 @@ msgstr  "Avís: Açò és un formulari segur, pero està intentant enviar les "
 msgid   "Warning: Your data is about to be transmitted across the network "
         "unencrypted.\n"
         "Are you sure you wish to continue?"
-msgstr  "Avís: Les vostres dades estan a punt d'enviar-se per la ret sense "
+msgstr  "Avís: Les vostres dades estan a punt d'enviar-se per la xarxa sense "
         "encriptar.\n"
         "Segur que voleu continuar?"
 

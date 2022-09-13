@@ -521,7 +521,7 @@ msgid   "Contains"
 msgstr  "Conté"
 
 msgid   "Control KGet over a Network or the Internet"
-msgstr  "Controla KGet des d'una ret o Internet"
+msgstr  "Controla KGet des d'una xarxa o Internet"
 
 msgid   "Copy URL to Clipboard"
 msgstr  "Copia l'URL al porta-retalls"
@@ -1365,10 +1365,10 @@ msgid   "Negative offset:"
 msgstr  "Desplaçament negatiu:"
 
 msgid   "Network"
-msgstr  "Ret"
+msgstr  "Xarxa"
 
 msgid   "Network and Downloads"
-msgstr  "Ret i baixades"
+msgstr  "Xarxa i baixades"
 
 msgid   "New Download"
 msgstr  "Baixada nova"
