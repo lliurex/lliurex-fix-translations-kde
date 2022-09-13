@@ -1,3 +1,9 @@
+lliurex-fix-translations-kde (0.6) lliurex22; urgency=medium
+
+  * Replace ret by xarxa 
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 13 Sep 2022 16:37:09 +0200
+
 lliurex-fix-translations-kde (0.5) lliurex22; urgency=medium
 
   * Sync with neon testing packages
