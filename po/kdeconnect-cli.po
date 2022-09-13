@@ -146,7 +146,7 @@ msgid   "Same as ping but you can set the message to display"
 msgstr  "Igual que ping, pero es pot definir el missatge que es mostrarà"
 
 msgid   "Search for devices in the network and re-establish connections"
-msgstr  "Busca dispositius a la ret i torna a establir les connexions"
+msgstr  "Busca dispositius a la xarxa i torna a establir les connexions"
 
 msgid   "Sends a ping to said device"
 msgstr  "Envia un ping a un dispositiu indicat"

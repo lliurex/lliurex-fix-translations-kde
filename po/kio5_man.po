@@ -95,7 +95,7 @@ msgid   "Multiple Manual Pages"
 msgstr  "Múltiples pàgines de manual"
 
 msgid   "Network Functions"
-msgstr  "Funcions de ret"
+msgstr  "Funcions de xarxa"
 
 msgid   "New"
 msgstr  "Nou"

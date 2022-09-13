@@ -6544,7 +6544,7 @@ msgstr  "ha fallat la consulta del nom"
 
 msgctxt "Socket error code NetFailure"
 msgid   "network failure occurred"
-msgstr  "ha ocorregut un fallo de la ret"
+msgstr  "ha ocorregut un fallo de la xarxa"
 
 msgctxt "Socket error code NoError"
 msgid   "no error"

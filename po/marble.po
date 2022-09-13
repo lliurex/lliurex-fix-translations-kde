@@ -456,7 +456,7 @@ msgid   "Navigation"
 msgstr  "Navegació"
 
 msgid   "Network plugins"
-msgstr  "Conectors de ret"
+msgstr  "Conectors de xarxa"
 
 msgid   "Niko Sams"
 msgstr  "Niko Sams"
