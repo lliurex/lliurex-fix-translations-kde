@@ -3731,7 +3731,7 @@ msgid   "Navigate"
 msgstr  "Navega"
 
 msgid   "Network"
-msgstr  "Ret"
+msgstr  "Xarxa"
 
 msgid   "New Filename: %1"
 msgstr  "Nom nou del fitxer: %1"
