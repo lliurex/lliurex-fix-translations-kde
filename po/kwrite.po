@@ -31,7 +31,7 @@ msgid   "&Tools"
 msgstr  "&Eines"
 
 msgid   "&View"
-msgstr  "&Visualisa"
+msgstr  "&Visualitza"
 
 msgid   "(c) 2000-2022 The Kate Authors"
 msgstr  "(c) 2000-2022 Els autors de Kate"

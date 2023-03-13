@@ -43,7 +43,7 @@ msgid   "&Stop Recording"
 msgstr  "Para l'enregi&strament"
 
 msgid   "&View"
-msgstr  "&Visualisa"
+msgstr  "&Visualitza"
 
 msgid   "&View Size"
 msgstr  "Mida de la &vista"
@@ -249,12 +249,12 @@ msgstr  "orestes@tsc.upc.edu,joanmaspons@gmail.com"
 
 msgid   "ESA Summer of Code in Space 2011 Project: Visualization of Satellite "
         "Orbits"
-msgstr  "Projecte ESA Summer of Code in Space 2011: Visualisació de les "
+msgstr  "Projecte ESA Summer of Code in Space 2011: Visualització de les "
         "òrbites dels satèlits"
 
 msgid   "ESA Summer of Code in Space 2012 Project: Visualization of planetary "
         "satellites"
-msgstr  "Projecte ESA Summer of Code in Space 2012: Visualisació dels "
+msgstr  "Projecte ESA Summer of Code in Space 2012: Visualització dels "
         "satèlits planetaris"
 
 msgid   "Eckhart Wörner"
@@ -727,7 +727,7 @@ msgid   "Various Suggestions & Testing"
 msgstr  "Diversos sugeriments i proves"
 
 msgid   "View"
-msgstr  "Visualisa"
+msgstr  "Visualitza"
 
 msgid   "WMS Support, Mobile, Performance"
 msgstr  "Implementació WMS, mòbil, rendiment"

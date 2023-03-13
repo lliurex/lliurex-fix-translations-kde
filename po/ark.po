@@ -354,7 +354,7 @@ msgstr  "Cliqueu per a obrir el fitxer seleccionat amb l'aplicació associada"
 
 msgctxt "@info:tooltip"
 msgid   "Click to preview the selected file"
-msgstr  "Cliqueu per a previsualisar el fitxer seleccionat"
+msgstr  "Cliqueu per a previsualitzar el fitxer seleccionat"
 
 msgctxt "@info:tooltip"
 msgid   "Click to see properties for archive"
@@ -400,7 +400,7 @@ msgstr  "Afig fitxers a %1"
 
 msgctxt "@title:window"
 msgid   "Cannot Preview File"
-msgstr  "No es pot previsualisar el fitxer"
+msgstr  "No es pot previsualitzar el fitxer"
 
 msgctxt "@title:window"
 msgid   "Corrupt archive"
@@ -1139,17 +1139,17 @@ msgid   "The following files could not be extracted:"
 msgstr  "No s'han pogut extreure els fitxers següents:"
 
 msgid   "The internal viewer cannot preview this file."
-msgstr  "El visor intern no pot previsualisar este fitxer."
+msgstr  "El visor intern no pot previsualitzar este fitxer."
 
 msgid   "The internal viewer cannot preview this type of file<nl/>(%1).<nl/"
         "><nl/>Do you want to try to view it as plain text?"
-msgstr  "El visor intern no pot previsualisar este tipus de fitxer<nl/>(%1)."
-        "<nl/><nl/>Voleu intentar visualisar-lo com a text?"
+msgstr  "El visor intern no pot previsualitzar este tipus de fitxer<nl/>(%1)."
+        "<nl/><nl/>Voleu intentar visualitzar-lo com a text?"
 
 msgid   "The internal viewer cannot preview this unknown type of file.<nl/"
         "><nl/>Do you want to try to view it as plain text?"
-msgstr  "El visor intern no pot previsualisar este tipus de fitxer desconegut."
-        "<nl/><nl/>Voleu intentar visualisar-lo com a text?"
+msgstr  "El visor intern no pot previsualitzar este tipus de fitxer desconegut."
+        "<nl/><nl/>Voleu intentar visualitzar-lo com a text?"
 
 msgid   "The plugin cannot be used because one or more required executables "
         "are missing. Check your installation."
