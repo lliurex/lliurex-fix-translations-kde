@@ -1153,7 +1153,7 @@ msgstr  "El visor intern no pot previsualisar este tipus de fitxer desconegut."
 
 msgid   "The plugin cannot be used because one or more required executables "
         "are missing. Check your installation."
-msgstr  "No s'ha pogut utilisar el conector perquè falta un executable o més "
+msgstr  "No s'ha pogut utilitzar el conector perquè falta un executable o més "
         "d'un. Comproveu la instalació."
 
 msgid   "The subfolder name may not contain the character '/'."
@@ -1208,7 +1208,7 @@ msgstr  "Unrar ha informat d'un archiu no RAR. La versió instalada d'Unrar "
 
 msgid   "Use the batch interface instead of the usual dialog. This option is "
         "implied if more than one url is specified."
-msgstr  "Utilisa la interfície per lots en lloc del diàlec habitual. Esta "
+msgstr  "Utilitza la interfície per lots en lloc del diàlec habitual. Esta "
         "opció és implícita si s'indica més d'un URL."
 
 msgid   "Vladyslav Batyrenko"

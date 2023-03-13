@@ -233,7 +233,7 @@ msgid   "Unlock Screen"
 msgstr  "Desbloqueja la pantalla"
 
 msgid   "Use your phone as a touchpad and keyboard"
-msgstr  "Utilisa el teléfon com un ratolí tàctil i teclat"
+msgstr  "Utilitza el teléfon com un ratolí tàctil i teclat"
 
 msgctxt "device name: low battery"
 msgid   "%1: Low Battery"

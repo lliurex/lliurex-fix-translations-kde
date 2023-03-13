@@ -406,7 +406,7 @@ msgstr  "Tracta tots els fitxers com a text"
 
 msgctxt "@label"
 msgid   "Use Git extended diff format"
-msgstr  "Utilisa el format ampliat «diff» de Git"
+msgstr  "Utilitza el format ampliat «diff» de Git"
 
 msgctxt "@label:button"
 msgid   "Add Patches"
@@ -765,10 +765,10 @@ msgid   "URLs"
 msgstr  "URL"
 
 msgid   "Use pull protocol to copy metadata."
-msgstr  "Utilisa el protocol de recuperació per a copiar les metadades."
+msgstr  "Utilitza el protocol de recuperació per a copiar les metadades."
 
 msgid   "Use uncompressed transfer."
-msgstr  "Utilisa la transferència sense comprimir."
+msgstr  "Utilitza la transferència sense comprimir."
 
 msgctxt "error message"
 msgid   "Error creating repository!"

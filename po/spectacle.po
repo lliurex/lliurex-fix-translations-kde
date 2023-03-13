@@ -388,7 +388,7 @@ msgid   "Escape"
 msgstr  "Escapada"
 
 msgid   "Last path used for \"save as\" action"
-msgstr  "Últim camí utilisat per l'acció «Anomena i guarda»"
+msgstr  "Últim camí utilitzat per l'acció «Anomena i guarda»"
 
 msgid   "Launch Spectacle"
 msgstr  "Inicia Spectacle"
@@ -586,20 +586,20 @@ msgid   "Current Screen Captured"
 msgstr  "S'ha capturat la pantalla actual"
 
 msgid   "The default filename used when saving"
-msgstr  "El nom de fitxer predeterminat utilisat en guardar"
+msgstr  "El nom de fitxer predeterminat utilitzat en guardar"
 
 msgctxt "The entire screen area was captured, heading"
 msgid   "Full Screen Captured"
 msgstr  "S'ha capturat la pantalla completa"
 
 msgid   "The last used copy mode"
-msgstr  "L'últim modo de còpia utilisat"
+msgstr  "L'últim modo de còpia utilitzat"
 
 msgid   "The last used region the user selected"
-msgstr  "L'última regió utilisada que l'usuari va seleccionar"
+msgstr  "L'última regió utilitzada que l'usuari va seleccionar"
 
 msgid   "The last used save mode"
-msgstr  "L'últim modo de guardada utilisat"
+msgstr  "L'últim modo de guardada utilitzat"
 
 msgid   "The path of the file saved last"
 msgstr  "El camí del últim fitxer guardat"
@@ -646,10 +646,10 @@ msgid   "Until Spectacle is closed"
 msgstr  "Fins que es tanque Spectacle"
 
 msgid   "Use last-used capture mode"
-msgstr  "Utilisa l'últim modo de captura emprat"
+msgstr  "Utilitza l'últim modo de captura emprat"
 
 msgid   "Use light background"
-msgstr  "Utilisa un fons clar"
+msgstr  "Utilitza un fons clar"
 
 msgid   "Wait for a click before taking screenshot. Invalidates delay"
 msgstr  "Espera un clic abans de prendre la captura de pantalla. Invalida el "
@@ -682,10 +682,10 @@ msgid   "Whether the window decorations are included in the screenshot"
 msgstr  "Si les decoracions de la finestra s'inclouen a la captura de pantalla"
 
 msgid   "Whether to show a magnifier in the region selection"
-msgstr  "Si s'ha d'utilisar una lupa a la selecció de la regió"
+msgstr  "Si s'ha d'utilitzar una lupa a la selecció de la regió"
 
 msgid   "Whether to use a light color mask in the region selection dialog"
-msgstr  "Si cal utilisar una màscara de color clar en el diàlec de selecció "
+msgstr  "Si cal utilitzar una màscara de color clar en el diàlec de selecció "
         "de la regió"
 
 msgid   "While Spectacle is running"
@@ -696,6 +696,6 @@ msgstr  "Finestra baix el cursor"
 
 msgid   "You can use the following placeholders in the filename, which will "
         "be replaced with actual text when the file is saved:<blockquote>"
-msgstr  "Podeu utilisar els següents marcadors de posició en el nom de "
+msgstr  "Podeu utilitzar els següents marcadors de posició en el nom de "
         "fitxer, els quals seran substituïts amb el text real quan es guarde "
         "el fitxer:<blockquote>"

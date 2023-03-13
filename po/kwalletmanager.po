@@ -225,7 +225,7 @@ msgid   "Folders"
 msgstr  "Carpetes"
 
 msgid   "For use by kwalletd only"
-msgstr  "Per a ser utilisada només per kwalletd"
+msgstr  "Per a ser utilitzada només per kwalletd"
 
 msgid   "Force Closure"
 msgstr  "Força el tancament"
@@ -328,7 +328,7 @@ msgid   "Sorry, that entry already exists. Try again?"
 msgstr  "L'entrada ya existix. Voleu tornar-ho a intentar?"
 
 msgid   "Sorry, that folder name is in use. Try again?"
-msgstr  "Este nom de directori ya s'utilisa. Voleu tornar-ho a intentar?"
+msgstr  "Este nom de directori ya s'utilitza. Voleu tornar-ho a intentar?"
 
 msgid   "Sorry, that wallet already exists. Try a new name?"
 msgstr  "Esta cartera ya existix. Voleu provar un atre nom?"
@@ -369,7 +369,7 @@ msgstr  "No s'ha pogut accedir a la cartera «<b>%1</b>»."
 msgid   "Unable to close wallet cleanly. It is probably in use by other "
         "applications. Do you wish to force it closed?"
 msgstr  "No s'ha pogut tancar la cartera netament. Probablement atres "
-        "aplicacions l'estan utilisant. Voleu tancar-la forçadament?"
+        "aplicacions l'estan utilitzant. Voleu tancar-la forçadament?"
 
 msgid   "Unable to create temporary file for downloading '<b>%1</b>'."
 msgstr  "No s'ha pogut crear el fitxer temporal per a baixar «<b>%1</b>»."

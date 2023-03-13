@@ -25,7 +25,7 @@ msgid   "Accessing device..."
 msgstr  "S'està accedint al dispositiu..."
 
 msgid   "Could not contact background service."
-msgstr  "No s'ha pogut contactar utilisant el servei en segon pla."
+msgstr  "No s'ha pogut contactar utilitzant el servei en segon pla."
 
 msgid   "Listing devices..."
 msgstr  "S'estan llistant els dispositius..."
