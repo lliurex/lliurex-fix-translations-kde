@@ -18,7 +18,7 @@ msgid   "Could not find the <command>%1</command> program on your system. "
         "using the environment variable <envar>PATH</envar>."
 msgstr  "No s'ha pogut trobar el programa <command>%1</command> en el "
         "sistema. Instaleu-lo si fos necessari, assegureu-vos que es pot "
-        "trobar utilisant la variable d'entorn <envar>PATH</envar>."
+        "trobar utilitzant la variable d'entorn <envar>PATH</envar>."
 
 msgctxt "@info"
 msgid   "No man page matching <resource>%1</resource> could be found.<nl/><nl/"

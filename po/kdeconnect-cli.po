@@ -117,7 +117,7 @@ msgid   "No device specified: Use -d <Device ID> or -n <Device Name> to "
         "View complete help with --help option"
 msgstr  "No s'ha especificat cap dispositiu: utiliseu -d <ID_de_dispositiu> o "
         "-n <Nom_del_dispositiu> per a especificar un dispositiu.\n"
-        "Els ID i noms dels dispositius es poden trobar utilisant «kdeconnect-"
+        "Els ID i noms dels dispositius es poden trobar utilitzant «kdeconnect-"
         "cli -l» \n"
         "Vejau tota l'ajuda amb l'opció --help"
 

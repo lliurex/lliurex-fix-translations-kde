@@ -103,7 +103,7 @@ msgid   "Twitter"
 msgstr  "Twitter"
 
 msgid   "Unable to authenticate using the provided username and password"
-msgstr  "No s'ha pogut autenticar utilisant el nom d'usuari i la contrasenya "
+msgstr  "No s'ha pogut autenticar utilitzant el nom d'usuari i la contrasenya "
         "proporcionats"
 
 msgid   "Unable to connect to Nextcloud at the given server URL. Please check "

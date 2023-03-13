@@ -180,7 +180,7 @@ msgstr  "Comença la numeració des de:"
 msgid   "The image will be saved in the PNG format, as the selected image "
         "type does not support saving 16 bit color images."
 msgstr  "La image es guardarà en el format PNG, atés que el tipus d'image "
-        "seleccionat no permet guardar imàgens amb color de 16 bits."
+        "seleccionat no permet guardar imàtgens amb color de 16 bits."
 
 msgid   "Writing the user manual"
 msgstr  "Escritura del manual de l'usuari"

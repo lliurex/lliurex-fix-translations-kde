@@ -439,7 +439,7 @@ msgstr  "No s'ha pogut afegir el sembrador web %1, ya forma part de la llista "
         "de sembradors web."
 
 msgid   "Cannot initialize libktorrent. Torrent support might not work."
-msgstr  "No s'ha pogut iniciar la «libktorrent». La utilisació dels fitxers "
+msgstr  "No s'ha pogut iniciar la «libktorrent». La utilització dels fitxers "
         "«torrent» podria no funcionar."
 
 msgid   "Cannot initialize port..."
@@ -1043,7 +1043,7 @@ msgid   "Identity"
 msgstr  "Identitat"
 
 msgid   "Images"
-msgstr  "Imàgens"
+msgstr  "Imàtgens"
 
 msgid   "Import &Links..."
 msgstr  "Importa els en&llaços..."
@@ -1122,7 +1122,7 @@ msgid   "KGet has been temporarily disabled as download manager for "
         ">Advanced and disable \"Use as download manager for Konqueror\"."
 msgstr  "S'ha desactivat temporalment KGet com a gestor de baixades de "
         "Konqueror. Si voleu desactivar-ho per sempre, aneu a «Configuració -"
-        "> Avançat» i inhabiliteu «Utilisa com a gestor de baixades de "
+        "> Avançat» i inhabiliteu «Utilitza com a gestor de baixades de "
         "Konqueror»."
 
 msgid   "KGet is downloading %1 file"
@@ -1961,7 +1961,7 @@ msgstr  "Prioritat"
 
 msgid   "The score of the peer. KTorrent uses this to determine who to upload "
         "to."
-msgstr  "La puntuació del parell, KTorrent l'utilisa per a determinar amb qui "
+msgstr  "La puntuació del parell, KTorrent l'utilitza per a determinar amb qui "
         "puja."
 
 msgid   "The signature could not be verified for %1. See transfer settings "
@@ -2149,25 +2149,25 @@ msgid   "Urs Wolfer"
 msgstr  "Urs Wolfer"
 
 msgid   "Use Drop Target"
-msgstr  "Utilisa una destinació a on deixar anar"
+msgstr  "Utilitza una destinació a on deixar anar"
 
 msgid   "Use KGet as Konqueror Download Manager"
-msgstr  "Utilisa KGet com a gestor de baixades de Konqueror"
+msgstr  "Utilitza KGet com a gestor de baixades de Konqueror"
 
 msgid   "Use Literal Name"
-msgstr  "Utilisa el nom literal"
+msgstr  "Utilitza el nom literal"
 
 msgid   "Use Normalized Name"
-msgstr  "Utilisa el nom normalisat"
+msgstr  "Utilitza el nom normalisat"
 
 msgid   "Use as download manager for Konqueror"
-msgstr  "Utilisa com a gestor de baixades per a Konqueror"
+msgstr  "Utilitza com a gestor de baixades per a Konqueror"
 
 msgid   "Use default folders for groups as suggestion"
-msgstr  "Utilisa les carpetes predeterminades com a sugeriment per als grups"
+msgstr  "Utilitza les carpetes predeterminades com a sugeriment per als grups"
 
 msgid   "Use search engines"
-msgstr  "Utilisa els motors de busca"
+msgstr  "Utilitza els motors de busca"
 
 msgid   "Used Mirrors:"
 msgstr  "Rèpliques emprades:"
@@ -2252,7 +2252,7 @@ msgid   "Whether we are interested in downloading from this peer"
 msgstr  "Si nosatres estem interessats a baixar dades des d'este parell"
 
 msgid   "Which client the peer is using"
-msgstr  "Quin client utilisa el parell"
+msgstr  "Quin client utilitza el parell"
 
 msgid   "Which files the chunk is located in"
 msgstr  "En quins fitxers està localisat el tros"
@@ -2276,7 +2276,7 @@ msgstr  "Podeu arrossegar els enllaços a baixar dins la finestra on deixar "
         "anar la destinació."
 
 msgid   "You can use wildcards for filtering."
-msgstr  "Podeu utilisar comodins per a filtrar."
+msgstr  "Podeu utilitzar comodins per a filtrar."
 
 msgid   "You have a download in progress from that location.\n"
         "Delete it and download again?"

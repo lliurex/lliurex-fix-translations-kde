@@ -31,7 +31,7 @@ msgid   "&Tools"
 msgstr  "&Eines"
 
 msgid   "&View"
-msgstr  "&Visualisa"
+msgstr  "&Visualitza"
 
 msgid   "(c) 2000-2022 The Kate Authors"
 msgstr  "(c) 2000-2022 Els autors de Kate"
@@ -262,7 +262,7 @@ msgstr  "El fitxer «%1» no s'ha pogut obrir, este no és un fitxer normal, és
 
 msgid   "The files/URLs opened by the application will be deleted after use"
 msgstr  "Els fitxers/URL oberts per l'aplicació se suprimiran després "
-        "d'utilisar-los"
+        "d'utilitzar-los"
 
 msgid   "This lists files which you have opened recently, and allows you to "
         "easily open them again."
@@ -287,7 +287,7 @@ msgid   "Use this command to open an existing document for editing"
 msgstr  "Utiliseu esta ordre per a obrir un document existent i editar-lo"
 
 msgid   "Use this command to show or hide the view's statusbar"
-msgstr  "Utilisa esta ordre per a mostrar o ocultar la vista de la barra "
+msgstr  "Utilitza esta ordre per a mostrar o ocultar la vista de la barra "
         "d'estat"
 
 msgid   "Waldo Bastian"

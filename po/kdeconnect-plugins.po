@@ -55,7 +55,7 @@ msgid   "Blacklisted"
 msgstr  "Es troba a la llista negra"
 
 msgid   "Camera pictures"
-msgstr  "Imàgens de la càmara"
+msgstr  "Imàtgens de la càmara"
 
 msgid   "Cancel last shutdown"
 msgstr  "Cancela l'última parada"
@@ -233,7 +233,7 @@ msgid   "Unlock Screen"
 msgstr  "Desbloqueja la pantalla"
 
 msgid   "Use your phone as a touchpad and keyboard"
-msgstr  "Utilisa el teléfon com un ratolí tàctil i teclat"
+msgstr  "Utilitza el teléfon com un ratolí tàctil i teclat"
 
 msgctxt "device name: low battery"
 msgid   "%1: Low Battery"

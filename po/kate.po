@@ -1,0 +1,1250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kate\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"PO-Revision-Date: 2022-04-02 12:24+0200\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca@valencia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 20.12.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: &\n"
+
+msgid " [read only]"
+msgstr " [només de lectura]"
+
+msgid "&Behavior"
+msgstr "&Comportament"
+
+msgid "&Close Document"
+msgstr "Tan&ca el document"
+
+msgid "&Color Scheme"
+msgstr "Esquema de &color"
+
+msgid "&Command Bar"
+msgstr "Barra &d'ordres"
+
+msgid "&Double click opens a new document"
+msgstr "El &doble clic obri un document nou"
+
+msgid "&Edit"
+msgstr "E&dita"
+
+msgid "&Expand tabs"
+msgstr "&Expandix les pestanyes"
+
+msgid "&File"
+msgstr "&Fitxer"
+
+msgid "&Ignore Changes"
+msgstr "&Ignora els canvis"
+
+msgid "&Limit number of tabs:"
+msgstr "&Límit del nombre de pestanyes:"
+
+msgid "&Load last used session"
+msgstr "&Carrega l'última sessió utilitzada"
+
+msgid "&Manage Sessions..."
+msgstr "&Gestiona les sessions..."
+
+msgid "&Manually choose a session"
+msgstr "Trieu &manualment una sessió"
+
+msgid "&Middle click closes a document"
+msgstr "El clic del &mig tanca un document"
+
+msgid "&New Window"
+msgstr "Finestra &nova"
+
+msgid "&Next Tab"
+msgstr "Pestanya se&güent"
+
+msgid "&Open"
+msgstr "&Obri"
+
+msgid "&Open Containing Folder"
+msgstr "&Obri la carpeta contenidora"
+
+msgid "&Other..."
+msgstr "&Atres..."
+
+msgid "&Plugins Handbook"
+msgstr "&Manual dels conectors"
+
+msgid "&Previous Tab"
+msgstr "&Pestanya anterior"
+
+msgid "&Quick Open"
+msgstr "Obertura &ràpida"
+
+msgid "&Quick Open Session"
+msgstr "Obri &ràpidament una sessió"
+
+msgid "&Reload"
+msgstr "&Actualitza"
+
+msgid "&Reload All"
+msgstr "&Actualitza-ho tot"
+
+msgid "&Rename..."
+msgstr "&Canvia el nom..."
+
+msgid "&Save Session"
+msgstr "Guarda la &sessió"
+
+msgid "&Settings"
+msgstr "Con&figuració"
+
+msgid "&Show close button"
+msgstr "Mo&stra el botó de tancament"
+
+msgid "&Start new session"
+msgstr "&Inicia una sessió nova"
+
+msgid "&Status Bar Items"
+msgstr "Elements de la barra d'e&stat"
+
+msgid "&Switch to output view upon message type:"
+msgstr "Canvia a la vista de la &eixida segons el tipus de missatge:"
+
+msgid "&Tabs"
+msgstr "Pes&tanyes"
+
+msgid "&Tools"
+msgstr "&Eines"
+
+msgid "&View"
+msgstr "Vi&sualitza"
+
+msgid "&View Difference"
+msgstr "&Visualitza la diferència"
+
+msgid "(c) 2000-2022 The Kate Authors"
+msgstr "(c) 2000-2022 Els autors de Kate"
+
+msgid ""
+"<p>The document '%1' has been modified, but not saved.</p><p>Do you want to "
+"save your changes or discard them?</p>"
+msgstr ""
+"<p>El document «%1» ha estat modificat, pero no guardat.</p><p>Voleu guardar "
+"els canvis o descartar-los?</p>"
+
+msgid ""
+"<p>You are attempting to open one or more large files:</p><ul>%1</ul><p>Do "
+"you want to proceed?</p><p><strong>Beware that kate may stop responding for "
+"some time when opening large files.</strong></p>"
+msgstr ""
+"<p>Esteu intentant obrir un o més fitxers grans:</p><ul>%1</ul><p>Voleu "
+"continuar?</p><p><strong>Cal tindre en compte que Kate podria parar-se "
+"durant una estona en obrir fitxers grans.</strong></p>"
+
+msgid ""
+"<qt>The documents listed below have changed on disk.<p>Select one or more at "
+"once, and press an action button until the list is empty.</p></qt>"
+msgstr ""
+"<qt>Els documents en la llista a continuació han canviat al disc."
+"<p>Seleccioneu-ne un o més a la vegada i premeu un botó d'acció fins que la "
+"llista estiga buida.</p></qt>"
+
+msgid ""
+"<qt>The following documents have been modified. Do you want to save them "
+"before closing?</qt>"
+msgstr ""
+"<qt>Els següents documents han estat modificats. Voleu guardar-los abans de "
+"tancar?</qt>"
+
+msgid ""
+"<qt>You are about to hide the sidebars. With hidden sidebars it is not "
+"possible to directly access the tool views with the mouse anymore, so if you "
+"need to access the sidebars again invoke <b>View &gt; Tool Views &gt; Show "
+"Sidebars</b> in the menu. It is still possible to show/hide the tool views "
+"with the assigned shortcuts.</qt>"
+msgstr ""
+"<qt>Ara s'ocultaran les barres laterals. Amb les barres laterals ocultes ya "
+"no és possible accedir directament a les vistes d'eina amb el ratolí, per "
+"tant, si us cal tornar a accedir a les barres laterals, utiliseu "
+"<b>Visualisa &gt; Vistes d'eina &gt; Mostra les barres laterals</b> al menú. "
+"Encara serà possible mostrar/ocultar les vistes d'eina amb les dreceres "
+"assignades.</qt>"
+
+msgctxt "@action:inmenu"
+msgid "Copy to Clipboard"
+msgstr "Copia al porta-retalls"
+
+msgctxt "@action:inmenu"
+msgid "Delete"
+msgstr "Suprimix"
+
+msgctxt "@action:inmenu"
+msgid "Rename..."
+msgstr "Canvia el nom..."
+
+msgctxt "@info"
+msgid "Error"
+msgstr "Error"
+
+msgctxt "@info"
+msgid "Info"
+msgstr "Informació"
+
+msgctxt "@info"
+msgid "Log"
+msgstr "Registre"
+
+msgctxt "@info"
+msgid "Warning"
+msgstr "Avís"
+
+msgid ""
+"A high limit can increase the window size, please enable 'Allow tab "
+"scrolling' to prevent it. Unlimited tabs are always scrollable."
+msgstr ""
+"Un límit alt pot fer augmentar la mida de la finestra. Activeu «Permet el "
+"desplaçament de les pestanyes» per a evitar-ho. Les pestanyes sense límit "
+"sempre es poden desplaçar."
+
+msgid "Alexander Neundorf"
+msgstr "Alexander Neundorf"
+
+msgid "All Projects"
+msgstr "Tots els projectes"
+
+msgid "All people who have contributed and I have forgotten to mention"
+msgstr "Tothom qui ha colaborat i als que m'he descuidat de mencionar"
+
+msgid "Allow tab scrolling"
+msgstr "Permet el desplaçament de les pestanyes"
+
+msgid "Anders Lund"
+msgstr "Anders Lund"
+
+msgid "Application Shutdown Behavior"
+msgstr "Comportament en parar l'aplicació"
+
+msgid "Application Startup Behavior"
+msgstr "Comportament en iniciar l'aplicació"
+
+msgid "Automatically save and restore:"
+msgstr "Guarda i restaura automàticament:"
+
+msgid "Behavior"
+msgstr "Comportament"
+
+msgid "Behavior Options"
+msgstr "Opcions de comportament"
+
+msgid "Bottom Sidebar"
+msgstr "Barra lateral inferior"
+
+msgid ""
+"Calculates the difference between the editor contents and the disk file for "
+"the selected document, and shows the difference with the default "
+"application. Requires diff(1)."
+msgstr ""
+"Calcula la diferència entre el contingut de l'editor i el fitxer al disc pel "
+"document seleccionat, i mostra la diferència amb l'aplicació predeterminada. "
+"Cal diff(1)."
+
+msgid "Carsten Niehaus"
+msgstr "Carsten Niehaus"
+
+msgid "Carsten Pfeiffer"
+msgstr "Carsten Pfeiffer"
+
+msgid "Charles Samuels"
+msgstr "Charles Samuels"
+
+msgid ""
+"Check this if you want all your views and frames restored each time you open "
+"Kate."
+msgstr ""
+"Marqueu-la si voleu que es restaurin totes les vistes i els marcs cada "
+"vegada que obriu Kate."
+
+msgid ""
+"Check this if you want document configuration like for example bookmarks to "
+"be saved past editor sessions. The configuration will be restored if the "
+"document has not changed when reopened."
+msgstr ""
+"Marqueu-la si voleu que la configuració del document, com per exemple els "
+"punts, es guarde després de les sessions de l'editor. La configuració es "
+"restaurarà si el document no ha canviat en tornar-lo a obrir."
+
+msgid "Chris Ross"
+msgstr "Chris Ross"
+
+msgid "Christian Gebauer"
+msgstr "Christian Gebauer"
+
+msgid "Christoph Cullmann"
+msgstr "Christoph Cullmann"
+
+msgid "Cl&ose Current View"
+msgstr "Tanca la vista &actual"
+
+msgid "Clear all messages"
+msgstr "Neteja tots els missatges"
+
+msgid "Click here to switch to the Quick Open view."
+msgstr "Cliqueu ací per a canviar a la vista Obertura ràpida."
+
+msgid "Clos&e All"
+msgstr "Tan&ca-ho tot"
+
+msgid "Close"
+msgstr "Tanca"
+
+msgid "Close Document"
+msgstr "Tanca el document"
+
+msgid "Close Inactive Views"
+msgstr "Tanca les vistes inactives"
+
+msgid "Close Kate entirely when the last file is closed"
+msgstr "Tanca totalment Kate quan es tanque l'últim fitxer"
+
+msgid "Close Orphaned"
+msgstr "Tanca els orfes"
+
+msgid "Close Other"
+msgstr "Tanca els atres"
+
+msgid "Close Other &Documents"
+msgstr "Tanca els atres &documents"
+
+msgid "Close Tab"
+msgstr "Tanca la pestanya"
+
+msgid "Close all documents"
+msgstr "Tanca tots els documents"
+
+msgid "Close all documents beside current one"
+msgstr "Tanca tots els documents excepte l'actual"
+
+msgid ""
+"Close all documents in the file list that could not be reopened, because "
+"they are not accessible anymore."
+msgstr ""
+"Tanca tots els documents de la llista de fitxers que no es poden tornar a "
+"obrir, perquè ya no són accessibles."
+
+msgid "Close all open documents."
+msgstr "Tanca tots els documents oberts."
+
+msgid "Close every view but the active one"
+msgstr "Tanca totes les vistes excepte l'activa"
+
+msgid "Close other open documents."
+msgstr "Tanca els atres documents oberts."
+
+msgid "Close the current document."
+msgstr "Tanca el document actual."
+
+msgid "Close the currently active split view"
+msgstr "Tanca la vista dividida actualment activa"
+
+msgid "Close this window"
+msgstr "Tanca esta finestra"
+
+msgid "Closing Aborted"
+msgstr "Tancament interromput"
+
+msgid "Compare"
+msgstr "Compara"
+
+msgid "Compare with active document"
+msgstr "Compara amb el document actiu"
+
+msgid "Configure"
+msgstr "Configura"
+
+msgid "Configure ..."
+msgstr "Configura..."
+
+msgid "Configure the application's keyboard shortcut assignments."
+msgstr "Configura les associacions de les dreceres de teclat de l'aplicació."
+
+msgid ""
+"Configure various aspects of this application and the editing component."
+msgstr "Configura diversos aspectes d'esta aplicació i del component d'edició."
+
+msgid "Configure which items should appear in the toolbar(s)."
+msgstr "Configura quins elements hauran d'aparéixer a les barres d'eines."
+
+msgid "Control view space splitting"
+msgstr "Control de la divisió de l'espai de la vista"
+
+msgid "Copies the file path of the current file to clipboard."
+msgstr "Copia el camí del fitxer del fitxer actual al porta-retalls."
+
+msgid "Copy File &Path"
+msgstr "Co&pia el camí del fitxer"
+
+msgid "Core Developer"
+msgstr "Desenvolupador principal"
+
+msgid ""
+"Could not save the document \n"
+"'%1'"
+msgstr ""
+"No s'ha pogut guardar el document \n"
+"«%1»"
+
+msgid "Could not start program"
+msgstr "No s'ha pogut iniciar el programa"
+
+msgid "Create a new Kate view (a new window with the same document list)."
+msgstr ""
+"Crea una vista nova de Kate (una finestra nova amb la mateixa llista de "
+"documents)."
+
+msgid "Create a new document"
+msgstr "Crea un document nou"
+
+msgid "Created"
+msgstr "Creat"
+
+msgid "Cristi Dumitrescu"
+msgstr "Cristi Dumitrescu"
+
+msgid "Current Project"
+msgstr "Projecte actual"
+
+msgid ""
+"Currently, there is one more document open. To see all open documents, "
+"switch to the Quick Open view by clicking here."
+msgid_plural ""
+"Currently, there are %1 more documents open. To see all open documents, "
+"switch to the Quick Open view by clicking here."
+msgstr[0] ""
+"Actualment, no hi ha obert cap document més. Per a vore tots els documents "
+"oberts, canvieu a la vista Obertura ràpida clicant ací."
+msgstr[1] ""
+"Actualment, hi ha oberts %1 documents. Per a vore tots els documents oberts, "
+"canvieu a la vista Obertura ràpida clicant ací."
+
+msgid "Daniel Naber"
+msgstr "Daniel Naber"
+
+msgid ""
+"Data you requested to be saved could not be written. Please choose how you "
+"want to proceed."
+msgstr ""
+"Les dades que heu demanat que es guarden no han pogut ser escrites. Escolliu "
+"com voleu procedir."
+
+msgid "Delete"
+msgstr "Elimina"
+
+msgid "Delete File?"
+msgstr "Voleu suprimir el fitxer?"
+
+msgid "Delete file"
+msgstr "Suprimix el fitxer"
+
+msgid "Delete unused meta-information after:"
+msgstr "Suprimix la meta-informació sense utilitzar després de:"
+
+msgid "Deleted"
+msgstr "Suprimit"
+
+msgid "Deletes the file belonging to the current document."
+msgstr "Suprimix el fitxer que pertany al document actual."
+
+msgid "Description"
+msgstr "Descripció"
+
+msgid "Designer of Kate's mascot 'Kate the Cyber Woodpecker'"
+msgstr "Dissenyador de la mascota de Kate «Kate, el picot cibernètic»"
+
+msgid "Developer"
+msgstr "Desenvolupador"
+
+msgid "Diff Output"
+msgstr "Eixida de «diff»"
+
+msgid "Do you really want to delete file \"%1\"?"
+msgstr "Segur que voleu suprimir el fitxer «%1»?"
+
+msgid "Documents"
+msgstr "Documents"
+
+msgid "Documents Modified on Disk"
+msgstr "Documents modificats al disc"
+
+msgid "Documents to open."
+msgstr "Documents que cal obrir."
+
+msgid "Dominik Haumann"
+msgstr "Dominik Haumann"
+
+msgid "Don't ask again"
+msgstr "No ho tornes a preguntar"
+
+msgid "Duplicate..."
+msgstr "Duplica..."
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "sps@sastia.com,antonibella5@yahoo.com,manutortosa@gmail.com"
+
+msgid "Elide tab text"
+msgstr "Elideix el text de les pestanyes"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Error Creating Diff"
+msgstr "S'ha produït un error en crear «diff»"
+
+msgid "File \"%1\" could not be deleted."
+msgstr "No s'ha pogut suprimir el fitxer «%1»."
+
+msgid "File \"%1\" could not be moved to \"%2\""
+msgstr "El fitxer «%1» no s'ha pogut moure a «%2»"
+
+msgid "Filename"
+msgstr "Nom del fitxer"
+
+msgid "Files"
+msgstr "Fitxers"
+
+msgid "Files with unsaved changes"
+msgstr "Fitxers amb canvis sense guardar"
+
+msgid "Filter Sessions"
+msgstr "Filtre de sessions"
+
+msgid "Focus Navigation Bar"
+msgstr "Focus a la barra de navegació"
+
+msgid "Focus the navigation bar"
+msgstr "Dona el focus a la barra de navegació"
+
+msgid "Focus the next tab."
+msgstr "Dona el focus a la pestanya següent."
+
+msgid "Focus the previous tab."
+msgstr "Dona el focus a la pestanya anterior."
+
+msgid "Folders can only be opened when the projects plugin is enabled"
+msgstr ""
+"Les carpetes només es poden obrir quan està habilitat el conector de "
+"projectes"
+
+msgid ""
+"Force start of a new kate instance (is ignored if start is used and another "
+"kate instance already has the given session opened), forced if no parameters "
+"and no URLs are given at all."
+msgstr ""
+"Força l'inici d'una nova instància de Kate (s'ignora si s'ha utilitzat "
+"«start» i una atra instància de Kate ya té oberta la sessió indicada), "
+"forçada si no se li proporcionen paràmetres ni els URL."
+
+msgid "Former Core Developer"
+msgstr "Antic desenvolupador principal"
+
+msgid "Gerald Senarclens de Grancy"
+msgstr "Gerald Senarclens de Grancy"
+
+msgid "Glen Parker"
+msgstr "Glen Parker"
+
+msgid "Go back"
+msgstr "Retrocedeix"
+
+msgid "Go forward"
+msgstr "Avança"
+
+msgid "Go to next edit location"
+msgstr "Va cap a la ubicació següent d'edició"
+
+msgid "Go to previous edit location"
+msgstr "Va cap a la ubicació anterior d'edició"
+
+msgid "Hamish Rodda"
+msgstr "Hamish Rodda"
+
+msgid ""
+"Here you can see all available Kate plugins. Those with a check mark are "
+"loaded, and will be loaded again the next time Kate is started."
+msgstr ""
+"Ací podeu vore tots els conectors de Kate disponibles. Aquells que tenen una "
+"marca de selecció estan carregats i es tornaran a carregar la pròxima vegada "
+"que inicieu Kate."
+
+msgid "Hide Inactive Views"
+msgstr "Oculta les vistes inactives"
+
+msgid "Hide every view but the active one"
+msgstr "Oculta totes les vistes excepte l'activa"
+
+msgid "Hide menu bar"
+msgstr "Oculta la barra de menús"
+
+msgid "Highlighting for Ferite"
+msgstr "Ressaltat per a Ferite"
+
+msgid "Highlighting for ILERPG"
+msgstr "Ressaltat per a ILERPG"
+
+msgid "Highlighting for LaTeX"
+msgstr "Ressaltat per a LaTeX"
+
+msgid "Highlighting for Makefiles, Python"
+msgstr "Ressaltat per als fitxers en Make, Python"
+
+msgid "Highlighting for Python"
+msgstr "Ressaltat per a Python"
+
+msgid "Highlighting for RPM Spec-Files, Perl, Diff and more"
+msgstr "Ressaltat per als fitxers «spec» dels RPM, Perl, diff i més"
+
+msgid "Highlighting for SQL"
+msgstr "Ressaltat per a SQL"
+
+msgid "Highlighting for Scheme"
+msgstr "Ressaltat per a Scheme"
+
+msgid "Highlighting for VHDL"
+msgstr "Ressaltat per a VHDL"
+
+msgid ""
+"If enabled, Kate will shutdown when the last file being edited is closed, "
+"otherwise a blank page will open so that you can start a new file."
+msgstr ""
+"Si està activada, Kate es tancarà quan es tanque l'últim fitxer en editar-"
+"se, d'atra manera, s'obrirà una pàgina en blanc per a començar un fitxer nou."
+
+msgid ""
+"If enabled, a modal dialog will be used to show all of the modified files. "
+"If not enabled, you will be individually asked what to do for each modified "
+"file only when that file's view receives focus."
+msgstr ""
+"Si està habilitada, s'utilitzarà un diàlec modal per a mostrar tots els "
+"fitxers modificats. Si no està habilitada, se us demanarà individualment què "
+"fer per a cada fitxer modificat només quan la vista d'este fitxer reba el "
+"focus."
+
+msgid ""
+"If using an already running kate instance, block until it exits, if URLs "
+"given to open."
+msgstr ""
+"Si s'està utilitzant una instància de Kate en execució, la bloqueja fins que "
+"eixiu, si se li han proporcionat els URL que cal obrir."
+
+msgid "Ignoring amount of white space changed, the files are identical."
+msgstr "S'ignoren els canvis en els espais en blanc, els fitxers són idèntics."
+
+msgid "Include &window configuration"
+msgstr "Inclou la &configuració de les finestres"
+
+msgid "Info"
+msgstr "Informació"
+
+msgid ""
+"Internal error: there is more than one instance open for a given session."
+msgstr ""
+"Error intern: hi ha més d'una instància oberta d'una sessió proporcionada."
+
+msgid "Jan Fritz"
+msgstr "Jan Fritz"
+
+msgid "Jochen Wilhemly"
+msgstr "Jochen Wilhemly"
+
+msgid "John Firebaugh"
+msgstr "John Firebaugh"
+
+msgid "Joseph Wenninger"
+msgstr "Joseph Wenninger"
+
+msgid "KWrite Author"
+msgstr "Autoria de KWrite"
+
+msgid "KWrite Undo History, Kspell integration"
+msgstr "Historial desfés de KWrite, integració amb el Kspell"
+
+msgid "KWrite XML Syntax highlighting support"
+msgstr "Implementació del ressaltat de la sintaxi XML a KWrite"
+
+msgid "KWrite port to KParts"
+msgstr "Port de KWrite a KParts"
+
+msgid "Kate"
+msgstr "Kate"
+
+msgid "Kate - Advanced Text Editor"
+msgstr "Kate: Editor avançat de text"
+
+msgid "Keep &meta-information past sessions"
+msgstr "Conserva la &meta-informació de les sessions antigues"
+
+msgid "Kåre Särs"
+msgstr "Kåre Särs"
+
+msgid "Last opened"
+msgstr "L'últim obert"
+
+msgid "Left Sidebar"
+msgstr "Barra lateral esquerra"
+
+msgid "Load files recursively?"
+msgstr "Carrego recursivament els fitxers?"
+
+msgid "Location"
+msgstr "Ubicació"
+
+msgid "Log"
+msgstr "Registre"
+
+msgid "Main Toolbar"
+msgstr "Barra d'eines principal"
+
+msgid "Maintainer"
+msgstr "Mantenidor"
+
+msgid "Make Non-Persistent"
+msgstr "Fes no persistent"
+
+msgid "Make Persistent"
+msgstr "Fes persistent"
+
+msgid "Make the next split view the active one."
+msgstr "Torna activa la vista dividida següent."
+
+msgid "Make the previous split view the active one."
+msgstr "Torna activa la vista dividida anterior."
+
+msgid "Manage Sessions"
+msgstr "Gestiona les sessions"
+
+msgid "Matt Newell"
+msgstr "Matt Newell"
+
+msgid "Matteo Merli"
+msgstr "Matteo Merli"
+
+msgid "Maximum number of entries in recent file list:"
+msgstr "Nombre màxim d'entrades a la llista de fitxers recents:"
+
+msgctxt "Menu entry Session->New Session"
+msgid "&New Session"
+msgstr "Sessió &nova"
+
+msgid "Michael Bartl"
+msgstr "Michael Bartl"
+
+msgid "Michael Koch"
+msgstr "Michael Koch"
+
+msgid "Michael McCallum"
+msgstr "Michael McCallum"
+
+msgid "Modified"
+msgstr "Modificat"
+
+msgid "Move Splitter Down"
+msgstr "Mou el divisor avall"
+
+msgid "Move Splitter Left"
+msgstr "Mou el divisor a l'esquerra"
+
+msgid "Move Splitter Right"
+msgstr "Mou el divisor a la dreta"
+
+msgid "Move Splitter Up"
+msgstr "Mou el divisor amunt"
+
+msgid "Move To"
+msgstr "Mou a"
+
+msgid "Move the splitter of the current view down"
+msgstr "Mou avall el divisor de la vista actual"
+
+msgid "Move the splitter of the current view to the left"
+msgstr "Mou cap a l'esquerra el divisor de la vista actual"
+
+msgid "Move the splitter of the current view to the right"
+msgstr "Mou cap a la dreta el divisor de la vista actual"
+
+msgid "Move the splitter of the current view up"
+msgstr "Mou amunt el divisor de la vista actual"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Sebastià Pla i Sanz,Antoni Bella,Manuel Tortosa Moreno"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Navigate to this column."
+msgstr "Navega fins esta columna."
+
+msgid "Navigate to this line."
+msgstr "Navega fins esta llínea."
+
+msgid "Never"
+msgstr "Mai"
+
+msgid "New Session"
+msgstr "Sessió nova"
+
+msgid "New file name"
+msgstr "Nom nou del fitxer"
+
+msgid "New file opened while trying to close Kate, closing aborted."
+msgstr ""
+"S'ha obert un fitxer nou mentre s'intentava tancar Kate, s'interromp el "
+"tancament."
+
+msgid "Newly-created unsaved files"
+msgstr "Fitxers sense guardar acabats de crear"
+
+msgid "Next Split View"
+msgstr "Vista dividida següent"
+
+msgid "Nick Roux"
+msgstr "Nick Roux"
+
+msgid ""
+"Only try to reuse kate instance with this pid (is ignored if start is used "
+"and another kate instance already has the given session opened)."
+msgstr ""
+"Intenta només utilitzar la instància de Kate amb este PID (s'ignora si s'ha "
+"utilitzat «start» i ya hi ha una atra instància de Kate amb la sessió "
+"indicada oberta)."
+
+msgid "Open File"
+msgstr "Obri un fitxer"
+
+msgid "Open W&ith"
+msgstr "O&bri amb"
+
+msgid "Open a form to quick open documents."
+msgstr "Obri un formulari per a obrir documents amb rapidesa."
+
+msgid "Open an existing document for editing"
+msgstr "Obri un document existent per a edició"
+
+msgid "Open as Template"
+msgstr "Obri com a plantilla"
+
+msgid ""
+"Open the current document using another application registered for its file "
+"type, or an application of your choice."
+msgstr ""
+"Obri el document actual utilitzant una atra aplicació registrada per este "
+"tipus de fitxer o una aplicació de la vostra elecció."
+
+msgid "Opening Large File"
+msgstr "Obertura d'un fitxer gran"
+
+msgid "Output"
+msgstr "Eixida"
+
+msgid "Overwrite selected documents, discarding disk changes"
+msgstr "Sobreescriu els documents seleccionats, descartant els canvis al disc"
+
+msgid "PHP Keyword/Datatype list"
+msgstr "Llista de les paraules clau/tipus de dades de PHP"
+
+msgid "Pablo Martín"
+msgstr "Pablo Martín"
+
+msgid "Patches and more"
+msgstr "Pedaços i més"
+
+msgid "Per Wigren"
+msgstr "Per Wigren"
+
+msgid "Plugin Manager"
+msgstr "Gestor dels conectors"
+
+msgid "Plugins"
+msgstr "Conectors"
+
+msgid "Previous Split View"
+msgstr "Vista dividida anterior"
+
+msgid "Properties"
+msgstr "Propietats"
+
+msgid "Python Plugin Developer"
+msgstr "Desenvolupador del conector Python"
+
+msgid "QA and Scripting"
+msgstr "QA i creació de scripts"
+
+msgid "Quick Open Search (configure via context menu)"
+msgstr "Busca amb obertura ràpida (es configura mitjançant el menú contextual)"
+
+msgid "Read the contents of stdin."
+msgstr "Llig el contingut de l'entrada estàndard."
+
+msgid "Reload all open documents."
+msgstr "Actualitza tots els documents oberts."
+
+msgid "Reload selected documents from disk"
+msgstr "Torna a carregar els documents seleccionats des del disc"
+
+msgid "Remove modified flag from selected documents"
+msgstr "Elimina l'indicador de modificació dels documents seleccionats"
+
+msgid "Rename file"
+msgstr "Canvia el nom del fitxer"
+
+msgid "Renames the file belonging to the current document."
+msgstr "Canvia el nom del fitxer que pertany al document actual."
+
+msgid "Reopening files from the last session..."
+msgstr "S'estan reobrint els fitxers de l'última sessió..."
+
+msgid "Restore"
+msgstr "Restaura"
+
+msgid "Right Sidebar"
+msgstr "Barra lateral dreta"
+
+msgid "Rocky Scaletta"
+msgstr "Rocky Scaletta"
+
+msgid "Roland Pabel"
+msgstr "Roland Pabel"
+
+msgid "Save A&ll"
+msgstr "Guarda-ho &tot"
+
+msgid "Save As"
+msgstr "Anomena i guarda"
+
+msgid "Save As (%1)"
+msgstr "Anomena i guarda (%1)"
+
+msgid "Save Documents"
+msgstr "Guarda els documents"
+
+msgid "Save Session &As..."
+msgstr "Guarda la sessió com &a..."
+
+msgid "Save all open, modified documents to disk."
+msgstr "Guarda al disc tots els documents oberts modificats."
+
+msgid "Scott Manson"
+msgstr "Scott Manson"
+
+msgid "Se&lect All"
+msgstr "Se&lecciona-ho tot"
+
+msgid "Sess&ions"
+msgstr "Sess&ions"
+
+msgid "Session"
+msgstr "Sessió"
+
+msgid ""
+"Session '%1' is already opened in another kate instance, change there "
+"instead of reopening?"
+msgstr ""
+"La sessió «%1» ya es troba oberta per una atra instància de Kate, voleu "
+"canviar-la en lloc de reobrir-la?"
+
+msgid "Session Chooser"
+msgstr "Selector de sessió"
+
+msgid "Session Elements"
+msgstr "Elements de la sessió"
+
+msgid "Session Management"
+msgstr "Gestió de les sessions"
+
+msgid "Session Name"
+msgstr "Nom de la sessió"
+
+msgid "Session Renaming"
+msgstr "Canviant de nom una sessió"
+
+msgid "Session name:"
+msgstr "Nom de la sessió:"
+
+msgid "Session will be deleted on dialog close"
+msgstr "La sessió s'eliminarà en tancar el diàlec"
+
+msgid "Set encoding for the file to open."
+msgstr "Establix la codificació del fitxer a obrir."
+
+msgid "Sho&w Path in Titlebar"
+msgstr "Mo&stra el camí a la barra de títol"
+
+msgid "Show %1"
+msgstr "Mostra %1"
+
+msgid "Show &Tabs"
+msgstr "Mostra les &pestanyes"
+
+msgid "Show Navigation Bar"
+msgstr "Mostra la barra de navegació"
+
+msgid "Show Side&bars"
+msgstr "Mostra les &barres laterals"
+
+msgid "Show the complete document path in the window caption"
+msgstr "Mostra el camí complet cap al document a la llegenda de la finestra"
+
+msgid "Shows a hint how to compare documents."
+msgstr "Mostra un consell quant a comparar documents."
+
+msgid "Simon Hausmann"
+msgstr "Simon Hausmann"
+
+msgid "Specify a name for this session"
+msgstr "Especifiqueu un nom per a esta sessió"
+
+msgid "Specify a new name for session: %1"
+msgstr "Especifiqueu un nom nou per a la sessió: %1"
+
+msgid "Split &Horizontal"
+msgstr "Dividix en &horisontal"
+
+msgid "Split Ve&rtical"
+msgstr "Dividix en &vertical"
+
+msgid "Split View"
+msgstr "Dividix la vista"
+
+msgid "Split the currently active view horizontally into two views."
+msgstr "Dividix horisontalment en dues parts la vista actualment activa."
+
+msgid "Split the currently active view vertically into two views."
+msgstr "Dividix verticalment en dues parts la vista actualment activa."
+
+msgid "Start Kate with a given session."
+msgstr "Inicia Kate amb una sessió indicada."
+
+msgid "Start Kate with a new anonymous session, implies '-n'."
+msgstr "Inicia Kate amb una sessió anònima nova, implica «-n»."
+
+msgid "Starting Up"
+msgstr "S'està iniciant"
+
+msgid "Status on Disk"
+msgstr "Estat al disc"
+
+msgid "Sven Brauch"
+msgstr "Sven Brauch"
+
+msgid "Testing, ..."
+msgstr "Proves..."
+
+msgid "The Editing Commands"
+msgstr "Les ordres d'edició"
+
+msgid "The cool buffersystem"
+msgstr "El fantàstic sistema de memòria intermèdia"
+
+msgid ""
+"The diff command failed. Please make sure that diff(1) is installed and in "
+"your PATH."
+msgstr ""
+"No s'ha pogut fer l'ordre «diff». Assegureu-vos que diff(1) està instalat i "
+"que es troba a la PATH."
+
+msgid ""
+"The file '%1' could not be opened: it is not a normal file, it is a folder."
+msgstr ""
+"El fitxer «%1» no s'ha pogut obrir, este no és un fitxer normal, és una "
+"carpeta."
+
+msgid "The files/URLs opened by the application will be deleted after use"
+msgstr ""
+"Els fitxers/URL oberts per l'aplicació se suprimiran després d'utilitzar-los"
+
+msgid "The selected program could not be started. Maybe it is not installed."
+msgstr ""
+"No s'ha pogut iniciar el programa seleccionat. Potser no està instalat."
+
+msgid ""
+"The session contains the list of open documents, recently opened files list, "
+"bookmarks, cursor position etc. When the session is loaded all elements are "
+"restored."
+msgstr ""
+"La sessió conté la llista dels documents oberts, la llista dels fitxers "
+"oberts recentment, els punts, la posició del cursor, etc. Quan es carregui "
+"la sessió, es restauraran tots els elements."
+
+msgid "The session could not be renamed to \"%1\". Failed to write to \"%2\""
+msgstr ""
+"La sessió no es pot canviar de nom a «%1». No s'ha pogut escriure a «%2»"
+
+msgctxt "The special case of 'Delete unused meta-information after'"
+msgid "(never)"
+msgstr "(mai)"
+
+msgctxt "The suffix of 'Delete unused meta-information after'"
+msgid " day"
+msgid_plural " days"
+msgstr[0] " dia"
+msgstr[1] " dies"
+
+msgid ""
+"The supposedly temporary file %1 has been modified. Do you want to delete it "
+"anyway?"
+msgstr ""
+"El suposat fitxer temporal %1 ha estat modificat. El voleu suprimir "
+"igualment?"
+
+msgid ""
+"There is already an existing session with your chosen name: %1\n"
+"Please choose a different one."
+msgstr ""
+"Ya hi ha una sessió existent amb el nom triat: %1\n"
+"Trieu-ne un de diferent."
+
+msgid ""
+"This lists files which you have opened recently, and allows you to easily "
+"open them again."
+msgstr ""
+"Mostra una llista dels fitxers oberts recentment i us permet obrir-los "
+"fàcilment una atra vegada."
+
+msgid "This shows help files for various available plugins."
+msgstr "Mostra els fitxers d'ajuda pels diferents conectors disponibles."
+
+msgid "This view may have unsaved work. Do you really want to close it?"
+msgstr ""
+"Esta vista pot tindre treballs sense guardar. Segur que voleu tancar-la?"
+
+msgid ""
+"This will close all open documents beside the current one. Are you sure you "
+"want to continue?"
+msgstr ""
+"Tancarà tots els documents oberts excepte l'actual. Segur que voleu "
+"continuar?"
+
+msgid "This will close all open documents. Are you sure you want to continue?"
+msgstr "Tancarà tots els documents oberts. Segur que voleu continuar?"
+
+msgid ""
+"This will hide the menu bar completely. You can show it again by typing %1."
+msgstr ""
+"Ocultarà completament la barra de menús. La podeu tornar a mostrar prement "
+"%1."
+
+msgid "To save a session, you must specify a name."
+msgstr "Per a guardar una sessió, heu d'especificar un nom."
+
+msgid "Toggle Orientation"
+msgstr "Alterna l'orientació"
+
+msgid "Toggles the orientation of the current split view"
+msgstr "Alterna l'orientació de la vista dividida actual"
+
+msgid "Tool &Views"
+msgstr "&Vistes d'eina"
+
+msgid "Top Sidebar"
+msgstr "Barra lateral superior"
+
+msgid "Type to filter..."
+msgstr "Filtre de tipus..."
+
+msgid "Tyson Tan"
+msgstr "Tyson Tan"
+
+msgid "Unlimited"
+msgstr "Sense límit"
+
+msgid "Untitled"
+msgstr "Sense títol"
+
+msgid "Use a separate &dialog for handling externally modified files"
+msgstr ""
+"Utilitza un &diàlec separat per a gestionar els fitxers modificats externament"
+
+msgid "Use the Tabbar context menu to compare two documents"
+msgstr ""
+"Utiliseu el menú contextual de la barra de pestanyes per a comparar dos "
+"documents"
+
+msgid "Use this command to show or hide the tabs for the views"
+msgstr "Utilitza esta ordre per a mostrar o ocultar les pestanyes a les vistes"
+
+msgid "Use this command to show or hide the view's statusbar"
+msgstr ""
+"Utilitza esta ordre per a mostrar o ocultar la vista de la barra d'estat"
+
+msgid "User Feedback"
+msgstr "Comentaris de l'usuari"
+
+msgid "Very nice help"
+msgstr "Ajuda molt valuosa"
+
+msgid "Waldo Bastian"
+msgstr "Waldo Bastian"
+
+msgid "Warning"
+msgstr "Avís"
+
+msgid "When checked double click opens a new document."
+msgstr "Si està activada, el doble clic obrirà un document nou."
+
+msgid "When checked each tab will display a close button."
+msgstr "Si està activada, cada pestanya mostrarà un botó de tancament."
+
+msgid "When checked middle click closes a document."
+msgstr "Si està activada, el clic del mig tancarà un document."
+
+msgid "When checked tab text might be elided if its too long."
+msgstr ""
+"Si està activada, el text de les pestanyes es pot elidir si és massa llarg."
+
+msgid "When checked tabs take as much size as possible."
+msgstr ""
+"Si està activada, les pestanyes prendran tota la mida que siga possible."
+
+msgid ""
+"When checked this will allow scrolling in tab bar when number of tabs are "
+"large."
+msgstr ""
+"Si està activada, açò permet desplaçar la barra de pestanyes quan el nombre "
+"de pestanyes és gran."
+
+msgid ""
+"You dropped the directory %1 into Kate. Do you want to load all files "
+"contained in it ?"
+msgstr ""
+"S'ha deixat anar %1 en Kate. Voleu carregar-hi tots els fitxers continguts?"
+
+msgid ""
+"You have unsaved changes. Do you want to apply the changes or discard them?"
+msgstr "Hi ha canvis sense guardar. Voleu aplicar els canvis o descartar-los?"
+
+msgid "Yury Lebedev"
+msgstr "Yury Lebedev"
+
+msgid "[urls...]"
+msgstr "[URL...]"
+
+msgid "column"
+msgstr "columna"
+
+msgid "encoding"
+msgstr "codificació"
+
+msgctxt "indicator for more documents"
+msgid "+%1"
+msgstr "+%1"
+
+msgid "line"
+msgstr "llínea"
+
+msgid "pid"
+msgstr "PID"
+
+msgid "session"
+msgstr "sessió"

@@ -43,7 +43,7 @@ msgid   "&Stop Recording"
 msgstr  "Para l'enregi&strament"
 
 msgid   "&View"
-msgstr  "&Visualisa"
+msgstr  "&Visualitza"
 
 msgid   "&View Size"
 msgstr  "Mida de la &vista"
@@ -249,12 +249,12 @@ msgstr  "orestes@tsc.upc.edu,joanmaspons@gmail.com"
 
 msgid   "ESA Summer of Code in Space 2011 Project: Visualization of Satellite "
         "Orbits"
-msgstr  "Projecte ESA Summer of Code in Space 2011: Visualisació de les "
+msgstr  "Projecte ESA Summer of Code in Space 2011: Visualització de les "
         "òrbites dels satèlits"
 
 msgid   "ESA Summer of Code in Space 2012 Project: Visualization of planetary "
         "satellites"
-msgstr  "Projecte ESA Summer of Code in Space 2012: Visualisació dels "
+msgstr  "Projecte ESA Summer of Code in Space 2012: Visualització dels "
         "satèlits planetaris"
 
 msgid   "Eckhart Wörner"
@@ -363,7 +363,7 @@ msgid   "Historical Maps"
 msgstr  "Mapes històrics"
 
 msgid   "Images *.jpg *.png"
-msgstr  "Imàgens *.jpg *.png"
+msgstr  "Imàtgens *.jpg *.png"
 
 msgid   "Inge Wallin"
 msgstr  "Inge Wallin"
@@ -436,7 +436,7 @@ msgid   "Matthias Welwarsky"
 msgstr  "Matthias Welwarsky"
 
 msgid   "Maximum space on the hard disk that can be used to store tiles."
-msgstr  "Espai màxim del disc dur que es pot utilisar per a almagasenar el "
+msgstr  "Espai màxim del disc dur que es pot utilitzar per a almagasenar el "
         "mosaic."
 
 msgid   "Mayank Madan"
@@ -647,7 +647,7 @@ msgid   "The external OpenStreetMap editor application"
 msgstr  "L'aplicació externa d'edició d'OpenStreetMap"
 
 msgid   "The general font used on the map."
-msgstr  "El tipus de lletra general utilisat en el mapa."
+msgstr  "El tipus de lletra general utilitzat en el mapa."
 
 msgid   "The last directory that was opened by File->Open."
 msgstr  "L'últim directori que s'ha obert via Fitxer->Obri."
@@ -659,7 +659,7 @@ msgid   "The location shown on application startup."
 msgstr  "L'emplaçament mostrat en iniciar l'aplicació."
 
 msgid   "The position tracking plugin used to determine the current location"
-msgstr  "El conector de seguiment de la posició utilisat per a determinar "
+msgstr  "El conector de seguiment de la posició utilitzat per a determinar "
         "l'emplaçament actual"
 
 msgid   "The quality at which a still map gets painted."
@@ -708,17 +708,17 @@ msgid   "Unnamed"
 msgstr  "Sense nom"
 
 msgid   "Use a different directory <directory> which contains map data."
-msgstr  "Utilisa un directori <directori> diferent que conté dades de mapa."
+msgstr  "Utilitza un directori <directori> diferent que conté dades de mapa."
 
 msgid   "Use map <id> (e.g. \"earth/openstreetmap/openstreetmap.dgml\")"
-msgstr  "Utilisa l'<ID> del mapa (p. ex. «earth/openstreetmap/openstreetmap."
+msgstr  "Utilitza l'<ID> del mapa (p. ex. «earth/openstreetmap/openstreetmap."
         "dgml»)"
 
 msgid   "Use the interface optimized for high resolutions"
-msgstr  "Utilisa la interfície optimisada per a resolucions altes"
+msgstr  "Utilitza la interfície optimisada per a resolucions altes"
 
 msgid   "Use the interface optimized for small screens"
-msgstr  "Utilisa la interfície optimisada per a pantalles xicotetes"
+msgstr  "Utilitza la interfície optimisada per a pantalles xicotetes"
 
 msgid   "Username for authorization."
 msgstr  "Nom d'usuari per a l'autorisació."
@@ -727,7 +727,7 @@ msgid   "Various Suggestions & Testing"
 msgstr  "Diversos sugeriments i proves"
 
 msgid   "View"
-msgstr  "Visualisa"
+msgstr  "Visualitza"
 
 msgid   "WMS Support, Mobile, Performance"
 msgstr  "Implementació WMS, mòbil, rendiment"

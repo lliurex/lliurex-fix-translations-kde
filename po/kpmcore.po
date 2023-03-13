@@ -58,7 +58,7 @@ msgstr  "No s'ha pogut afegir la partició <filename>%1</filename> al "
 
 msgctxt "@info/plain"
 msgid   "Move used PE in %1 on %2 to other available Physical Volumes"
-msgstr  "Mou el PE utilisat en %1 fins a %2 a atres volums físics disponibles"
+msgstr  "Mou el PE utilitzat en %1 fins a %2 a atres volums físics disponibles"
 
 msgctxt "@info/plain"
 msgid   "Remove Volume Group: <filename>%1</filename>"
@@ -632,7 +632,7 @@ msgstr  "Ha fallat la redimensió de la partició <filename>%1</filename> al "
 
 msgctxt "@info:progress"
 msgid   "Resizing a %1 file system using internal backend functions."
-msgstr  "S'està redimensionant un sistema de fitxers %1 utilisant les "
+msgstr  "S'està redimensionant un sistema de fitxers %1 utilitzant les "
         "funcions internes del dorsal."
 
 msgctxt "@info:progress"
@@ -714,7 +714,7 @@ msgstr  "L'origen i la destinació per a copiar no se superposen: no és "
 
 msgctxt "@info:progress"
 msgid   "Successfully resized file system using internal backend functions."
-msgstr  "El sistema de fitxers s'ha redimensionat amb èxit utilisant funcions "
+msgstr  "El sistema de fitxers s'ha redimensionat amb èxit utilitzant funcions "
         "internes del dorsal."
 
 msgctxt "@info:progress"
@@ -1184,7 +1184,7 @@ msgstr  "S'ha produït un error de gestió"
 
 msgctxt "@item"
 msgid   "Has been used outside of its design parameters in the past."
-msgstr  "En el passat s'ha utilisat per damunt dels seus paràmetres de "
+msgstr  "En el passat s'ha utilitzat per damunt dels seus paràmetres de "
         "disseny."
 
 msgctxt "@item"
@@ -1205,7 +1205,7 @@ msgstr  "S'ha interromput"
 
 msgctxt "@item"
 msgid   "Is being used outside of its design parameters right now."
-msgstr  "Ara s'està utilisant per damunt dels seus paràmetres de disseny."
+msgstr  "Ara s'està utilitzant per damunt dels seus paràmetres de disseny."
 
 msgctxt "@item"
 msgid   "Read error"
@@ -1663,7 +1663,7 @@ msgstr  "Un comptador de cicles d'inicis/parades de rotació."
 
 msgctxt "SMART attr description"
 msgid   "Amount of surge current used to spin up the drive."
-msgstr  "Quantitat de càrrega elèctrica inicial utilisada per a començar la "
+msgstr  "Quantitat de càrrega elèctrica inicial utilitzada per a començar la "
         "rotació de la unitat."
 
 msgctxt "SMART attr description"
@@ -1710,12 +1710,12 @@ msgstr  "Comptador d'errors resultants de vegades i vibracions induïts "
 
 msgctxt "SMART attr description"
 msgid   "Count of errors that could be recovered using hardware ECC."
-msgstr  "Comptador d'errors que es poden recuperar utilisant l'ECC del "
+msgstr  "Comptador d'errors que es poden recuperar utilitzant l'ECC del "
         "maquinari."
 
 msgctxt "SMART attr description"
 msgid   "Count of errors that could not be recovered using hardware ECC."
-msgstr  "Comptador d'errors que no es poden recuperar utilisant l'ECC del "
+msgstr  "Comptador d'errors que no es poden recuperar utilitzant l'ECC del "
         "maquinari."
 
 msgctxt "SMART attr description"
@@ -1916,7 +1916,7 @@ msgid   "Number of shutdowns without STANDBY IMMEDIATE as the last command "
         "(regardless of PLI activity using capacitor power). Normalized value "
         "is always 100."
 msgstr  "Nombre de sortides sense EN ESPERA IMMEDIATA com l'última ordre "
-        "(independentment de l'activitat PLI utilisant condensadors de "
+        "(independentment de l'activitat PLI utilitzant condensadors de "
         "potència). El valor normalisat sempre és 100."
 
 msgctxt "SMART attr description"
@@ -2230,11 +2230,11 @@ msgstr  "SSD Comptador de la pèrdua d'energia inesperada"
 
 msgctxt "SMART attr name"
 msgid   "SSD Unused Reserved Block Count Total"
-msgstr  "SSD Compte total dels blocs reservats sense utilisar"
+msgstr  "SSD Compte total dels blocs reservats sense utilitzar"
 
 msgctxt "SMART attr name"
 msgid   "SSD Used Reserved Block Count Total"
-msgstr  "SSD Compte total dels blocs reservats utilisats"
+msgstr  "SSD Compte total dels blocs reservats utilitzats"
 
 msgctxt "SMART attr name"
 msgid   "SSD Wear Leveling Count"
@@ -2242,7 +2242,7 @@ msgstr  "SSD Comptador de l'anivellament del desgast"
 
 msgctxt "SMART attr name"
 msgid   "SSD Wear Range Delta"
-msgstr  "SSD Utilisa l'interval delta"
+msgstr  "SSD Utilitza l'interval delta"
 
 msgctxt "SMART attr name"
 msgid   "Seek Error Rate"

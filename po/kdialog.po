@@ -98,7 +98,7 @@ msgid   "Dawit Alemayehu"
 msgstr  "Dawit Alemayehu"
 
 msgid   "Default entry to use for combobox, menu, color, and calendar"
-msgstr  "Entrada predeterminada per a utilisar als quadros combinats, menús, "
+msgstr  "Entrada predeterminada per a utilitzar als quadros combinats, menús, "
         "colors i calendaris"
 
 msgid   "Dialog geometry: [=][<width>{xX}<height>][{+-}<xoffset>{+-}<yoffset>]"
@@ -150,7 +150,7 @@ msgid   "KDialog"
 msgstr  "KDialog"
 
 msgid   "KDialog can be used to show nice dialog boxes from shell scripts"
-msgstr  "KDialog pot utilisar-se per a mostrar diàlecs agradables des de "
+msgstr  "KDialog pot utilitzar-se per a mostrar diàlecs agradables des de "
         "scripts de l'intérpret d'ordres"
 
 msgid   "Kai Uwe Broulik"
@@ -236,19 +236,19 @@ msgid   "Text Input Box dialog"
 msgstr  "Diàlec de quadro d'entrada de text"
 
 msgid   "Use text as Cancel button label"
-msgstr  "Utilisa el text com a etiqueta del botó Cancela"
+msgstr  "Utilitza el text com a etiqueta del botó Cancela"
 
 msgid   "Use text as Continue button label"
-msgstr  "Utilisa el text com a etiqueta del botó Continua"
+msgstr  "Utilitza el text com a etiqueta del botó Continua"
 
 msgid   "Use text as No button label"
-msgstr  "Utilisa el text com a etiqueta del botó No"
+msgstr  "Utilitza el text com a etiqueta del botó No"
 
 msgid   "Use text as OK button label"
-msgstr  "Utilisa el text com a etiqueta del botó D'acord"
+msgstr  "Utilitza el text com a etiqueta del botó D'acord"
 
 msgid   "Use text as Yes button label"
-msgstr  "Utilisa el text com a etiqueta del botó Sí"
+msgstr  "Utilitza el text com a etiqueta del botó Sí"
 
 msgid   "Warning message box with continue/cancel buttons"
 msgstr  "Quadro de missatge d'avís amb botons continua/cancela"

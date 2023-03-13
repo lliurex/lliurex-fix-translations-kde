@@ -331,7 +331,7 @@ msgid   "<para>Do you really want to create an MS-Dos partition table on "
 msgstr  "<para>Segur que voleu crear una taula de particions MS-DOS a "
         "<filename>%1</filename>?</para><para>Este dispositiu té més de 2^32 "
         "sectors. Açò és més gran que lo que accepta una taula de particions "
-        "de tipus MS-DOS, i per tant no es podrà utilisar tot el dispositiu.</"
+        "de tipus MS-DOS, i per tant no es podrà utilitzar tot el dispositiu.</"
         "para>"
 
 msgctxt "@info"
@@ -688,7 +688,7 @@ msgstr  "Temps total: %1"
 
 msgctxt "@info:progress"
 msgid   "Using backend plugin: %1 (%2)"
-msgstr  "S'utilisa el conector de dorsal: %1 (%2)"
+msgstr  "S'utilitza el conector de dorsal: %1 (%2)"
 
 msgctxt "@info:progress"
 msgid   "Waiting for operation to finish..."
@@ -1112,7 +1112,7 @@ msgstr  "UUID:"
 
 msgctxt "@label"
 msgid   "Use cylinder based alignment (Windows XP compatible)"
-msgstr  "Utilisa l'alineació basada en cilindres (compatible amb Windows XP)"
+msgstr  "Utilitza l'alineació basada en cilindres (compatible amb Windows XP)"
 
 msgctxt "@label SMART disk status"
 msgid   "BAD"
@@ -1268,7 +1268,7 @@ msgstr  "Total PE:"
 
 msgctxt "@label partition"
 msgid   "Used:"
-msgstr  "Utilisat:"
+msgstr  "Utilitzat:"
 
 msgctxt "@label partition capacity available"
 msgid   "Available:"
@@ -1276,7 +1276,7 @@ msgstr  "Disponible:"
 
 msgctxt "@label partition capacity used"
 msgid   "Used:"
-msgstr  "Utilisada:"
+msgstr  "Utilitzada:"
 
 msgctxt "@label partition state"
 msgid   "At least one logical partition is mounted."
@@ -2088,10 +2088,10 @@ msgid   "Update access times relative to modification"
 msgstr  "Actualisa les vegades que s'ha accedit en relació"
 
 msgid   "Use cylinder based alignment (Windows XP compatible)"
-msgstr  "Utilisa l'alineació basada en cilindres (compatible amb Windows XP)"
+msgstr  "Utilitza l'alineació basada en cilindres (compatible amb Windows XP)"
 
 msgid   "Used"
-msgstr  "Utilisat"
+msgstr  "Utilitzat"
 
 msgid   "Used Size: "
 msgstr  "Mida emprada:"
