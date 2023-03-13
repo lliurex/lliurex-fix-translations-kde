@@ -55,7 +55,7 @@ msgid   "Blacklisted"
 msgstr  "Es troba a la llista negra"
 
 msgid   "Camera pictures"
-msgstr  "Imàgens de la càmara"
+msgstr  "Imàtgens de la càmara"
 
 msgid   "Cancel last shutdown"
 msgstr  "Cancela l'última parada"

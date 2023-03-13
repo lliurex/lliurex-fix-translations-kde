@@ -3511,7 +3511,7 @@ msgstr  "Inici"
 
 msgctxt "KFile System Bookmarks"
 msgid   "Images"
-msgstr  "Imàgens"
+msgstr  "Imàtgens"
 
 msgctxt "KFile System Bookmarks"
 msgid   "Modified Today"
@@ -3531,7 +3531,7 @@ msgstr  "Xarxa"
 
 msgctxt "KFile System Bookmarks"
 msgid   "Pictures"
-msgstr  "Imàgens"
+msgstr  "Imàtgens"
 
 msgctxt "KFile System Bookmarks"
 msgid   "Recent Files"

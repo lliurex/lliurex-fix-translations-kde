@@ -1043,7 +1043,7 @@ msgid   "Identity"
 msgstr  "Identitat"
 
 msgid   "Images"
-msgstr  "Imàgens"
+msgstr  "Imàtgens"
 
 msgid   "Import &Links..."
 msgstr  "Importa els en&llaços..."

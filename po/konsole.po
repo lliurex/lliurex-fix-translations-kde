@@ -1081,7 +1081,7 @@ msgstr  "Nom del perfil"
 
 msgctxt "@label:textbox Filter in file open dialog"
 msgid   "Supported Images"
-msgstr  "Imàgens acceptades"
+msgstr  "Imàtgens acceptades"
 
 msgctxt "@label:textbox Unit of scrollback"
 msgid   " line"

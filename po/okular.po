@@ -2102,7 +2102,7 @@ msgid   "Image [%1x%2] saved to %3 file."
 msgstr  "La image [%1x%2] s'ha guardat al fitxer %3."
 
 msgid   "Images (*.png *.jpeg)"
-msgstr  "Imàgens (*.png *.jpeg)"
+msgstr  "Imàtgens (*.png *.jpeg)"
 
 msgid   "Importing PS file as PDF (this may take a while)..."
 msgstr  "S'està important el fitxer PS com a PDF (pot tardar una estona)..."

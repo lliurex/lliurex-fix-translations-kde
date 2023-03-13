@@ -463,7 +463,7 @@ msgstr  "Una atra aplicació..."
 
 msgctxt "Placeholder is filename"
 msgid   "A screenshot was saved as '%1' to your Pictures folder."
-msgstr  "S'ha guardat una captura de pantalla com a «%1» a la carpeta Imàgens."
+msgstr  "S'ha guardat una captura de pantalla com a «%1» a la carpeta Imàtgens."
 
 msgid   "Press screenshot key to:"
 msgstr  "Prémer una tecla de captura de pantalla per a:"

@@ -1062,7 +1062,7 @@ msgid   "Aleutian Islands"
 msgstr  "Illes Aleutianes"
 
 msgid   "All Pictures"
-msgstr  "Totes les imàgens"
+msgstr  "Totes les imàtgens"
 
 msgid   "All Supported Files"
 msgstr  "Tots els fitxers admesos"

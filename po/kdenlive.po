@@ -307,7 +307,7 @@ msgstr  "1 (mono)"
 msgid   "1 image found"
 msgid_plural    "%1 images found"
 msgstr[0]       "S'ha trobat 1 image"
-msgstr[1]       "S'han trobat %1 imàgens"
+msgstr[1]       "S'han trobat %1 imàtgens"
 
 msgid   "1,2,3,4,5,6,7,8,9,10,11,12,13,1,15,16"
 msgstr  "1,2,3,4,5,6,7,8,9,10,11,12,13,1,15,16"
@@ -539,7 +539,7 @@ msgstr  "<li>Falta un mòdul del MLT: <b>kdenlivetitle</b><br/>requerit per a "
 msgid   "<li>Missing MLT module: <b>qimage</b> or <b>pixbuf</b><br/>required "
         "for images and titles</li>"
 msgstr  "<li>Falta un mòdul del MLT: <b>qimage</b> o <b>pixbuf</b><br/"
-        ">requerit per a les imàgens i els títols</li>"
+        ">requerit per a les imàtgens i els títols</li>"
 
 msgid   "<li>Missing MLT module: <b>sdl</b> or <b>rtaudio</b><br/>required "
         "for audio output</li>"
@@ -826,7 +826,7 @@ msgstr  "Afig una carpeta a la biblioteca"
 
 msgctxt "@title:window"
 msgid   "Add Image Sequence"
-msgstr  "Afig una seqüència d'imàgens"
+msgstr  "Afig una seqüència d'imàtgens"
 
 msgctxt "@title:window"
 msgid   "Archive Project"
@@ -1095,7 +1095,7 @@ msgid   "Add Image"
 msgstr  "Afig una image"
 
 msgid   "Add Image Sequence…"
-msgstr  "Afig una seqüència d'imàgens…"
+msgstr  "Afig una seqüència d'imàtgens…"
 
 msgid   "Add Marker"
 msgstr  "Afig un marcador"
@@ -1370,7 +1370,7 @@ msgid   "All Frames"
 msgstr  "Tots els fotogrames"
 
 msgid   "All Images"
-msgstr  "Totes les imàgens"
+msgstr  "Totes les imàtgens"
 
 msgid   "All Projects"
 msgstr  "Tots els projectes"
@@ -1749,7 +1749,7 @@ msgid   "Automatically import all streams in multi stream clips"
 msgstr  "Importa automàticament tots els fluxos en els clips multiflux"
 
 msgid   "Automatically import image sequences"
-msgstr  "Importa automàticament les seqüències d'imàgens"
+msgstr  "Importa automàticament les seqüències d'imàtgens"
 
 msgid   "Autoscroll while playing"
 msgstr  "Desplaçament automàtic durant la reproducció"
@@ -2330,7 +2330,7 @@ msgstr  "Personalisada"
 
 msgctxt "Category Name"
 msgid   "Images sequence"
-msgstr  "Seqüència d'imàgens"
+msgstr  "Seqüència d'imàtgens"
 
 msgid   "Center"
 msgstr  "Centre"
@@ -2790,7 +2790,7 @@ msgid   "Convert alpha or luma values below this level as opaque and above "
         "images."
 msgstr  "Convertix els valors de l'alfa o la luma per davall d'este nivell "
         "com a opacs i per damunt d'este nivell com a transparents. Açò és "
-        "útil principalment amb les imàgens luma de cortineta."
+        "útil principalment amb les imàtgens luma de cortineta."
 
 msgid   "Convert to"
 msgstr  "Convertix a"
@@ -3604,7 +3604,7 @@ msgstr  "Voleu <a href=\"#projectmonitor\">mostrar el monitor del projecte </"
 
 msgid   "Do you want to embed Images into this TitleDocument?\n"
         "This is most needed for sharing Titles."
-msgstr  "Voleu incrustar les imàgens en este document de títol?\n"
+msgstr  "Voleu incrustar les imàtgens en este document de títol?\n"
         "Açò és molt necessari per a compartir títols."
 
 msgid   "Dock Area Orientation"
@@ -4591,7 +4591,7 @@ msgid   "G: "
 msgstr  "G: "
 
 msgid   "GOP = Group of Pictures"
-msgstr  "GDI = Grup d'imàgens («GOP = Group of Pictures», en anglés)"
+msgstr  "GDI = Grup d'imàtgens («GOP = Group of Pictures», en anglés)"
 
 msgid   "GOP:"
 msgstr  "GDI:"
@@ -4668,7 +4668,7 @@ msgid   "Generate Script"
 msgstr  "Genera un script"
 
 msgid   "Generate for images larger than"
-msgstr  "Genera'n per a les imàgens més grans que"
+msgstr  "Genera'n per a les imàtgens més grans que"
 
 msgid   "Generate for videos larger than"
 msgstr  "Genera'n per als vídeos més grans que"
@@ -4679,7 +4679,7 @@ msgstr  "Genera fotogrames amb un comptador i un to sincronisat. El comptador "
         "pot anar amunt o avall."
 
 msgid   "Generates test card lookalikes"
-msgstr  "Genera imàgens de targetes de prova"
+msgstr  "Genera imàtgens de targetes de prova"
 
 msgid   "Generating a 60 seconds test video %1"
 msgstr  "S'està generant un vídeo de prova de 60 segons %1"
@@ -4976,7 +4976,7 @@ msgid   "Image"
 msgstr  "Image"
 
 msgid   "Image Clips"
-msgstr  "Clips d'imàgens"
+msgstr  "Clips d'imàtgens"
 
 msgctxt "Image Fade In Effect Name"
 msgid   "Fade in"
@@ -4994,7 +4994,7 @@ msgid   "Image Selection Method"
 msgstr  "Mètode de selecció de la image"
 
 msgid   "Image Sequence"
-msgstr  "Seqüència d'imàgens"
+msgstr  "Seqüència d'imàtgens"
 
 msgid   "Image adjustment"
 msgstr  "Ajustament de la image"
@@ -5006,13 +5006,13 @@ msgid   "Image clip"
 msgstr  "Clip d'image"
 
 msgid   "Image clips"
-msgstr  "Clips d'imàgens"
+msgstr  "Clips d'imàtgens"
 
 msgid   "Image clips:"
-msgstr  "Clips d'imàgens:"
+msgstr  "Clips d'imàtgens:"
 
 msgid   "Image count:"
-msgstr  "Nombre d'imàgens:"
+msgstr  "Nombre d'imàtgens:"
 
 msgid   "Image dimension smaller than 8 pixels.\n"
         "This is not correctly supported by our video framework."
@@ -5023,7 +5023,7 @@ msgid   "Image duration:"
 msgstr  "Duració de la image:"
 
 msgid   "Image editing:"
-msgstr  "Edició d'imàgens:"
+msgstr  "Edició d'imàtgens:"
 
 msgid   "Image or video resource"
 msgstr  "Recurs d'image o vídeo"
@@ -5032,7 +5032,7 @@ msgid   "Image preview"
 msgstr  "Vista prèvia de la image"
 
 msgid   "Image sequence:"
-msgstr  "Seqüència d'imàgens:"
+msgstr  "Seqüència d'imàtgens:"
 
 msgid   "Image size"
 msgstr  "Mida de la image"
@@ -5047,7 +5047,7 @@ msgid   "Image type:"
 msgstr  "Tipus d'image:"
 
 msgid   "Images"
-msgstr  "Imàgens"
+msgstr  "Imàtgens"
 
 msgid   "Import"
 msgstr  "Importa"
@@ -5071,7 +5071,7 @@ msgid   "Import guides"
 msgstr  "Importa guies"
 
 msgid   "Import image sequence"
-msgstr  "Importa una seqüència d'imàgens"
+msgstr  "Importa una seqüència d'imàtgens"
 
 msgid   "Import keyframes from clipboard"
 msgstr  "Importa fotogrames clau des del porta-retalls"
@@ -6968,7 +6968,7 @@ msgstr  "Indiqueu l'aplicació predeterminada per a obrir fitxers d'àudio en "
 
 msgid   "Please set a default application to open images in the Settings "
         "dialog"
-msgstr  "Indiqueu l'aplicació predeterminada per a obrir imàgens en el diàlec "
+msgstr  "Indiqueu l'aplicació predeterminada per a obrir imàtgens en el diàlec "
         "de configuració"
 
 msgid   "Please set your default video profile"
@@ -8008,7 +8008,7 @@ msgid   "Select default audio editor"
 msgstr  "Selecciona l'editor d'àudio predeterminat"
 
 msgid   "Select default image editor"
-msgstr  "Selecciona l'editor d'imàgens predeterminat"
+msgstr  "Selecciona l'editor d'imàtgens predeterminat"
 
 msgid   "Select default preview profile"
 msgstr  "Selecciona el perfil de vista prèvia per defecte"
@@ -8589,7 +8589,7 @@ msgid   "Stereo (2 channels)"
 msgstr  "Estèreo (2 canals)"
 
 msgid   "Stereo and Binaural Images"
-msgstr  "Imàgens estèreos i binaurals"
+msgstr  "Imàtgens estèreos i binaurals"
 
 msgid   "Stereo to mono"
 msgstr  "Estèreo a mono"

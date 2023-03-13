@@ -363,7 +363,7 @@ msgid   "Historical Maps"
 msgstr  "Mapes històrics"
 
 msgid   "Images *.jpg *.png"
-msgstr  "Imàgens *.jpg *.png"
+msgstr  "Imàtgens *.jpg *.png"
 
 msgid   "Inge Wallin"
 msgstr  "Inge Wallin"

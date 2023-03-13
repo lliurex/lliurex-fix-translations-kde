@@ -791,7 +791,7 @@ msgid   "Image URL:"
 msgstr  "URL de la image:"
 
 msgid   "Images (%1)"
-msgstr  "Imàgens (%1)"
+msgstr  "Imàtgens (%1)"
 
 msgid   "Jr."
 msgstr  "Jr."
